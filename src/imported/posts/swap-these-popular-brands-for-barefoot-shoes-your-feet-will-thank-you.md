@@ -88,3 +88,24 @@ translatedFrom: en
 <p>yo también amo <a href="/best-barefoot-hiking-boots-zero-drop-flexible/#vivobarefoot-tracker">Botas de montaña Tracker de Vivobarefoot.</a> En general, los zapatos Vivobarefoot se ajustan a la talla y al ancho medio. No son ideales para personas con pies gruesos y de gran volumen.</p>
 <p class="has-text-align-center"><a href="/best-barefoot-hiking-boots-zero-drop-flexible/">¡Consulta mi artículo completo sobre botas y zapatos de montaña para conocer más opciones!</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Cambie estas marcas populares para zapatos de barefoot – ¡Sus pies le darán" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Cambie estas marcas populares para zapatos de barefoot – ¡Sus pies le darán, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

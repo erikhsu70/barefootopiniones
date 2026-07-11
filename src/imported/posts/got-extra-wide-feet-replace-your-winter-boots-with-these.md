@@ -104,3 +104,16 @@ translatedFrom: en
 <p>Estas botas me quedan bastante amplias e incluso con el grueso forro de lana sigo usando mi talla de bota habitual. ¡Pero son tan cómodos y fáciles de usar! La puntera de goma te protegerá de los desgastes y el cuero resistente al agua te mantendrá seco. Son una excelente opción para todos los días.</p>
 <p class="has-text-align-center"><a href="/new-shapen-barefoot-boots-for-fall-2023/">Lea mi revisión completa de Shapen barefoot Fall aquí para conocer todos los detalles.</a> </p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para valorar bien "¿Tienes pies extra anchos? Reemplaza tus botas de invierno con estas" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar ¿Tienes pies extra anchos? Reemplaza tus botas de invierno con estas, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

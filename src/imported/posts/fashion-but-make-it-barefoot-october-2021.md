@@ -92,3 +92,16 @@ translatedFrom: en
 <p>¡Feliz Halloween! <a href="https://www.instagram.com/explore/tags/butmakeitbarefoot/">#PeroHazloDescalzo</a> 🎃<br/><br/>¡Etiquétame con tus disfraces de Halloween con Zapatos barefoot o sin zapatos y los compartiré en mis historias este fin de semana!<br/><br/>estoy usando <a href="http://www.shapenbarefoot.com">Shapen barefoot</a> Sandalias de amapola. Puedes usar código <code><strong></strong></code> para obtener un 5% de descuento en el sitio web de Shapen. También los vendemos en ! <a href="/shapen-review-barefoot-dress-shoes-women/">Puedes leer mi reseña completa de los elegantes Zapatos barefoot de Shapen aquí.</a><br/><br/>¡Manténgase a salvo y diviértase!</p>
 <p class="has-text-align-center"><a href="https://www.instagram.com/p/CVoUapJJpuR/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – Octubre 2021" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

@@ -83,3 +83,16 @@ translatedFrom: en
 <p>Samantha es escritora, investigadora y asistente ejecutiva de Barefoot Opiniones y ama de casa de cinco pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Reseña de Mocasines Terrestres – Zapatos de barefoot ¡Usted puede hacerse!" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Reseña de Mocasines Terrestres – Zapatos de barefoot ¡Usted puede hacerse!, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

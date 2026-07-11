@@ -60,3 +60,16 @@ translatedFrom: en
 <p>Y el problema del patrón de no ejercer suficiente presión debajo de la punta del pie durante el ciclo de la marcha también tenía mucho sentido dado lo que me dolía. Me fui con algunas ideas muy prácticas y estoy emocionado de ver a dónde me lleva. gracias <a href="https://gaithappens.com/?gh=1">Gait Happens</a>!</p>
 <p>Gait Happens ofrece consultas virtuales y consultas en persona a través de sus prácticas locales: Total Health Solutions y Kinetic Chiropractic, ambas en Colorado.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Conclusiones De un Análisis de Gait – Cómo moverse Sin Dolor" sea mas util, lo importante es convertir la idea principal en criterios practicos: que mirar, para quien tiene sentido y que errores evitar.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Conclusiones De un Análisis de Gait – Cómo moverse Sin Dolor, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

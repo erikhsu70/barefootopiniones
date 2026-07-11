@@ -75,3 +75,24 @@ translatedFrom: en
 <p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Groundies Palermo: zapato de vestir barefoot para hombre" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Groundies Palermo: zapato de vestir barefoot para hombre, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

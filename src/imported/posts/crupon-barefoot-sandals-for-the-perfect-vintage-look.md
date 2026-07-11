@@ -78,3 +78,24 @@ translatedFrom: en
 <p>Si llevas algún tiempo aquí, sabrás que me encanta combinar la salud de los pies con mis otras pasiones: apoyar a las pequeñas empresas, la fabricación sostenible y el buen estilo. ¡Crupon es una unión de todas estas cosas!</p>
 <p>Dimitar y Yana están encantados de poder ofrecernos su artesanía entre la multitud de Zapatos barefoot, y nosotros estamos encantados de tenerlos. </p>
 
+
+<!-- editorial-expansion:v1 -->
+
+En sandalias barefoot, el detalle pequeno cambia mucho la experiencia. En "Sandalias Crupon – La mirada perfecta sin tiempo en Zapatos barefoot" merece la pena hablar de sujecion, tiras, forma de la planta y de si realmente sirven para caminar sin ir agarrando el zapato con los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Sandalias Crupon – La mirada perfecta sin tiempo en Zapatos barefoot, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

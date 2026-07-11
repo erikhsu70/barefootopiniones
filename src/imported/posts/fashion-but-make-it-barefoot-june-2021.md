@@ -95,3 +95,16 @@ translatedFrom: en
 <p>Ah, y ese anillo grueso en el dedo me mató por completo la primera vez que los usé. Se ablandó después de una buena caminata (tal vez una milla más o menos) y ahora no es un problema, excepto si camino cuesta abajo por un tiempo o en un terreno irregular, entonces empiezo a sentir que se hunde. Así que no voy a caminar con estos. No lo olvides, usa el código <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong>.<br/><br/>En otras noticias divertidas, ¡me tomaré libre la próxima semana! Entraré para anunciar el ganador del sorteo de Earth runners y compartiré algunas publicaciones programadas, pero por lo demás lo estaré relajando.</p>
 <p class="has-text-align-center"><a href="https://www.instagram.com/p/CQjczIHhMXr/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – Junio 2021" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

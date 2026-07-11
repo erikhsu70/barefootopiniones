@@ -110,3 +110,16 @@ translatedFrom: en
 <p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Duchess & Fox: los zapatos hechos a mano más suaves y con estilo" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

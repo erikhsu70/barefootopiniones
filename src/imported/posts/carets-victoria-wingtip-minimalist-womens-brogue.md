@@ -58,3 +58,16 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión de la revisión de Carets Victoria Wingtip</h2>
 <p>Carets Victoria Wingtips ocupan un espacio muy particular en el mercado del calzado natural. Son un zapato elegante de alta gama que se parece más a un zapato con punta de ala tradicional que cualquier otro zapato con puntera amplia y zero drop del mercado. Realmente no hay nada parecido disponible. Si quieres algo realmente elegante que no se parezca en nada al típico zapato barefoot, Carets es lo que necesitas.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "Carets Victoria Wingtip – Un Brogue de Mujeres Minimalista que se ve principal" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

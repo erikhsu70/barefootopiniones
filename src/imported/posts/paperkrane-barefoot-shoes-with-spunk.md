@@ -74,3 +74,16 @@ translatedFrom: en
 <p>Otra nota: la mayoría de los diseños de PaperKrane son limitados, lo que significa que es posible que un zapato no vuelva a aparecer una vez agotado. Los zapatos escolares completamente negros siempre parecen permanecer en el rango y se reabastecen, pero los demás tienden a ir y venir. Así que si estás enamorado de un diseño, ¡mejor no esperar!</p>
 <p>Mis pensamientos finales... es una marca que no sólo fabrica zapatos: fabrica <em>declaraciones.</em> Desde suelas de arco iris hasta zapatillas para la escuela, dominan el arte del calzado divertido, funcional y agradable para los pies. Con una producción ética, materiales de calidad y un compromiso con el movimiento natural del pie, ofrecen una versión fresca (y a menudo deliciosamente extravagante) de los Zapatos barefoot.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "PaperKrane – Zapatos barefoot con Pizazz" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

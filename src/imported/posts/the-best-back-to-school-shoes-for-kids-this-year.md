@@ -132,3 +132,24 @@ translatedFrom: en
 <p>Las necesidades de este grupo variarán mucho según el estilo de vida y las preferencias del individuo. Pero recomiendo comenzar con esta lista de <a href="/15-barefoot-sneakers-that-are-better-than-vans/" rel="noreferrer noopener" target="_blank">zapatillas de deporte descalzas geniales</a>! ¡Quizás puedas encontrar algo atractivo para el joven estudiante preocupado por la moda!</p>
 <p>Nos apasiona garantizar la salud futura de los pies de nuestros niños. ¡Gracias a Dios por las opciones de calzado que son prácticos para la escuela y los deportes pero que no les aplastan los pies! Si tiene alguna pregunta pendiente sobre cómo vestir a sus hijos este año, consulte nuestro dedicado <a href="/kids/">¡Base de datos de Zapatos barefoot para niños!</a> Encontrarás aún más opciones en todo el mundo, en diferentes rangos de precios y para diferentes temporadas.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Los mejores zapatos para niños este año" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Los mejores zapatos para niños este año, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

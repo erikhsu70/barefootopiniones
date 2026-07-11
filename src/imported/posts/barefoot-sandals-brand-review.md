@@ -64,3 +64,24 @@ translatedFrom: en
 <div class="wp-block-uagb-info-box uagb-block-803f55ed uagb-infobox__content-wrap uagb-infobox-icon-above-title uagb-infobox-image-valign-top"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><a href="/minimalist-summer-sandals/">La lista completa de sandalias minimalistas</a></h3></div></div></div>
 <p>¿Te gustan los Zapatos barefoot? Asegúrate de revisar mi Instagram para recibir actualizaciones periódicas sobre todo lo relacionado con los pies descalzos y luego suscríbete para no perderte ninguna publicación.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+En sandalias barefoot, el detalle pequeno cambia mucho la experiencia. En "Revisión de sandalias descalzas: una comparación de 6 marcas" merece la pena hablar de sujecion, tiras, forma de la planta y de si realmente sirven para caminar sin ir agarrando el zapato con los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de sandalias descalzas: una comparación de 6 marcas, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

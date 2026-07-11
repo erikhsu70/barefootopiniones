@@ -83,3 +83,16 @@ translatedFrom: en
 <p>Feelgrounds continúa liderando con algunos de los Zapatos barefoot más suaves y modernos que existen. el  ¡Es mi favorito de los 3 estilos de Feelgrounds y ya sé que los usaré muchísimo! ¿Qué estilo elegirás si eres el ganador del sorteo?</p>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Revisión de Feelgrounds Droptop: geniales Zapatos barefoot" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Feelgrounds Droptop: geniales Zapatos barefoot, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

@@ -69,3 +69,24 @@ translatedFrom: en
 
 <p>¡Botas con cordones! #perohazlodescalzo<br/><br/>Me encanta este aspecto rústico de <a href="https://prettylittlefawn.com/">Bonito cervatillo</a>, pero no se puede hacer con las botas. Gracias a los Zapatos barefoot, ¡sin tacones no hay problema! Me mantendré firme con mis botas descalzas, ¡gracias!<br/><br/>El estilo de botas con cordones es uno de mis favoritos porque es muy versátil: masculino, femenino, elegante y casual. ¡No se requiere tacón de bloque! Amo el mio de <a href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a> porque no solo son lindos, sino que también están hechos a mano de manera sustentable por una empresa familiar (ya sabes, amo mis pequeñas empresas).<br/><br/>¡Que tengan un excelente fin de semana amigos!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – noviembre de 2020" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Moda, pero hazlo barefoot – noviembre de 2020, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

@@ -52,3 +52,24 @@ translatedFrom: en
 <p>Mis últimas botas más usadas de esta temporada son mis <a href="https://www.zaqq.com/riquet-black/">Zaqq Riquet</a> botas. Quizás un poco menos cómodas que mis botas Drifter Leather, estas siguen siendo algunas de las mejores que existen para zapatos de apariencia fabulosa y verdaderamente descalzos. Me encanta el estilo y puedo usarlos todo el día y en caminatas largas, pero también pueden ser muy elegantes. Escribí una reseña completa de ellos. <a href="/zaqq-barefoot-brand-review/">aquí</a>.</p>
 <p class="has-text-align-center"><strong>Los clientes estadounidenses y canadienses ahora pueden encontrar Zaqq Riquet en ¡Con envío y devoluciones gratis!</strong></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para valorar bien "Mis botas descalzos más magos" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Mis botas descalzos más magos, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

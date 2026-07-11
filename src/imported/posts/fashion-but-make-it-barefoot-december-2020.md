@@ -68,3 +68,24 @@ translatedFrom: en
 <p class="has-text-align-center"><strong>Obtenga un 15% de descuento en su primer pedido de Softstar con código <code><strong></strong></code></strong></p>
 <p>Si no me preguntas qué haré para Año Nuevo, no te lo preguntaré. ¿Trato? 😃<br/><br/><a href="https://www.instagram.com/colormecourtney/">Coloréame Courtney</a> es una de mis creadoras favoritas en el programa, pero como puedes ver, ella lo es 🌈 mientras que yo ▪️así que considera esto como un engaño #butmakeitbarefoot #butmakeitanya. 😆<br/><br/>Si vas a algún lugar esta Nochevieja, asegúrate de hacerlo bien junto a tus pies y opta por bailarinas espaciosas como estas brillantes. <a href="https://www.softstarshoes.com/adult-ballerine-flat.html">bailarinas</a> de Softstar Shoes (use el código <strong></strong> con un 15 % de descuento en tu primera compra de zapatos) en lugar de dispositivos de tortura brillantes que aplastan los dedos de los pies. No hay necesidad de añadir insulto a la herida en este momento, ¿verdad?<br/><br/>Que tu día esté lleno de caminatas, pies descalzos y tiempo compartido con tus seres queridos ❤️</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – diciembre de 2020" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Moda, pero hazlo barefoot – diciembre de 2020, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

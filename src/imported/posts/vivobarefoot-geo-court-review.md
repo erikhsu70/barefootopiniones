@@ -65,3 +65,16 @@ translatedFrom: en
 <p>Debo decir que este es mi zapato Vivobarefoot favorito para adultos con diferencia (el segundo es el Gobi Hi Top). El costo de estos está en consonancia con el de otras marcas importantes de Zapatos barefoot y puede usar el código <strong><code><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></code></strong>. Dado que Vivobarefoot le ha funcionado tan bien a nuestra familia, espero que duren para siempre y, con un diseño tan clásico, también estarán de moda para siempre. Entonces, si quieres una zapatilla que pueda hacerlo todo por ti, la  lo es.</p>
 <p>¿Qué opinas de las nuevas zapatillas Court?</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Las zapatillas barefoot pueden parecer sencillas, pero no todas funcionan igual. En "Revisión de Vivobarefoot Geo Court: la zapatilla de cuero perfecta" hay que separar estilo, ajuste, flexibilidad y uso real para no comprar solo por la primera impresion.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

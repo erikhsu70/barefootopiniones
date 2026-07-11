@@ -69,3 +69,32 @@ translatedFrom: en
 <p><strong> </strong>(UE) – ¡Opción vegana! Tallas UE 36-42. Están hechos de un material de gamuza sintética y tienen ese estilo de bailarina como el Peerko Tala. La puntera es un poco más estrecha de lo que me gusta ver en un zapato barefoot, por lo que diría que es más adecuada para pies más delgados. ¡Pero son lindos y flexibles! Por razones de las que no estoy del todo seguro, pedí una talla 36 en lugar de mi 37 habitual. Así que me quedan cortos y una 37 me quedaría mejor.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Zapatos de barco, pero con una caja de pies anchos" sea mas util, lo importante es convertir la idea principal en criterios practicos: que mirar, para quien tiene sentido y que errores evitar.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Zapatos de barco, pero con una caja de pies anchos, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+## Para que tipo de pie puede funcionar mejor
+
+La anchura es solo una parte de la historia. Dos personas pueden tener la misma talla y necesitar zapatos muy distintos. Hay pies anchos en la zona de los dedos, pies estrechos de talon, pies con mucho volumen, pies planos, empeines altos y dedos especialmente largos.
+
+Si tienes pie ancho, mira la plantilla desde arriba y no te fies solo de la palabra "wide". Si tienes bajo volumen, busca buen ajuste con cordones o velcros. Si tu empeine es alto, evita modelos con lengueta corta o materiales rigidos. Y si estas entre tallas, prioriza que los dedos tengan espacio delante sin que el talon pierda estabilidad.
+
+La mejor senal es simple: puedes mover los dedos, el pie no se desplaza dentro y no tienes que "domar" el zapato durante semanas.

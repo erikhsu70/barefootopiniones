@@ -66,3 +66,16 @@ translatedFrom: en
 <p>Otro estilo de bota de combate fenomenal es el , que acaba de ser relanzado en cuero negro liso como se muestra arriba (pero he usado su versión anterior durante años). Los Igneous no tienen un ajuste extra ancho como los Be Lenka Atlas, pero son mucho más suaves y livianos y, para mí, son los cordones perfectos y atrevidos. Puedes usar código <strong></strong> ¡Con un 10% de descuento en Mukishoes!</p>
 <p class="has-text-align-center"><strong><a href="/best-zero-drop-barefoot-combat-boots/">¡Lea aquí sobre más estilos de botas de combate descalzas que me encantan!</a></strong></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Cambie estos zapatos para los pies más felices - Moda de otoño 2023" sea mas util, lo importante es convertir la idea principal en criterios practicos: que mirar, para quien tiene sentido y que errores evitar.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Cambie estos zapatos para los pies más felices - Moda de otoño 2023, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

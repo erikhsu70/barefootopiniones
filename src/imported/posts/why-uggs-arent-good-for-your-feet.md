@@ -73,3 +73,16 @@ translatedFrom: en
 
 <p>¿Pies cómodos? ¡Controlar! ¿Pies sanos? ¡Controlar! Soy un firme creyente de que cuidar tu cuerpo puede coexistir con un gran estilo y funcionalidad. ¡No te lastimes los pies porque quieres que se mantengan calientes! Si está buscando Zapatos barefoot para pasar el invierno, consulte esta lista de muchos <a href="/barefoot-minimalist-womens-boots-full-list/">opciones de botas de invierno descalzas</a>. ¡Y luego asegúrese de suscribirse a continuación para mantenerse informado sobre todo lo relacionado con pies saludables, movimiento funcional y zapatos lindos!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "Por qué las Uggs no son buenas para los pies y qué ponerse en su lugar" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

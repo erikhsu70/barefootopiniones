@@ -73,3 +73,16 @@ translatedFrom: en
 <p>En resumen, <a href="https://www.barebound.pt">Barebound</a> es un recién llegado reflexivo en el espacio barefoot. Se sienten lo suficientemente especiales como para resaltar y llenar un nicho que muchos usuarios descalzos estaban esperando. Dado lo nuevos que son, es probable que veamos modelos adicionales en el futuro. ¡Estaré atento a esta empresa a medida que crezca!</p>
 <p class="has-text-align-center"><em>¿Te gusta el estilo zueco, pero lo quieres en Zapatos barefoot? <a href="/like-clogs-but-make-it-barefoot-shoes/">Echa un vistazo a mis otros zuecos descalzos más recomendados aquí.</a></em></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "El Clog más reciente de Pie de barefoot en el bloque – Barebound" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

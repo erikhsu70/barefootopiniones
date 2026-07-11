@@ -58,3 +58,16 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>¡Planeo aprovecharlos mucho este invierno! Resistentes a la intemperie, anchas y cómodas, las botas de invierno Be Lenka son una excelente opción para caminar barefoot en climas fríos. A nivel personal, encuentro a Lenka (propietaria y fundadora de Be Lenka) una emprendedora inspiradora y me ha encantado ver su negocio florecer este año. ¡Es difícil equivocarse aquí!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para valorar bien "Revisión de botas de invierno Be Lenka" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de botas de invierno Be Lenka, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

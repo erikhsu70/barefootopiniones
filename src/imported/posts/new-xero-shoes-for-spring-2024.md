@@ -102,3 +102,16 @@ translatedFrom: en
 <li>Todos los volúmenes de pies</li>
 </ul>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Nuevos zapatos Xero para la primavera de 2024" sea mas util, lo importante es convertir la idea principal en criterios practicos: que mirar, para quien tiene sentido y que errores evitar.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Nuevos zapatos Xero para la primavera de 2024, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

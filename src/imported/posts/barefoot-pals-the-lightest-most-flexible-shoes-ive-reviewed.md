@@ -78,3 +78,16 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Las botas safari son un placer total de usar. No sólo son clásicos, sino que además están producidos de forma ética con materiales sostenibles. Felicitaciones a Lisandro por compartir su pasión por la fabricación de calzado con un público más amplio.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "barefoot Pals: los zapatos más ligeros y flexibles que he revisado" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar barefoot Pals: los zapatos más ligeros y flexibles que he revisado, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

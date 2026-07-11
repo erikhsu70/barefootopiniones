@@ -62,3 +62,24 @@ translatedFrom: en
 <p>Los Zapatos barefoot en tallas para niños grandes son una categoría bastante reducida. Si también necesita que los zapatos sean veganos y se envíen desde EE. UU., solo tiene un puñado de opciones. Zuna Shoes está ayudando a ampliar las opciones para niños grandes y al mismo tiempo es funcional y duradero.</p>
 <p class="has-text-align-center">¿Busca más opciones en el tamaño de su hijo? Utilice el <a href="https://barefootshoefinder.com/">barefoot Shoe Finder</a> para ver tus opciones!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Revisión de Zuna Shoes: ¡zapatillas de deporte descalzas para niños grandes!" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Zuna Shoes: ¡zapatillas de deporte descalzas para niños grandes!, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

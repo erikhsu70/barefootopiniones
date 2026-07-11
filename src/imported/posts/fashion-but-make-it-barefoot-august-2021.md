@@ -73,3 +73,16 @@ translatedFrom: en
 <p>Las sandalias que llevo a la derecha son de <a href="https://cruponsandals.com/collections/barefoot">Sandalias Crupón</a> línea descalza – Usar código <strong></strong> para obtener un 10% de descuento. Vienen en muchos colores preciosos y están hechos a mano con amor.<br/><br/>Inspiración de estilo a la izquierda encontrada en <a href="https://www.pinterest.com/ledressingideal/_created/">Tablero de Pinterest de Le Dressing Ideal.</a></p>
 <p class="has-text-align-center"><a href="https://www.instagram.com/p/CTFrv49pjo0/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – Agosto 2021" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

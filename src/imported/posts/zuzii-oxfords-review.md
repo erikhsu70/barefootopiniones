@@ -49,3 +49,32 @@ translatedFrom: en
 <p>Hay bastantes opciones de zapatos estilo Oxford que son minimalistas, pero para mí estos destacan en términos de calidad y estilo. ¡Y este verano planeo expandirme y usar un par de sus sandalias! ¿Qué estilo de ellos es tu favorito?</p>
 <p>Otros Oxfords minimalistas:<br/><a href="https://www.softstarshoes.com/adult-dash-runamoc.html?gclid=EAIaIQobChMInavV2IHO3wIVUzVpCh264wKrEAQYASABEgJbiPD_BwE#93=5">SoftStar Dash corre loco</a> – Un poco tipo zapatilla, pero si eliges los colores de cuero correctos lucirás como un Oxford.<br/><a href="https://www.lukshoes.com/barefoot-low-shoes/">zapatos bajos luk</a><br/><a href="https://www.belenka.com/barefoots">Zapatos BeLenka para todo el año</a><br/><a href="https://www.tikkishoes.com/adult-shoes/">Raíces de Tikki</a><br/><a href="https://www.hosshandmade.com/">Hoss Handmade</a> – ¡Tengo un par de estos y los revisaré!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Zuzii Oxfords" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Zuzii Oxfords, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

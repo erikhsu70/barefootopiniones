@@ -74,3 +74,16 @@ translatedFrom: en
 <p class="has-text-align-center">¿Interesado en Zapatos barefoot? A continuación presentamos un resumen de lo que considero el <a href="/best-barefoot-minimalist-shoe-brands/">Las mejores marcas de Zapatos barefoot de todos los tiempos</a>.</p>
 <p style="font-size:14px">Se regalaron zapatos, pero esta publicación no está patrocinada ni afiliada. Todas las opiniones son mías.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Revisión de Posh Panda: mocasines descalzos hechos a mano" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Posh Panda: mocasines descalzos hechos a mano, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

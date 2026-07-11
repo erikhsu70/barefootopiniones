@@ -67,3 +67,16 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p> Son una sandalia atlética sólida y minimalista. La excelente sensación en el suelo las convierte en la sandalia perfecta para quienes quieren estar descalzos, pero necesitan sólo un poco de protección.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+En sandalias barefoot, el detalle pequeno cambia mucho la experiencia. En "Revisión de las sandalias Xero Z Trek" merece la pena hablar de sujecion, tiras, forma de la planta y de si realmente sirven para caminar sin ir agarrando el zapato con los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de las sandalias Xero Z Trek, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

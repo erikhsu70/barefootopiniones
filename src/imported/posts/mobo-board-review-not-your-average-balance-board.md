@@ -58,3 +58,16 @@ translatedFrom: en
 <p>Hay muchas formas de gastar dinero en fitness, pero los productos son sólo una parte del panorama. Herramientas como <a href="https://www.moboboard.com/">el tablero mobo </a>pueden ayudarle a acceder a músculos y tejidos perdidos hace mucho tiempo, pero funcionan mejor como parte de un cambio general en el estilo de vida. Una de las cosas que me gusta de Jay es que no lo ha perdido de vista y continúa educando al mundo sobre la importancia de la función del pie. Ya seas un practicante o un lego como yo, entrenar tus pies será de gran ayuda para mantener tu cuerpo funcionando. Y la placa Mobo podría ser lo que haga que todo funcione.</p>
 <p style="font-size:15px">Mi placa Mobo fue un regalo de Jay Dicharry. Esta publicación no está patrocinada ni afiliada y todas las opiniones son mías.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Revisión de la tabla Mobo: no es la tabla de equilibrio promedio" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de la tabla Mobo: no es la tabla de equilibrio promedio, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

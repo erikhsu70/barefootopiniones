@@ -66,3 +66,16 @@ Neuroma de Morton.</p>
 <p>Desde que hice la transición total y adecuada al calzado minimalista, puedo andar por la casa sin zapato ni apoyo y estar bien. De hecho, puedo pasar mucho más tiempo de pie o caminando antes de que mis pies se cansen.  Mi equilibrio ha mejorado. Y les estoy haciendo un gran servicio a mis pies al no aplastarlos en una puntera restrictiva. </p>
 <p>Entonces, si te preguntas si TÚ puedes andar barefoot porque usas aparatos ortopédicos o porque has tenido fascitis plantar, únete al club.  Ponte unos zapatos minimalistas y comprueba por ti mismo lo maravillosos que funcionan tus pies cuando se mueven de la forma prevista por la naturaleza.   </p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "¿Qué es exactamente un zapato barefoot o minimalista?" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

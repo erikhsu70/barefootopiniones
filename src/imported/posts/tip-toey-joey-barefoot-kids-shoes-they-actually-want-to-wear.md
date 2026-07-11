@@ -79,3 +79,16 @@ translatedFrom: en
 <p>Samantha es escritora/investigadora y asistente ejecutiva de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Tip Toey Joey: zapatos para niños descalzos que realmente quieren usar" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Tip Toey Joey: zapatos para niños descalzos que realmente quieren usar, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

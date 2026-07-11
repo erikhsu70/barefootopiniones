@@ -89,3 +89,16 @@ translatedFrom: en
 
 <p>Puedes leer más detalles sobre ellos en mi <a href="/xero-shoes-fall-2024-review/#ridgeway-chelsea">Revisión de Xero Ridgeway Chelsea</a>. Otra alternativa a Blundstones que también nos encanta es la <a href="/lems-chelsea-boots-like-blundstones-but-better/">Chelsea</a>! Y Lems lanzará una versión más resistente llamada Chelsea Tuff este otoño. si estás fuera de los EE. UU., </p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para valorar bien "Botas de otoño de tendencia, pero hazlo caja de pies anchos" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Botas de otoño de tendencia, pero hazlo caja de pies anchos, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

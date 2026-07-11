@@ -72,3 +72,24 @@ translatedFrom: en
 <p> Las zapatillas de deporte son la respuesta para las personas que todavía piensan que los Zapatos barefoot se ven "raros". Son legítimamente geniales, pero a diferencia de Converse y Vans, no te aplastarán los dedos de los pies con esa reveladora "forma de juanete" que ves en las personas que usan calzado ajustado.<br/><br/>Si estás buscando una zapatilla que parezca un sueño y que parezca una zapatilla normal y corriente, echa un vistazo a mis <a href="/feelgrounds-barefoot-sneakers-review-complete-guide/">Reseña de Feelgrounds aquí</a>! Con la ayuda de ustedes, queridos lectores, pude brindarles una explicación más detallada sobre el tamaño, el ajuste y la durabilidad para que puedan evitar la molestia de las devoluciones/cambios. Gracias por la ayuda amigos!<br/><br/>P.D. Envío un correo electrónico semanal a los suscriptores del blog con actualizaciones sobre zapatos y datos sobre movimientos. Es una excelente manera de mantenerse actualizado sin tener que estar en las redes sociales todo el tiempo, y tendrá la oportunidad de participar en revisiones futuras si lo desea.<br/><br/>¡Feliz viernes!<br/><br/>Imagen de la izquierda encontrada en Harbour Blog's <a href="https://www.pinterest.com/harbour_blog/">Tablero de Pinterest</a>.</p>
 <p class="has-text-align-center"><a href="https://www.instagram.com/p/CR9jlc_nqDs/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – Julio 2021" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Moda, pero hazlo barefoot – Julio 2021, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

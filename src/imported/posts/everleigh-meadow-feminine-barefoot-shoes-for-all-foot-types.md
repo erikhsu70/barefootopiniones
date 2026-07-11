@@ -87,3 +87,16 @@ translatedFrom: en
 <p>Samantha es escritora, investigadora y asistente ejecutiva de Barefoot Opiniones y ama de casa de cinco pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Esta guia necesita una lectura practica. "Everleigh Meadow: Zapatos barefoot femeninos para todo tipo de pies" no va solo de teoria barefoot, sino de como tomar mejores decisiones con tus pies, tus zapatos y tu rutina diaria.
+
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

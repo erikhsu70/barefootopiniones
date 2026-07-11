@@ -41,3 +41,24 @@ translatedFrom: en
 <p>¡El Drifter Leather ha recibido muchos pedidos últimamente (y con razón)! Así que pasó un período de casi 2 meses entre el momento en que decidí que los quería y que realmente los compré. Si planeas realizar una compra, inscríbete en su lista de correo electrónico para recibir una notificación cuando se abran y, mientras tanto, prepárate midiendo tus pies y determinando exactamente lo que estás buscando. Mientras esperaba, recorrí su sitio mirando todas sus fotografías y opciones de cuero y busqué reseñas en la web para estar listo. También les hice mis preguntas de antemano y comencé a escribir una descripción detallada de cómo quería que me quedaran (¡puntera sin punta, por favor!) y medí mi pie varias veces diferentes. ¡Valió la pena! Estas son mis botas más cómodas y más usadas de todos los tiempos.</p>
 <p>¿Qué botas descalzas son tus favoritas?</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para valorar bien "Revisión de las botas de montar Vera de cuero Drifter" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de las botas de montar Vera de cuero Drifter, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

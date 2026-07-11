@@ -76,3 +76,16 @@ translatedFrom: en
 <p>tacones de tiras, <a href="https://www.instagram.com/explore/tags/butmakeitbarefoot/">#perohazlodescalzo</a>.<br/><br/>Los tacones altísimos son realmente peligrosos. Y no me refiero a pies destrozados y alineación con el tiempo (ellos también lo hacen), ¡sino que los tacones desequilibran los pies, lo que aumenta el riesgo de tropezar y lastimarse!<br/><br/>Hace un año, un miembro de mi familia se rompió el pie con unas sandalias de tacón con tiras y pasó meses con una bota y luego meses todavía con dolor. ¿Crees que valió la pena?<br/><br/>Bueno, no cuando tienes alternativas lindas como las sandalias Solstice de <a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a>! Los compré hace un año para un viaje y se convirtieron en uno de mis favoritos el verano pasado. Puedes personalizarlos en el color que elijas (algunas personas se ponen metalizados y los usan como zapatos de boda). Son GRANDES, por lo que mi recomendación de tallas es bajar una talla y elegir un ancho ANCHO (a menos que tengas pies estrechos).<br/><br/>En otras noticias, ya casi estamos en marzo, así que le he desempolvado el <a href="/minimalist-summer-sandals/">lista completa de sandalias descalzas</a>! Está lleno de lindas opciones veraniegas y prácticas sandalias deportivas.<br/><br/>La inspiración del estilo es un anuncio de un vestido de <a href="https://www.vivimarks.com/">Vivimarcas</a>! Apruebo totalmente el vestido. 😉</p>
 <p class="has-text-align-center"><a href="https://www.instagram.com/p/CLxD6UdBs5G/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram.</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Moda, pero hazlo barefoot – febrero de 2021" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
