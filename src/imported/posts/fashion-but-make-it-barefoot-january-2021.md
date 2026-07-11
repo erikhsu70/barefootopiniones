@@ -1,0 +1,69 @@
+---
+layout: layouts/imported.njk
+templateEngineOverride: md
+title: Moda, pero hazlo barefoot – enero de 2021
+description: En este espacio desafiamos la norma cultural de que la belleza es dolor.
+  Nunca he sido de los que se conforman, así que ¿por qué no lucir increíble con Zapatos
+  barefoot? Los pies sanos son más anchos en los dedos y siguen siendo hermosos. ¡Celebremos
+  lo que es natural y pongamos patas arriba el mercado del calzado! Les comparto una
+  nueva “Moda, Pero […]
+date: '2021-02-08T20:30:01'
+permalink: /fashion-but-make-it-barefoot-january-2021/
+sourceType: Artículo
+contentType: Artículo
+sourceId: 11999
+sourceSlug: fashion-but-make-it-barefoot-january-2021
+sourceModified: '2026-06-23T00:03:20'
+image: "/assets/generated/featured/posts/fashion-but-make-it-barefoot-january-2021.jpg"
+imageAlt: "Imagen destacada de Moda, pero hazlo barefoot – enero de 2021"
+tags:
+- traducido
+language: es
+translatedFrom: en
+---
+<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-72 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ahinsashoes.com/r?id=ubbsv2">Compra los zapatos</a></div>
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/the-8-best-vegan-barefoot-winter-boots/">Leer la reseña</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/vegan-barefoot-shoes/">Más Zapatos barefoot veganos</a></div>
+</div>
+
+<p>Doc Marten grunge, #perohazlodescalzo. ¡Ni siquiera puedo imaginarme cojeando con una suela tan gruesa! Mis botas Ahinsa Jaya son 1000% más cómodas.<br/><br/>Había un hilo fascinante en el <a href="https://www.facebook.com/groups/677722582951840">Grupo de FB estilo barefoot</a> recientemente sobre sentirme cohibido al usar zapatos anchos descalzos en el trabajo o cerca de personas que consideramos "de moda". ¡Resulta que esta es una experiencia común! Toneladas de personas comentaron que sentían lo mismo. Hablo de ello como si no me importara, simplemente muévelo, ¡pero la verdad es que yo también lo siento! Somos humanos, queremos encajar.<br/><br/>Pero también lo hacen todos los que nos rodean. Y cuando superamos esa punzada de miedo y calzamos nuestro calzado saludable, REALMENTE estamos contribuyendo a un cambio en las percepciones culturales de la belleza. ¿Cuántos de tus compañeros de trabajo/compañeros se ven fabulosos pero en realidad piensan para sí mismos, MALDITAMENTE, desearía no tener que usar zapatos tan incómodos para trabajar? Esperamos juicio, pero probablemente no lo haya (y si lo hay, meh).<br/><br/>Miras hacia abajo y ves zapatos súper anchos y poco convencionales. El resto del mundo mira desde un ángulo diferente y ve el poder de ir contra la corriente.<br/><br/>Y ahora hablemos de botas militares descalzas. Acabo de actualizar mi completo <a href="/barefoot-minimalist-womens-boots-full-list/">Lista de botas descalzas</a> con una sección de botas de combate que enumera todas las botas de combate descalzas o de estilo grunge. Para obtener una lista completa de opciones veganas, consulte esto <a href="/vegan-barefoot-shoes/">Publicación de Zapatos barefoot VEGANOS</a> (las botas de esta foto son veganas, de Ahinsa).</p>
+<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Doc Martens (arriba), Ahinsa Jaya (abajo)</figcaption></figure>
+<p class="has-text-align-center"><a href="https://www.instagram.com/p/CKE5LqUhO4d/?utm_source=ig_web_copy_link">Haga clic aquí para ver la publicación original en Instagram</a>. Inspiración del outfit de Claudia Holynights</p>
+
+<hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
+<p><strong>22 de enero de 2021</strong></p>
+
+<p class="has-text-align-center"><strong>La hiedra moldeada | $180 | cuero</strong></p>
+<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-73 wp-block-buttons-is-layout-flex">
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/boots">Compre los zapatos – Internacional</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/shapen-review-barefoot-dress-shoes-women/">Leer la reseña</a></div>
+</div>
+
+<p>Deja atrás los tacones altos: ¡los elegantes Zapatos barefoot están apareciendo!</p>
+<p>soy un gran admirador del blog <a href="http://www.un-fancy.com/">Poco elegante</a>, pero tengo una reacción visceral ante los zapatos que se parecen más a dispositivos de tortura que a pies. Me encanta poder tomar los looks elegantes y atemporales de Un-Fancy y recrearlos con algo que no me ponga zapatos ortopédicos algún día. 🤯</p>
+<p>Llevo botas Shapen Ivy, que acaban de estar disponibles en !! Si estás fuera de EE. UU./Canadá, también puedes obtenerlos en <a href="https://www.shapenbarefoot.com/en/c/boots">Shapen barefoot</a> y utilizar código <strong></strong> para 10% de los artículos de precio completo, o código <strong></strong> ¡Para obtener un 5 % de descuento adicional en artículos en oferta!</p>
+<p>¡He revisado la marca Shapen en mi blog con muchas fotos y consejos sobre tallas! <a href="/shapen-review-barefoot-dress-shoes-women/">Compruébalo</a> si estás buscando hacer un pedido.</p>
+<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Botines tradicionales (arriba), Shapen Ivy (abajo)</figcaption></figure>
+<p class="has-text-align-center"><a href="https://www.instagram.com/p/CKWy9Zfh1w0/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></p>
+
+<hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
+<p><strong>29 de enero de 2021</strong></p>
+
+<p class="has-text-align-center"><strong>The Unshoes Terra Vida |$67 después del código <strong></strong> | vegano </strong></p>
+<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-74 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.unshoesusa.com/collections/closed-toe/products/natural-terra-vida?aff=3">Compra los zapatos</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/unshoes-terra-vida-review/">Leer la reseña</a></div>
+</div>
+
+<p>Ya era aficionado a los zapatos antes de tener dolor en el pie, así que, por supuesto, probé Toms. Son simples, algo cómodos y combinan con casi todo. PERO, ¿no sería fantástico si ensancharan un poco la puntera, para que un pie humano pudiera caber dentro sin deformarse?</p>
+<p>el <a href="https://www.unshoesusa.com/?aff=3">Unshoes</a> Terra Vida es mi tonto saludable favorito de Toms, ¡y posiblemente mi par de Zapatos barefoot más antiguo! Los revisé en el blog hace más de 2 años (!!!) y sigo sintiendo prácticamente lo mismo. Son asequibles ($74 después del código de cupón). <strong></strong>), increíblemente cómodas y muy espaciosas en la puntera. Se los recomiendo a la gente todo el tiempo como calzado informal para el día a día. También me encanta que Unshoes sea una marca con los pies en la tierra dedicada a la salud de los pies.</p>
+<p>Mira mi reseña completa sobre ellos en el blog (recuerda, fue una de las primeras, no juzgues mi inexperiencia 😝) y no olvides el código de cupón. <strong></strong> Con un 10 % de descuento en cualquier compra de Unshoes.</p>
+<p>Algunos detalles para los que os dé pereza leer el post (¡no intentéis esconderos, ya os veo!) son muy finas, así que quizá queráis una plantilla de <a href="https://northsole.co/">NorthSole</a> si no puedes manejar lo ultra mínimo. Son de gran volumen, por lo que si tienes pies poco profundos, es posible que tus pies naden con ellos (yo uso un <a href="https://amzn.to/2LWISJe">almohadilla para la lengüeta del zapato</a> para llenar el espacio). Y recomiendan reducir la talla si están entre ellas porque se estiran bastante. Reduje la talla de 7 a 6.5 y al principio se sintieron cortos, pero se volvieron perfectos después de varios usos. Ah, y son veganos y están hechos íntegramente de materiales naturales (cáñamo, algodón, caucho).</p>
+
+<p class="has-text-align-center"><a href="https://www.instagram.com/p/CKo-xU2hPT_/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></p>
+<hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
+<p class="has-text-align-center"><strong>¿Quieres ver más? Suscríbase a los correos electrónicos a continuación para ver muchas más inspo de moda, reseñas de Zapatos barefoot y consejos de movimiento.</strong></p>
+

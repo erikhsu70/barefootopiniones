@@ -1,0 +1,15 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ site.url }}/current-sitemap.xml</loc>
+  </sitemap>
+{% for sitemapGroup in anyasSitemap.groups %}
+  <sitemap>
+    <loc>{{ site.url }}/{{ sitemapGroup.file }}</loc>
+  </sitemap>
+{% endfor %}
+</sitemapindex>

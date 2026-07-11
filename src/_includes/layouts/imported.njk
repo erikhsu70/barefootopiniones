@@ -1,0 +1,202 @@
+---
+layout: layouts/base.njk
+---
+<article class="article imported-article">
+  <header class="article-hero imported-hero">
+    <div class="article-heading">
+      <p class="eyebrow">Artículo traducido{% if contentType %} / {{ contentType }}{% endif %}</p>
+      <h1>{{ title }}</h1>
+      {% if description %}
+        <p>{{ description | cleanSummary }}</p>
+      {% endif %}
+    </div>
+    {% if image %}
+      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager">
+    {% endif %}
+  </header>
+
+  <div class="article-layout">
+    {% if not hideToc %}
+      <aside class="article-toc" aria-label="Tabla de contenidos">
+        <p>Contenido</p>
+        <nav data-article-toc></nav>
+      </aside>
+    {% endif %}
+    <div class="article-body imported-content" data-article-content>
+      {{ content | cleanImportedHtml(contentType == "FAQ" or pageClass == "faq-page") | safe }}
+    </div>
+  </div>
+</article>
+
+<script>
+  (() => {
+    const content = document.querySelector("[data-article-content]");
+    const toc = {% if hideToc %}null{% else %}document.querySelector("[data-article-toc]"){% endif %};
+    if (!content) return;
+
+    const isJunkText = (text) => {
+      const normalized = text.replace(/\u00a0/g, " ").trim();
+      return !normalized || /^[-–—•·|]+$/.test(normalized);
+    };
+
+    const hasUsefulMedia = (node) => {
+      return Boolean(node.querySelector("img, picture, svg, canvas, audio, source"));
+    };
+
+    const discountHrefPattern =
+      /(barefoot-minimalist-shoe-discounts-coupons|black-friday|cyber-monday|sales-discounts|discount|discounts|coupon|coupons|\/tag\/sales\/|\/tag\/discounts\/|\/tag\/coupons\/|\/tag\/black-friday-sale\/)/i;
+    const discountTextPattern =
+      /(usar\s+c[oó]digo|utiliza\s+c[oó]digo|mi\s+c[oó]digo|c[oó]digo\s+de|cup[oó]n|cupones|descuento|descuentos|black friday|cyber monday|discount|coupon)/i;
+    const videoHosts = ["youtube.com", "youtu.be", "vimeo.com", "player.vimeo.com"];
+    const documentExt = "." + "pdf";
+    const externalAssetTextPattern = new RegExp(["youtube", "vimeo", "v[íi]deo", "video", "replay", "descargar\\s+" + "pdf", "pdf"].join("|"), "i");
+    const amazonHrefPattern = /(amzn\.to|amazon\.[a-z.]+)/i;
+    const shouldRemoveAmazonLinks = {{ "true" if contentType == "FAQ" or pageClass == "faq-page" else "false" }};
+    const legacyUrlMap = {
+      "/2019/03/28/north-sole-insoles-barefoot-ing-your-way/": "/northsole-barefoot-insoles-review/",
+      "/2019/02/08/how-to-getting-the-perfect-shoes-from-drifter-leather/": "/drifter-leather-custom-review/",
+      "/mukishoes-review-chelsea-boots-wear-this-not-that/": "/mukishoes-cork-chelsea-review/",
+      "/barefoot-minimalist-wedding-shoes-guide/": "/barefoot-minimalist-dress-shoes-women/",
+      "/2019/06/14/shoe-care/": "/barefoot-minimalist-shoe-care-how-to/",
+      "/2019/01/10/drifter-leather-vera-riding-boots/": "/drifter-leather-vera-review/",
+      "/2019/04/21/unshoes-saffron/": "/unshoes-saffron-review/",
+      "/luks-primavera-boots-review/": "/barefoot-minimalist-womens-boots-full-list/",
+      "/2019/01/12/bobux-boots-for-kids/": "/bobux-kids-boots-review/",
+      "/2019/01/24/womens-dress-shoe-roundup/": "/barefoot-minimalist-dress-shoes-women/",
+      "/2019/02/13/affordable-barefoot-shoes/": "/affordable-barefoot-minimalist-shoes/",
+      "/2019/02/24/zuzii-loafers-sandals/": "/zuzii-loafers-sandals-review/",
+      "/2019/01/02/zuzii-oxfords/": "/zuzii-oxfords-review/",
+      "/how-do-you-transition-to-barefoot-shoes/": "/ufaq/how-do-you-transition-to-barefoot-shoes/",
+      "/2019/05/27/unshoes-uinta-keota-sandals/": "/unshoes-uinta-keota-sandals-review/",
+      "/2019/08/28/softstar-sawyer-shoes/": "/softstar-shoes-sawyer-review/",
+      "/2019/08/08/luks-barefoot-shoes/": "/barefoot-minimalist-dress-shoes-women/",
+      "/how-to-walk-well-guide-to-natural-gait/": "/how-to-walk-correctly-guide-to-natural-gait/",
+      "/2019/01/05/unshoes-terra-vida/": "/unshoes-terra-vida-review/",
+      "/2019/01/01/chelsea-boots-and-vivobarefoots-fulham/": "/vivobarefoot-fulham-review-barefoot-chelsea-boot/",
+      "/2019/05/17/xero-z-treks/": "/xero-shoes-diy-sandal-review-affordable-and-easy-to-make/",
+      "/vivobarefoot-fulham-review/": "/vivobarefoot-fulham-review-barefoot-chelsea-boot/",
+      "/barefoot-toe-socks-review/": "/best-foot-friendly-socks-dont-squish-your-toes/",
+      "/2019/11/19/how-to-wear-boots-the-barefoot-edition/": "/barefoot-minimalist-boots-styling-guide/",
+      "/the-best-shoes-for-extra-wide-feet/": "/best-shoes-for-wide-feet/",
+      "/the-best-barefoot-sandals-for-kids/": "/kids-barefoot-shoes-summer/",
+      "/what-is-a-barefoot-minimalist-shoe/": "/ufaq/whats-the-difference-between-barefoot-minimalist-natural-footwear/",
+      "/why-barefoot/": "/benefits-barefoot-minimalist-shoes/",
+      "/find-your-footing-workshop/": "/resources/"
+    };
+
+    content.querySelectorAll("form, textarea, button, nav.elementor-pagination, .page-numbers, .elementor-social-icons, .wp-block-social-links, a.elementor-social-icon, a.wp-block-social-link-anchor").forEach((node) => {
+      node.remove();
+    });
+
+    content.querySelectorAll("input").forEach((node) => {
+      if ((node.getAttribute("type") || "").toLowerCase() !== "checkbox") node.remove();
+    });
+
+    content.querySelectorAll("a[href]").forEach((link) => {
+      const href = link.getAttribute("href") || "";
+      if (legacyUrlMap[href]) link.setAttribute("href", legacyUrlMap[href]);
+      if (href.startsWith("/wp-" + "json/")) link.setAttribute("href", "/articulos/");
+    });
+
+    content.querySelectorAll("a[href]").forEach((link) => {
+      const href = link.getAttribute("href") || "";
+      if (!discountHrefPattern.test(href)) return;
+
+      const removableBlock = link.closest("article, .elementor-post, .eael-grid-post-holder-inner, .wp-block-button, .uagb-infobox__content-wrap, p, li, h4, figure");
+      if (removableBlock && discountTextPattern.test(removableBlock.textContent)) {
+        removableBlock.remove();
+      } else {
+        link.replaceWith(document.createTextNode(link.textContent));
+      }
+    });
+
+    content.querySelectorAll("iframe, video, object, embed").forEach((node) => {
+      const removableBlock = node.closest("figure, .wp-block-embed, .wp-block-video, .elementor-widget-video, .ast-oembed-container, .wp-block-embed__wrapper, p, li");
+      (removableBlock || node).remove();
+    });
+
+    content.querySelectorAll("a[href]").forEach((link) => {
+      const href = link.getAttribute("href") || "";
+      if (!videoHosts.some((host) => href.includes(host)) && !href.toLowerCase().includes(documentExt)) return;
+
+      const removableBlock = link.closest(".elementor-widget-button, .wp-block-button, p, li, figure");
+      if (removableBlock && externalAssetTextPattern.test(removableBlock.textContent)) {
+        removableBlock.remove();
+      } else {
+        link.remove();
+      }
+    });
+
+    if (shouldRemoveAmazonLinks) {
+      content.querySelectorAll("a[href]").forEach((link) => {
+        const href = link.getAttribute("href") || "";
+        if (!amazonHrefPattern.test(href)) return;
+        link.replaceWith(document.createTextNode(link.textContent));
+      });
+
+      content.querySelectorAll("li, p").forEach((node) => {
+        node.innerHTML = node.innerHTML.replace(/\s+\(AMAZON\)/gi, "");
+      });
+    }
+
+    content.querySelectorAll(".elementor-widget-button, .wp-block-button, p, li").forEach((node) => {
+      if (externalAssetTextPattern.test(node.textContent) && !node.querySelector("a[href]")) node.remove();
+    });
+
+    content.querySelectorAll("p, li, .wp-block-button, .uagb-infobox__content-wrap").forEach((node) => {
+      if (discountTextPattern.test(node.textContent)) node.remove();
+    });
+
+    content.querySelectorAll("li, p").forEach((node) => {
+      if (isJunkText(node.textContent) && !hasUsefulMedia(node)) node.remove();
+    });
+
+    content.querySelectorAll("ul, ol").forEach((listNode) => {
+      if (!listNode.querySelector("li")) listNode.remove();
+    });
+
+    content.querySelectorAll("figure").forEach((figure) => {
+      if (isJunkText(figure.textContent) && !hasUsefulMedia(figure)) figure.remove();
+    });
+
+    {% if not hideToc %}
+      if (!toc) return;
+
+      const headings = [...content.querySelectorAll("h2, h3")]
+        .filter((heading) => heading.textContent.trim().length > 0)
+        .slice(0, 18);
+
+      if (!headings.length) {
+        toc.closest(".article-toc")?.remove();
+        return;
+      }
+
+      const slugCounts = new Map();
+      const list = document.createElement("ol");
+
+      headings.forEach((heading) => {
+        const text = heading.textContent.trim();
+        const baseSlug = text
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/(^-|-$)/g, "") || "seccion";
+        const count = slugCounts.get(baseSlug) || 0;
+        slugCounts.set(baseSlug, count + 1);
+        heading.id = heading.id || (count ? `${baseSlug}-${count + 1}` : baseSlug);
+
+        const item = document.createElement("li");
+        if (heading.tagName === "H3") item.className = "toc-subitem";
+
+        const link = document.createElement("a");
+        link.href = `#${heading.id}`;
+        link.textContent = text;
+        item.append(link);
+        list.append(item);
+      });
+
+      toc.append(list);
+    {% endif %}
+  })();
+</script>

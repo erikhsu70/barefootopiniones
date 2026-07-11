@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% set pageTitle = title or site.name %}
+    {% set seoPageTitle = pageTitle | seoTitle(site.name) %}
+    {% set metaDescription = description | seoDescription(site.description) %}
+    <title>{{ seoPageTitle }}</title>
+    <meta name="description" content="{{ metaDescription }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {% set metaImage = image or site.heroImage %}
+    <meta property="og:type" content="{% if contentType == 'Artículo' %}article{% else %}website{% endif %}">
+    <meta property="og:title" content="{{ seoPageTitle }}">
+    <meta property="og:description" content="{{ metaDescription }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta name="twitter:title" content="{{ seoPageTitle }}">
+    <meta name="twitter:description" content="{{ metaDescription }}">
+    {% if metaImage %}
+      <meta property="og:image" content="{{ site.url }}{{ metaImage }}">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="{{ site.url }}{{ metaImage }}">
+    {% endif %}
+    <script type="application/ld+json">{% schemaGraph page, site, pageTitle, metaDescription, metaImage, contentType, date, sourceModified %}</script>
+    <link rel="icon" href="/assets/brand/barefoot-opiniones-mark.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body{% if pageClass %} class="{{ pageClass }}"{% endif %}>
+    <a class="skip-link" href="#contenido">Saltar al contenido</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="/" aria-label="{{ site.name }}">
+          <img class="brand-logo" src="/assets/brand/barefoot-opiniones-logo.svg" alt="{{ site.name }}" width="210" height="58">
+        </a>
+        <nav class="main-nav" aria-label="Principal">
+          {% for item in site.nav %}
+            <a href="{{ item.url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenido">
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <p class="footer-title">{{ site.name }}</p>
+        <p>Una guía de Isabel sobre zapatos con espacio para tus dedos, información clara y cero drama en los pies.</p>
+      </div>
+      <div class="footer-links">
+        {% for item in site.nav %}
+          <a href="{{ item.url }}">{{ item.label }}</a>
+        {% endfor %}
+        <a href="/sitemap.xml">Sitemap</a>
+      </div>
+      <div class="footer-links legal-links" aria-label="Legal">
+        <a href="/terms-of-service/">Condiciones de uso</a>
+        <a href="/privacy-policy/">Privacidad</a>
+        <a href="/contacto/">Contacto</a>
+        <a href="/disclaimers/">Avisos</a>
+      </div>
+    </footer>
+  </body>
+</html>

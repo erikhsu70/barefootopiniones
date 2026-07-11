@@ -1,0 +1,23 @@
+{
+  "importedAt": "2026-07-09T12:34:33.836Z",
+  "endpoints": [
+    {
+      "type": "post",
+      "restBase": "posts",
+      "totalFromApi": 297,
+      "written": 297
+    },
+    {
+      "type": "page",
+      "restBase": "pages",
+      "totalFromApi": 22,
+      "written": 21
+    },
+    {
+      "type": "ufaq",
+      "restBase": "ufaq",
+      "totalFromApi": 88,
+      "written": 88
+    }
+  ]
+}

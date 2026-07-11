@@ -1,0 +1,40 @@
+---
+layout: layouts/imported.njk
+templateEngineOverride: md
+title: Revisión de Etsy de sandalias griegas
+description: '*¡Actualizar! Después de 2 años, las sandalias con tiras de bola siguen
+  siendo algunas de mis sandalias baratas favoritas. La suela se ha ablandado y ahora
+  es más flexible y son bastante cómodos (¡pero aún menos flexibles de lo que prefiero)!
+  La sandalia trenzada de la derecha acabó no quedando bien, se quedó rígida y no
+  quedó […]'
+date: '2019-03-28T18:24:15'
+permalink: /grecian-sandals-etsy-review/
+sourceType: Artículo
+contentType: Artículo
+sourceId: 2301
+sourceSlug: grecian-sandals-etsy-review
+sourceModified: '2026-05-04T20:53:39'
+image: "/assets/generated/featured/posts/grecian-sandals-etsy-review.jpg"
+imageAlt: "Imagen destacada de Revisión de Etsy de sandalias griegas"
+tags:
+- traducido
+language: es
+translatedFrom: en
+---
+<p><em>*¡Actualizar! Después de 2 años, las sandalias con tiras de bola siguen siendo algunas de mis sandalias baratas favoritas. La suela se ha ablandado y ahora es más flexible y son bastante cómodos (¡pero aún menos flexibles de lo que prefiero)!</em> La sandalia trenzada de la derecha acabó no quedando bien, se quedó rígida y no quedó bien calzada. <br/>**Es muy importante tener en cuenta que parece que no todas las suelas que usa Natasa son iguales a las que se muestran aquí. Las suelas con costuras alrededor del borde y las suelas totalmente negras son extra duras y cónicas.<em> Si realiza el pedido, especificaría que desea el tipo de suela que se muestra en las dos sandalias izquierdas arriba *</em></p>
+<p>La salud de mis pies es muy importante para mí y SIEMPRE uso zapatos que sean flexibles y de zero drop. Pero a veces me lamento por los lindos estilos de zapatos que me estoy perdiendo. Es divertido (y está bien) seguir una tendencia de vez en cuando, por eso siempre me emociono cuando encuentro una manera de combinar mi amor por el estilo y unos pies sanos.</p>
+<p>Puedes imaginar mi emoción cuando descubrí que había tiendas de Etsy que fabricaban sus sandalias sin tacón a pedido. Y como las sandalias son abiertas, lo que permite la libertad de los dedos, no tienes que preocuparte tanto por el ancho de la puntera como lo haces con los zapatos cerrados.</p>
+<p>Hay un puñado de empresas de sandalias de cuero que están dispuestas a hacer esto con muchos estilos similares, pero la mejor precio y la más receptiva que he encontrado hasta ahora es s, dirigido por Natasa.</p>
+
+<p>Natasa ha respondido a todos mis mensajes rápidamente y ha estado más que dispuesta a atender mis solicitudes de personalización.  Ella misma diseña y fabrica todas las sandalias y tiene toneladas de opciones para elegir. Si deseas pedir un par de sandalias completamente planas, todo lo que necesitas hacer es escribir en las notas al finalizar la compra que quieres que se hagan sin tacón.</p>
+<p>Sus estilos oscilan entre $40 y $50 y el envío cuesta $12 sin importar cuántas sandalias pidas. Sus suelas son de un material sintético que viene con un talón ya colocado, por lo que para que no caigan, Natasa corta el talón. Está hecho de forma totalmente uniforme y sólo se nota al mirar las suelas de las sandalias.</p>
+
+<p>Las suelas son flexibles, pero más rígidas. Después de usarlos un verano, se han aflojado, pero siguen siendo más rígidos que mis otros zapatos. La plantilla y la parte superior de la sandalia están hechas de cuero sin estructura, que definitivamente se suaviza con el uso.</p>
+
+<p>No todos sus estilos serán amigables con los dedos de los pies, así que preste atención a la colocación de las correas (¡cuidado con los dedos meñiques aplastados!). Mi favorita es esta sencilla sandalia con tira en el tobillo y bola. Es atemporal y elegante y casi exactamente como un par de zapatos que amaba antes de mi transición.</p>
+<p>Utilicé su tabla de tallas para determinar que era talla 36, que según su tabla es una talla 5 de EE. UU.. Cada tabla de tallas es diferente, así que definitivamente mide y sigue la de ella (incluida en la descripción de cada listado) en lugar de pedir tu talla habitual. Y, por supuesto, comuníquese con Natasa si tiene alguna pregunta. </p>
+
+<p>Pedí un poco más de ancho en la correa de la bola cuando pedí la mía y quedaron preciosas. La colocación de la correa es buena; sobre la punta de mi pie pero sin presionar mis dedos hacia adentro. Es difícil saberlo en las fotos, pero el cuero no me queda ajustado sobre los dedos de los pies y pueden moverse y abrirse mientras camino (mi dedo meñique, naturalmente, gira un poco hacia adentro).</p>
+<p>Muchos de mis lectores ya han pedido sandalias en su tienda, ¡y ella ha sido genial para complacer a todos! Recuerde que estos están hechos a mano y provienen del extranjero, por lo que tendrá que tener paciencia durante algunas semanas hasta que lleguen a usted. ¡Vale la pena esperar!</p>
+<p>Me encantaría escuchar cómo tu  ¡Trabaja para ti!</p>
+

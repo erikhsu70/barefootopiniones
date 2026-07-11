@@ -1,0 +1,19 @@
+{
+  "name": "barefoot-opiniones",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio estatico 11ty para Barefoot Opiniones.",
+  "scripts": {
+    "build": "node scripts/clean-dist.mjs && eleventy",
+    "check:featured": "node scripts/check-featured-images.mjs",
+    "export:titles": "node scripts/export-post-titles.mjs",
+    "hydrate:thumbnails": "node scripts/hydrate-imported-thumbnails.mjs",
+    "import:anyas": "node scripts/import-anyas.mjs",
+    "translate:imported": "python3 scripts/translate_imported.py",
+    "start": "eleventy --serve --port=8080"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,68 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: anyasSitemap.generatedPages
+  size: 1
+  alias: archive
+permalink: "{{ archive.path }}"
+eleventyComputed:
+  title: "{{ archive | archiveDisplayTitle }} | Archivo"
+  description: "Archivo de {{ archive | archiveDisplayTitle }} en Barefoot Opiniones: artículos, reseñas y guías de Isabel para encontrar contenido barefoot por tema, marca o necesidad."
+---
+{% set archiveItems = collections.importedPosts | archivePosts(archive) %}
+{% set archiveLabel = archive | archiveTypeLabel %}
+{% set archiveTitle = archive | archiveDisplayTitle %}
+
+<section class="page-content taxonomy-page">
+  <section class="taxonomy-hero">
+    <div>
+      <p class="eyebrow">{{ archiveLabel }}</p>
+      <h1>{{ archiveTitle }}</h1>
+      <p>{{ archive.description or "Artículos de BarefootOpiniones agrupados para navegar rápido por tema, intención de búsqueda y tipo de zapato." }}</p>
+    </div>
+    <div class="taxonomy-stats">
+      <div><strong>{{ archiveItems.length }}</strong><span>Artículos</span></div>
+      <div><strong>{{ collections.importedPosts.length }}</strong><span>Total blog</span></div>
+    </div>
+  </section>
+
+  <nav class="taxonomy-jump" aria-label="Archivos relacionados">
+    <a href="/articulos/">Todo el blog</a>
+    <a href="/category/shoe-lists/">Listas</a>
+    <a href="/category/resources/">Recursos</a>
+    <a href="/category/reviews/">Reseñas</a>
+    <a href="/tag/transitioning/">Transición</a>
+    <a href="/style/">Estilo</a>
+  </nav>
+
+  {% if archiveItems.length %}
+    <div class="archive-grid taxonomy-grid">
+      {% for post in archiveItems %}
+        <article class="post-card">
+          <a href="{{ post.url }}">
+            {% if post.data.image %}
+              <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+            {% endif %}
+            <div class="post-card-content">
+              <div class="post-meta">
+                <span>{{ archiveLabel }}</span>
+                <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+              </div>
+              <h3>{{ post.data.title }}</h3>
+              {% if post.data.description %}
+                <p>{{ post.data.description | safe }}</p>
+              {% endif %}
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <section class="taxonomy-empty">
+      <p class="eyebrow">Sin resultados claros</p>
+      <h2>No he encontrado artículos para este archivo.</h2>
+      <p>Puede que esta URL exista por mantener el sitemap original. Mientras organizamos el contenido, puedes volver al índice completo.</p>
+      <a class="button" href="/articulos/">Ver todos los artículos</a>
+    </section>
+  {% endif %}
+</section>

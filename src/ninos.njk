@@ -1,0 +1,21 @@
+---
+layout: layouts/page.njk
+title: Zapatos barefoot para niños
+description: Calzado flexible, resistente y facil de poner para peques que no paran quietos.
+eyebrow: Kids
+permalink: /ninos/
+---
+<div class="archive-grid">
+  {% for post in collections.ninos %}
+    <article class="post-card">
+      <a href="{{ post.url }}">
+        <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        <div class="post-card-content">
+          <div class="post-meta"><span>{{ post.data.category }}</span></div>
+          <h3>{{ post.data.title }}</h3>
+          <p>{{ post.data.description }}</p>
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>
