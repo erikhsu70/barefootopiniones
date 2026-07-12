@@ -18,31 +18,35 @@ translatedFrom: en
 ---
 {% set featured = collections.importedPosts | featuredPosts %}
 {% set quickTopics = blogTopics.categories.slice(0, 6) %}
+{% set heroPost = featured[0] %}
+{% set secondaryPosts = featured.slice(1, 5) %}
+{% set latestPosts = collections.importedPosts.slice(0, 6) %}
 
-<section class="home-hero">
-  <div class="home-hero__media">
-    <img src="/assets/generated/featured/homepage.jpg" alt="Zapatos barefoot bonitos sobre un fondo editorial" fetchpriority="high">
-  </div>
+<section class="home-hero home-hero--magazine">
   <div class="home-hero__content">
-    <p class="eyebrow">BarefootOpiniones por Isabel</p>
-    <h1>Zapatos barefoot, probados con ojo crítico.</h1>
-    <p class="home-hero__intro">Soy Isabel, una loca por las barefoot. Ordeno guías, reseñas y comparativas para encontrar calzado bonito, cómodo y con espacio real para tus dedos.</p>
-    <div class="button-row">
-      <a class="button" href="/articulos/">Ver todos los artículos</a>
-      <a class="button secondary" href="/barefoot-shoes-faq/">Resolver dudas</a>
+    <div>
+      <p class="eyebrow">Diario barefoot · {{ collections.importedPosts.length }}+ artículos</p>
+      <h1>Camina descalza, <span>con criterio.</span></h1>
+      <p class="home-hero__intro">Guías, reseñas y comparativas de calzado barefoot escritas por Isabel. Una loca por las barefoot, pero con el radar puesto en ajuste, estética y comodidad real.</p>
+      <div class="button-row">
+        <a class="button" href="/articulos/">Explorar artículos</a>
+        <a class="button secondary" href="/barefoot-shoes-faq/">Empezar desde cero</a>
+      </div>
     </div>
-    <div class="home-hero__stats" aria-label="Resumen de contenido">
-      <span><strong>297</strong> artículos</span>
-      <span><strong>124</strong> listas</span>
-      <span><strong>Isabel</strong> al mando</span>
-    </div>
+    {% if heroPost %}
+      <a class="home-hero-card" href="{{ heroPost.url }}">
+        <img src="{{ heroPost.data.image or '/assets/generated/featured/homepage.jpg' }}" alt="{{ heroPost.data.imageAlt or heroPost.data.title }}" fetchpriority="high">
+        <span>Destacado</span>
+        <strong>{{ heroPost.data.title }}</strong>
+      </a>
+    {% endif %}
   </div>
 </section>
 
-<section class="home-intro" aria-labelledby="rutas-home">
+<section class="home-intro home-intro--editorial" aria-labelledby="rutas-home">
   <div>
-    <p class="eyebrow">Empieza por aquí</p>
-    <h2 id="rutas-home">Rutas rápidas para no perderte entre 297 artículos.</h2>
+    <p class="eyebrow">Explora por temática</p>
+    <h2 id="rutas-home">Nueve caminos para elegir bien.</h2>
   </div>
   <p>He agrupado el contenido por intención de búsqueda: empezar desde cero, comparar listas, mirar marcas concretas, vestir mejor, comprar para niños o resolver dudas de ajuste.</p>
 </section>
@@ -96,6 +100,35 @@ translatedFrom: en
   </div>
 </section>
 
+{% if secondaryPosts.length %}
+<section class="section home-editor-picks">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Selección de Isabel</p>
+      <h2>Lo que merece estar a mano.</h2>
+    </div>
+    <p>Lecturas útiles para empezar, comparar y aterrizar el mundo barefoot sin perderte entre marcas.</p>
+  </div>
+  <div class="section-inner grid feature-grid">
+    {% for post in secondaryPosts %}
+      <article class="post-card">
+        <a href="{{ post.url }}">
+          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+          <div class="post-card-content">
+            <div class="post-meta">
+              <span>Selección</span>
+              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+            </div>
+            <h3>{{ post.data.title }}</h3>
+            <p>{{ post.data.description }}</p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
 <section class="section">
   <div class="section-head">
     <div>
@@ -119,6 +152,29 @@ translatedFrom: en
           </div>
         </a>
       </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section latest-section">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Últimos artículos</p>
+      <h2>Publicado recientemente.</h2>
+    </div>
+    <p><a class="text-link" href="/articulos/">Ver todos los artículos</a></p>
+  </div>
+  <div class="section-inner latest-list">
+    {% for post in latestPosts %}
+      <a class="latest-item" href="{{ post.url }}">
+        {% if post.data.image %}
+          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        {% endif %}
+        <span>
+          <small>{{ post.date | readableDate }}</small>
+          <strong>{{ post.data.title }}</strong>
+        </span>
+      </a>
     {% endfor %}
   </div>
 </section>

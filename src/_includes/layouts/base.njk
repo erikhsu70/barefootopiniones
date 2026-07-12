@@ -46,21 +46,27 @@
     </main>
 
     <footer class="site-footer">
-      <div>
+      <div class="site-footer__brand">
         <p class="footer-title">{{ site.name }}</p>
-        <p>Una guía de Isabel sobre zapatos con espacio para tus dedos, información clara y cero drama en los pies.</p>
+        <p>Reseñas honestas de calzado barefoot en español. Soy Isabel: pruebo, comparo y ordeno opciones bonitas para pies libres.</p>
       </div>
-      <div class="footer-links">
-        {% for item in site.nav %}
-          <a href="{{ item.url }}">{{ item.label }}</a>
-        {% endfor %}
-        <a href="/sitemap.xml">Sitemap</a>
+      <div class="footer-column">
+        <p class="footer-label">Explorar</p>
+        <div class="footer-links">
+          {% for item in site.nav %}
+            <a href="{{ item.url }}">{{ item.label }}</a>
+          {% endfor %}
+          <a href="/sitemap.xml">Sitemap</a>
+        </div>
       </div>
-      <div class="footer-links legal-links" aria-label="Legal">
-        <a href="/terms-of-service/">Condiciones de uso</a>
-        <a href="/privacy-policy/">Privacidad</a>
-        <a href="/contacto/">Contacto</a>
-        <a href="/disclaimers/">Avisos</a>
+      <div class="footer-column">
+        <p class="footer-label">Legal</p>
+        <div class="footer-links legal-links" aria-label="Legal">
+          <a href="/terms-of-service/">Condiciones de uso</a>
+          <a href="/privacy-policy/">Privacidad</a>
+          <a href="/contacto/">Contacto</a>
+          <a href="/disclaimers/">Avisos</a>
+        </div>
       </div>
     </footer>
   </body>
