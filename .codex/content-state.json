@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Merrell barefoot: guia de modelos",
+      "title": "Guia de Merrell barefoot: modelos, tallas y tipo de pie",
+      "url": "https://barefootopiniones.com/merrell-barefoot-guia-modelos-tallas/",
+      "slug": "merrell-barefoot-guia-modelos-tallas",
+      "status": "pushed_unverified",
+      "commit": "8dfc9d5",
+      "type": "new",
+      "lastChecked": "2026-07-17T14:00:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Barefoot Opiniones",
+        "expectedH1": "Guia de Merrell barefoot: modelos, tallas y tipo de pie",
+        "note": "Live URL returned the home page canonical instead of the article after initial Cloudflare polling."
+      }
+    }
+  ]
+}
