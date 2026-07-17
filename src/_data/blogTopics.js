@@ -54,6 +54,7 @@ module.exports = {
         "shapen",
         "splay",
         "lems",
+        "merrell",
         "mukishoes",
         "softstar"
       ]
