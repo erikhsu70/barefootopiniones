@@ -24,25 +24,25 @@
     },
     {
       "topic": "Altra Torin 9",
-      "title": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
+      "title": "Altra Torin 9: mi opinión honesta tras 27 km",
       "url": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",
       "slug": "altra-torin-9-opinion-honesta",
       "status": "Published",
-      "commit": "7f1d98a",
-      "type": "new",
-      "lastChecked": "2026-07-18T17:44:25+02:00",
+      "commit": "98a27cd",
+      "type": "update",
+      "lastChecked": "2026-07-18T18:03:31+02:00",
       "verification": {
         "httpStatus": 200,
-        "observedH1": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
-        "expectedH1": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
+        "observedH1": "Altra Torin 9: mi opinión honesta tras 27 km",
+        "expectedH1": "Altra Torin 9: mi opinión honesta tras 27 km",
         "canonical": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",
         "imageStatus": 200,
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "Article, Breadcrumb and FAQ",
         "render": "clean desktop and mobile",
-        "deployment": "c17005ef",
-        "note": "Verified live on the custom domain after the direct Cloudflare Pages production deployment."
+        "deployment": "872b1a8f",
+        "note": "Updated with Isabel's four-run, 27 km test and verified live on the custom domain after direct deployment."
       }
     }
   ]
