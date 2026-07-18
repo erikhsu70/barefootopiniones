@@ -22,13 +22,13 @@ faqItems:
   - question: "¿Qué mejora la Torin 9 frente a la Torin 8?"
     answer: "Añade espuma P35X de doble densidad, suela Vibram XS DURA y un rediseño de talón, cuello y lengüeta. La mejora de durabilidad todavía necesita uso prolongado para confirmarse."
 ---
-Las Altra Torin 9 de estas fotos me acaban de llegar. El par es real, las imágenes son propias y esta es mi opinión honesta en el sentido más literal: puedo valorar el diseño, la construcción y la primera sensación del modelo, pero **todavía no puedo hablar de durabilidad ni fingir una prueba de 100 kilómetros que no existe**.
+Estas Altra Torin 9 me acaban de llegar y, como hago siempre que recibo un modelo que me genera curiosidad, lo primero fue sacarlas de la caja, mirarlas con calma y fotografiar cada detalle. Sí, el par de las fotos es el mío. Y sí, esta opinión va a ser muy de Isabel: te voy a contar lo que me gusta, lo que me hace dudar y lo que todavía no puedo saber.
 
-He contrastado esa primera impresión con la ficha oficial, pruebas especializadas y conversaciones recientes entre propietarios de Torin. El resultado no es un copia y pega de sus notas, sino una lectura crítica de dónde parece estar el consenso y dónde las experiencias se contradicen.
+Llevo años usando calzado barefoot y por eso no miro una zapatilla como esta igual que alguien que viene de una deportiva convencional. Me fijo enseguida en la forma de la puntera, en cuánto sujeta el upper y en todo ese material que queda entre el pie y el suelo. También he contrastado mis primeras impresiones con la ficha oficial, pruebas especializadas y conversaciones recientes entre propietarios de Torin. No quiero repetir sus conclusiones como si fueran mías, sino separar lo que veo en mi par de lo que otras personas ya han comprobado corriendo.
 
-**Mi veredicto rápido:** la Torin 9 parece la actualización más interesante de la familia en varias generaciones. La nueva espuma P35X y la suela Vibram XS DURA atacan dos puntos débiles repetidos en versiones anteriores: una pisada que podía apagarse con los kilómetros y un agarre mejorable. La recomendaría como zapatilla neutra de entrenamiento diario a quien ya se lleve bien con el drop cero, quiera amortiguación media y necesite espacio para los dedos sin una horma completamente desestructurada. No la compraría a ciegas si tienes el empeine alto, un pie muy ancho o esperas una sensación barefoot fina y flexible.
+**Mi veredicto rápido:** de entrada, la Torin 9 me parece la actualización más interesante de la familia en varias generaciones. Me gusta que Altra haya atacado dos críticas muy repetidas, la espuma que podía quedarse algo apagada y el agarre mejorable, con una P35X nueva y una suela Vibram XS DURA. La veo como zapatilla diaria para quien ya se lleva bien con el drop cero, quiere amortiguación y agradece espacio delante sin renunciar a cierta estructura. Ahora bien: yo no la compraría a ciegas si tienes el empeine alto, un pie muy ancho o esperas esa sensación fina y flexible que asociamos al barefoot.
 
-> **Transparencia de la reseña:** no hay una colaboración declarada detrás de este artículo. Las fotos muestran el par recibido por Barefoot Opiniones. Esta versión distingue mis observaciones iniciales de las experiencias publicadas por terceros y se actualizará cuando exista uso suficiente para valorar ajuste en carrera y desgaste. Los enlaces de fuentes no condicionan el veredicto.
+> **Transparencia, como siempre:** no hay una colaboración declarada detrás de este artículo. Las fotos son mías y muestran el par que he recibido. Esta primera versión recoge lo que puedo comprobar hoy y señala con claridad cuándo hablo de experiencias publicadas por otras personas. La actualizaré cuando tenga uso suficiente para contarte cómo se sienten corriendo y cómo envejecen. No voy a rellenar ese hueco con kilómetros inventados.
 
 ## En este artículo
 
@@ -61,9 +61,9 @@ La ficha española de Altra llegó a mostrar “28 mm/24 mm” junto a “drop 0
 
 ### La construcción transmite más zapatilla de running que barefoot
 
-Lo primero que se ve es una base relativamente ancha, una mediasuela con bastante presencia y un upper estructurado alrededor del mediopié y el talón. Aunque el drop sea cero y la puntera respete mejor la forma de los dedos que muchas zapatillas convencionales, la Torin 9 **no es barefoot**: hay 28 mm de material bajo el pie, goma abundante y una plataforma diseñada para amortiguar y estabilizar.
+Después de años con suelas finas, lo primero que me salta a la vista es la cantidad de zapatilla que hay aquí. La base es relativamente ancha, la mediasuela tiene bastante presencia y el upper está claramente estructurado alrededor del mediopié y el talón. Aunque el drop sea cero y la puntera respete mejor la forma de los dedos que muchas deportivas convencionales, la Torin 9 **no es barefoot**: hay 28 mm de material bajo el pie, bastante goma y una plataforma pensada para amortiguar y estabilizar.
 
-Eso no es un defecto. Es precisamente su propuesta. Puede encajar entre una deportiva tradicional estrecha y una zapatilla minimalista fina. Si estás comparando categorías, esta guía sobre [qué es realmente un zapato barefoot o minimalista](/es-exactamente-zapato-barefoot-o-minimalista/) aclara la diferencia.
+Y esto no lo digo como crítica. Es precisamente la gracia del modelo. Para mí ocupa ese espacio intermedio entre una deportiva tradicional que aprieta los dedos y una minimalista fina que te deja sentirlo todo. Si estás comparando categorías, esta guía sobre [qué es realmente un zapato barefoot o minimalista](/es-exactamente-zapato-barefoot-o-minimalista/) aclara la diferencia.
 
 <figure>
   <img src="/assets/images/reviews/altra-torin-9/altra-torin-9-perfil.webp" alt="Perfil completo de una Altra Torin 9 con la espuma P35X visible" width="1200" height="1600" loading="lazy">
@@ -72,9 +72,9 @@ Eso no es un defecto. Es precisamente su propuesta. Puede encajar entre una depo
 
 ### La puntera es anatómica, pero no parece ilimitada
 
-Vista desde arriba, la parte delantera se abre respecto al mediopié y evita el remate puntiagudo habitual. También se aprecia que el upper tiene forma y acolchado: no cae sobre el pie como un knit muy blando. Eso coincide con la denominación FootShape Standard de Altra, que busca espacio delante y sujeción en el centro.
+La puntera es siempre una de las primeras cosas que miro. Vista desde arriba, aquí la parte delantera se abre respecto al mediopié y evita ese remate puntiagudo que tanto me molesta en las zapatillas convencionales. También se aprecia que el upper tiene forma y acolchado: no cae sobre el pie como un knit muy blando. Eso encaja con la horma FootShape Standard de Altra, que deja espacio delante pero sujeta más el centro.
 
-Mi reserva inicial está aquí. “FootShape” no significa automáticamente “apta para cualquier pie ancho”. Un pie ancho en metatarsos, de gran volumen o con empeine alto puede necesitar la versión Wide. La foto permite valorar la geometría, pero no sustituye medir el pie ni comprobar dónde cae el dedo más largo.
+Y aquí está mi primera reserva. “FootShape” suena muy bien, pero no significa automáticamente “apta para cualquier pie ancho”. Si tienes anchura en metatarsos, mucho volumen o empeine alto, es posible que necesites la versión Wide. La foto permite ver la geometría, pero no sustituye medir el pie ni comprobar dónde cae el dedo más largo.
 
 <div class="model-image-gallery">
   <figure>
@@ -89,9 +89,9 @@ Mi reserva inicial está aquí. “FootShape” no significa automáticamente �
 
 ### La suela es el cambio que más confianza inspira sobre el papel
 
-La goma negra cubre las zonas principales de apoyo, mientras los canales naranjas segmentan el antepié. Altra afirma que XS DURA ofrece un 8,5 % más de agarre que la Torin 8. Es una afirmación de marca, no un resultado que yo haya medido. Aun así, elegir Vibram para la versión estándar es una mejora concreta y fácil de entender.
+La suela fue el detalle que más ganas tenía de ver. La goma negra cubre las zonas principales de apoyo y los canales naranjas segmentan el antepié. Altra afirma que XS DURA ofrece un 8,5 % más de agarre que la Torin 8. Esa cifra es de la marca, no una medición mía, pero me alegra que Vibram llegue a la versión estándar porque el agarre era una de las críticas que más se repetían.
 
-Todavía no afirmaré que agarra bien en mojado ni que dura más. Eso requiere correr en asfalto seco, pasos pintados y pavimento húmedo, y revisar el desgaste después. De momento, puedo confirmar que la suela del par fotografiado coincide con la construcción anunciada.
+Lo que no voy a decirte todavía es que agarra genial en mojado o que dura muchísimo. Para eso hay que correr sobre asfalto seco, pasos pintados y pavimento húmedo, y después mirar cómo se desgasta. Hoy solo puedo confirmar que la suela de mi par coincide con la construcción anunciada y que, sobre el papel, el cambio tiene sentido.
 
 ## Qué cambia frente a las Torin 8
 
@@ -107,7 +107,7 @@ También baja la altura declarada de 30 mm en Torin 8 a 28 mm en Torin 9. Es una
 
 ### Donde sí aparece un consenso
 
-Las primeras pruebas profesionales describen la P35X como más viva que la espuma anterior, pero no como una espuma de competición extremadamente blanda. La [prueba de Running Lab](https://runninglabstore.com/blogs/news/altra-torin-9-review-plush-cushioning-meets-natural-running) destaca una transición estable, mejor sujeción de talón y una sensación más conectada al suelo que Torin 7. La [review de Runner's World](https://www.runnersworld.com/gear/a71931047/altra-torin-9-review/) también considera que la nueva mediasuela y el agarre hacen a la Torin más versátil. Ambos medios coinciden en que sigue siendo una diaria neutra, no una zapatilla de placa ni una supertrainer.
+Para no quedarme solo con lo que veo al sacarlas de la caja, leí pruebas profesionales y bastantes comentarios de usuarios. Las primeras describen la P35X como más viva que la espuma anterior, pero no como una espuma de competición extremadamente blanda. La [prueba de Running Lab](https://runninglabstore.com/blogs/news/altra-torin-9-review-plush-cushioning-meets-natural-running) destaca una transición estable, mejor sujeción de talón y una sensación más conectada al suelo que Torin 7. La [review de Runner's World](https://www.runnersworld.com/gear/a71931047/altra-torin-9-review/) también considera que la nueva mediasuela y el agarre hacen a la Torin más versátil. Ambos medios coinciden en que sigue siendo una diaria neutra, no una zapatilla de placa ni una supertrainer.
 
 El resumen más razonable es este: amortiguación suficiente para rodajes fáciles y tiradas largas, una respuesta algo más alegre que Torin 8 y una plataforma estable para acumular kilómetros. No hay base todavía para prometer cuántos kilómetros conserva esas propiedades.
 
@@ -115,7 +115,7 @@ El resumen más razonable es este: amortiguación suficiente para rodajes fácil
 
 En las conversaciones recientes de [propietarios de Torin 9 en Reddit](https://www.reddit.com/r/AltraRunning/comments/1uoi6nf/any_feedback_on_the_torin_9/) aparecen dos experiencias opuestas. Algunos perciben más rebote, mejor talón y una zapatilla “para todo”. Otros la sienten firme al sacarla de la caja, más rígida y más restrictiva que Escalante o Torin 7.
 
-La contradicción no invalida las reseñas; señala que la expectativa importa. Quien llega desde una zapatilla tradicional amortiguada puede notar una puntera generosa y una base estable. Quien usa calzado barefoot o una Escalante muy flexible puede sentir que el upper contiene demasiado el pie.
+Para mí, esa contradicción es de lo más útil de toda la investigación. Quien llega desde una zapatilla tradicional amortiguada puede notar una puntera generosa y una base estable. Quien lleva tiempo con barefoot o usa una Escalante muy flexible puede sentir que el upper contiene demasiado el pie. Las dos opiniones pueden ser honestas porque parten de referencias completamente distintas.
 
 Hay un comentario UGC que se repite lo suficiente como para tomarlo en serio: **la Torin 9 puede sentirse algo más corta y ceñida que Torin 7**, incluso en Wide. Un [hilo específico sobre tallaje](https://www.reddit.com/r/AltraRunning/comments/1uquajj/torin_9_sizing_help/) refleja precisamente la falta de unanimidad: algunos usuarios suben media talla y otros comparan las plantillas con Lone Peak 9 Wide sin encontrar diferencia. No lo convertiría aún en una regla universal porque el modelo acaba de salir y la muestra es pequeña. Sí lo convertiría en una razón para no comprar basándose solo en la talla habitual.
 
@@ -138,7 +138,7 @@ Para pies muy anchos, cuadrados o de gran volumen, empezaría por Wide. Para tal
 
 ### ¿Tallan pequeñas?
 
-Mi recomendación no es “sube media talla” de forma automática. Es esta:
+Si algo he aprendido probando calzado barefoot es que una recomendación universal de talla casi siempre acaba fallándole a alguien. Por eso no voy a decirte “sube media talla” de forma automática. Haría esto:
 
 1. Mide ambos pies al final del día, de talón al dedo más largo.
 2. Usa la medida del pie mayor y añade el margen indicado por Altra. La guía oficial propone 0,5 cm.
@@ -161,9 +161,9 @@ Deja espacio delante, pero no tanto como para que el pie se desplace en bajadas 
 | Primera experiencia con drop cero | Con transición gradual | El cambio de carga depende de tu historial y volumen |
 | Trail técnico | No | La suela está planteada para carretera, no para barro o roca técnica |
 
-**Pros que sí puedo defender ahora:** puntera más respetuosa que una deportiva convencional, drop cero real, nueva suela Vibram, plataforma estable, fotos y construcción propias verificables, y una actualización técnica sustancial frente a Torin 8.
+**Lo que me gusta de entrada:** la puntera es más respetuosa que la de una deportiva convencional, el drop cero es real, la nueva suela Vibram tiene sentido, la plataforma parece estable y la actualización frente a Torin 8 tiene bastante más sustancia que un simple cambio de colores.
 
-**Contras o reservas:** precio de lanzamiento alto, ajuste Standard menos libre que el Original, posible talla corta según los primeros usuarios, flexibilidad limitada frente a una zapatilla barefoot y durabilidad aún no demostrada.
+**Lo que me hace esperar antes de entusiasmarme:** el precio de lanzamiento es alto, la horma Standard es menos libre que la Original, varios usuarios hablan de una talla algo corta, la flexibilidad queda lejos de una zapatilla barefoot y todavía no sabemos cómo envejecen la espuma y la goma.
 
 ## Alternativas a las Altra Torin 9
 
@@ -183,11 +183,11 @@ La conclusión práctica no es diagnosticar por internet, sino ajustar la exposi
 
 ## Mi conclusión sobre las Altra Torin 9
 
-Mi opinión honesta hoy es favorable, pero provisional. La Torin 9 reúne una combinación poco común: 0 mm de drop, puntera anatómica, amortiguación suficiente para entrenar en asfalto y una suela Vibram que por fin parece estar al nivel del resto de la zapatilla. El par recibido está bien rematado a simple vista y los cambios técnicos tienen más sustancia que una renovación de colores.
+Si me preguntas hoy, mi opinión es favorable, pero provisional. La Torin 9 reúne una combinación que entiendo perfectamente que atraiga a mucha gente: 0 mm de drop, puntera anatómica, bastante amortiguación para asfalto y una suela Vibram que por fin parece estar al nivel del resto de la zapatilla. Mi par está bien rematado a simple vista y los cambios tienen bastante más sustancia que una renovación de colores.
 
-La principal advertencia es el ajuste. Las primeras opiniones no son unánimes y varias apuntan a menos longitud o volumen que Torin 7. Probaría con atención la talla habitual y media talla más, o la versión Wide cuando el problema sea anchura. No asumiría que “Altra” equivale siempre a extra ancho.
+Mi principal advertencia sigue siendo el ajuste. Las primeras opiniones no son unánimes y varias apuntan a menos longitud o volumen que Torin 7. Yo compararía con calma la talla habitual y media talla más, o probaría Wide cuando el problema sea la anchura. Una cosa que repito mucho en esta web es que “Altra” no equivale automáticamente a extra ancho.
 
-¿La compraría para correr barefoot? No, porque no es barefoot. ¿La consideraría para rodajes diarios si quiero drop cero con protección? Sí. La siguiente actualización de esta reseña debe responder con experiencia propia a tres preguntas: cómo se siente la P35X corriendo, cuánto sujeta el upper cuando el pie se hincha y qué desgaste presenta la Vibram. Hasta entonces, prefiero una conclusión limitada y verdadera a una puntuación inventada.
+¿La elegiría buscando una experiencia barefoot? No, porque no lo es. ¿La tendría en cuenta para rodajes diarios si quiero drop cero con protección? Sí, sin duda entraría en mi lista. La siguiente actualización tendrá que responder con experiencia propia a tres preguntas: cómo se siente la P35X corriendo, cuánto sujeta el upper cuando el pie se hincha y qué desgaste presenta la Vibram. Hasta entonces, prefiero contarte exactamente dónde estoy a poner una puntuación bonita que todavía no puedo defender.
 
 <figure>
   <img src="/assets/images/reviews/altra-torin-9/altra-torin-9-unboxing.webp" alt="Caja abierta con las Altra Torin 9 envueltas en papel de la marca" width="1200" height="1600" loading="lazy">
