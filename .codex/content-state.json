@@ -5,15 +5,21 @@
       "title": "Guia de Merrell barefoot: modelos, tallas y tipo de pie",
       "url": "https://barefootopiniones.com/merrell-barefoot-guia-modelos-tallas/",
       "slug": "merrell-barefoot-guia-modelos-tallas",
-      "status": "pushed_unverified",
+      "status": "Published",
       "commit": "8dfc9d5",
       "type": "new",
-      "lastChecked": "2026-07-18T16:44:15+02:00",
+      "lastChecked": "2026-07-18T17:44:25+02:00",
       "verification": {
         "httpStatus": 200,
-        "observedH1": "Barefoot Opiniones",
+        "observedH1": "Guia de Merrell barefoot: modelos, tallas y tipo de pie",
         "expectedH1": "Guia de Merrell barefoot: modelos, tallas y tipo de pie",
-        "note": "Live URL returned the home page canonical instead of the article after initial Cloudflare polling."
+        "canonical": "https://barefootopiniones.com/merrell-barefoot-guia-modelos-tallas/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "render": "clean desktop and mobile",
+        "deployment": "c17005ef",
+        "note": "Verified live after the direct Cloudflare Pages production deployment."
       }
     },
     {
@@ -21,15 +27,22 @@
       "title": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
       "url": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",
       "slug": "altra-torin-9-opinion-honesta",
-      "status": "pushed_unverified",
+      "status": "Published",
       "commit": "7f1d98a",
       "type": "new",
-      "lastChecked": "2026-07-18T17:21:47+02:00",
+      "lastChecked": "2026-07-18T17:44:25+02:00",
       "verification": {
         "httpStatus": 200,
-        "observedH1": "Barefoot Opiniones",
+        "observedH1": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
         "expectedH1": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
-        "note": "Live URL still returned the home page canonical after the Isabel-voice update; article, hero image, index entry and sitemap could not be verified live."
+        "canonical": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "Article, Breadcrumb and FAQ",
+        "render": "clean desktop and mobile",
+        "deployment": "c17005ef",
+        "note": "Verified live on the custom domain after the direct Cloudflare Pages production deployment."
       }
     }
   ]
