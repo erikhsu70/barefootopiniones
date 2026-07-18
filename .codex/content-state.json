@@ -22,14 +22,14 @@
       "url": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",
       "slug": "altra-torin-9-opinion-honesta",
       "status": "pushed_unverified",
-      "commit": "0ade2a0",
+      "commit": "7f1d98a",
       "type": "new",
-      "lastChecked": "2026-07-18T16:44:15+02:00",
+      "lastChecked": "2026-07-18T17:21:47+02:00",
       "verification": {
         "httpStatus": 200,
         "observedH1": "Barefoot Opiniones",
         "expectedH1": "Altra Torin 9: mi opinión honesta, talla y primeras impresiones",
-        "note": "Live URL returned the home page canonical after three Cloudflare checks; article, hero image, index entry and sitemap could not be verified live."
+        "note": "Live URL still returned the home page canonical after the Isabel-voice update; article, hero image, index entry and sitemap could not be verified live."
       }
     }
   ]
