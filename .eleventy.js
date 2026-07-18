@@ -427,7 +427,7 @@ function absoluteSiteUrl(site, url = "") {
   return `${site.url}${url.startsWith("/") ? "" : "/"}${url}`;
 }
 
-function schemaGraph(page = {}, site = {}, title, description, image, contentType, date, sourceModified) {
+function schemaGraph(page = {}, site = {}, title, description, image, contentType, date, sourceModified, faqItems = []) {
   const pageUrl = absoluteSiteUrl(site, page.url || "/");
   const cleanDescription = cleanSummaryText(description || site.description);
   const pageTitle = title || site.name;
@@ -494,6 +494,26 @@ function schemaGraph(page = {}, site = {}, title, description, image, contentTyp
     primary.publisher = { "@id": `${site.url}/#organization` };
     if (date) primary.datePublished = new Date(date).toISOString();
     if (sourceModified || date) primary.dateModified = new Date(sourceModified || date).toISOString();
+  }
+
+  const visibleFaqItems = Array.isArray(faqItems)
+    ? faqItems.filter((item) => item?.question && item?.answer)
+    : [];
+  if (pageType !== "FAQPage" && visibleFaqItems.length) {
+    graph.push({
+      "@type": "FAQPage",
+      "@id": `${pageUrl}#faq`,
+      url: pageUrl,
+      inLanguage: "es",
+      mainEntity: visibleFaqItems.map((item) => ({
+        "@type": "Question",
+        name: cleanSummaryText(item.question),
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: cleanSummaryText(item.answer)
+        }
+      }))
+    });
   }
 
   return JSON.stringify({ "@context": "https://schema.org", "@graph": graph }, null, 2)
@@ -589,7 +609,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("importedPosts", (collectionApi) => {
     return collectionApi
-      .getFilteredByGlob("src/imported/posts/*.md")
+      .getFilteredByGlob(["src/imported/posts/*.md", "src/posts/*.md"])
       .filter((post) => !isDiscountPost(post))
       .sort((a, b) => b.date - a.date);
   });

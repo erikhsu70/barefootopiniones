@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **295 artículos únicos**.
+Generado desde la web estática publicada. Total: **296 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -12,12 +12,12 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 |---|---:|---:|
 | Primeros pasos | 14 | 14 |
 | Listas y comparativas | 49 | 50 |
-| Opiniones de marcas | 138 | 148 |
+| Opiniones de marcas | 139 | 149 |
 | Mujer y estilo | 39 | 72 |
 | Niños | 4 | 23 |
 | Botas e invierno | 5 | 40 |
 | Sandalias y verano | 6 | 35 |
-| Deporte y movimiento | 2 | 19 |
+| Deporte y movimiento | 2 | 20 |
 | Puntera ancha | 7 | 24 |
 | Sin clasificar | 31 | 31 |
 
@@ -25,7 +25,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 
 | Formato | Artículos |
 |---|---:|
-| Opinión | 149 |
+| Opinión | 150 |
 | Artículo | 84 |
 | Lista o comparativa | 54 |
 | Guía | 8 |
@@ -101,8 +101,9 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Wildling Ranidae: botas de lluvia barefoot con puntera ancha](https://barefootopiniones.com/wildling-ranidae-botas-lluvia-barefoot-con/) (1906 palabras)
 - [zapatos barefoot para pies anchos: guía completa](https://barefootopiniones.com/barefoot-pies-anchos-guia-completa/) (2460 palabras)
 
-### Opiniones de marcas (138)
+### Opiniones de marcas (139)
 
+- [Altra Torin 9: mi opinión honesta, talla y primeras impresiones](https://barefootopiniones.com/altra-torin-9-opinion-honesta/) (2759 palabras)
 - [barefoot Pals: los zapatos más ligeros y flexibles que he revisado](https://barefootopiniones.com/barefoot-pals-zapatos-mas-ligeros-flexibles/) (1733 palabras)
 - [Bota Lisbeth Joe Boulder: mi opinión breve](https://barefootopiniones.com/bota-lisbeth-joe-boulder-opinion-breve/) (1387 palabras)
 - [Botas Lems Chelsea como alternativa barefoot a Blundstone](https://barefootopiniones.com/botas-lems-chelsea-como-alternativa-barefoot/) (1720 palabras)

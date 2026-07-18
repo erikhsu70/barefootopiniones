@@ -45,6 +45,7 @@ module.exports = {
       url: "/category/reviews/",
       patterns: [
         "review",
+        "altra",
         "vivobarefoot",
         "xero",
         "belenka",
