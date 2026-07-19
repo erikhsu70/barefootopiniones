@@ -412,13 +412,8 @@ function seoTitle(title, siteName = "Barefoot Opiniones") {
   if (!cleanTitle || cleanTitle === siteName) return siteName;
 
   const suffix = ` | ${siteName}`;
-  const maxTitlePart = 70 - suffix.length;
-  const titlePart =
-    cleanTitle.length > maxTitlePart
-      ? `${cleanTitle.slice(0, Math.max(20, maxTitlePart - 1)).replace(/\s+\S*$/, "")}...`
-      : cleanTitle;
-
-  return `${titlePart}${suffix}`;
+  const brandedTitle = `${cleanTitle}${suffix}`;
+  return brandedTitle.length >= 60 ? cleanTitle : brandedTitle;
 }
 
 function absoluteSiteUrl(site, url = "") {
