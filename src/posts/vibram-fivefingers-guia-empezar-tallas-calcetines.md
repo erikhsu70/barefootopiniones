@@ -22,27 +22,27 @@ faqItems:
     answer: "No conviene. Empieza con caminatas cortas y progresivas. Si vienes de zapatillas con amortiguación o drop, correr demasiado pronto puede sobrecargar gemelos, sóleos o pies."
 ---
 <style>
-@media (max-width: 640px) {
+@media (max-width: 1024px) {
   .lov-article-hero {
-    overflow: hidden;
+    overflow: hidden !important;
   }
 
   .lov-article-heading {
-    min-width: 0;
-    width: min(100%, calc(100vw - 2rem));
-    max-width: calc(100vw - 2rem);
-    margin-inline: auto;
+    min-width: 0 !important;
+    width: min(100%, calc(100vw - 2rem)) !important;
+    max-width: calc(100vw - 2rem) !important;
+    margin-inline: auto !important;
   }
 
   .lov-article-heading h1 {
-    font-size: clamp(2.15rem, 10vw, 2.9rem);
-    line-height: 1.05;
-    overflow-wrap: anywhere;
+    font-size: clamp(2.15rem, 10vw, 2.9rem) !important;
+    line-height: 1.05 !important;
+    overflow-wrap: anywhere !important;
   }
 
   .lov-article-heading > p:not(.lov-article-kicker) {
-    max-width: 100%;
-    overflow-wrap: anywhere;
+    max-width: 100% !important;
+    overflow-wrap: anywhere !important;
   }
 }
 </style>
