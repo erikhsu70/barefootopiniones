@@ -23,14 +23,25 @@ faqItems:
 ---
 <style>
 @media (max-width: 640px) {
+  .lov-article-hero {
+    overflow: hidden;
+  }
+
   .lov-article-heading {
     min-width: 0;
-    width: 100%;
+    width: min(100%, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+    margin-inline: auto;
   }
 
   .lov-article-heading h1 {
     font-size: clamp(2.15rem, 10vw, 2.9rem);
     line-height: 1.05;
+    overflow-wrap: anywhere;
+  }
+
+  .lov-article-heading > p:not(.lov-article-kicker) {
+    max-width: 100%;
     overflow-wrap: anywhere;
   }
 }
