@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **296 artículos únicos**.
+Generado desde la web estática publicada. Total: **297 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -19,7 +19,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 | Sandalias y verano | 6 | 35 |
 | Deporte y movimiento | 2 | 20 |
 | Puntera ancha | 7 | 24 |
-| Sin clasificar | 31 | 31 |
+| Sin clasificar | 32 | 32 |
 
 ## Resumen por formato
 
@@ -28,7 +28,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 | Opinión | 150 |
 | Artículo | 84 |
 | Lista o comparativa | 54 |
-| Guía | 8 |
+| Guía | 9 |
 
 ## Contenido por temática principal
 
@@ -324,7 +324,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Use esto, no aquello: el look de Timberland sin juanetes](https://barefootopiniones.com/use-esto-no-aquello-look-timberland-sin/) (1946 palabras)
 - [Zapatos náuticos con puntera ancha](https://barefootopiniones.com/zapatos-nauticos-puntera-ancha/) (1307 palabras)
 
-### Sin clasificar (31)
+### Sin clasificar (32)
 
 - [¿Por qué son tan caros los zapatos barefoot?](https://barefootopiniones.com/son-tan-caros-barefoot/) (1675 palabras)
 - [13 zapatos barefoot aprobados por preadolescentes y adolescentes](https://barefootopiniones.com/barefoot-aprobados-preadolescentes/) (1326 palabras)
@@ -339,6 +339,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Cómo fortalecer tus pies con textura de suelo](https://barefootopiniones.com/como-fortalecer-pies-con-textura-suelo/) (2047 palabras)
 - [Conoce a los expertos de Natural Footgear](https://barefootopiniones.com/conoce-expertos-natural-footgear/) (2268 palabras)
 - [Everleigh Meadow: zapatos barefoot femeninos para todo tipo de pies](https://barefootopiniones.com/everleigh-meadow-barefoot-femeninos-todo-tipo/) (1925 palabras)
+- [Guía de Vibram FiveFingers: empezar, tallas y calcetines](https://barefootopiniones.com/vibram-fivefingers-guia-empezar-tallas-calcetines/) (2253 palabras)
 - [Lista completa de calzado barefoot vegano para 2026](https://barefootopiniones.com/lista-completa-barefoot-vegano-2026/) (1387 palabras)
 - [Lono Wear: nueva marca de calzado barefoot con excelente ajuste](https://barefootopiniones.com/lono-wear-marca-barefoot-con-excelente-ajuste/) (1953 palabras)
 - [Los mejores zapatos barefoot encontrados en Etsy](https://barefootopiniones.com/mejores-barefoot-encontrados-etsy/) (1878 palabras)
