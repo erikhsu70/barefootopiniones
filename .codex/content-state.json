@@ -44,6 +44,29 @@
         "deployment": "872b1a8f",
         "note": "Updated with Isabel's four-run, 27 km test and verified live on the custom domain after direct deployment."
       }
+    },
+    {
+      "topic": "Vibram FiveFingers: guía para empezar",
+      "title": "Guía de Vibram FiveFingers: empezar, tallas y calcetines",
+      "url": "https://barefootopiniones.com/vibram-fivefingers-guia-empezar-tallas-calcetines/",
+      "slug": "vibram-fivefingers-guia-empezar-tallas-calcetines",
+      "status": "Published",
+      "commit": "a955261",
+      "type": "new",
+      "lastChecked": "2026-07-20T14:41:19+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Guía de Vibram FiveFingers: empezar, tallas y calcetines",
+        "expectedH1": "Guía de Vibram FiveFingers: empezar, tallas y calcetines",
+        "canonical": "https://barefootopiniones.com/vibram-fivefingers-guia-empezar-tallas-calcetines/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "Article, Breadcrumb and FAQ",
+        "render": "clean desktop and mobile",
+        "deployment": "5a922e24",
+        "note": "Verified live on the custom domain after direct Cloudflare Pages deployment; current-sitemap.xml plus article and brand indexes include the URL."
+      }
     }
   ]
 }
