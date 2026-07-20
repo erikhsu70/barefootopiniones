@@ -45,6 +45,32 @@ faqItems:
     overflow-wrap: anywhere !important;
   }
 }
+
+@media (max-width: 560px) {
+  .lov-article-hero {
+    padding-inline: 1rem !important;
+  }
+
+  .lov-article-heading {
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: 18rem !important;
+  }
+
+  .lov-article-heading h1 {
+    font-size: clamp(1.7rem, 8vw, 1.95rem) !important;
+    line-height: 1.08 !important;
+  }
+
+  .lov-article-heading > p:not(.lov-article-kicker) {
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+  }
+
+  .lov-article-image {
+    max-width: calc(100vw - 2rem) !important;
+  }
+}
 </style>
 
 Vibram FiveFingers es la marca que muchas personas imaginan cuando oyen "zapatos barefoot": cinco bolsillos separados para los dedos, suela muy flexible y una estética que no intenta pasar desapercibida. También es una de las opciones que más dudas genera antes de comprar. ¿Cómo se talla algo que debe ajustar como un guante? ¿Hacen falta calcetines de dedos? ¿Sirven para correr? ¿Y qué modelo tiene sentido si nunca has usado calzado minimalista?
