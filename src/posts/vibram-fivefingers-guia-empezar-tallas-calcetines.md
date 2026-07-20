@@ -21,6 +21,21 @@ faqItems:
   - question: "¿Puedo correr con FiveFingers desde el primer día?"
     answer: "No conviene. Empieza con caminatas cortas y progresivas. Si vienes de zapatillas con amortiguación o drop, correr demasiado pronto puede sobrecargar gemelos, sóleos o pies."
 ---
+<style>
+@media (max-width: 640px) {
+  .lov-article-heading {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .lov-article-heading h1 {
+    font-size: clamp(2.15rem, 10vw, 2.9rem);
+    line-height: 1.05;
+    overflow-wrap: anywhere;
+  }
+}
+</style>
+
 Vibram FiveFingers es la marca que muchas personas imaginan cuando oyen "zapatos barefoot": cinco bolsillos separados para los dedos, suela muy flexible y una estética que no intenta pasar desapercibida. También es una de las opciones que más dudas genera antes de comprar. ¿Cómo se talla algo que debe ajustar como un guante? ¿Hacen falta calcetines de dedos? ¿Sirven para correr? ¿Y qué modelo tiene sentido si nunca has usado calzado minimalista?
 
 Esta guía no es una reseña de uso personal de las FiveFingers actuales. En el archivo de Barefoot Opiniones hay menciones a Vibram, a suelas Vibram y a modelos FiveFingers en listas de gimnasio, running y tiendas, pero no hay notas propias suficientes para decir que Isabel haya probado la gama 2026. Por eso el artículo se apoya en fuentes oficiales, búsquedas actuales y criterios editoriales de ajuste barefoot, sin inventar kilómetros, tallas, durabilidad ni sensaciones.
