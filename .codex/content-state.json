@@ -74,11 +74,12 @@
       "url": "https://barefootopiniones.com/origo-shoes-opinion-tallas/",
       "slug": "origo-shoes-opinion-tallas",
       "status": "pushed_unverified",
-      "commit": null,
+      "commit": "fa9f86c",
       "type": "new",
-      "lastChecked": "2026-07-21T00:00:00+02:00",
+      "lastChecked": "2026-07-21T18:48:00+02:00",
       "verification": {
-        "note": "Local build passed initial render checks; awaiting push, deployment and live verification."
+        "blocker": "Commit was pushed, but production deployment was not completed. Direct deployment from the dirty local dist artifact was rejected as unsafe; creating a clean temporary source snapshot from commit fa9f86c did not finish within the automation budget.",
+        "note": "Retry clean build/deploy from fa9f86c before selecting another topic. Mark Published only after live custom-domain verification."
       }
     }
   ]
