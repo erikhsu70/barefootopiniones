@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **297 artículos únicos**.
+Generado desde la web estática publicada. Total: **298 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -19,13 +19,13 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 | Sandalias y verano | 6 | 35 |
 | Deporte y movimiento | 2 | 20 |
 | Puntera ancha | 7 | 24 |
-| Sin clasificar | 32 | 32 |
+| Sin clasificar | 33 | 33 |
 
 ## Resumen por formato
 
 | Formato | Artículos |
 |---|---:|
-| Opinión | 150 |
+| Opinión | 151 |
 | Artículo | 84 |
 | Lista o comparativa | 54 |
 | Guía | 9 |
@@ -324,7 +324,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Use esto, no aquello: el look de Timberland sin juanetes](https://barefootopiniones.com/use-esto-no-aquello-look-timberland-sin/) (1946 palabras)
 - [Zapatos náuticos con puntera ancha](https://barefootopiniones.com/zapatos-nauticos-puntera-ancha/) (1307 palabras)
 
-### Sin clasificar (32)
+### Sin clasificar (33)
 
 - [¿Por qué son tan caros los zapatos barefoot?](https://barefootopiniones.com/son-tan-caros-barefoot/) (1675 palabras)
 - [13 zapatos barefoot aprobados por preadolescentes y adolescentes](https://barefootopiniones.com/barefoot-aprobados-preadolescentes/) (1326 palabras)
@@ -347,6 +347,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Los regalos que quiere cualquier amante del barefoot en 2025](https://barefootopiniones.com/regalos-amantes-barefoot-2025/) (1705 palabras)
 - [Marcas barefoot por región del mundo](https://barefootopiniones.com/marcas-barefoot-por-region/) (1918 palabras)
 - [Mi nueva marca de zapatos barefoot favorita para 2025: Lang.S](https://barefootopiniones.com/marca-barefoot-favorita-2025-lang-s/) (1433 palabras)
+- [Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos](https://barefootopiniones.com/origo-shoes-opinion-tallas/) (3033 palabras)
 - [Mi opinión sobre Barebound: nuevos zuecos barefoot](https://barefootopiniones.com/opinion-barebound-zuecos-barefoot/) (1314 palabras)
 - [Mocasines personalizados FaeMoon Wolf: el zapato barefoot original](https://barefootopiniones.com/mocasines-personalizados-faemoon-wolf-zapato/) (1948 palabras)
 - [Náuticos con puntera ancha](https://barefootopiniones.com/nauticos-puntera-ancha-barefoot/) (1624 palabras)

@@ -67,6 +67,19 @@
         "deployment": "5a922e24",
         "note": "Verified live on the custom domain after direct Cloudflare Pages deployment; current-sitemap.xml plus article and brand indexes include the URL."
       }
+    },
+    {
+      "topic": "Origo Shoes: opinión y guía de tallas",
+      "title": "Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos",
+      "url": "https://barefootopiniones.com/origo-shoes-opinion-tallas/",
+      "slug": "origo-shoes-opinion-tallas",
+      "status": "pushed_unverified",
+      "commit": null,
+      "type": "new",
+      "lastChecked": "2026-07-21T00:00:00+02:00",
+      "verification": {
+        "note": "Local build passed initial render checks; awaiting push, deployment and live verification."
+      }
     }
   ]
 }
