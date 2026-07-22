@@ -76,10 +76,18 @@
       "status": "pushed_unverified",
       "commit": "fa9f86c",
       "type": "new",
-      "lastChecked": "2026-07-21T18:48:00+02:00",
+      "lastChecked": "2026-07-22T18:54:10+02:00",
       "verification": {
-        "blocker": "Commit was pushed, but production deployment was not completed. Direct deployment from the dirty local dist artifact was rejected as unsafe; creating a clean temporary source snapshot from commit fa9f86c did not finish within the automation budget.",
-        "note": "Retry clean build/deploy from fa9f86c before selecting another topic. Mark Published only after live custom-domain verification."
+        "httpStatus": 200,
+        "observedH1": "Barefoot Opiniones",
+        "expectedH1": "Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos",
+        "canonical": "https://barefootopiniones.com/",
+        "imageStatus": "not present on live article response",
+        "indexEntry": false,
+        "sitemapEntry": false,
+        "deploymentChecks": 1,
+        "blocker": "The live custom-domain URL still serves the homepage fallback. Direct deployment from the dirty local dist remains unsafe because current main includes another pushed-unverified extra campaign and the working tree has broad unrelated changes. A clean artifact from commit fa9f86c was attempted via git worktree and git archive under /private/tmp, but both extraction paths were too slow and were stopped before a complete source snapshot or build was available.",
+        "note": "Retry clean build/deploy from fa9f86c or use an explicitly approved production artifact before selecting another daily queue topic. Mark Published only after live H1, canonical, image, index, sitemap and desktop/mobile render verification."
       }
     }
   ],
