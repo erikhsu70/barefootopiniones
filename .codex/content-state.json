@@ -82,5 +82,32 @@
         "note": "Retry clean build/deploy from fa9f86c before selecting another topic. Mark Published only after live custom-domain verification."
       }
     }
+  ],
+  "extraCampaigns": [
+    {
+      "campaign": "Extra Lejan | barefootopiniones.com",
+      "topic": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
+      "title": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
+      "url": "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/",
+      "slug": "mejores-zapatillas-barefoot-bonitas-diario",
+      "status": "pushed_unverified",
+      "commit": "9e7dc2e",
+      "type": "extra_campaign",
+      "lastChecked": "2026-07-22T11:28:28+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Barefoot Opiniones",
+        "expectedH1": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
+        "canonical": "https://barefootopiniones.com/",
+        "imageStatus": "not present on live article response",
+        "indexEntry": false,
+        "sitemapEntry": false,
+        "deploymentChecks": 3,
+        "localBuild": "passed",
+        "localValidation": "featured images, schema, site links, generated H1/canonical/image/listing/sitemap passed",
+        "blocker": "The pushed article was not live after three custom-domain checks; the URL served the homepage fallback. Direct Cloudflare Pages upload from dirty local dist was blocked by approval review because it could publish unrelated pre-existing workspace changes.",
+        "note": "Extra campaign article is committed and pushed without consuming the normal editorial queue. Deploy from an explicitly approved production artifact or from a clean main build that includes the broader committed site state."
+      }
+    }
   ]
 }
