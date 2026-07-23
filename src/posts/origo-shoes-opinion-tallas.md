@@ -68,6 +68,8 @@ Sobre el resto de la gama, el archivo aporta pistas, no una prueba completa. En 
 
 ## Tabla rápida de modelos
 
+<div class="table-scroll" role="region" aria-label="Tabla rápida de modelos Origo" tabindex="0">
+
 | Modelo Origo actual | Mejor para | Sensación barefoot | Tipo de pie probable | Punto fuerte | Ojo con |
 |---|---|---|---|---|---|
 | Everyday Sneaker Gen 3 | diario, trabajo casual, vaqueros | media-alta | medio a medio-ancho | estética limpia y suela fina de 5-6 mm | no es la opción más amplia |
@@ -80,6 +82,8 @@ Sobre el resto de la gama, el archivo aporta pistas, no una prueba completa. En 
 | Adventurer Boot | bota casual/trabajo ligero | media-baja | medio a medio-ancho | estética de bota sin drop | menos minimalista por grosor |
 | Kids Hook & Loop | niños pequeños, colegio casual | media-alta | pies infantiles medios | cierre fácil | comprobar largo de crecimiento |
 | Kids High-Top | niños que necesitan más cobertura | media | pies infantiles medios | más sujeción en tobillo | no sustituye bota de invierno |
+
+</div>
 
 ## Tallas y ajuste
 
