@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **299 artículos únicos**.
+Generado desde la web estática publicada. Total: **300 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -12,10 +12,10 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 |---|---:|---:|
 | Primeros pasos | 14 | 14 |
 | Listas y comparativas | 49 | 50 |
-| Opiniones de marcas | 139 | 149 |
+| Opiniones de marcas | 140 | 150 |
 | Mujer y estilo | 39 | 72 |
 | Niños | 4 | 23 |
-| Botas e invierno | 5 | 40 |
+| Botas e invierno | 5 | 41 |
 | Sandalias y verano | 6 | 35 |
 | Deporte y movimiento | 2 | 20 |
 | Puntera ancha | 7 | 24 |
@@ -25,7 +25,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 
 | Formato | Artículos |
 |---|---:|
-| Opinión | 151 |
+| Opinión | 152 |
 | Artículo | 84 |
 | Lista o comparativa | 55 |
 | Guía | 9 |
@@ -101,7 +101,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Wildling Ranidae: botas de lluvia barefoot con puntera ancha](https://barefootopiniones.com/wildling-ranidae-botas-lluvia-barefoot-con/) (1906 palabras)
 - [zapatos barefoot para pies anchos: guía completa](https://barefootopiniones.com/barefoot-pies-anchos-guia-completa/) (2460 palabras)
 
-### Opiniones de marcas (139)
+### Opiniones de marcas (140)
 
 - [Altra Torin 9: mi opinión honesta tras 27 km](https://barefootopiniones.com/altra-torin-9-opinion-honesta/) (3442 palabras)
 - [barefoot Pals: los zapatos más ligeros y flexibles que he revisado](https://barefootopiniones.com/barefoot-pals-zapatos-mas-ligeros-flexibles/) (1733 palabras)
@@ -114,6 +114,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Las mejores plantillas para usar con zapatos barefoot](https://barefootopiniones.com/mejores-plantillas-usar-con-barefoot/) (1628 palabras)
 - [Lems Primal 3: una zapatilla ancha para todo uso](https://barefootopiniones.com/lems-primal-3-zapatilla-ancha-todo-uso/) (1883 palabras)
 - [Los zapatos barefoot más nuevos y elegantes: Softstar Vintage Tie Flats](https://barefootopiniones.com/barefoot-mas-elegantes-softstar-vintage-tie/) (1916 palabras)
+- [Mi opinión honesta sobre Lems Shoes: tallas, ventajas y mejores modelos](https://barefootopiniones.com/lems-shoes-opinion-tallas-modelos/) (3359 palabras)
 - [Mi opinión sobre Altra Lone Peak 5: zapatillas minimalistas para correr por senderos](https://barefootopiniones.com/opinion-altra-lone-peak-5-zapatillas/) (2538 palabras)
 - [Mi opinión sobre Angles Fashion: por qué nos encantan estos zapatos barefoot](https://barefootopiniones.com/opinion-angles-fashion-nos-encantan-estos/) (1902 palabras)
 - [Mi opinión sobre Be Lenka barefoot: nuevos modelos para 2022](https://barefootopiniones.com/opinion-be-lenka-barefoot-modelos-2022/) (2577 palabras)
@@ -360,4 +361,3 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Zapatillas de ciclismo con forma de pie](https://barefootopiniones.com/zapatillas-ciclismo-forma-pie/) (1811 palabras)
 - [Zapatillas Tus pies amarán](https://barefootopiniones.com/zapatillas-pies-amaran/) (1640 palabras)
 - [Zapatos barefoot para niños en cada temporada](https://barefootopiniones.com/zapatos-barefoot-ninos-temporada-presupuesto/) (1666 palabras)
-
