@@ -102,8 +102,15 @@
       "lastChecked": "2026-07-27T18:42:41+02:00",
       "verification": {
         "localSourceValidation": "Article source, inventory entry and representative Lems Primal 3 image committed; source-level editorial/SEO review completed.",
-        "deploymentChecks": 0,
-        "blocker": "A clean production artifact could not be produced within the automation window. Local dirty-worktree build was stopped after hanging without output; clean git worktree checkout from f77fefd was stopped at 9% after slow progress; git archive extraction from f77fefd was also stopped after exceeding the bounded wait.",
+        "deploymentChecks": 1,
+        "httpStatus": 200,
+        "observedH1": "Camina descalza, con criterio.",
+        "expectedH1": "Mi opinión honesta sobre Lems Shoes: tallas, ventajas y mejores modelos",
+        "canonical": "https://barefootopiniones.com/",
+        "imageStatus": "not present on live article response",
+        "indexEntry": false,
+        "sitemapEntry": false,
+        "blocker": "The pushed URL currently serves the homepage fallback. A clean production artifact could not be produced within the automation window. Local dirty-worktree build was stopped after hanging without output; clean git worktree checkout from f77fefd was stopped at 9% after slow progress; git archive extraction from f77fefd was also stopped after exceeding the bounded wait.",
         "note": "Do not mark Published until a clean committed artifact is built/deployed and the live custom-domain URL passes H1, canonical, image, index, sitemap, schema and desktop/mobile render checks."
       }
     }
