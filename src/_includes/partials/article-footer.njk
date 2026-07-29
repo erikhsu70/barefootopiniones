@@ -1,0 +1,37 @@
+{% set relatedItems = collections.importedPosts | relatedPosts(page.url, 4) %}
+{% if relatedItems.length %}
+  <aside class="related-posts" aria-labelledby="relacionados-titulo">
+    <header class="related-posts__head">
+      <p class="eyebrow">Sigue leyendo</p>
+      <h2 id="relacionados-titulo">Artículos relacionados</h2>
+    </header>
+    <div class="related-posts__grid">
+      {% for post in relatedItems %}
+        <article class="resource-card">
+          <a href="{{ post.url }}">
+            <div class="resource-card__image">
+              {% if (post | featuredImage) %}
+                <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy" width="720" height="450">
+              {% endif %}
+            </div>
+            <div class="resource-card__body">
+              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+              <h3>{{ post.data.title }}</h3>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </div>
+  </aside>
+{% endif %}
+
+<nav class="article-explore" aria-label="Seguir explorando">
+  <p class="eyebrow">Seguir explorando</p>
+  <div class="article-explore__links">
+    <a href="/articulos/">Todos los artículos</a>
+    <a href="/recursos/">Guías</a>
+    <a href="/opiniones/1/">Opiniones de marcas</a>
+    <a href="/ninos/">Niños</a>
+    <a href="/preguntas-frecuentes-barefoot/">Preguntas frecuentes</a>
+  </div>
+</nav>

@@ -1052,6 +1052,73 @@ img[src*="/assets/images/brands/"] {
   text-align: left;
 }
 
+.imported-content hr,
+.imported-content .wp-block-separator {
+  height: 1px;
+  margin: 2.5rem auto;
+  background: var(--lov-border);
+  border: 0;
+}
+
+.imported-content .wp-block-media-text {
+  display: block;
+  margin-block: 1.75rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--lov-cream);
+  border: 1px solid var(--lov-border);
+  border-radius: 14px;
+}
+
+.imported-content .wp-block-media-text__content {
+  padding: 0;
+}
+
+.imported-content .wp-block-media-text p {
+  margin: 0;
+}
+
+.imported-content .wp-block-media-text p + p {
+  margin-top: 0.75em;
+}
+
+.imported-content .has-text-align-center {
+  text-align: center;
+}
+
+.imported-content .has-small-font-size {
+  color: var(--lov-muted);
+  font-size: 0.85rem;
+}
+
+.imported-content .wp-block-buttons {
+  display: flex;
+  margin-block: 1.75rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.imported-content .wp-block-buttons.aligncenter,
+.imported-content .wp-block-buttons.is-content-justification-center {
+  justify-content: center;
+}
+
+.imported-content .wp-block-button__link {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  color: #fff;
+  background: var(--lov-green);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.imported-content .wp-block-button__link:hover {
+  background: var(--lov-clay);
+}
+
 .article-toc {
   position: sticky;
   top: 8rem;
@@ -1418,4 +1485,127 @@ img[src*="/assets/images/brands/"] {
   .imported-content {
     font-size: 1rem;
   }
+}
+
+/* Miga de pan en artículos y FAQs */
+.article-breadcrumb {
+  max-width: var(--lov-max);
+  margin: 0 auto;
+  padding: 1.4rem clamp(1rem, 4vw, 2.5rem) 0;
+}
+
+.article-breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--lov-muted);
+}
+
+.article-breadcrumb li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-width: 0;
+}
+
+.article-breadcrumb li + li::before {
+  content: "›";
+  color: var(--lov-clay);
+  font-weight: 700;
+}
+
+.article-breadcrumb a {
+  color: var(--lov-green);
+  text-decoration: none;
+}
+
+.article-breadcrumb a:hover {
+  color: var(--lov-clay);
+  text-decoration: underline;
+}
+
+.article-breadcrumb li[aria-current="page"] {
+  display: inline-block;
+  max-width: 38ch;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Artículos relacionados al final de artículos y FAQs */
+.related-posts {
+  max-width: var(--lov-max);
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4vw, 2.5rem) clamp(1rem, 4vw, 2.5rem) 0;
+  border-top: 1px solid var(--lov-border);
+}
+
+.related-posts__head {
+  margin-bottom: 1.3rem;
+}
+
+.related-posts__head h2 {
+  margin: 0.3rem 0 0;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+.related-posts__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 920px) {
+  .related-posts__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .related-posts__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Franja "seguir explorando" */
+.article-explore {
+  max-width: var(--lov-max);
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4vw, 2.2rem) clamp(1rem, 4vw, 2.5rem) clamp(2.5rem, 6vw, 4rem);
+}
+
+.article-explore .eyebrow {
+  margin-bottom: 0.8rem;
+}
+
+.article-explore__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.article-explore__links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.5rem;
+  padding: 0.5rem 0.95rem;
+  color: var(--lov-ink);
+  background: var(--lov-cream);
+  border: 1px solid var(--lov-border);
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.article-explore__links a:hover {
+  color: var(--lov-cream);
+  background: var(--lov-green);
+  border-color: var(--lov-green);
 }

@@ -336,7 +336,9 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
   const amazonHref = "(?:amzn\\.to|amazon\\.[a-z.]+)";
   const tiddlyHref = "(?:https?:\\/\\/(?:www\\.)?tidd\\.ly\\/[^\"']*)";
   const personalExperienceText = "(?:\\b(?:Anya|Ania|Justin|Samantha|Miranda|mi marido|mi esposo|mi hijo|mi hija|mis hijos|mi pod[oó]loga|nuestra casa|en mi familia)\\b|(?:Isabel aqu[ií]|yo,? Isabel|por Isabel|hijo de Isabel|Isabel y su|tienda de Isabel|reseñas? de Isabel))";
+  const guestBioText = "(?:administradora de|S[íi]guel[ae]\\s|S[íi]gueme en|hellabarefoot|facebook\\.com\\/groups)";
   let cleaned = String(html)
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "")
     .replace(/\s(?:srcset|sizes)=["'][^"']*["']/gi, "")
     .replace(/\saria-describedby=["'][^"']*["']/gi, "")
     .replace(/\s(width|height)="\d+"\s*/gi, " ")
@@ -377,6 +379,13 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
     .replace(new RegExp(`<p\\b[^>]*>(?:(?!<\\/p>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
     .replace(new RegExp(`<li\\b[^>]*>(?:(?!<\\/li>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/li>)[\\s\\S])*<\\/li>`, "gi"), "")
     .replace(new RegExp(`<figcaption\\b[^>]*>(?:(?!<\\/figcaption>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/figcaption>)[\\s\\S])*<\\/figcaption>`, "gi"), "")
+    .replace(new RegExp(`<div\\b[^>]*class=["'][^"']*wp-block-media-text[^"']*["'][^>]*>(?:(?!wp-block-media-text\\s)[\\s\\S])*?${guestBioText}[\\s\\S]*?<\\/div>\\s*<\\/div>`, "gi"), "")
+    .replace(new RegExp(`<p\\b[^>]*>(?:(?!<\\/p>)[\\s\\S])*${guestBioText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
+    .replace(new RegExp(`<figcaption\\b[^>]*>(?:(?!<\\/figcaption>)[\\s\\S])*${guestBioText}(?:(?!<\\/figcaption>)[\\s\\S])*<\\/figcaption>`, "gi"), "")
+    .replace(/<p\b[^>]*>\s*por\s+[A-Za-zÁÉÍÓÚÑáéíóúñ]{2,24}\s*<\/p>/gi, "")
+    .replace(/&amp;amp;/gi, "&amp;")
+    .replace(/<h([23])\b[^>]*>\s*Realizar pedidos\s*<\/h\1>\s*/gi, "")
+    .replace(/<hr\b[^>]*class=["'][^"']*is-style-dots[^"']*["'][^>]*\/?>/gi, "")
     .replace(new RegExp(`<li([^>]*)>${emptyInlineToken}<\\/li>`, "gi"), "")
     .replace(new RegExp(`<li([^>]*)>${emptyToken}<\\/li>`, "gi"), "")
     .replace(new RegExp(`<li([^>]*)>${dashToken}<\\/li>`, "gi"), "")
@@ -422,6 +431,18 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
       .replace(new RegExp(`<((?:div|section|figure|aside))\\b[^>]*>${emptyInlineToken}<\\/\\1>`, "gi"), "");
   } while (cleaned !== previous);
 
+  // Drop leftover closing wrappers from partially stripped WordPress blocks.
+  let openDivs = 0;
+  cleaned = cleaned.replace(/<\/?div\b[^>]*>/gi, (tag) => {
+    if (tag.startsWith("</")) {
+      if (openDivs === 0) return "";
+      openDivs -= 1;
+      return tag;
+    }
+    openDivs += 1;
+    return tag;
+  });
+
   return useOpinionTerminology(sanitizeAffiliateLinks(cleaned));
 }
 
@@ -464,7 +485,7 @@ function seoTitle(title, siteName = "Barefoot Opiniones", pageUrl = "") {
     .replace(/^Archivo(?:\s+de)?\s+/i, "")
     .trim();
 
-  if (!seoTitleOverrides[pageUrl] && cleanTitle.startsWith("Mi opinión sobre ") && cleanTitle.includes(":")) {
+  if (!seoTitleOverrides[pageUrl] && /^Mi opinión( honesta)? sobre /.test(cleanTitle) && cleanTitle.includes(":")) {
     cleanTitle = cleanTitle.split(":", 1)[0].trim();
   }
 
@@ -760,7 +781,8 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("htmlDateString", (date) => {
-    return date.toISOString().split("T")[0];
+    const parsed = date instanceof Date ? date : new Date(date);
+    return Number.isNaN(parsed.getTime()) ? "" : parsed.toISOString().split("T")[0];
   });
 
   eleventyConfig.addFilter("cleanImportedHtml", cleanImportedHtml);
@@ -842,6 +864,32 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("postsMatchingPatterns", (posts, patterns) => {
     return publicPosts(posts).filter((post) => matchesPatterns(post, patterns || []));
+  });
+
+  eleventyConfig.addFilter("relatedPosts", (posts, currentUrl, limit = 4) => {
+    const pool = publicPosts(posts).filter((post) => post.url !== currentUrl);
+    const current = posts.find((post) => post.url === currentUrl);
+    const currentTopics = current
+      ? blogTopics.categories.filter((topic) => matchesTopic(current, topic)).map((t) => t.key)
+      : [];
+
+    const scored = pool
+      .map((post) => {
+        const shared = blogTopics.categories.filter(
+          (topic) => currentTopics.includes(topic.key) && matchesTopic(post, topic)
+        ).length;
+        return { post, shared };
+      })
+      .sort((a, b) => b.shared - a.shared || b.post.date - a.post.date);
+
+    const related = scored.filter((item) => item.shared > 0).map((item) => item.post);
+    if (related.length < limit) {
+      for (const item of scored) {
+        if (related.length >= limit) break;
+        if (!related.includes(item.post)) related.push(item.post);
+      }
+    }
+    return related.slice(0, limit);
   });
 
   eleventyConfig.addFilter("archivePosts", archivePosts);

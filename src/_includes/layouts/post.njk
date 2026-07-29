@@ -1,7 +1,9 @@
 ---
 layout: layouts/base.njk
 ---
+{% set isFaqContent = false %}
 <article class="lov-article">
+  {% include "partials/article-breadcrumb.njk" %}
   <header class="lov-article-hero">
     <div class="lov-article-heading">
       <p class="lov-article-kicker">{{ category or "Guía" }} · {{ page.date | readableDate }}</p>
@@ -30,4 +32,6 @@ layout: layouts/base.njk
       </aside>
     </div>
   </div>
+
+  {% include "partials/article-footer.njk" %}
 </article>

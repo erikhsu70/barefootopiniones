@@ -3,7 +3,12 @@ layout: layouts/base.njk
 ---
 {% set showToc = contentType == "Artículo" %}
 {% set modelMedia = modelImageAssignments[sourceSlug] %}
+{% set isFaqContent = contentType == "FAQ" or pageClass == "faq-page" %}
+{% set isArticleContent = contentType == "Artículo" %}
 <article class="lov-article imported-article">
+  {% if isArticleContent or isFaqContent %}
+    {% include "partials/article-breadcrumb.njk" %}
+  {% endif %}
   <header class="lov-article-hero">
     <div class="lov-article-heading">
       <p class="lov-article-kicker">{% if contentType == "FAQ" %}Pregunta frecuente{% else %}{{ contentType or "Artículo" }}{% endif %} · Barefoot Opiniones</p>
@@ -17,9 +22,11 @@ layout: layouts/base.njk
       </div>
     </div>
     {% set articleImage = modelMedia.featured.src if modelMedia and modelMedia.featured else image %}
-    {% if articleImage %}<div class="lov-article-image">
+    {% if articleImage %}
+    <div class="lov-article-image">
       <img src="{{ articleImage }}" alt="{{ modelMedia.featured.alt if modelMedia and modelMedia.featured else imageAlt or title }}" loading="eager" width="1600" height="900">
-    </div>{% endif %}
+    </div>
+    {% endif %}
   </header>
 
   <div class="article-layout">
@@ -57,6 +64,10 @@ layout: layouts/base.njk
       </aside>
     {% endif %}
   </div>
+
+  {% if isArticleContent or isFaqContent %}
+    {% include "partials/article-footer.njk" %}
+  {% endif %}
 </article>
 
 <script>

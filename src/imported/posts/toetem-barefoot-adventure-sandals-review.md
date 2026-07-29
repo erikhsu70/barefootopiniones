@@ -12,8 +12,8 @@ contentType: Artículo
 sourceId: 28410
 sourceSlug: toetem-barefoot-adventure-sandals-review
 sourceModified: '2026-05-26T23:34:58'
-image: "/assets/generated/featured/posts/toetem-barefoot-adventure-sandals-review.jpg"
-imageAlt: "Imagen destacada de Revisión de sandalias Toetem: innovadoras sandalias de aventura descalzas"
+image: ""
+imageAlt: ""
 tags:
 - traducido
 language: es

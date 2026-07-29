@@ -1,0 +1,12 @@
+{# Requiere isFaqContent definido antes del include #}
+<nav class="article-breadcrumb" aria-label="Miga de pan">
+  <ol>
+    <li><a href="/">Inicio</a></li>
+    {% if isFaqContent %}
+      <li><a href="/preguntas-frecuentes-barefoot/">Preguntas frecuentes</a></li>
+    {% else %}
+      <li><a href="/articulos/">Artículos</a></li>
+    {% endif %}
+    <li aria-current="page">{{ title }}</li>
+  </ol>
+</nav>
