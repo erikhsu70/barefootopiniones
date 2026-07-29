@@ -52,7 +52,7 @@ translatedFrom: en
 <li>Romper tejido denso en el pie difundiendo los metatarsales. Esto puede aliviar el dolor crónico de plantar fascia y los dedos de martillo. </li>
 <li>Traen sangre al pie, lo que acelera la curación y mejora la función.</li>
 </ol>
-<p>Mientras hay muchas opciones ahí fuera, personalmente uso y recomiendo los dedos correctos. <a href="/correct-toes-review/">Puedes aprender más sobre los dedos correctos aquí.</a></p>
+<p>Mientras hay muchas opciones ahí fuera, personalmente uso y recomiendo los dedos correctos. <a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">Puedes aprender más sobre los dedos correctos aquí.</a></p>
 </div>
 
 </div>

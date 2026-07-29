@@ -24,7 +24,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Conoce a la chica nueva de la ciudad</h2>
 
-<p>Si anhelas un poco de elegancia en tu colección de zapatos cómodos y con forma de pie, entonces el Woven Ballerina es para ti. La parte superior de cuero está tejida a mano por expertos artesanos en México (<a href="/comfortable-huaraches-foot-shaped-sole/">como nuestra línea tradicional Huarache</a>), y es ligero, transpirable y elegante. Me encanta el algo extra que agrega a mis conjuntos: son dignos de elogio, ya sea que te gusten los Zapatos barefoot o no.</p>
+<p>Si anhelas un poco de elegancia en tu colección de zapatos cómodos y con forma de pie, entonces el Woven Ballerina es para ti. La parte superior de cuero está tejida a mano por expertos artesanos en México (<a href="/los-huaraches-mas-comodos-que-no-aplastan-los-dedos-de-los-pies-ya-disponibles/">como nuestra línea tradicional Huarache</a>), y es ligero, transpirable y elegante. Me encanta el algo extra que agrega a mis conjuntos: son dignos de elogio, ya sea que te gusten los Zapatos barefoot o no.</p>
 
 <p>Actualmente vienen en tres colores: negro, caramelo y dorado. Y al igual que la línea Huarache que lanzamos en 2023, estos se producen de forma ética en pequeños lotes. Esto significa que es posible que se agoten en ocasiones, PERO reabasteceremos continuamente. ¡Y la espera vale la pena!</p>
 

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Wildling Shoes Pegasus: un zapato de juego resistente al agua'
+title: "Mi opinión sobre Wildling Shoes Pegasus: un zapato de juego resistente al agua"
 description: Los zapatos Wildling son los favoritos en nuestra casa. Tienen mucho
   a su favor; una mirada única, una dedicación a la sostenibilidad, una buena ética
   empresarial. ¡Y eso sin mencionar su sensación de ligereza como el aire y sus cualidades
@@ -38,7 +38,7 @@ translatedFrom: en
 
 <p>Es posible que  Son los zapatos resistentes al agua más ligeros que existen. no son agua<em>prueba</em>, por lo que no sustituyen a las botas de goma, pero tienen una membrana integrada entre el tejido exterior e interior que es realmente efectiva! La construcción también presenta "solapas de agua", lo que significa que la lengüeta está cosida a los lados cerca de los ojales.</p>
 <p>Mi hija los ha usado en pasto mojado, en días lluviosos, y recientemente les hicimos una prueba real en un recipiente con agua a varios centímetros de profundidad solo para ver cómo les iba.  <strong>¡Pies secos!</strong> Es liberador poder decir: "¡Sí! ¡Puedes usar esos zapatos bajo la lluvia!". y sepa que aguantarán.</p>
-<p class="has-text-align-center"><strong>leer <a href="/complete-list-waterproof-barefoot-shoes-rain/">esta publicación</a> ¡Para más opciones a prueba de agua!</strong></p>
+<p class="has-text-align-center"><strong>leer <a href="/las-mejores-botas-de-lluvia-impermeable-y-zapatos/">esta publicación</a> ¡Para más opciones a prueba de agua!</strong></p>
 <h2 class="wp-block-heading">Cualidades de estar barefoot</h2>
 
 <p> La suela exterior mide solo 2,5 mm y la plantilla es aún más delgada, lo que les da una altura total de pila de alrededor de 4 mm. Son increíblemente livianos, se pueden enrollar y girar fácilmente en todas direcciones y también tienen una excelente sensación en el suelo.  ¡Son el paquete completo!  Mi hija informa que puede sentir cada pequeña piedra y cada ramita que encuentra.  Le encanta lo fácil que es mantener el equilibrio al caminar sobre bordillos, ramas caídas y cualquier otra cosa que los niños encuentren para caminar. Si quieres experimentar terrenos variados, ¡simplemente sigue a un niño!</p>
@@ -49,16 +49,16 @@ translatedFrom: en
 <p>¡Realmente admiro una empresa que es totalmente transparente sobre qué materiales se utilizan en su calzado y de dónde proviene ese material! Están totalmente dedicados a la sostenibilidad y la protección del medio ambiente. El modelo de Pegaso es <strong>vegano</strong> y el hermoso exterior de lona azul cielo está hecho de algodón reciclado con un borde de microfibra azul y suela gris. Todo el zapato tiene un aspecto monocromático de cielo nublado real que es perfecto para la primavera y el verano. Vienen con cordones elásticos a juego, pero si su hijo prefiere otro color o cordones normales, Wildling tiene todo un arcoíris de colores para elegir. .</p>
 <p>Antes de usarlos, los tratamos con  y como ya lleva unos meses usándolos, les toca otro tratamiento. Cada vez que les cae suciedad o barro, lo dejamos secar y luego lo cepillamos, como recomienda Wildling. ¡Y todavía lucen geniales!</p>
 
-<p>Dentro del zapato encontrarás un forro estampado en gris y crema (¡¡me encanta un estampado dentro de un zapato!!) hecho de algodón cultivado orgánicamente.   La plantilla es extraíble pero para disfrutar plenamente de sus propiedades repelentes al agua se debe llevar el zapato con la plantilla.  Mi hija usa zapatos descalza la mayor parte del tiempo y siempre se los pone y quita afuera dependiendo de lo que esté haciendo.  No hace falta decir que las plantillas se ensucian bastante.  guardo un palo de <a href="https://amzn.to/3h7eygl">Granjeros Buncha</a> en el baño y un cepillo de dientes viejo para fregar zapatos sucios o ropa manchada y funcionó muy bien en las plantillas.  ¡El lindo logotipo de medio zorro en cada plantilla también ayuda a los niños a calzar sus zapatos con el pie derecho!</p>
+<p>Dentro del zapato encontrarás un forro estampado en gris y crema (¡¡me encanta un estampado dentro de un zapato!!) hecho de algodón cultivado orgánicamente.   La plantilla es extraíble pero para disfrutar plenamente de sus propiedades repelentes al agua se debe llevar el zapato con la plantilla.  Mi hija usa zapatos descalza la mayor parte del tiempo y siempre se los pone y quita afuera dependiendo de lo que esté haciendo.  No hace falta decir que las plantillas se ensucian bastante.  guardo un palo de Granjeros Buncha en el baño y un cepillo de dientes viejo para fregar zapatos sucios o ropa manchada y funcionó muy bien en las plantillas.  ¡El lindo logotipo de medio zorro en cada plantilla también ayuda a los niños a calzar sus zapatos con el pie derecho!</p>
 
 <h2 class="wp-block-heading">Tipo de ajuste y tamaño</h2>
 
-<p> están disponibles en 3 categorías de tamaño; Cachorros (UE 18-22), Wildling (EU23-35) y Rewild (36-48). Para encontrar el tamaño correcto puedes imprimir el <a href="https://www.wildling.shoes/en/pages/size-finder?ref=annamariejensen&amp;utm_source=affiliate&amp;utm_medium=website&amp;utm_campaign=Ongoing&amp;utm_term=Isabel%27s+Reviews&amp;utm_content=generic">Kit de ajuste</a> plantillas, o si no tiene una impresora, mida y use la <a href="https://cdn.shopify.com/s/files/1/2375/9711/files/Messmethode_EN_NEU_2.pdf?v=1608018612">tabla de tallas</a>. Si un modelo en particular se ajusta de manera diferente, lo indicará directamente en la página del producto (por lo que es una buena idea leer cada uno).</p>
+<p> están disponibles en 3 categorías de tamaño; Cachorros (UE 18-22), Wildling (EU23-35) y Rewild (36-48). Para encontrar el tamaño correcto puedes imprimir el <a href="https://www.wildling.shoes/en/pages/size-finder">Kit de ajuste</a> plantillas, o si no tiene una impresora, mida y use la <a href="https://cdn.shopify.com/s/files/1/2375/9711/files/Messmethode_EN_NEU_2.pdf?v=1608018612">tabla de tallas</a>. Si un modelo en particular se ajusta de manera diferente, lo indicará directamente en la página del producto (por lo que es una buena idea leer cada uno).</p>
 <p>El modelo Pegaso <strong><em>corre grande</em></strong> y los zapatos en esta revisión son de talla 33. Pueden caber en un <strong>promedio a ancho</strong> ancho pie, y son <strong>volumen medio</strong> (Quedará apretado en pies gruesos).  La lengüeta cosida con solapa de agua tiene algo de espacio para ajustarse, pero no será tan cómoda como los modelos sin esa característica. </p>
-<p class="has-text-align-center"><strong>¿No sabes tu tipo? Lee esto <a href="/best-barefoot-shoes-foot-type/">Guía para comprender su tipo de pie</a>!</strong></p>
+<p class="has-text-align-center"><strong>¿No sabes tu tipo? Lee esto <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Guía para comprender su tipo de pie</a>!</strong></p>
 <p>La mayoría de los zapatos Wildling son más estrechos que los Pegasus y se ajustan a un pie de ancho promedio. A continuación podéis ver el modelo de Nessie al lado. <em>en el mismo tamaño</em>.</p>
 
-<p class="has-text-align-center">mira mi otro <a href="/brand/wildling-shoes/">Reseñas de zapatos salvajes</a> ¡Para más información sobre sus diferentes modelos!</p>
+<p class="has-text-align-center">mira mi otro <a href="/marca/wildling-shoes/">Reseñas de zapatos salvajes</a> ¡Para más información sobre sus diferentes modelos!</p>
 
 <h2 class="wp-block-heading">Wildling comparado con otras marcas</h2>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content">
@@ -82,3 +82,40 @@ translatedFrom: en
 <p><br/>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 4 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Revisión de Wildling Shoes Pegasus: un zapato de juego resistente al agua" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Wildling Shoes Pegasus: un zapato de juego resistente al agua, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+## Para que tipo de pie puede funcionar mejor
+
+La anchura es solo una parte de la historia. Dos personas pueden tener la misma talla y necesitar zapatos muy distintos. Hay pies anchos en la zona de los dedos, pies estrechos de talon, pies con mucho volumen, pies planos, empeines altos y dedos especialmente largos.
+
+Si tienes pie ancho, mira la plantilla desde arriba y no te fies solo de la palabra "wide". Si tienes bajo volumen, busca buen ajuste con cordones o velcros. Si tu empeine es alto, evita modelos con lengueta corta o materiales rigidos. Y si estas entre tallas, prioriza que los dedos tengan espacio delante sin que el talon pierda estabilidad.
+
+La mejor senal es simple: puedes mover los dedos, el pie no se desplaza dentro y no tienes que "domar" el zapato durante semanas.
+
+## Errores que intentaria evitar
+
+El primer error es comprar una talla mas grande para ganar anchura. A veces funciona, pero muchas veces solo consigues un zapato largo, inestable y con el punto de flexion donde no toca. El segundo error es quedarse con un modelo que roza desde el primer dia pensando que cedera mucho. Algunos materiales ceden, si, pero no hacen milagros.
+
+Tambien evitaria elegir solo por estetica. Lo bonito importa, claro que importa, pero en calzado barefoot la forma manda. Si la puntera es estrecha, si la suela es rigida o si el talon te obliga a caminar raro, no compensa.
+
+Y el ultimo error: cambiar todo tu armario de golpe. Mejor probar un par, usarlo de verdad y aprender que necesita tu pie antes de comprar tres mas.

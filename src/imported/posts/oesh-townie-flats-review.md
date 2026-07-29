@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de Oesh Townie Flats
+title: "Mi opinión sobre Oesh Townie Flats"
 description: Me gusta decir que hay dos tipos de personas que usan zapatos minimalistas.
   Aquellos que lo descubren mientras intentan optimizar sus capacidades físicas, y
   aquellos que se ven obligados a hacerlo debido al dolor y las lesiones. Yo mismo
@@ -26,7 +26,7 @@ translatedFrom: en
 <div class="wp-block-image"><figure class="aligncenter is-resized"><figcaption>Bueno, eso seguro que me trae algunos recuerdos...</figcaption></figure></div>
 <h2 class="wp-block-heading">Oesh Shoes</h2>
 <p>Oesh es una marca estadounidense con una visión única del calzado. Muchos de los zapatos se imprimen en 3D internamente, todos son veganos y se han realizado muchas investigaciones científicas para crearlos.</p>
-<p>Mi primera experiencia con Oesh fue probar el <a href="/oesh-dream-flats-review/">Piso de ensueño</a>. Este es un pequeño piso precioso con una suela gruesa y elástica. Lamentablemente me pellizcaron los dedos de los pies, así que los devolví. Pero me impresionó la suela de zero drop, la posibilidad de colocar su propia ortesis si es necesario y el cómodo cojín. Y además de toda esa funcionalidad, tiene una estética magnífica y convencional que puedes usar en una reunión de negocios (¡espero un rediseño en el futuro que los haga con más forma de pie!).</p>
+<p>Mi primera experiencia con Oesh fue probar el <a href="/revision-de-oesh-dream-flats/">Piso de ensueño</a>. Este es un pequeño piso precioso con una suela gruesa y elástica. Lamentablemente me pellizcaron los dedos de los pies, así que los devolví. Pero me impresionó la suela de zero drop, la posibilidad de colocar su propia ortesis si es necesario y el cómodo cojín. Y además de toda esa funcionalidad, tiene una estética magnífica y convencional que puedes usar en una reunión de negocios (¡espero un rediseño en el futuro que los haga con más forma de pie!).</p>
 <p>Desde entonces, han estrenado un nuevo piso llamado the <a href="https://oeshshoes.com/product-category/shoe/townie/">Townie</a>. Cuando me contactaron por primera vez para ver si estaba interesado en probarlo, tenía algunas reservas. Por lo general, en el calzado minimalista, cualquier cosa con un diseño abierto (y sin correas) es un no-no, porque los zapatos que requieren agarre con los dedos afectan la forma de andar. Pero Oesh afirmó que su tecnología mantuvo el zapato en su lugar sin deslizarse. Después de ver esto <a href="https://www.youtube.com/watch?v=E6k71CrE3fs">vídeo</a>, Acepté probarlos a cambio de mis comentarios.</p>
 
 <h2 class="wp-block-heading">Primeras impresiones del Townie</h2>
@@ -49,7 +49,7 @@ translatedFrom: en
 <p>Obtuve una talla 6 en estos, la misma talla que probé en el Dream Flat y mi talla de zapato de vestir normal. Es posible que una talla más solucione todos mis problemas con este zapato, pero Oesh no tiene medias tallas en este estilo y me preocupaba que usar una talla más grande hiciera que la puntera quedara demasiado afuera. Tal como están las cosas, el material solo cubre las articulaciones de los dedos de los pies y cualquier cosa que esté más arriba de mi pie no se sentiría segura. Esta es la misma razón por la que no intenté medir más en el piso Dream y simplemente los devolví. Tal vez se amplíen para incluir medias tallas en el futuro, pero si estás entre tallas, te recomiendo que elijas una talla más grande.</p>
 <h2 class="wp-block-heading">Estilo</h2>
 
-<p>Si eres una mujer que necesita un cojín extra, no conozco ningún otro lugar donde puedas comprar algo que luzca tan bien. entre el <a href="/oesh-dream-flats-review/">Piso de ensueño</a>, <a href="https://oeshshoes.com/product-category/shoe/townie/">Townie</a>, y el <a href="https://oeshshoes.com/product/elite-jet-black/">Élite</a>Definitivamente no es necesario usar zapatillas voluminosas para estar cómodo. </p>
+<p>Si eres una mujer que necesita un cojín extra, no conozco ningún otro lugar donde puedas comprar algo que luzca tan bien. entre el <a href="/revision-de-oesh-dream-flats/">Piso de ensueño</a>, <a href="https://oeshshoes.com/product-category/shoe/townie/">Townie</a>, y el <a href="https://oeshshoes.com/product/elite-jet-black/">Élite</a>Definitivamente no es necesario usar zapatillas voluminosas para estar cómodo. </p>
 
 <p>El Townie tiene una forma similar a la de un piso d'orsay con mucho espacio abierto. Toda la piel visible del pie alarga las piernas, y estas se pueden usar de la misma manera que se pueden usar unas bailarinas o Mary Jane.</p>
 <p>Compré la versión negra sólida del Townie, que es lo que definitivamente recomendaría si tienes planes de usarlo como zapato de vestir. Los estampados y las costuras de colores son divertidos, pero le dan un toque informal al zapato. </p>

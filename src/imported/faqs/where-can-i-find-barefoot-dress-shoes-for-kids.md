@@ -50,7 +50,7 @@ translatedFrom: en
 <li>– Opciones asequibles y lindas para los pisos de ballet y los oxfords</li>
 <li> – ¡Nos gustan sus janes de mary y sus apartamentos de ballet!</li>
 </ul>
-<p class="has-text-align-center"><a href="/barefoot-dress-shoes-for-kids/">Haga clic aquí para obtener una lista completa de Zapatos de Vestido de Pie para niños</a></p>
+<p class="has-text-align-center"><a href="/20-zapatos-de-vestir-descalzos-para-que-los-ninos-los-usen-en-ocasiones-elegantes/">Haga clic aquí para obtener una lista completa de Zapatos de Vestido de Pie para niños</a></p>
 </div>
 
 </div>

@@ -47,7 +47,7 @@ translatedFrom: en
 
 <p>Durante mucho tiempo se creía que los bunions eran genéticos y no se podía hacer nada al respecto. Pero la evidencia muestra cada vez más que los bunions podrían ser realmente causados por zapatos y estilo de vida mal adaptados. Si se identifica y trata temprano, los bunions a menudo se pueden revertir completamente. </p>
 <p>La caja de dedo anatómico en Zapatos barefoot permite que los dedos de los pies se pongan rectos (en lugar de ser apretados juntos), evitando más deformidad y dando al pie la oportunidad de realignar. Además de Zapatos barefoot, espaciadores de pies y ejercicios de pie también puede ayudar a mejorar la condición. Muchas personas encuentran que sus síntomas desaparecen a medida que su salud de pie mejora, pero no siempre revierte completamente el bunion y es posible que necesite consultar a un profesional médico.</p>
-<p class="has-text-align-center">Para ver más a fondo cómo aliviar los síntomas del bunion, lea este artículo sobre <br/><a href="/how-to-help-your-bunions-if-you-dont-want-surgery/">Cómo ayudar a sus Bunions Si usted no quiere cirugía.</a></p>
+<p class="has-text-align-center">Para ver más a fondo cómo aliviar los síntomas del bunion, lea este artículo sobre <br/><a href="/como-ayudar-a-sus-bunions-si-no-desea-cirugia/">Cómo ayudar a sus Bunions Si usted no quiere cirugía.</a></p>
 </div>
 
 </div>

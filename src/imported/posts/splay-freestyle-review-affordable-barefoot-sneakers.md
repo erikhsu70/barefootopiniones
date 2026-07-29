@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Splay Freestyle: zapatillas descalzas asequibles para toda la
-  familia'
+title: "Mi opinión sobre Splay Freestyle: zapatillas barefoot asequibles para toda la familia"
 description: Splay Athletics es una marca estadounidense de calzado barefoot que fabrica
   zapatillas asequibles para toda la familia. ¡El Freestyle es su modelo más nuevo
   que va desde tallas para niños pequeños hasta la talla 13 para hombres de EE. UU.!
@@ -52,12 +51,12 @@ translatedFrom: en
 
 <p>Y <strong>suelas flexibles</strong> no son menos importantes: el movimiento del pie está estrechamente relacionado con el suelo pélvico, por lo que un zapato que permita que el pie se doble y se flexione (como está diseñado para hacerlo) te mantiene saludable más arriba en la cadena. Finalmente, los zapatos Splay son <strong>completamente plano</strong> desde la punta hasta el talón para que puedas estar erguido y con buena alineación. Puedes pensar que las Vans también son completamente planas, pero la plantilla del zapato tiene un elevador de talón incorporado. Incluso un tacón pequeño como ese empuja tu centro de gravedad hacia adelante, estresando tus articulaciones.</p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Una demostración visual de lo que sucede cuando usas zapatos de tacón. Las botas del extremo izquierdo son completamente planas, las demás no.</figcaption></figure>
-<p>¡Podría seguir y seguir! Si desea obtener más información sobre el impacto que tienen los zapatos en su cuerpo, lea esta publicación en el <a href="/benefits-barefoot-minimalist-shoes/">beneficios de los Zapatos barefoot</a>. Especialmente para mis hijos, que no tienen problemas en los pies (todavía), soy inflexible en ponerles este tipo de zapatos.</p>
+<p>¡Podría seguir y seguir! Si desea obtener más información sobre el impacto que tienen los zapatos en su cuerpo, lea esta publicación en el <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">beneficios de los Zapatos barefoot</a>. Especialmente para mis hijos, que no tienen problemas en los pies (todavía), soy inflexible en ponerles este tipo de zapatos.</p>
 <p class="has-text-align-center">Basta decir que elegir los zapatos Splay en lugar de Vans es un regalo para tu cuerpo que seguirá dando. Ahora pasemos a elegir una talla para tus zapatillas Splay Freestyle.</p>
 <h2 class="wp-block-heading">Tamaño de estilo libre</h2>
-<p>A la hora de elegir talla, siempre recomiendo aprender <a href="/best-barefoot-shoes-foot-type/#measuring-your-feet">cómo medir tus pies</a> primero. recuerda que <strong>La forma en que obtuviste la medida de tu pie determina cuánto espacio adicional necesitas delante de los dedos.</strong> Mis pies miden 22,8 cm de largo usando el método de la pared (lea el artículo vinculado arriba para obtener una explicación), por lo que necesito un zapato entre 1 y 1,5 cm más largo.  Llevo mis zapatos sin calcetines y elegí el 7 de mujer, que es 1,1 cm más largo que mis pies. Si tuviera que usar calcetines, probablemente usaría un 8.</p>
+<p>A la hora de elegir talla, siempre recomiendo aprender <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">cómo medir tus pies</a> primero. recuerda que <strong>La forma en que obtuviste la medida de tu pie determina cuánto espacio adicional necesitas delante de los dedos.</strong> Mis pies miden 22,8 cm de largo usando el método de la pared (lea el artículo vinculado arriba para obtener una explicación), por lo que necesito un zapato entre 1 y 1,5 cm más largo.  Llevo mis zapatos sin calcetines y elegí el 7 de mujer, que es 1,1 cm más largo que mis pies. Si tuviera que usar calcetines, probablemente usaría un 8.</p>
 
-<p>Al elegir Freestyles para Justin, rompí mi propia regla y pedí su talla habitual sin medir (¡shhhh, no lo digas!). Al final le quedaron perfectos y es bueno que tenga el tamaño más grande disponible. Pero para mis hijos, medí y usé el guía de tallas imprimible para elegir. Es difícil llevar la cuenta de la talla de calzado de un niño, así que <em>siempre</em> Mida antes de realizar el pedido. Con Splay sé que debo elegir el tamaño más grande si estamos en el medio, porque los tamaños para niños son más pequeños que otros. <a href="/best-barefoot-minimalist-kids-shoes/">marcas de niños descalzos</a>.</p>
+<p>Al elegir Freestyles para Justin, rompí mi propia regla y pedí su talla habitual sin medir (¡shhhh, no lo digas!). Al final le quedaron perfectos y es bueno que tenga el tamaño más grande disponible. Pero para mis hijos, medí y usé el guía de tallas imprimible para elegir. Es difícil llevar la cuenta de la talla de calzado de un niño, así que <em>siempre</em> Mida antes de realizar el pedido. Con Splay sé que debo elegir el tamaño más grande si estamos en el medio, porque los tamaños para niños son más pequeños que otros. <a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/">marcas de niños descalzos</a>.</p>
 <p>Tenga en cuenta que el grosor de la suela depende de la talla que solicite. Los tamaños 8C – 12C (o EU 24-29) son <strong>4mm</strong> de espesor, los tamaños 13C – 7M/9W (o EU 31-39) son <strong>5mm</strong> de espesor, y los tamaños de 8M/10W y superiores son <strong>6,5 mm </strong>grueso.</p>
 <h2 class="wp-block-heading">¿Se adaptarán a mi tipo de pie?</h2>
 <p>Los zapatos Splay Freestyle están diseñados para adaptarse a la mayoría de los tipos de pies, pero hay un par de cosas que debes saber. ¡Véalos en diferentes tipos de pies a continuación!</p>
@@ -73,7 +72,7 @@ translatedFrom: en
 <p>Los zapatos Splay tienen una puntera comparable en ancho a marcas como Freet, Feelgrounds y Lems. Eso significa que son buenos para una amplia extensión de los dedos, pero no tan anchos como Be Lenka y Softstar Primals. Si te sientes abrumado en este momento, basta con decir que <strong>Los zapatos Splay deben adaptarse a la mayoría de los anchos de dedos.</strong>.</p>
 <p>Una peculiaridad de los zapatos Splay es que se estrechan en la parte <strong>arco</strong> (no debe confundirse con una punta cónica). Justin tiene pies en forma de ladrillo que son casi tan anchos en la parte media del pie como en los dedos, y en sus Splay Freestyles su parte media del pie está justo en el borde de la suela. Es un problema de ajuste común para él (si tienes pies como los suyos, los zapatos de marcas como Freet, PaperKrane y Xero tienden a ser anchos en el medio), pero todavía los usa sin problemas.</p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">La gama de Zapatos barefoot con punta cerrada de mi marido: Vivobarefoot, Feelgrounds, Lems, Splay y Freet</figcaption></figure>
-<p>Para los niños, Splay ha sido una maravillosa adición a las opciones disponibles porque son asequibles y aún parecen zapatos normales. Mis hijos siempre se han negado a usar los zapatos estilo mocasín que están fácilmente disponibles, pero durante un tiempo eso fue todo lo que pude encontrar en nuestro rango de precios que también cumplía con mis estándares de calzado saludable. Cuando Splay apareció en escena, nos convertimos inmediatamente en clientes de por vida. puedes leer <a href="/best-barefoot-minimalist-kids-shoes/">Consulte este artículo para obtener más información sobre cómo se compara Splay con otros Zapatos barefoot para niños.</a></p>
+<p>Para los niños, Splay ha sido una maravillosa adición a las opciones disponibles porque son asequibles y aún parecen zapatos normales. Mis hijos siempre se han negado a usar los zapatos estilo mocasín que están fácilmente disponibles, pero durante un tiempo eso fue todo lo que pude encontrar en nuestro rango de precios que también cumplía con mis estándares de calzado saludable. Cuando Splay apareció en escena, nos convertimos inmediatamente en clientes de por vida. puedes leer <a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/">Consulte este artículo para obtener más información sobre cómo se compara Splay con otros Zapatos barefoot para niños.</a></p>
 
 <h2 class="wp-block-heading">¿Son duraderos?</h2>
 <p>Mis hijos son duros con sus zapatos, como deberían ser. Por lo tanto, era una pregunta abierta si superarían Splay Shoes en cuestión de meses. Desde que llevamos algunos años con los zapatos Explore, ¡hemos aprendido una y otra vez que son bastante duraderos! El mayor defecto que tienen los zapatos Splay es que el color se desvanece y se decolora con el tiempo. Pero personalmente no me preocupo por eso con mis hijos: mientras no se desmoronen, estamos bien. Con mi propio par de zapatos Freestyle, no espero arrastrarlos sobre concreto ni usarlos en el barro, así que anticipo que se usarán mejor. Pero tendré que lavarlos de vez en cuando ya que el gris acumula suciedad.</p>
@@ -83,7 +82,7 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Calcetines arcoíris de !</figcaption></figure>
 <p>“barefoot es mejor” son palabras por las que vivo. Mientras sea seguro para mí hacerlo, estaré completamente barefoot. Y cuando me pongo zapatos, casi siempre los uso barefoot, incluidos mis Splay Freestyles. Lo mismo ocurre con mis hijos, ¡porque los calcetines pueden restringir los dedos de los pies al igual que los zapatos! Pero si quieres o necesitas calcetines (porque hace frío o quizás para evitar ampollas), entonces considera los calcetines con dedos o calcetines anatómicos con espacio para el dedo gordo del pie. Aquí hay algunas opciones:</p>
 <ul>
-<li><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=500ef46d-f4f3-4e77-8f16-a030bf6b59b8&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.injinji.com">Injinji</a></li>
+<li><a href="https://www.injinji.com/">Injinji</a></li>
 <li><a href="https://www.toesox.com/">Medias del dedo del pie</a></li>
 <li><a href="https://knitido-plus.shop/discount/">knitido</a>  – Uso <strong></strong> con 20% de descuento</li>
 </ul>
@@ -97,3 +96,24 @@ translatedFrom: en
 
 <p class="has-text-align-center">¿Interesado en saber más sobre los Zapatos barefoot? Suscríbase a continuación para recibir actualizaciones semanales sobre lo que está sucediendo en la industria y consejos para pies sanos.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Las zapatillas barefoot pueden parecer sencillas, pero no todas funcionan igual. En "Revisión de Splay Freestyle: zapatillas descalzas asequibles para toda la" hay que separar estilo, ajuste, flexibilidad y uso real para no comprar solo por la primera impresion.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Splay Freestyle: zapatillas descalzas asequibles para toda la, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

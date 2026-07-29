@@ -47,13 +47,13 @@ translatedFrom: en
 
 <p>Hay muchos Zapatos barefoot que tienen materiales conductivos para la puesta en tierra, o suelas de cuero completo. Aquí están algunas opciones:</p>
 <ul>
-<li><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://earthrunners.com/">Corredores de la Tierra</a> – <strong></strong> para 10% de descuento</li>
 <li> – <strong></strong>
 
  para un descuento</li>
 <li><a href="https://www.earthingmoccasins.com/">Mocasines terrestres</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://www.peracles.com.au/">Peracles</a></li>
-<li><a href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5">Bahe</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://bahe.co/">Bahe</a> – <strong></strong> para 10% de descuento</li>
 </ul>
 <p class="has-text-align-center"> <a href="https://barefootshoefinder.com/barefoot-shoe-brands?search=&amp;min_price_rating=1.00&amp;max_price_rating=5.00&amp;tags%5B%5D=Grounded&amp;sort_by=popularity">Haga clic aquí para más opciones en el buscador de Zapatos barefoot</a></p>
 </div>

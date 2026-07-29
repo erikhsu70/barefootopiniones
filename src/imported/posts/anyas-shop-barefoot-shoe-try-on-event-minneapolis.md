@@ -21,8 +21,7 @@ translatedFrom: en
 <p class="has-text-align-center"><em>¡Este evento fue un gran éxito y muy divertido!  <a href="https://www.instagram.com/reel/CsEzy-MgrUI/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">Vea un resumen aquí.</a></em><br/>Y si desea unirse a nosotros en otro evento, vea dónde será el próximo <a href="https://barefootshoeexpo.com">barefootShoeExpo.com!</a></p>
 <h2 class="wp-block-heading">Detalles del evento</h2>
 <p><strong>Ubicación</strong>: Centro recreativo Rev. Dr. Martin Luther King Jr., 4055 Nicollet Ave. S, Minneapolis, MN.<br/><strong>Fecha</strong>: 6 de mayo de 2023<br/><strong>tiempo</strong>: 11:00 a. m. a 3:00 p. m. hora central (hora central)</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-138 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://forms.gle/1W4yvt2PzMYiZ2xd6">Confirma tu asistencia aquí</a></div>
+
 </div>
 <p><em>Este evento se centrará principalmente en modelos adultos en tallas de hombre y mujer, pero habrá una selección de zapatos para niños.</em>. <em>La mayoría de los zapatos serán solo para probarse, pero también tendremos una gran sección de zapatos en liquidación disponibles para su compra.</em></p>
 
@@ -63,7 +62,7 @@ translatedFrom: en
 <p><em>¡También tendremos una variedad de Zapatos barefoot a la venta en liquidación!</em></p>
 <p>Habrá herramientas para medir los pies disponibles y nuestro equipo experto espera ayudarlo a descubrir qué se adapta a sus pies Y a su estilo.</p>
 <p>¿Estarás allí? <strong><a href="https://forms.gle/1W4yvt2PzMYiZ2xd6">Confirma tu asistencia aquí</a> </strong>para que sepamos cuántos esperar y recibir cualquier otro detalle relacionado con el evento por correo electrónico.</p>
-<p class="has-text-align-center"><a href="/anyas-barefoot-shoe-try-on-event-survey-2023/"><strong>¡Vota aquí para ayudarnos a decidir adónde ir a continuación!</strong></a></p>
+<p class="has-text-align-center"><a href="/articulos/"><strong>¡Vota aquí para ayudarnos a decidir adónde ir a continuación!</strong></a></p>
 <p>¿Tienes preguntas?<br/>Envíenos un correo electrónico a info@barefootopiniones.com.</p>
 <p>¡Nos vemos pronto en la vida real!<br/>Isabel</p>
 

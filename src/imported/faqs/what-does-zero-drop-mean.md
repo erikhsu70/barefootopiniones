@@ -45,7 +45,7 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>La caída de los zapatos se refiere a la diferencia de elevación entre el dedo y el tacón. Un zapato de gota cero no tiene diferencia, el pie entero es la misma distancia del suelo – en otras palabras es completamente plana. Eso significa que si un zapato de gota cero es de 10 mm de grosor, es de 10 mm bajo la bola del pie y bajo el talón. Otros términos usados para describir la diferencia de espesor entre el tacón y el dedo del pie son “el aumento del tacón” y “el tacón a diferencial del dedo”.</p>
-<p>Usted puede averiguar por qué esto importa en el<a href="/ufaq/how-do-barefoot-shoes-affect-my-alignment/"> Cómo los Zapatos barefoot afectan mi alineación </a>Preguntas frecuentes.</p>
+<p>Usted puede averiguar por qué esto importa en el<a href="/preguntas/como-afectan-mis-alineamientos/"> Cómo los Zapatos barefoot afectan mi alineación </a>Preguntas frecuentes.</p>
 </div>
 
 </div>

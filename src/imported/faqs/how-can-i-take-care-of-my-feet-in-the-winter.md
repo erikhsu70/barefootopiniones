@@ -46,10 +46,10 @@ translatedFrom: en
 
 <p>Tenemos que hablar de la piel durante el invierno. El aire es a menudo seco en interiores entonces y que puede conducir a la grieta y la incomodidad. Aunque normalmente no manicure mis pies mucho (en todo) trato de mantener mi piel hidratada. Esto es lo que uso:</p>
 <ul>
-<li><a href="https://amzn.to/3uBSROq" rel="noreferrer noopener" target="_blank">Cetófilo</a> – esta cosa es gruesa pero realmente funciona. Mejor aplicado antes de la cama y/o puede poner calcetines en para asegurar que se empapa.</li>
-<li><a href="https://tidd.ly/49XYgQ1" rel="noreferrer noopener" target="_blank">Zapatos de Paz </a>– este es un humectante más ligero que se puede utilizar más a menudo.</li>
+<li>Cetófilo – esta cosa es gruesa pero realmente funciona. Mejor aplicado antes de la cama y/o puede poner calcetines en para asegurar que se empapa.</li>
+<li>Zapatos de Paz – este es un humectante más ligero que se puede utilizar más a menudo.</li>
 </ul>
-<p>También puede ser útil para mantener un <a href="https://amzn.to/3Go9DDe" rel="noreferrer noopener" target="_blank">piedra de pumice</a>. Saltar exfoliar todo el pie – nos gusta la piel del pie grueso! – y en cambio sólo utilizarlo para mantener las grietas de la piel &amp;quot; los callos localizados) bajo control. Esto funciona mejor después de una ducha o un baño.</p>
+<p>También puede ser útil para mantener un piedra de pumice. Saltar exfoliar todo el pie – nos gusta la piel del pie grueso! – y en cambio sólo utilizarlo para mantener las grietas de la piel &amp;quot; los callos localizados) bajo control. Esto funciona mejor después de una ducha o un baño.</p>
 </div>
 
 </div>

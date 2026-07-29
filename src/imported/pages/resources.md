@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+templateEngineOverride: njk
 title: Recursos barefoot
 description: "Guías prácticas de Isabel para empezar con zapatos barefoot: transición, talla, ajuste, tipo de pie, dolor, cuidado y compras inteligentes."
 date: '2020-06-14T17:35:45'
@@ -8,124 +9,80 @@ sourceType: Página
 contentType: Página
 sourceId: 6603
 sourceSlug: resources
-sourceModified: '2024-07-11T20:37:36'
+sourceModified: '2026-07-14T00:00:00'
 image: "/assets/generated/featured/pages/resources.jpg"
-imageAlt: "Imagen destacada de Recursos barefoot"
-pageClass: resources-page
+imageAlt: "Guías y recursos de calzado barefoot"
+pageClass: resources-page resource-index
 tags:
 - traducido
 language: es
 translatedFrom: en
 ---
-{% set resourcePosts = collections.importedPosts | resourcePosts %}
-{% set featured = resourcePosts.slice(0, 6) %}
-{% set latest = resourcePosts.slice(6) %}
+{% set resourcePosts = collections.resourcePosts %}
 
-<section class="style-hero">
-  <div class="style-hero__copy">
-    <p class="eyebrow">Recursos barefoot</p>
-    <h1>Guías para elegir barefoot sin perderte.</h1>
-    <p>Una biblioteca práctica de Isabel para entender tallas, tipos de pie, transición, ajuste, movimiento y compras inteligentes antes de lanzarte a por tu siguiente par.</p>
-    <div class="button-row">
-      <a class="button" href="#guias-recursos">Ver recursos</a>
-      <a class="button secondary" href="/barefoot-shoes-faq/">Resolver dudas</a>
-    </div>
-  </div>
-  <div class="style-hero__media">
-    <img src="/assets/generated/featured/pages/resources.jpg" alt="Composicion editorial de recursos barefoot" loading="eager">
+<section class="resource-index__hero">
+  <div class="resource-index__hero-inner">
+    <p class="eyebrow">Biblioteca práctica · {{ resourcePosts.length }} guías</p>
+    <h1>Guías barefoot</h1>
+    <p>Empieza por entender tus pies y avanza con criterio. Aquí reúno las guías sobre talla, ajuste, transición, movimiento y compra que conviene leer antes de elegir otro par.</p>
   </div>
 </section>
 
-<section class="style-categories" aria-label="Categorias de recursos">
-  <a href="/benefits-barefoot-minimalist-shoes/">
-    <span>Empezar</span>
-    <strong>Qué es barefoot y por qué importa</strong>
+<nav class="resource-paths" aria-label="Rutas de aprendizaje barefoot">
+  <a href="/preguntas/diferencia-barefoot-minimalistas-natural/">
+    <span>01</span>
+    <strong>Entender el barefoot</strong>
+    <small>Conceptos y diferencias básicas</small>
   </a>
-  <a href="/best-barefoot-shoes-foot-type/">
-    <span>Tipo de pie</span>
-    <strong>Elige marcas según tu forma</strong>
+  <a href="/preguntas/como-medir-pies-elegir-talla/">
+    <span>02</span>
+    <strong>Medir y elegir talla</strong>
+    <small>Longitud, anchura y espacio</small>
   </a>
-  <a href="/how-do-i-know-if-my-shoes-fit/">
-    <span>Ajuste</span>
-    <strong>Talla, ancho y volumen</strong>
+  <a href="/mejores-marcas-zapatos-pie-tipo-pie/">
+    <span>03</span>
+    <strong>Conocer tu tipo de pie</strong>
+    <small>Forma, volumen y ajuste</small>
   </a>
-  <a href="/foot-exercises-transitioning-barefoot-shoes/">
-    <span>Transición</span>
-    <strong>Ejercicios y adaptación</strong>
+  <a href="/sencillos-ejercicios-pie-transicion-barefoot/">
+    <span>04</span>
+    <strong>Hacer la transición</strong>
+    <small>Adaptación progresiva y movimiento</small>
   </a>
-  <a href="/how-do-i-know-if-my-shoes-fit/">
-    <span>Compras</span>
-    <strong>Comprar con criterio de ajuste</strong>
-  </a>
-  <a href="/barefoot-shoes-faq/">
-    <span>FAQ</span>
-    <strong>Dudas antes de comprar</strong>
-  </a>
-</section>
+</nav>
 
-<section class="section" id="guias-recursos">
-  <div class="section-head">
+<section class="resource-library" aria-labelledby="resource-library-title">
+  <header class="resource-library__head">
     <div>
-      <p class="eyebrow">Destacados</p>
-      <h2>Lo primero que leería Isabel.</h2>
+      <p class="eyebrow">Todas las guías</p>
+      <h2 id="resource-library-title">Lee según lo que necesites ahora</h2>
     </div>
-    <p>Guías para tomar mejores decisiones: entender tu pie, comprar con cabeza y no hacer una transición a lo loco.</p>
-  </div>
-  <div class="section-inner style-featured-grid">
-    {% for post in featured %}
-      <article class="post-card {% if loop.first %}post-card--lead{% endif %}">
+    <p>Página 1 de {{ resourcePosts.length | pageNumbers(24) | length }}</p>
+  </header>
+
+  <div class="resource-library__grid">
+    {% for post in resourcePosts %}{% if loop.index <= 24 %}
+      <article class="resource-card">
         <a href="{{ post.url }}">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
-          <div class="post-card-content">
-            <div class="post-meta">
-              <span>{{ post.data.contentType or "Guía" }}</span>
-              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-            </div>
+          <div class="resource-card__image">
+            {% if post.data.image %}<img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy" width="720" height="450">{% endif %}
+          </div>
+          <div class="resource-card__body">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
             <h3>{{ post.data.title }}</h3>
-            <p>{{ post.data.description }}</p>
+            {% if post.data.description %}<p>{{ post.data.description | cleanSummary }}</p>{% endif %}
+            <span class="resource-card__link">Leer la guía</span>
           </div>
         </a>
       </article>
-    {% endfor %}
+    {% endif %}{% endfor %}
   </div>
-</section>
 
-<section class="style-band">
-  <div>
-    <p class="eyebrow">Mapa rápido</p>
-    <h2>Si estás empezando, no leas al azar.</h2>
-    <p>Estas piezas funcionan como puerta de entrada: primero concepto, después ajuste, luego tipo de pie y finalmente transición.</p>
-  </div>
-  <div class="style-link-list">
-    <a href="/ufaq/whats-the-difference-between-barefoot-minimalist-natural-footwear/">Qué es un zapato barefoot</a>
-    <a href="/benefits-barefoot-minimalist-shoes/">Por qué pasarse al barefoot</a>
-    <a href="/how-do-i-know-if-my-shoes-fit/">Cómo saber si te queda bien</a>
-    <a href="/best-barefoot-shoes-foot-type/">Zapatos según tu tipo de pie</a>
-  </div>
-</section>
-
-<section class="section">
-  <div class="section-head">
-    <div>
-      <p class="eyebrow">Biblioteca</p>
-      <h2>Más recursos para consultar.</h2>
-    </div>
-    <p>{{ resourcePosts.length }} artículos sobre ajuste, salud del pie, transición, compras y dudas frecuentes.</p>
-  </div>
-  <div class="section-inner archive-grid style-post-grid">
-    {% for post in latest %}
-      <article class="post-card">
-        <a href="{{ post.url }}">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
-          <div class="post-card-content">
-            <div class="post-meta">
-              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-            </div>
-            <h3>{{ post.data.title }}</h3>
-            <p>{{ post.data.description }}</p>
-          </div>
-        </a>
-      </article>
+  <nav class="pagination-nav" aria-label="Paginación de guías">
+    <span class="pagination-nav__disabled">Anterior</span>
+    {% for pageNumber in resourcePosts.length | pageNumbers(24) %}
+      <a href="{{ pageNumber | guidePageUrl }}"{% if pageNumber == 1 %} aria-current="page"{% endif %}>{{ pageNumber }}</a>
     {% endfor %}
-  </div>
+    {% if resourcePosts.length > 24 %}<a href="/recursos/pagina/2/">Siguiente</a>{% else %}<span class="pagination-nav__disabled">Siguiente</span>{% endif %}
+  </nav>
 </section>

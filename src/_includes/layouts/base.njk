@@ -4,12 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% set pageTitle = title or site.name %}
-    {% set seoPageTitle = pageTitle | seoTitle(site.name) %}
+    {% set seoPageTitle = pageTitle | seoTitle(site.name, page.url) %}
     {% set metaDescription = description | seoDescription(site.description) %}
     <title>{{ seoPageTitle }}</title>
     <meta name="description" content="{{ metaDescription }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    {% set metaImage = image or site.heroImage %}
+    {% set pageModelMedia = modelImageAssignments[sourceSlug] %}
+    {% set metaImage = pageModelMedia.featured.src if pageModelMedia and pageModelMedia.featured else image or site.heroImage %}
     <meta property="og:type" content="{% if contentType == 'Artículo' %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{{ seoPageTitle }}">
     <meta property="og:description" content="{{ metaDescription }}">
@@ -22,9 +23,13 @@
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:image" content="{{ site.url }}{{ metaImage }}">
     {% endif %}
-    <script type="application/ld+json">{% schemaGraph page, site, pageTitle, metaDescription, metaImage, contentType, date, sourceModified, faqItems %}</script>
+    <script type="application/ld+json">{% schemaGraph page, site, pageTitle, metaDescription, metaImage, contentType, date, sourceModified, content, pageClass, aggregateRating, reviewedItem, faqItems %}</script>
     <link rel="icon" href="/assets/brand/barefoot-opiniones-mark.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/lovable.css?v=20260715-brand-images">
   </head>
   <body{% if pageClass %} class="{{ pageClass }}"{% endif %}>
     <a class="skip-link" href="#contenido">Saltar al contenido</a>
@@ -48,26 +53,28 @@
     <footer class="site-footer">
       <div class="site-footer__brand">
         <p class="footer-title">{{ site.name }}</p>
-        <p>Reseñas honestas de calzado barefoot en español. Soy Isabel: pruebo, comparo y ordeno opciones bonitas para pies libres.</p>
+        <p>Opiniones honestas de calzado barefoot en español. Sin postureo, sin patrocinios ocultos.</p>
       </div>
       <div class="footer-column">
         <p class="footer-label">Explorar</p>
         <div class="footer-links">
-          {% for item in site.nav %}
-            <a href="{{ item.url }}">{{ item.label }}</a>
-          {% endfor %}
-          <a href="/sitemap.xml">Sitemap</a>
+          <a href="/articulos/">Todos los artículos</a>
+          <a href="/opiniones/1/">Opiniones de marcas</a>
+          <a href="/ninos/">Niños</a>
+          <a href="/recursos/">Primeros pasos</a>
         </div>
       </div>
       <div class="footer-column">
         <p class="footer-label">Legal</p>
         <div class="footer-links legal-links" aria-label="Legal">
-          <a href="/terms-of-service/">Condiciones de uso</a>
-          <a href="/privacy-policy/">Privacidad</a>
+          <a href="/sobre-mi/">Sobre mí</a>
           <a href="/contacto/">Contacto</a>
-          <a href="/disclaimers/">Avisos</a>
+          <a href="/politica-de-privacidad/">Privacidad</a>
+          <a href="/condiciones-de-uso/">Condiciones</a>
+          <a href="/avisos-legales/">Avisos legales</a>
         </div>
       </div>
+      <p class="site-footer__copyright">© 2026 {{ site.name }} · Hecho con cariño para pies libres.</p>
     </footer>
   </body>
 </html>

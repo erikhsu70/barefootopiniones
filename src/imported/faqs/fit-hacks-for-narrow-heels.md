@@ -47,8 +47,8 @@ translatedFrom: en
 <p>¿Los tacones se escapan de tus Zapatos barefoot? Esto puede afectar su apuesta y debe ser dirigida para el máximo confort. Afortunadamente algunos hacks de ajuste generalmente pueden resolver el problema!</p>
 <ul>
 <li>Leg Warmers / Stirrup Socks – Funciona maravillosamente en los meses más frescos para llenar el espacio pero mantener los dedos libres.</li>
-<li><a href="https://amzn.to/3wVdTVr">Heel Grip</a> – Mi truco favorito para los zapatos de vestir.</li>
-<li><a href="https://amzn.to/3wUFhmp">Moleskin</a> – Esto es más delgado que una empuñadura de talón y le permite llenar un poco de espacio donde sea necesario, incluso en sandalias.</li>
+<li>Heel Grip – Mi truco favorito para los zapatos de vestir.</li>
+<li>Moleskin – Esto es más delgado que una empuñadura de talón y le permite llenar un poco de espacio donde sea necesario, incluso en sandalias.</li>
 <li>Use zapatos con cordones o correas que vayan sobre el arco para mantener el zapato seguro.</li>
 </ul>
 </div>

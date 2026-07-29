@@ -2,14 +2,14 @@
 layout: layouts/page.njk
 title: Recursos barefoot
 description: Conceptos, transicion, salud del pie y criterios para elegir calzado con mas seguridad.
-eyebrow: Resources
+eyebrow: Recursos
 permalink: /recursos/
 ---
 <div class="archive-grid">
   {% for post in collections.recursos %}
     <article class="post-card">
       <a href="{{ post.url }}">
-        <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
         <div class="post-card-content">
           <div class="post-meta"><span>{{ post.data.category }}</span></div>
           <h3>{{ post.data.title }}</h3>

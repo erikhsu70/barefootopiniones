@@ -12,4 +12,11 @@ eleventyExcludeFromCollections: true
   </url>
 {% endif %}
 {% endfor %}
+{% for topicPage in collections.topicArchivePages %}
+{% if topicPage.topic.key == "opiniones" and topicPage.pageNumber > 1 %}
+  <url>
+    <loc>{{ site.url }}{{ topicPage.url }}</loc>
+  </url>
+{% endif %}
+{% endfor %}
 </urlset>

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Marcas barefoot por region del mundo"
+title: "Marcas barefoot por región del mundo"
 description: "Una guia para encontrar marcas cercanas, reducir envios complicados y descubrir opciones que no siempre aparecen en tiendas grandes."
 date: 2026-07-02
 category: "Recurso"

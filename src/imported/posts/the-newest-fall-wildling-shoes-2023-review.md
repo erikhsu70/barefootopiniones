@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de los zapatos Wildling de otoño más nuevos de 2023
+title: "Mi opinión sobre los zapatos Wildling de otoño más nuevos de 2023"
 description: ¡La colección Wildling Shoes Otoño 2023 ya está disponible! Son Zapatos
   barefoot deliciosamente suaves y flexibles y se adaptan a toda la familia, desde
   zapatos de bebé hasta tallas de hombre. Consulte nuestras opiniones sobre los nuevos
@@ -39,7 +39,7 @@ translatedFrom: en
 <p>Vivo en el Medio Oeste, donde el clima es duro durante muchos meses, por lo que mis estándares aquí son altos. Todos los modelos de otoño e invierno de Wildling tienen un forro resistente al agua incorporado, lo cual es muy útil. Pero aun así recomiendo no dejar que se empapen por completo, porque puede ser difícil secarlos una vez que están completamente mojados. </p>
 <p>Las suelas tampoco son especialmente adherentes ni antideslizantes, por lo que cuando son muy resbaladizas, es posible que tampoco sean la mejor opción para eso. Por ambas razones, no los recomiendo para tramos largos bajo la lluvia o la nieve, o para terrenos accidentados. </p>
 <p><em>Sin embargo,</em> <em>Los zapatos de otoño e invierno de Wildling son perfectos para temperaturas templadas y frías, algo de lluvia y nieve y para caminar todos los días por la ciudad y en la naturaleza.</em></p>
-<p class="has-text-align-center"><a href="/10-best-barefoot-boots-for-everyday-fall-winter/">Haga clic aquí para obtener más información sobre todas sus opciones de botas descalzas para diferentes preferencias climáticas y de estilo.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-botas-de-barefoot-para-el-otono-de-cada-dia/">Haga clic aquí para obtener más información sobre todas sus opciones de botas descalzas para diferentes preferencias climáticas y de estilo.</a></p>
 
 <h3 class="wp-block-heading">Plantillas cálidas</h3>
 <p>En cuanto a calidez, los Wildlings de lana son bastante cálidos. Si quieres aumentar aún más esa calidez, ¡te recomiendo echar un vistazo a sus plantillas de lana! Tienen dos opciones:</p>
@@ -51,7 +51,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Sizing &amp;amp; Fit</h2>
 <p>Siempre recomiendo utilizar la guía de tallas y el kit de ajuste de Wildling disponibles en cada lista de productos para obtener el asesoramiento más preciso. Pero Wildling tiende a adaptarse mejor a un pie de ancho medio a ancho y puede ser demasiado delgado para un pie extra ancho. Siempre tienen un par de modelos que funcionan bien para pies extra anchos, y Samantha (nuestra encantadora probadora de zapatos de pies extra anchos) generalmente puede conseguir un buen calce al elegir una talla más grande en Wildlings. Yo también tengo el pie ancho, pero no extra ancho, y la mayoría de los Wildlings funcionan bien para mí.</p>
 <p>También tienden a tener un volumen alto, por lo que si eres alguien con una altura de arco más baja, es posible que se sientan muy espaciosos en la parte superior de tu pie. Utilizo plantillas en casi todos mis Wildlings para resolver ese problema (¡aquí pies con un volumen realmente bajo!).</p>
-<p>Puedes encontrar más de mis favoritos. <a href="/ufaq/fit-hacks-for-low-volume-feet/">trucos de ajuste para pies de poco volumen</a> ¡aquí!</p>
+<p>Puedes encontrar más de mis favoritos. <a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">trucos de ajuste para pies de poco volumen</a> ¡aquí!</p>
 <p>Bien, ahora profundicemos en los nuevos modelos de Wildling Shoes para otoño/invierno 2023 que más nos entusiasman.</p>
 <p class="has-text-align-center">Usar código <strong></strong> por €5/$10 fuera de su compra. Si estás fuera de Estados Unidos/Canadá, </p>
 <h3 class="wp-block-heading">tajo</h3>
@@ -99,7 +99,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Nitugo</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, </p>
-<p>Al igual que el Tanuki, el Nittugo apenas se siente. Este modelo tiene una parte superior de lana tejida que es elástica y suave, por lo que funciona mejor para pies más anchos que el Tanuki porque se adapta a la forma de tu pie. Uso el mío muchísimo para viajar con un <a href="/barefoot-insoles-review/">plantilla adicional</a> (Sin él, la suela es tan delgada que puedo sentirme incómodo cuando camino mucho por la acera). ¡Estos podrían ser mis Wildlings favoritos de todos los tiempos!</p>
+<p>Al igual que el Tanuki, el Nittugo apenas se siente. Este modelo tiene una parte superior de lana tejida que es elástica y suave, por lo que funciona mejor para pies más anchos que el Tanuki porque se adapta a la forma de tu pie. Uso el mío muchísimo para viajar con un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla adicional</a> (Sin él, la suela es tan delgada que puedo sentirme incómodo cuando camino mucho por la acera). ¡Estos podrían ser mis Wildlings favoritos de todos los tiempos!</p>
 <h3 class="wp-block-heading">kami</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, </p>

@@ -47,7 +47,7 @@ translatedFrom: en
 
 <p>Si usted está interesado en DIY, hay bastantes recursos disponibles para ayudarle!</p>
 <ul>
-<li><a href="https://www.earthingmoccasins.com/en-us">Terrestres Moccasins Tutoriales &amp; Kits</a> – Usar código <strong>CUALQUIER EXAMEN</strong> por un 10% de descuento.<a href="/earthing-moccasins-review-barefoot-shoes-you-can-make-yourself/"> Lea acerca de nuestra experiencia aquí</a></li>
+<li><a href="https://www.earthingmoccasins.com/en-us">Terrestres Moccasins Tutoriales &amp; Kits</a> – Usar código <strong>CUALQUIER EXAMEN</strong> por un 10% de descuento.<a href="/resena-de-mocasines-terrestres-zapatos-de-barefoot-usted-puede-hacerse/"> Lea acerca de nuestra experiencia aquí</a></li>
 <li></li>
 <li><a href="https://www.facebook.com/groups/933315893497158">DIY Moccs &amp;amp; Minimals</a> – Grupo de Facebook dedicado a hacer zapatos minimalistas</li>
 <li><a href="https://www.atelierdareen.cz/kurzy-vyroby-bot-na-kopyte/">Dareen Shoe Making Courses</a> – También se puede encontrar zapato barefoot agradable dura aquí</li>

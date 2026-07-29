@@ -44,7 +44,7 @@ translatedFrom: en
 <li>Transpirabilidad y/o resistencia al agua (dependiendo del clima)</li>
 </ol>
 <p>¡Que las ampollas sean cosa del pasado! Las botas de montaña descalzas permiten que tus pies se muevan de forma natural y al mismo tiempo te protegen de los elementos.</p>
-<p class="has-text-align-center"><a href="/10-best-barefoot-boots-for-everyday-fall-winter/">Psst, si buscas botas con puntera amplia para todos los días, ¡mira este resumen!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-botas-de-barefoot-para-el-otono-de-cada-dia/">Psst, si buscas botas con puntera amplia para todos los días, ¡mira este resumen!</a></p>
 <p> Aquí hay opciones en una variedad de grosores, anchos y especificaciones para que pueda encontrar algo que se adapte a sus preferencias y su nivel de actividad, ya sea algo para usar en una caminata seria con mochila o para paseos informales de fin de semana por su sendero favorito. ¡Estos son los mejores zapatos para caminar descalzos y con puntera ancha del mercado!</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
@@ -62,7 +62,7 @@ translatedFrom: en
 
 <p>Aquí puedes ver las diferentes suelas outdoor ordenadas según su profundidad de dibujo. Creo que FG y SG funcionan bien en todos los terrenos y puedo usarlos todo el día fácilmente, mientras que la suela Esc es extra resistente y duradera (un poco más robusta de lo que necesito la mayor parte del tiempo). Escape es una excelente opción si haces mucho kilometraje y/o terrenos extremos.</p>
 <h4 class="wp-block-heading">Sizing &amp;amp; Fit</h4>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">¡Lea esta publicación para aprender todo sobre el tipo de pie y cómo medirlo!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¡Lea esta publicación para aprender todo sobre el tipo de pie y cómo medirlo!</a></p>
 <ul>
 <li>Funciona fiel al tamaño</li>
 <li>Se adapta mejor a pies de ancho promedio (los modelos para hombres son más anchos que los de mujeres).</li>
@@ -91,10 +91,9 @@ translatedFrom: en
 <h3 class="wp-block-heading">Freet barefoot - Amigable extra ancho</h3>
 
 <p class="has-text-align-center"><strong>Opción impermeable | Opciones veganas y de cuero | Tallas UE 37-48</strong></p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-169 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://usa.freetbarefoot.com/collections/hiking-walking?ref=X9T_QsyhrdeOL">libre EE.UU.</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://freetbarefoot.com/collections/hiking-walking?ref=X9T_QsyhrdeOL">Freet Reino Unido</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://eur.freetbarefoot.com/collections/hiking-walking?ref=X9T_QsyhrdeOL">UE libre</a></div>
+
+
+
 </div>
 
 <p class="has-text-align-center">Usar código <strong></strong> para 10% de descuento</p>
@@ -105,9 +104,9 @@ translatedFrom: en
 <ul>
 <li>Las botas son un poco pequeñas, pero pueden variar entre modelos, así que consulta la descripción de tallas y ajuste de cada modelo antes de realizar el pedido. Los excursionistas tejidos son fieles al tamaño.</li>
 <li>Se adapta a pies anchos y extra anchos.</li>
-<li>Volumen alto: puedes agregar <a href="https://usa.freetbarefoot.com/collections/accessories?ref=X9T_QsyhrdeOL">plantillas adicionales</a> en diferentes espesores a su pedido.</li>
+<li>Volumen alto: puedes agregar <a href="https://usa.freetbarefoot.com/collections/accessories">plantillas adicionales</a> en diferentes espesores a su pedido.</li>
 </ul>
-<p class="has-text-align-center">Para obtener más detalles sobre el tamaño y el ajuste de Freet, lea mi <a href="/freet-barefoot-shoes-review/">Revisión de Freet en profundidad</a>.</p>
+<p class="has-text-align-center">Para obtener más detalles sobre el tamaño y el ajuste de Freet, lea mi <a href="/revision-de-zapatos-barefoot-freet-todo-lo-que-necesita-saber/">Revisión de Freet en profundidad</a>.</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
@@ -129,8 +128,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Lono Salvaje</h3>
 
 <p class="has-text-align-center"><strong>Opción de gamuza y vegana | Tallas UE 36-46</strong></p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-171 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://lonowear.com/collections/outdoor?ref=r99wnzmr">Lono Salvaje</a></div>
+
 </div>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 <p>El Lono Wild es un zapato para caminar de gamuza suave y liviano que no requirió adaptación y fue inmediatamente suave para mis pies, una rareza entre los zapatos para caminar de cuero. Tienen sólo un poco de amortiguación bajo los pies, pero todavía hay mucha sensación del suelo. En general, ¡los encuentro encantadores de usar!</p>
@@ -164,8 +162,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Guante Merrell Vapor Trail</h3>
 
 <p class="has-text-align-center"><strong><strong>Opción impermeable </strong>| Opciones de cuero y malla reciclada | Tallas EE. UU. para mujeres 5-11 y hombres 7-15</strong></p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-173 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.merrell.com/US/en/barefoot-shoes/">Zapatos Merrell Descalzos</a></div>
+
 </div>
 <p class="has-text-align-center" style="font-size:16px">Si vive fuera de los EE. UU., haga clic en la bandera en la esquina superior derecha para ver diferentes regiones.</p>
 <p>Merrell es una marca estadounidense que vende principalmente zapatos que no son descalzos, pero también tiene algunos buenos modelos descalzos con puntera ancha. El más conocido, y en el que mi hijo viajó como mochila a Yosemite, es el Trail Glove. Tiene una suela de calidad con protección para los dedos, un poco de resistencia al agua para charcos poco profundos y una parte superior de malla transpirable.</p>
@@ -215,17 +212,16 @@ translatedFrom: en
 <h3 class="wp-block-heading">Zapatillas de trail Lems</h3>
 
 <p class="has-text-align-center"><strong>Opciones impermeables | Opciones de cuero y veganas | Tallas EE. UU. W6-M15</strong></p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-176 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://alnk.to/c0aJ3gF">Zapatillas de trail Lems</a></div>
+
 </div>
 <p class="has-text-align-center"><em>Si estás fuera de EE. UU., </em></p>
-<p>Lems ofrece una variedad de zapatos para senderos con una puntera ancha a casi extra ancha y suelas gruesas y duraderas. Mi favorito personal es el resistente al agua. <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Flems-boulder-boot-grip-waterproof">Agarre para botas Lems Boulder</a>. Tienen un ajuste generoso y logran un buen equilibrio entre tracción estructurada y flexibilidad. Yo uso el mío todo el tiempo cuando hace frío, está mojado y embarrado. Justin también es un gran admirador de los excursionistas de Lems, tanto dentro como fuera de los senderos.</p>
-<p>Si quieres algo aún más resistente, existe el <a href="https://alnk.to/gVNWw5i">Bota exterior</a>, y próximamente –<a href="https://alnk.to/4qO8SaL"> el trillador de senderos</a> (parte superior baja). Hay una plantilla extraíble si necesitas más espacio y puedes cambiarla por una <a href="http://shrsl.com/2tw43">piel de oveja</a> uno para mantenerse más acogedor. <em>Tenga en cuenta que las plantillas que vienen con estas botas tienen una elevación del talón comprimible de 3 mm.</em></p>
+<p>Lems ofrece una variedad de zapatos para senderos con una puntera ancha a casi extra ancha y suelas gruesas y duraderas. Mi favorito personal es el resistente al agua. <a href="https://www.lemsshoes.com/collections/lems-boulder-boot-grip-waterproof">Agarre para botas Lems Boulder</a>. Tienen un ajuste generoso y logran un buen equilibrio entre tracción estructurada y flexibilidad. Yo uso el mío todo el tiempo cuando hace frío, está mojado y embarrado. Justin también es un gran admirador de los excursionistas de Lems, tanto dentro como fuera de los senderos.</p>
+<p>Si quieres algo aún más resistente, existe el Bota exterior, y próximamente – el trillador de senderos (parte superior baja). Hay una plantilla extraíble si necesitas más espacio y puedes cambiarla por una piel de oveja uno para mantenerse más acogedor. <em>Tenga en cuenta que las plantillas que vienen con estas botas tienen una elevación del talón comprimible de 3 mm.</em></p>
 <h4 class="wp-block-heading"> Sizing &amp;amp; Fit</h4>
 <ul>
 <li>Talla pequeña: tienen una guía de tallas confiable, así que síguela. Normalmente mido una talla entera en las botas Lems.</li>
 <li>Se adapta a pies anchos: recomiendo elegir los modelos Widest Natural Shape, a menos que tengas pies delgados.</li>
-<li>Volumen alto: uso <a href="/best-foot-friendly-socks-dont-squish-your-toes/#leg-warmers">calentadores de piernas</a> con el mío generalmente para llenar el espacio extra.</li>
+<li>Volumen alto: uso <a href="/los-mejores-calcetines-amistosos-del-pie-que-no-squish-your-toes/#leg-warmers">calentadores de piernas</a> con el mío generalmente para llenar el espacio extra.</li>
 </ul>
 <p>Una cosa que me encanta de los zapatos Lems es que tienen mucho espacio encima de los dedos, lo que los hace sentir muy espaciosos sin ser demasiado grandes en el resto del pie.</p>
 
@@ -234,8 +230,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Bahe redescubre</h3>
 
 <p class="has-text-align-center"><strong>Impermeable | Puesta a tierra | Vegano | Tallas UE 36-47</strong></p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-177 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5">Bahe redescubre</a></div>
+
 </div>
 <p class="has-text-align-center">Usar código <strong></strong> para 10% de descuento</p>
 <p>El Rediscover de Bahe es un zapato de senderismo con puntera ancha, moderadamente acolchado y con una sensación más tradicional. Tiene una altura total de pila de 18 mm y es totalmente impermeable, pero es bastante rígido y lleva algún tiempo asentarse. Particularmente alrededor del tobillo, no es tan suave como preferiría, pero si eres alguien que quiere esa estructura y estabilidad, Bahe Revive es una buena alternativa a la puntera ancha. ¡Ah, y tienen capacidades de conexión a tierra!</p>
@@ -251,8 +246,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Zapatos Saguaro</h3>
 
 <p class="has-text-align-center"><strong>Resistente al agua | Vegano (piel sintética) | Tallas UE 36-46</strong></p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-178 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.saguaro.com/collections/hiking-shoes?ref=Nafs6yLHHkYzpP">Excursionistas saguaros</a></div>
+
 </div>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 <p>Saguaro tiene una bota impermeable para caminar barefoot y unos zapatos para caminar de corte bajo que son más transpirables. Todos son bastante suaves y flexibles, con una tracción decente. Puedes ver la diferencia en calidad y materiales en comparación con los excursionistas más exclusivos, ¡pero estos hacen el trabajo!</p>
@@ -272,7 +266,7 @@ translatedFrom: en
 <li> (elija ancho ancho)</li>
 <li>Be Lenka Nevada (solo UE)</li>
 <li> (elija ancho ancho)</li>
-<li><a href="https://usa.freetbarefoot.com/collections/hiking-walking?ref=X9T_QsyhrdeOL">Freet barefoot</a> – todos son extra amplios y amigables. Usar código <strong></strong> para 10% de descuento</li>
+<li><a href="https://usa.freetbarefoot.com/collections/hiking-walking">Freet barefoot</a> – todos son extra amplios y amigables. Usar código <strong></strong> para 10% de descuento</li>
 </ul>
 <p>Vea a continuación todos los zapatos para caminar descalzos analizados aquí en orden de más estrecho a más ancho, comenzando con el Merrell Trail Glove y terminando con Softstar.</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">¡Botas de montaña descalzas en orden desde la puntera más estrecha a la más ancha! La parte superior izquierda es la más estrecha, la inferior derecha es la más ancha.</figcaption></figure>
@@ -281,8 +275,8 @@ translatedFrom: en
 <p>Cuando se trata de botas de montaña descalzas, tengo algunos trucos bajo la manga. Éstos son algunos de mis mejores consejos que mejorarán el ajuste y la longevidad de sus zapatos.</p>
 <ul>
 <li>Opte por la talla más grande: los pies se hinchan cuando camina, por lo que es una buena idea comprar media talla o toda una talla más grande de la que usa habitualmente. Esto también permite calcetines y plantillas.</li>
-<li>Coge un <a href="/barefoot-insoles-review/">par de plantillas adicionales</a> – con zapatos finos descalzos, estos pueden resultar muy útiles si estás en un terreno muy duro o tus pies sólo necesitan un descanso.</li>
-<li>Aprende cómo <a href="/ufaq/how-to-waterproof-your-shoes/">impermeabiliza tus zapatos</a> – Todos los zapatos impermeables tienen una fecha de vencimiento y eventualmente comenzarán a gotear. Si consigues algunos productos impermeabilizantes, realmente podrás aumentar la utilidad de tus botas.</li>
+<li>Coge un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">par de plantillas adicionales</a> – con zapatos finos descalzos, estos pueden resultar muy útiles si estás en un terreno muy duro o tus pies sólo necesitan un descanso.</li>
+<li>Aprende cómo <a href="/preguntas/como-puedo-proteger-mis-zapatos/">impermeabiliza tus zapatos</a> – Todos los zapatos impermeables tienen una fecha de vencimiento y eventualmente comenzarán a gotear. Si consigues algunos productos impermeabilizantes, realmente podrás aumentar la utilidad de tus botas.</li>
 </ul>
 <p>Para obtener más consejos sobre cómo calzar botas de montaña, <a href="https://terradrift.com/the-beginners-guide-to-buying-hiking-boots-how-to-fit-hiking-boots/">aquí hay una guía de Terradrift.</a></p>
 <h2 class="wp-block-heading">Menciones honoríficas</h2>
@@ -292,7 +286,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p> (UE) – Funcionan bien como botas de montaña (¡y también tienen estilo!), pero a mí me resultan un poco rígidas en el talón y el tobillo. Lee mi reseña sobre ellos. <a href="/feelgrounds-patrol-review-vegan-barefoot-winter-boots/">en esta publicación</a>! Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
+<p> (UE) – Funcionan bien como botas de montaña (¡y también tienen estilo!), pero a mí me resultan un poco rígidas en el talón y el tobillo. Lee mi reseña sobre ellos. <a href="/revision-de-feelgrounds-patrol-botas-de-invierno-veganas-descalzas/">en esta publicación</a>! Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
@@ -324,19 +318,19 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="http://zaqq.com/?sPartner=aj22122020">Zaqq</a> (UE)- Varias opciones de senderismo, incluida la <a href="https://www.zaqq.com/search?sSearch=expeq?sPartner=aj22122020">expeq</a> que es impermeable y viene en cuero o en opción vegana.</p>
+<p><a href="http://zaqq.com/">Zaqq</a> (UE)- Varias opciones de senderismo, incluida la <a href="https://www.zaqq.com/search?sSearch=expeq">expeq</a> que es impermeable y viene en cuero o en opción vegana.</p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <h2 class="wp-block-heading">Los mejores zapatos de senderismo descalzos para niños</h2>
 
-<p>En mi experiencia, las botas de montaña descalzas para niños a menudo no son necesarias a menos que sean pequeñas cabras montesas serias. Con su centro de gravedad tan cerca del suelo, una banda de rodadura adicional a menudo no añade más estabilidad. Por eso nos centramos más en la durabilidad y <a href="/complete-list-waterproof-barefoot-shoes-rain/#how-to-waterproof-your-shoes">resistencia al agua </a>a la hora de elegir zapatos prácticos para caminar para mis hijos. Puedes encontrar nuestros top recomendados<a href="/best-barefoot-minimalist-kids-shoes/"> Zapatos barefoot para niños aquí</a>, que utilizamos tanto para hacer senderismo como para jugar.</p>
+<p>En mi experiencia, las botas de montaña descalzas para niños a menudo no son necesarias a menos que sean pequeñas cabras montesas serias. Con su centro de gravedad tan cerca del suelo, una banda de rodadura adicional a menudo no añade más estabilidad. Por eso nos centramos más en la durabilidad y <a href="/las-mejores-botas-de-lluvia-impermeable-y-zapatos/#how-to-waterproof-your-shoes">resistencia al agua </a>a la hora de elegir zapatos prácticos para caminar para mis hijos. Puedes encontrar nuestros top recomendados<a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/"> Zapatos barefoot para niños aquí</a>, que utilizamos tanto para hacer senderismo como para jugar.</p>
 <p>Pero si sus hijos practican caminatas más serias, aquí hay algunas opciones de zapatos para caminar descalzos para niños. </p>
 <ul>
 <li> – ¡Varias opciones prácticas de Vivo! Usar código <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></li>
 <li><a href="https://www.merrell.com/US/en/trail-glove/#prefn1=genericSizeType&amp;prefv1=K">Guante Merrell Trail</a></li>
-<li><a href="https://usa.freetbarefoot.com/products/tufee?ref=X9T_QsyhrdeOL">Freet Tufee</a> – Este entra y sale de stock. Usar código <strong></strong> con un 10% de descuento. Si vive fuera de los EE. UU., compre en <a href="https://freetbarefoot.com/product/tufee/?ref=X9T_QsyhrdeOL">Aquí Freet Tufee.</a></li>
+<li><a href="https://usa.freetbarefoot.com/products/tufee">Freet Tufee</a> – Este entra y sale de stock. Usar código <strong></strong> con un 10% de descuento. Si vive fuera de los EE. UU., compre en <a href="https://freetbarefoot.com/product/tufee/">Aquí Freet Tufee.</a></li>
 </ul>
 <p>Ya sea que sea un excursionista informal de fin de semana o que esté recorriendo distancias ultras serias, existen botas de montaña aptas para caminar barefoot que aún hacen el trabajo. Porque incluso las opciones más duraderas de esta lista todavía tienen una suela de zero drop y una puntera ancha.</p>
 

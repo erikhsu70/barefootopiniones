@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Estilo barefoot
 description: "Ideas de Isabel para vestir zapatos barefoot bonitos: botas, sandalias, zapatillas, bailarinas, looks y alternativas a zapatos populares."
 date: '2022-07-16T16:57:06'
-permalink: /style/
+permalink: /estilo/
 sourceType: Página
 contentType: Página
 sourceId: 22204
@@ -21,6 +21,14 @@ translatedFrom: en
 {% set featured = stylePosts.slice(0, 6) %}
 {% set latest = stylePosts.slice(6) %}
 
+{% set hubPosts = stylePosts %}
+{% set hubEyebrow = "Estilo barefoot" %}
+{% set hubTitle = "Zapatos con forma de pie, pero con gusto" %}
+{% set hubDescription = "Ideas para sustituir botas rígidas, zapatillas estrechas y sandalias imposibles por opciones barefoot que siguen quedando bonitas." %}
+{% set hubListTitle = "Todos los artículos de estilo" %}
+{% include "components/lovable-hub.njk" %}
+{% if false %}
+
 <section class="style-hero">
   <div class="style-hero__copy">
     <p class="eyebrow">Estilo barefoot</p>
@@ -28,7 +36,7 @@ translatedFrom: en
     <p>Guías de Isabel para cambiar tacones, botas rígidas, zapatillas estrechas y sandalias imposibles por opciones barefoot que siguen quedando bonitas.</p>
     <div class="button-row">
       <a class="button" href="#guias-estilo">Ver guías</a>
-      <a class="button secondary" href="/womens/">Estilo mujer</a>
+      <a class="button secondary" href="/mujeres/">Estilo mujer</a>
     </div>
   </div>
   <div class="style-hero__media">
@@ -37,27 +45,27 @@ translatedFrom: en
 </section>
 
 <section class="style-categories" aria-label="Categorias de estilo">
-  <a href="/style/boots/">
+  <a href="/estilo/boots/">
     <span>Botas</span>
     <strong>Chelsea, combate e invierno</strong>
   </a>
-  <a href="/style/sandals/">
+  <a href="/estilo/sandals/">
     <span>Sandalias</span>
     <strong>Verano, tiras y ocasiones bonitas</strong>
   </a>
-  <a href="/style/sneakers/">
+  <a href="/estilo/sneakers/">
     <span>Zapatillas</span>
     <strong>Looks casuales sin puntera estrecha</strong>
   </a>
-  <a href="/style/flats/">
+  <a href="/estilo/flats/">
     <span>Bailarinas</span>
     <strong>Planos, Mary Janes y vestir cómodo</strong>
   </a>
-  <a href="/style/lace-up/">
+  <a href="/estilo/lace-up/">
     <span>Cordones</span>
     <strong>Oxford, derby y zapatos de diario</strong>
   </a>
-  <a href="/style/slip-ons/">
+  <a href="/estilo/slip-ons/">
     <span>Slip-ons</span>
     <strong>Mocasines y zapatos fáciles</strong>
   </a>
@@ -97,10 +105,10 @@ translatedFrom: en
     <p>Esta sección reúne alternativas a zapatos populares: modelos más anchos, flexibles y planos que encajan mejor con un pie real.</p>
   </div>
   <div class="style-link-list">
-    <a href="/replace-your-high-heels-with-these-fancy-barefoot-shoes/">Cambiar tacones por zapatos elegantes</a>
-    <a href="/15-barefoot-sneakers-that-are-better-than-vans/">Zapatillas barefoot con estilo</a>
-    <a href="/the-best-barefoot-chelsea-boots-wear-this-not-that/">Botas Chelsea barefoot</a>
-    <a href="/10-best-stylish-barefoot-sandals-for-women/">Sandalias barefoot bonitas</a>
+    <a href="/reemplaza-tus-tacones-altos-con-estos-zapatos-elegantes-de-pie/">Cambiar tacones por zapatos elegantes</a>
+    <a href="/15-descalzos-que-son-mejores-que-nikes/">Zapatillas barefoot con estilo</a>
+    <a href="/las-mejores-botas-de-chelsea-barefoot-que-no-aplastan-tus-dedos/">Botas Chelsea barefoot</a>
+    <a href="/las-mejores-sandalias-de-pie-de-barefoot-para-mujeres/">Sandalias barefoot bonitas</a>
   </div>
 </section>
 
@@ -129,3 +137,4 @@ translatedFrom: en
     {% endfor %}
   </div>
 </section>
+{% endif %}

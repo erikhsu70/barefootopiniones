@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: ¡Vea los nuevos zapatos Xero para el otoño de 2023 aquí!
+title: "Vea los nuevos zapatos Xero para el otoño de 2023 aquí"
 description: Xero Shoes acaba de lanzar su colección de otoño de 2023 y tendrá un
   20 % de descuento hasta el 5 de septiembre. Consulta aquí todos los nuevos modelos.
 date: '2023-08-23T21:15:53'
@@ -34,7 +34,7 @@ translatedFrom: en
 <ul>
 <li>Fiel a la talla, pero normalmente uso una talla más grande en botas y modelos impermeables.</li>
 <li>Volumen medio a alto</li>
-<li><a href="/best-shoes-for-wide-feet/">Corte ancho y recto</a></li>
+<li><a href="/zapatos-barefoot-para-pies-anchos-guia-completa/">Corte ancho y recto</a></li>
 </ul>
 <p>Un par de notas más sobre el tamaño de Xero:</p>
 <ul>
@@ -42,7 +42,7 @@ translatedFrom: en
 <li>Las de mujer vienen en tallas EE. UU. 5-12.</li>
 <li>Los de hombre son más anchos que los de mujer, por lo que si tienes pies muy anchos, esa podría ser una mejor opción.</li>
 </ul>
-<p>Xero Shoes es una gran marca para personas cuyos pies son gruesos en toda su longitud. Podríamos llamarlos pies en forma de ladrillo o de salchicha. 😛 Como quieras describir tus pies, <a href="/best-barefoot-shoes-foot-type/">conociendo la forma particular de tu pie</a> ¡Puede hacer que comprar zapatos sea mucho más fácil!</p>
+<p>Xero Shoes es una gran marca para personas cuyos pies son gruesos en toda su longitud. Podríamos llamarlos pies en forma de ladrillo o de salchicha. 😛 Como quieras describir tus pies, <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">conociendo la forma particular de tu pie</a> ¡Puede hacer que comprar zapatos sea mucho más fácil!</p>
 
 <p>Ah, y si estás ubicado en la UE, puedes comprar en ! <em>Ningún otro dominio es sitio web oficial de Xero.</em>y probablemente sean estafas. Por lo tanto, compre únicamente directamente con Xero o en tiendas minoristas autorizadas.</p>
 <p>Bien, profundicemos en los nuevos modelos, comenzando con nuestros favoritos.</p>
@@ -70,7 +70,7 @@ translatedFrom: en
 <h2 class="wp-block-heading" id="gcca2b1d03eb8">Mesa Trail WP</h2>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Altura de pila de 11 mm</figcaption></figure>
 
-<p>Otro excursionista impermeable disponible este otoño es el Mesa Trail WP. tengo este zapato en <a href="/xero-shoes-winter-2022-all-new-models-reviewed-here/">la versión no impermeable</a> y lo encontrará encantador y liviano para caminatas en climas cálidos. La nueva versión impermeable es igualmente liviana, pero un poco más rígida (esto siempre parece suceder cuando haces un zapato completamente impermeable) y un poco menos flexible en el material superior.</p>
+<p>Otro excursionista impermeable disponible este otoño es el Mesa Trail WP. tengo este zapato en <a href="/xero-zapatos-invierno-2022-todos-los-modelos-nuevos-revisados-aqui/">la versión no impermeable</a> y lo encontrará encantador y liviano para caminatas en climas cálidos. La nueva versión impermeable es igualmente liviana, pero un poco más rígida (esto siempre parece suceder cuando haces un zapato completamente impermeable) y un poco menos flexible en el material superior.</p>
 <p>Al igual que el Ridgeway, la banda de rodadura del Mesa Trail WP es más funcional en terrenos blandos. No me encanta en rocas resbaladizas y/o heladas, porque no tiene mucho agarre. Pero para la mayoría de los senderos son más que adecuados.</p>
 <p><strong> Sizing &amp;gt; Fit:</strong> Estos son bastante fieles al tamaño, pero un poco ajustados, por lo que es posible que desees aumentar el tamaño. Cambia parte de la sensación de estar barefoot por más seguridad al caminar, pero estos serán más protectores que un zapato barefoot ultrafino.</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Scrambler Low (izquierda) y Mesa Trail WP (derecha)</figcaption></figure>
@@ -79,7 +79,7 @@ translatedFrom: en
 
 <figcaption class="blocks-gallery-caption wp-element-caption">Altura de pila de 10 mm</figcaption></figure>
 
-<p>¡El último zapato para caminar barefoot de Xero este otoño! yo <a href="/xero-shoes-spring-2023-review-hiking-casual-dressy/">Probé el Scrambler Mid</a> ¡la primavera pasada y me enamoré! Sigue siendo uno de mis excursionistas favoritos, así que estaba muy emocionado de probar el Low. La suela exterior es agradable y con buen agarre, ideal tanto para terrenos blandos como para rocas resbaladizas. La parte superior de malla es realmente suave y transpirable, pero por alguna razón las encontré un poco más delgadas que las Scrambler Mid (tal vez estén más adaptadas).</p>
+<p>¡El último zapato para caminar barefoot de Xero este otoño! yo <a href="/revision-de-xero-zapatos-primavera-2023-senderismo-informal-y-elegante/">Probé el Scrambler Mid</a> ¡la primavera pasada y me enamoré! Sigue siendo uno de mis excursionistas favoritos, así que estaba muy emocionado de probar el Low. La suela exterior es agradable y con buen agarre, ideal tanto para terrenos blandos como para rocas resbaladizas. La parte superior de malla es realmente suave y transpirable, pero por alguna razón las encontré un poco más delgadas que las Scrambler Mid (tal vez estén más adaptadas).</p>
 <p><strong>Sizing &amp;gt; Fit:</strong> El tamaño es correcto y la parte superior es suave y flexible, pero aun así recomendaría una talla más grande si quieres usar calcetines y si planeas usarlos para caminatas largas (los pies se hinchan, ¿recuerdas?). El ancho es de medio a ancho.</p>
 <h2 class="wp-block-heading">Pagosa</h2>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-67 is-layout-flex wp-block-gallery-is-layout-flex">
@@ -100,5 +100,18 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Altura de pila de 9 mm</figcaption></figure>
 
 <p>El HFS es un calzado para correr en carretera con una suela de goma ligeramente más gruesa que la Speed Force para mayor longevidad y tracción. Si bien sigue siendo muy liviano y delgado, el HFS II tiene más agarre que antes. ¡Y la parte superior de malla es transpirable y aireada!</p>
-<p>¡Esos son todos los nuevos Zapatos barefoot para el otoño de 2023 de Xero Shoes! Si desea obtener más información sobre otros modelos de Xero, consulte mi artículo anterior. <a href="/brand/xero-shoes/">Reseñas de Xero Shoes</a>.</p>
+<p>¡Esos son todos los nuevos Zapatos barefoot para el otoño de 2023 de Xero Shoes! Si desea obtener más información sobre otros modelos de Xero, consulte mi artículo anterior. <a href="/marca/xero-shoes/">Reseñas de Xero Shoes</a>.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "¡Vea los nuevos zapatos Xero para el otoño de 2023 aquí!" sea mas util, lo importante es convertir la idea principal en criterios practicos: que mirar, para quien tiene sentido y que errores evitar.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar ¡Vea los nuevos zapatos Xero para el otoño de 2023 aquí!, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

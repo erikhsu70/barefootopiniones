@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: barefoot and Minimalist Boots Styling Guide
+title: "Guía de estilo para combinar botas barefoot y minimalistas"
 description: Nosotros, los que pertenecemos a la comunidad del calzado minimalista,
   tenemos suerte de tener una gran selección de botas a nuestra disposición (ver aquí).
   Así que seguramente encontrarás algo que se adapte a tu vida y estilo. Pero, debido
@@ -21,7 +21,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<figure class="wp-block-image"><figcaption class="wp-element-caption">De izquierda a derecha: <a href="https://www.softstarshoes.com/primal-sawyer.html">Aserradores Softstar</a>, <a href="https://www.lukshoes.com/barefoot-ankle-high-boots/primavera-barefoot-ankle-high-boots/">Luks Primavera</a>, Gobi III, Davinci Primavera (empresa cerrada), <a href="https://www.zaqq.com/riquet-black/?sPartner=aj22122020">Zaqq Riquet</a>, <a href="https://www.unshoesusa.com/collections/closed-toe/products/traverse">Taverse descalzado</a></figcaption></figure>
+<figure class="wp-block-image"><figcaption class="wp-element-caption">De izquierda a derecha: <a href="https://www.softstarshoes.com/primal-sawyer.html">Aserradores Softstar</a>, <a href="https://www.lukshoes.com/barefoot-ankle-high-boots/primavera-barefoot-ankle-high-boots/">Luks Primavera</a>, Gobi III, Davinci Primavera (empresa cerrada), <a href="https://www.zaqq.com/riquet-black/">Zaqq Riquet</a>, <a href="https://www.unshoesusa.com/collections/closed-toe/products/traverse">Taverse descalzado</a></figcaption></figure>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-29 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">yenes en <a href="https://www.belenka.com/">botas belenka</a></figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Julie Winters con botas DaVinci (empresa cerrada)</figcaption></figure>
@@ -30,7 +30,7 @@ translatedFrom: en
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Cate Barrett en <a href="https://xeroshoes.com/shop/boots/vienna/">Xero Viena</a></figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">katja en <a href="/luks-primavera-boots-review/">Luks Primavera</a></figcaption></figure>
 </figure>
-<p>Nosotros, los que pertenecemos a la comunidad del calzado minimalista, tenemos la suerte de tener una gran selección de botas a nuestra disposición (ver <a href="/barefoot-minimalist-womens-boots-full-list/">aquí</a>). Así que seguramente encontrarás algo que se adapte a tu vida y estilo. Pero, debido a que somos solo un grupo de nicho y las botas descalzas se ven diferentes de lo que está "de moda", puede ser difícil saber cómo usarlas. No vemos nuestros zapatos en pines de “inspiración de vestimenta” en Pinterest, no podemos obtener ideas de las personas con las que nos cruzamos en la calle y definitivamente no vemos nuestro calzado en la pantalla grande.</p>
+<p>Nosotros, los que pertenecemos a la comunidad del calzado minimalista, tenemos la suerte de tener una gran selección de botas a nuestra disposición (ver <a href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/">aquí</a>). Así que seguramente encontrarás algo que se adapte a tu vida y estilo. Pero, debido a que somos solo un grupo de nicho y las botas descalzas se ven diferentes de lo que está "de moda", puede ser difícil saber cómo usarlas. No vemos nuestros zapatos en pines de “inspiración de vestimenta” en Pinterest, no podemos obtener ideas de las personas con las que nos cruzamos en la calle y definitivamente no vemos nuestro calzado en la pantalla grande.</p>
 <p>Para complicar aún más las cosas, está el hecho de que las botas son muy gruesas. Todas las botas son más voluminosas que los zapatos normales, pero si las haces descalzas lo son aún más. Entonces, si se puso las botas descalzas y luego se sintió decepcionado cuando se miró en el espejo, no está solo. Pero aquí está la cuestión. Un poco de determinación ayuda mucho y es más que posible lucir elegante con nuestras botas saludables. </p>
 <p>Las siguientes son mis pautas para seleccionar y diseñar botas descalzas, con un poco de ayuda de mis amigos. 🙂</p>
 <h2 class="wp-block-heading">Selección de arranque</h2>
@@ -49,21 +49,21 @@ translatedFrom: en
 <li>Personalidad – Por último, quiero algo que se parezca a mí y ¡ME ENCANTA!</li>
 </ol>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-31 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><figcaption class="wp-element-caption">kelly en <a href="https://www.zaqq.com/detail/index/sArticle/221/?sPartner=aj22122020">Botas de equidad Zaqq</a></figcaption></figure>
+<figure class="wp-block-image size-large"><figcaption class="wp-element-caption">kelly en <a href="https://www.zaqq.com/detail/index/sArticle/221/">Botas de equidad Zaqq</a></figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Julio R en <a href="https://www.thedrifterleather.com/product/deco-in-brown-handmade-leather-boots-custom-fit">Botas decorativas Drifter de cuero</a></figcaption></figure>
 </figure>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Mel, de Bare Steps, en <a href="https://www.geasoles.com/en/">Gea Soles.</a></figcaption></figure>
 <h3 class="wp-block-heading">Botas resistentes a la intemperie </h3>
 <figure class="wp-block-image aligncenter"><figcaption class="wp-element-caption">Adriána Rybárová @barefootkitten, en Camisetas altas Gobi</figcaption></figure>
 <p>Estos son los zapatos para caminar, palear el camino de entrada y retozar en la nieve. Aquí el estilo pasa a un segundo plano frente a la funcionalidad, pero aún quieres algo que puedas usar en público y con lo que te sientas bien.</p>
-<figure class="wp-block-image"><figcaption class="wp-element-caption">yenes, en <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fwomens-boulder-boot-all">Botas de roca Lems</a></figcaption></figure>
+<figure class="wp-block-image"><figcaption class="wp-element-caption">yenes, en <a href="https://www.lemsshoes.com/collections/womens-boulder-boot-all">Botas de roca Lems</a></figcaption></figure>
 <p>A la hora de seleccionar este tipo de zapato, esto es lo que busco:</p>
 <ol>
 <li>Diseño: normalmente solo compro botas resistentes a la intemperie que tienen una pared de goma alrededor de la suela. Esto ayuda MUCHO con la impermeabilidad y protege contra desgastes y daños causados ​​por el agua, por lo que obtienes el doble beneficio de unos zapatos que duran más y siguen luciendo decentes. Este no tiene por qué ser su requisito, pero a mí me funciona.</li>
-<li>Materiales – Si mis botas no tienen un forro grueso y cálido, me siento miserable con el frío. También tomo nota de la altura total de las botas, ya que muchas botas descalzas son muy delgadas (y por lo tanto se enfrían rápidamente). Intento elegir botas con al menos 1 cm de altura, pero también puedo tener en cuenta el espacio adicional necesario para añadir plantillas. Por último, quiero un zapato que ya sea impermeable o al que pueda aplicarle un <a href="/barefoot-minimalist-shoe-care-how-to/">agente </a>a.</li>
+<li>Materiales – Si mis botas no tienen un forro grueso y cálido, me siento miserable con el frío. También tomo nota de la altura total de las botas, ya que muchas botas descalzas son muy delgadas (y por lo tanto se enfrían rápidamente). Intento elegir botas con al menos 1 cm de altura, pero también puedo tener en cuenta el espacio adicional necesario para añadir plantillas. Por último, quiero un zapato que ya sea impermeable o al que pueda aplicarle un <a href="/como-cuidar-tus-zapatos-barefoot-minimalistas/">agente </a>a.</li>
 <li>Características: la diferencia entre cordones, cremalleras y calzas es bastante grande en tus prácticas botas. Las botas con cordones se pueden ajustar según el calce que necesites, para que puedas conseguir un aspecto más delgado, pero tardan un poco en ponerse y quitarse. La cremallera y el tirador son súper rápidos y eso me encanta en un zapato práctico, pero no se pueden ajustar. Me gusta tener uno de ambos.</li>
 <li>Color – Esto es mucho menos importante aquí, pero todavía trato de elegir algo que funcione con la mayor parte de mi guardarropa.</li>
-<li>Tamaño: necesito espacio para usar calcetines gruesos y <a href="/barefoot-insoles-review/">plantillas</a> en mis botas de invierno, por lo que normalmente uso una talla más al menos una vez. Además, las paredes de goma evitan que las botas se estiren mucho, por lo que deben ajustarse correctamente desde el principio. </li>
+<li>Tamaño: necesito espacio para usar calcetines gruesos y <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantillas</a> en mis botas de invierno, por lo que normalmente uso una talla más al menos una vez. Además, las paredes de goma evitan que las botas se estiren mucho, por lo que deben ajustarse correctamente desde el principio. </li>
 <li>Personalidad – Incluso con este tipo de zapato, no compraré algo que no me guste. ¿Por qué no disfrutar lo que llevo puesto todo el tiempo?</li>
 </ol>
 <figure class="wp-block-image aligncenter"><figcaption class="wp-element-caption">Mel de Pasos Desnudos <a href="https://www.wildling.shoes/collections/rewild">Salvajes</a></figcaption></figure>
@@ -82,7 +82,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuando se agregan los calcetines, mis piernas se ven más proporcionales.</p>
 <p><strong>Botas con cordones</strong> – Estos se pueden ajustar más alrededor del tobillo, para que puedas salir sin calcetines, pero aun así me gusta usarlos para equilibrar el zapato.</p>
-<figure class="wp-block-image"><figcaption class="wp-element-caption">Calcetines, o sin calcetines, ¡ambos buenos! vistiendo <a href="https://tidd.ly/3g4nimn">Zapatillas altas Vivobarefoot Gobi</a></figcaption></figure>
+<figure class="wp-block-image"><figcaption class="wp-element-caption">Calcetines, o sin calcetines, ¡ambos buenos! vistiendo Zapatillas altas Vivobarefoot Gobi</figcaption></figure>
 <h3 class="wp-block-heading">Botas delgadas</h3>
 <p><strong>Botas cortas </strong>– Las botas cortas y de corte delgado son las más versátiles y se pueden usar con pantalones, mallas, leggings, calcetines o sin calcetines. Si uso calcetines, elijo unos finos con mis botas ajustadas para mantener ese aspecto estilizado.</p>
 <figure class="wp-block-image"><figcaption class="wp-element-caption">Botas delgadas, ¡diferentes formas! Llevo puesto DaVinci (empresa cerrada), <a href="https://www.thedrifterleather.com/products">Cuero vagabundo</a>, y </figcaption></figure>
@@ -95,5 +95,5 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Usar Zapatos barefoot presenta algunos desafíos si también quieres tener cuidado con el estilo. Pero aquí está el trato, gente. Se puede hacer. ¡Muchísimas gracias a todos los que voluntariamente compartieron sus fotografías para que aparezcan aquí, y si desean enviar una foto, la agregaré a la publicación en cualquier momento! Sólo envíame un correo electrónico 🙂</p>
 <p>**Todas las fotos que se muestran aquí sin etiqueta son mías**</p>
-<p>¿Quieres más material para botas? Puedes ver todas mis reseñas de botas. <a href="/style/boots/">aquí</a>. Para obtener una lista completa de botas descalzas disponibles, consulte mi <a href="/barefoot-minimalist-womens-boots-full-list/">Resumen de botas de invierno para mujer.</a> Y para ver qué botas llevo y estilo, aquí tenéis mis Instagram página.<br/></p>
+<p>¿Quieres más material para botas? Puedes ver todas mis reseñas de botas. <a href="/estilo/boots/">aquí</a>. Para obtener una lista completa de botas descalzas disponibles, consulte mi <a href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/">Resumen de botas de invierno para mujer.</a> Y para ver qué botas llevo y estilo, aquí tenéis mis Instagram página.<br/></p>
 

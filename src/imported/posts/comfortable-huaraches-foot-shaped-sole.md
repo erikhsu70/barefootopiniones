@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Los huaraches más cómodos que no aplastan los dedos de los pies: ¡ya disponibles!'
+title: "Los huaraches más cómodos que no aplastan los dedos de los pies: ya disponibles"
 description: Origo Shoes y yo hemos estado trabajando juntos el año pasado para traer
   un poco de sabor hispano al mundo del calzado barefoot. ¡Estamos encantados de anunciar
   que el Huarache de Isabel ya está disponible!
@@ -37,7 +37,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">No pude encontrar huaraches cómodos</h2>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Huaraches mejorados con forma natural.</figcaption></figure>
 <p>Las sandalias Huarache son uno de mis estilos favoritos, ¡pero su forma estrecha y puntiaguda siempre me lastima los pies! A mi mamá, mitad mexicana, también le encantan los huaraches tradicionales, pero con los juanetes también le resultaban incómodos. Solíamos culpar a nuestros pies, pero luego pensé “¿por qué no cambiar el zapato?”</p>
-<p>Desde entonces, el trabajo de mi vida ha sido encontrar<a href="/shoe-lists/"> alternativas cómodas a los zapatos que duelen</a>. Por eso, durante los últimos años he estado buscando artesanos que estuvieran interesados ​​en reinventar este zapato tradicional con una forma natural del pie. ¡Quería huaraches que realmente se ajustaran a pies anchos!</p>
+<p>Desde entonces, el trabajo de mi vida ha sido encontrar<a href="/mejores-zapatos-barefoot/"> alternativas cómodas a los zapatos que duelen</a>. Por eso, durante los últimos años he estado buscando artesanos que estuvieran interesados ​​en reinventar este zapato tradicional con una forma natural del pie. ¡Quería huaraches que realmente se ajustaran a pies anchos!</p>
 
 <p>Esa búsqueda me llevó a Diego y Cristina, un dúo colombiano de marido y mujer que fundaron  – ¡una marca construida sobre los mismos ideales que Barefoot Opiniones!</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">diego y cristina</figcaption></figure>
@@ -53,14 +53,14 @@ translatedFrom: en
 <p>Los zapatos están fabricados íntegramente en piel con una suela de goma flexible en la parte inferior. Todo el cuero está curtido vegetal y no contiene cromo, por lo que puedes usarlos barefoot con seguridad. La suela flexible de 3 mm está hecha de caucho natural con textura para mayor agarre. Sencillez elegante.</p>
 <h3 class="wp-block-heading">Versión Sandalia Con Hebilla</h3>
 
-<p>La variación de sandalias de estos huaraches tiene una correa con hebilla que mantiene el pie en su lugar de forma segura, lo que los hace ajustables para una variedad de tipos de pies; estos se ajustan a mi <a href="/ufaq/what-is-foot-volume/">pies de bajo volumen</a> ¡Y los tacones estrechos mejor! Las sandalias Huarache vienen en negro, canela, tostado y blanco en tallas de mujer de EE. UU. 6-11.5.</p>
+<p>La variación de sandalias de estos huaraches tiene una correa con hebilla que mantiene el pie en su lugar de forma segura, lo que los hace ajustables para una variedad de tipos de pies; estos se ajustan a mi <a href="/preguntas/que-es-el-volumen-del-pie/">pies de bajo volumen</a> ¡Y los tacones estrechos mejor! Las sandalias Huarache vienen en negro, canela, tostado y blanco en tallas de mujer de EE. UU. 6-11.5.</p>
 
 <p>Yo uso el mío con la hebilla más ajustada y les di muchos kilómetros de pruebas sobre adoquines europeos. ¡Son increíblemente cómodos! Si también tienes pies de poco volumen y/o tacones estrechos, este podría ser un ajuste más seguro que los zapatos sin cordones.</p>
 <h3 class="wp-block-heading">Versión sin cordones</h3>
 
 <p>La versión más tradicional del huarache, el slip-on, viene en dos anchos y en toda la gama de tallas, ¡tanto para hombres como para mujeres! Este zapato se puede usar durante la primavera, el verano y el otoño con todo, desde pantalones cortos y jeans hasta vestidos. </p>
 
-<p>Debido a que las zapatillas sin cordones pueden ser un poco más difíciles de ajustar y creemos que un buen ajuste es importante para caminar de forma saludable, proporcionamos una tobillera opcional. <em>en ambos anchos</em>. Puedes usarlo con la corbata para mayor seguridad para que los huaraches no se resbalen del talón, o puedes quitar la corbata y usarlos como un verdadero calzado sin cordones. También puedes agregar un <a href="https://amzn.to/3wVdTVr">agarre del talón</a> hacia atrás para un ajuste más personalizado (¡esto es lo que hago!).</p>
+<p>Debido a que las zapatillas sin cordones pueden ser un poco más difíciles de ajustar y creemos que un buen ajuste es importante para caminar de forma saludable, proporcionamos una tobillera opcional. <em>en ambos anchos</em>. Puedes usarlo con la corbata para mayor seguridad para que los huaraches no se resbalen del talón, o puedes quitar la corbata y usarlos como un verdadero calzado sin cordones. También puedes agregar un agarre del talón hacia atrás para un ajuste más personalizado (¡esto es lo que hago!).</p>
 <h3 class="wp-block-heading">Huaraches en Ancho</h3>
 
 <p>el  tiene un ajuste general más amplio que la versión normal y viene en tallas más grandes, por lo que es más adecuado para pies más anchos, con mayor volumen y más grandes. Este modelo también tiene algunas piezas de cuero adicionales entretejidas para que cubra un poco más del pie en la parte superior y los lados que el modelo normal, y la versión sin cordones viene con la correa opcional para el tobillo. ¡Puedes encontrar los huaraches anchos tanto en estilo sandalia sin cordones como con hebilla! Profundicemos un poco más en el tamaño y el ajuste de cada uno de estos modelos.</p>
@@ -72,7 +72,7 @@ translatedFrom: en
 <ul>
 <li>Fiel al tamaño</li>
 <li>Ancho medio a ancho</li>
-<li><a href="/ufaq/what-is-foot-volume/">Volumen medio</a></li>
+<li><a href="/preguntas/que-es-el-volumen-del-pie/">Volumen medio</a></li>
 </ul>
 <p>Eso significa que estos zapatos deben ajustarse bien tanto a pies medianos como a algunos anchos.</p>
 <h3 class="wp-block-heading">Huaraches Anchos</h3>
@@ -88,10 +88,10 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">¿Por qué son tan cómodos?</h2>
 <p>Al igual que en los huaraches tradicionales, el cuero se amoldará a tus pies a medida que los uses, por lo que está bien si se sienten cómodos cuando son nuevos. Debido a este estiramiento y moldeado del cuero, muchas personas con pies extra anchos también podrán conseguir un buen ajuste. Si tienes pies de poco volumen y tacones estrechos, la variación de sandalia con hebilla probablemente será la mejor opción.</p>
-<p>Puedo usar una talla 6.5 de ancho normal en estos, que es mi talla habitual de zapato estadounidense para este estilo de zapato. si tienes <a href="/ufaq/what-is-foot-volume/">pies de bajo volumen</a> y/o tacones estrechos, consideraría pecar por el lado más pequeño para que se sientan seguros, particularmente en la versión sin cordones.</p>
+<p>Puedo usar una talla 6.5 de ancho normal en estos, que es mi talla habitual de zapato estadounidense para este estilo de zapato. si tienes <a href="/preguntas/que-es-el-volumen-del-pie/">pies de bajo volumen</a> y/o tacones estrechos, consideraría pecar por el lado más pequeño para que se sientan seguros, particularmente en la versión sin cordones.</p>
 
 <h3 class="wp-block-heading">Realizar pedidos</h3>
-<p>El Huarache de Isabel está disponible para su compra en Origo Shoes y se envía desde EE. UU. a Norteamérica, Europa, Reino Unido y Australia. O si vives en México puedes <a href="https://origoshoes.mx/?rs_ref=KIW46kkA">compra zapatos Origo aquí</a> y disfruta del envío desde dentro de México.</p>
+<p>El Huarache de Isabel está disponible para su compra en Origo Shoes y se envía desde EE. UU. a Norteamérica, Europa, Reino Unido y Australia. O si vives en México puedes <a href="https://origoshoes.mx/">compra zapatos Origo aquí</a> y disfruta del envío desde dentro de México.</p>
 <p>Puedes usar el código <strong></strong> con un 10% de descuento en tu compra en cualquier momento y en cualquiera de los modelos que vende Origo.</p>
 <h4 class="wp-block-heading">Minoristas de todo el mundo</h4>
 <ul>

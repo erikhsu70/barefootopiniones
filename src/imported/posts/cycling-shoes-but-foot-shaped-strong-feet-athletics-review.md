@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Zapatos de ciclismo, pero con forma de pie: una revisión'
+title: "Mi opinión sobre Strong Feet Athletics: zapatillas de ciclismo con horma anatómica"
 description: Por último, zapatos de ciclismo que no va a picar los dedos de los pies!
   El Strong Feet Athletics Leviathan es el primer zapato de ciclismo en el mercado
   con una forma realmente anatómica para ellos.

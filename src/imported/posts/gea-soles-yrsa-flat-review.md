@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Gea Soles Yrsa Flat Review
+title: "Mi opinión sobre las bailarinas Gea Soles Yrsa"
 description: 'Gea Soles nuevo modelo es el piso Yrsa: una Mary Jane con algunos detalles
   únicos. Una correa angulada y el diseño de caja de pies dan estructura a la forma
   anatómica. Los lados de corte bajo también minimizan el grueso del zapato y elongate
@@ -43,7 +43,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">2. Cualidades de estar barefoot</h2>
 <p>Estas bailarinas Yrsa son delgadas (de 4 a 5 mm de grosor según la suela que elijas) y extremadamente flexibles y livianas. Son seguros para el pie y tienen una excelente forma del pie. Dado que se fabrican según tus medidas, esta es una buena marca para personas con pies extra anchos. En términos de cualidades para estar barefoot, estos son 10/10, uno de los mejores zapatos de vestir de mujer que he probado. </p>
 
-<p class="has-text-align-center">De izquierda a derecha: <a href="https://cruponsandals.com/collections/barefoot">Sandalias Crupón</a> | <a href="https://www.softstarshoes.com/adult-solstice-sandal.html">sandalias Softstar Solstice</a> | <a href="https://www.geasoles.com/en/casual/56-1432-yrsa.html#/35-sole-rubber_sole_3mm/49-thread_colour-dark">Gea Soles</a> | <a href="/zeazookids-brand-review/">Zeazoo Mary Jane</a></p>
+<p class="has-text-align-center">De izquierda a derecha: <a href="https://cruponsandals.com/collections/barefoot">Sandalias Crupón</a> | <a href="https://www.softstarshoes.com/adult-solstice-sandal.html">sandalias Softstar Solstice</a> | <a href="https://www.geasoles.com/en/casual/56-1432-yrsa.html#/35-sole-rubber_sole_3mm/49-thread_colour-dark">Gea Soles</a> | <a href="/revision-de-la-marca-zeazoo-ninos-la-bota-dingo/">Zeazoo Mary Jane</a></p>
 <h2 class="wp-block-heading">3. Materiales</h2>
 <p>Esther obtiene cuero natural sin cromo de curtidurías europeas y luego lo tiñe a mano. Los zapatos no están forrados, por lo que el lado crudo del cuero toca la piel, que es suave y transpirable. Una parte superior sin forro también hace que estos zapatos sean muy livianos y flexibles, pero aún lo suficientemente resistentes como para resistir el uso. No hubo rozaduras ni rozaduras en mis pies ni período de adaptación.</p>
 <p>Debido a que ella mezcla sus propios colores, cada zapato será ligeramente único. Eso también deja abierta la posibilidad de colores y detalles personalizados, así que si hay algo específico que estás buscando, ¡comuníquese con ella! Me encantan mucho el granate y la turquesa.</p>
@@ -58,7 +58,7 @@ translatedFrom: en
 
 <p>En lugar de seleccionar una talla, introduces las medidas de tu pie según <a href="https://www.geasoles.com/en/content/14-size-guide-">estas instrucciones de medición</a> (una nota sobre la medida del ancho: desea obtenerla de la misma manera que toma la longitud del pie, pero con la parte exterior de su pie alineada contra la pared. Luego mida la distancia desde la pared hasta la parte más ancha de su pie). </p>
 <p>Dado que estas medidas son las que ella utiliza para hacer los zapatos, SIEMPRE verifique y vuelva a medir antes de enviarlos. Si alguna vez tienes dudas, comunícate directamente con Esther.</p>
-<p>El ancho y el largo los míos son perfectos, ella acertó con el tamaño. Son profundos para mi pie (casi siempre tengo este problema). <a href="https://www.instagram.com/p/B8_ojnuBj-A/?utm_source=ig_web_copy_link">por la forma de mi pie</a>), así que me puse un <a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">plantilla de 1,5 mm</a> y ahora los zapatos se ajustan perfectamente sin que los dedos se agarren ni se resbalen.</p>
+<p>El ancho y el largo los míos son perfectos, ella acertó con el tamaño. Son profundos para mi pie (casi siempre tengo este problema). <a href="https://www.instagram.com/p/B8_ojnuBj-A/?utm_source=ig_web_copy_link">por la forma de mi pie</a>), así que me puse un <a href="https://naboso-technology.myshopify.com/">plantilla de 1,5 mm</a> y ahora los zapatos se ajustan perfectamente sin que los dedos se agarren ni se resbalen.</p>
 <h2 class="wp-block-heading">5. Realizar pedidos</h2>
 <p>Gea Soles solo realiza envíos dentro de la UE (esto cambió a principios de 2024). Puedes pagar con Paypal o mediante transferencia bancaria. Siempre uso Paypal siempre que puedo para proteger la compra (¡ocasionalmente se pierden cosas en el correo!). Una vez realizado el pedido, Esther puede tardar hasta 6 semanas en completar los zapatos, pero una vez enviados, recibirás una notificación y un seguimiento.<br/></p>
 <h2 class="wp-block-heading">6. Ética y Sostenibilidad</h2>

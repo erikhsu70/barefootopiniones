@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Faye está aquí, y está poniendo tus otras botas celosas.
+title: "Faye está aquí, y está poniendo tus otras botas celosas"
 description: Estoy cansado de zapatos bonitos que no ofrecen nada más que apariencia.
   Es hora de una actualización. Mi nuevo diseño, la bota Faye, ahora está disponible
   y listo para transformar su armario!

@@ -1,130 +1,30 @@
 ---
 layout: layouts/base.njk
-title: Blog BarefootOpiniones
-description: Todas las guías, reseñas y listas de BarefootOpiniones ordenadas por tema para encontrar rápido el contenido que necesitas.
-eyebrow: Blog
+title: Todos los artículos
+description: Todas las guías, opiniones y preguntas frecuentes sobre calzado barefoot de Barefoot Opiniones.
 permalink: /articulos/
+pageClass: lovable-archive
 ---
-<section class="page-content blog-page">
-<section class="blog-dashboard">
-  <div class="blog-dashboard__copy">
-    <p class="eyebrow">Blog ordenado por Isabel</p>
-    <h1>Encuentra la guía barefoot que necesitas.</h1>
-    <p>297 artículos agrupados por temas prácticos: empezar, listas, reseñas, niños, estilo, botas, sandalias, deporte y puntera ancha.</p>
-  </div>
-  <div class="mirror-stats blog-stats">
-    <div><strong>{{ collections.importedPosts.length }}</strong><span>Artículos</span></div>
-    <div><strong>{{ blogTopics.categories.length }}</strong><span>Topics</span></div>
-    <div><strong>{{ collections.importedFaqs.length }}</strong><span>FAQs</span></div>
-  </div>
-</section>
-
-<nav class="topic-nav" aria-label="Topics del blog">
-  {% for topic in blogTopics.categories %}
-    {% set topicItems = collections.importedPosts | topicPosts(topic) %}
-    <a href="#{{ topic.key }}">
-      <span>{{ topic.label }}</span>
-      <strong>{{ topicItems.length }}</strong>
-    </a>
-  {% endfor %}
-</nav>
-
-<section class="blog-featured">
-  {% set featured = collections.importedPosts | featuredPosts %}
-  {% for post in featured %}
-    <article class="post-card {% if loop.first %}post-card--lead{% endif %}">
-      <a href="{{ post.url }}">
-        {% if post.data.image %}
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="{% if loop.first %}eager{% else %}lazy{% endif %}">
-        {% endif %}
-        <div class="post-card-content">
-          <div class="post-meta">
-            <span>Destacado</span>
-            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-          </div>
-          <h3>{{ post.data.title }}</h3>
-          {% if post.data.description %}
-            <p>{{ post.data.description | safe }}</p>
-          {% endif %}
-        </div>
-      </a>
-    </article>
-  {% endfor %}
-</section>
-
-{% for topic in blogTopics.categories %}
-  {% set topicItems = collections.importedPosts | topicPosts(topic) %}
-  {% if topicItems.length %}
-    <section class="topic-section" id="{{ topic.key }}">
-      <div class="section-head topic-head">
-        <div>
-          <p class="eyebrow">{{ topic.eyebrow }}</p>
-          <h2>{{ topic.label }}</h2>
-        </div>
-        <p>{{ topic.description }}</p>
-      </div>
-
-      <div class="archive-grid topic-grid">
-        {% for post in topicItems %}
-          {% if loop.index <= 6 %}
-            <article class="post-card">
-              <a href="{{ post.url }}">
-                {% if post.data.image %}
-                  <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
-                {% endif %}
-                <div class="post-card-content">
-                  <div class="post-meta">
-                    <span>{{ topic.label }}</span>
-                    <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-                  </div>
-                  <h3>{{ post.data.title }}</h3>
-                  {% if post.data.description %}
-                    <p>{{ post.data.description | safe }}</p>
-                  {% endif %}
-                </div>
-              </a>
-            </article>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </section>
-  {% endif %}
-{% endfor %}
-
-<section class="title-index" id="todos-los-posts">
-  <div class="section-head topic-head">
-    <div>
-      <p class="eyebrow">Inventario completo</p>
-      <h2>Todos los artículos</h2>
-    </div>
-    <p>Primera página del archivo completo. El resto va paginado para que el blog cargue mejor y sea más fácil de navegar.</p>
-  </div>
-  <div class="archive-grid paginated-grid">
-    {% for post in collections.importedPosts %}
-      {% if loop.index <= 24 %}
-        <article class="post-card">
-          <a href="{{ post.url }}">
-            {% if post.data.image %}
-              <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
-            {% endif %}
-            <div class="post-card-content">
-              <div class="post-meta">
-                <span>{{ post.data.contentType or "Artículo" }}</span>
-                <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-              </div>
-              <h3>{{ post.data.title }}</h3>
-              {% if post.data.description %}
-                <p>{{ post.data.description | safe }}</p>
-              {% endif %}
-            </div>
-          </a>
-        </article>
-      {% endif %}
-    {% endfor %}
-  </div>
+<section class="lov-page-hero"><div class="lov-page-hero__inner">
+  <p class="eyebrow">Directorio editorial</p>
+  <h1>Todos los artículos</h1>
+  <p>{{ collections.importedPosts.length }} artículos publicados en Barefoot Opiniones.</p>
+</div></section>
+<section class="lov-archive">
+  <ul class="lov-archive-list">
+    {% for post in collections.importedPosts %}{% if loop.index <= 24 %}
+      <li class="lov-archive-row"><a href="{{ post.url }}">
+        <div class="lov-archive-row__image">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">{% endif %}</div>
+        <div><h2>{{ post.data.title }}</h2>{% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}</div>
+        <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      </a></li>
+    {% endif %}{% endfor %}
+  </ul>
   <nav class="pagination-nav" aria-label="Paginación de artículos">
-    <span>Página 1</span>
+    <span class="pagination-nav__disabled">Anterior</span>
+    {% for pageNumber in collections.importedPosts.length | pageNumbers(24) %}
+      <a href="{{ pageNumber | articlePageUrl }}"{% if pageNumber == 1 %} aria-current="page"{% endif %}>{{ pageNumber }}</a>
+    {% endfor %}
     <a href="/articulos/pagina/2/">Siguiente</a>
   </nav>
-</section>
 </section>

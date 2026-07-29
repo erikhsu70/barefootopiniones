@@ -31,10 +31,10 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Historia del origen</h2>
 
-<p><a href="https://www.gaucho.ninja/collections/all/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a> es la primera marca de Zapatos barefoot de Lisandro fundada en 2015, y es una combinación de la herencia española de Lisandro y su experiencia en artes marciales (gaucho significa vaquero en español). Bajo esa marca, ha estado fabricando hermosos zapatos y botas en el Reino Unido con materiales de alta calidad y de una manera respetuosa con el medio ambiente. Incluso ofrece zapatos totalmente hechos a medida para una experiencia personalizada. Puedes leer mi <a href="/gaucho-ninja-review-handmade-barefoot-boots/">Revisión del gaucho ninja</a> Aquí.</p>
+<p><a href="https://www.gaucho.ninja/collections/all/">Gaucho Ninja</a> es la primera marca de Zapatos barefoot de Lisandro fundada en 2015, y es una combinación de la herencia española de Lisandro y su experiencia en artes marciales (gaucho significa vaquero en español). Bajo esa marca, ha estado fabricando hermosos zapatos y botas en el Reino Unido con materiales de alta calidad y de una manera respetuosa con el medio ambiente. Incluso ofrece zapatos totalmente hechos a medida para una experiencia personalizada. Puedes leer mi <a href="/revision-de-gaucho-ninja-botas-descalzas-hechas-a-mano/">Revisión del gaucho ninja</a> Aquí.</p>
 <p>Pero hacer calzado de esta manera es caro para los clientes, y quería encontrar una manera de llevar su trabajo a más personas por un precio más bajo. Le costó mucho buscar, pero finalmente encontró una fábrica que cumpliría con sus altos estándares y produciría a mayor escala para poder reducir los costos. Y así nació barefoot Pals.</p>
 
-<p>Combinan las características de<a href="/benefits-barefoot-minimalist-shoes/"> Zapatos barefoot</a> con calidad artesanal y estilo – <meta charset="utf-8"/>¡Los Pals son sin duda uno de los Zapatos barefoot más cómodos disponibles!</p>
+<p>Combinan las características de<a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/"> Zapatos barefoot</a> con calidad artesanal y estilo – <meta charset="utf-8"/>¡Los Pals son sin duda uno de los Zapatos barefoot más cómodos disponibles!</p>
 <h2 class="wp-block-heading">Revisión de amigos descalzos</h2>
 
 <p class="has-text-align-center">$180 después del cupón | Cuero | Tallas UE 36-46 | Envío gratuito a todo el mundo desde el Reino Unido</p>
@@ -48,7 +48,7 @@ translatedFrom: en
 <p>Están hechos con una horma (molde de zapato) que garantiza que tengan suficiente espacio vertical para los dedos, pero la parte superior no está forrada, por lo que podrás ver la forma de tu pie a través del cuero, también conocido como toe poke. Esto también significa que son súper flexibles, moldeables y transpirables. Se sienten como si usaran guantes finos en los pies. </p>
 <h2 class="wp-block-heading"><strong>Sizing &amp;amp; Fit</strong></h2>
 
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Lea este artículo para obtener una explicación de los términos utilizados aquí, además de instrucciones sobre cómo medir y utilizar una tabla de tallas.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Lea este artículo para obtener una explicación de los términos utilizados aquí, además de instrucciones sobre cómo medir y utilizar una tabla de tallas.</a></p>
 <p>Los amigos descalzos son:</p>
 <ul>
 <li>Fiel al tamaño</li>
@@ -57,12 +57,12 @@ translatedFrom: en
 </ul>
 <p>Aunque son fieles al tamaño, recomendamos consultar la tabla de tallas a continuación antes de realizar el pedido. Muestra la longitud interior de cada talla de zapato.</p>
 
-<p>Debido a lo increíblemente suave y elástico que es el cuero, existe la posibilidad para personas con pies incluso extra anchos (especialmente si son <a href="/best-shoes-for-wide-feet/">Ancho Recto</a>) para estar cómodo con estos zapatos, pero es probable que los dedos de tus pies pasen por encima de las costuras. Samantha, abajo, tiene los pies extra anchos y puedes ver cómo su pie termina encima de las costuras de los costados. Sus pies de mayor volumen llenan todo el zapato, pero no los encuentra incómodos ni demasiado ajustados en ninguna parte gracias al cuero muy flexible.</p>
+<p>Debido a lo increíblemente suave y elástico que es el cuero, existe la posibilidad para personas con pies incluso extra anchos (especialmente si son <a href="/zapatos-barefoot-para-pies-anchos-guia-completa/">Ancho Recto</a>) para estar cómodo con estos zapatos, pero es probable que los dedos de tus pies pasen por encima de las costuras. Samantha, abajo, tiene los pies extra anchos y puedes ver cómo su pie termina encima de las costuras de los costados. Sus pies de mayor volumen llenan todo el zapato, pero no los encuentra incómodos ni demasiado ajustados en ninguna parte gracias al cuero muy flexible.</p>
 
-<p>Y si tienes pies de volumen bajo o medio, estaría dispuesto a usarlos. <a href="/barefoot-insoles-review/">una plantilla</a>, especialmente si no quieres que tengan un aspecto holgado. Incluso puedo caber en un grueso <a href="https://shrsl.com/3omes">plantilla de piel de oveja</a> en el mío, ¡lo que los hacía sentir aún más lujosos! Vea a continuación cómo se ajustan a mis pies de bajo volumen.</p>
+<p>Y si tienes pies de volumen bajo o medio, estaría dispuesto a usarlos. <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">una plantilla</a>, especialmente si no quieres que tengan un aspecto holgado. Incluso puedo caber en un grueso plantilla de piel de oveja en el mío, ¡lo que los hacía sentir aún más lujosos! Vea a continuación cómo se ajustan a mis pies de bajo volumen.</p>
 <figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped wp-block-gallery-46 is-layout-flex wp-block-gallery-is-layout-flex">
 
-<figcaption class="blocks-gallery-caption wp-element-caption">La foto de la izquierda no tiene modificaciones. La foto de la derecha es con plantilla de lana y <a href="https://amzn.to/3kKqG80">almohadilla para la lengua</a>.</figcaption></figure>
+<figcaption class="blocks-gallery-caption wp-element-caption">La foto de la izquierda no tiene modificaciones. La foto de la derecha es con plantilla de lana y almohadilla para la lengua.</figcaption></figure>
 <h2 class="wp-block-heading">Cómo hacer un pedido</h2>
 <p>Debido a que se trata de una marca nueva, ser uno de los primeros clientes tiene algunas ventajas. Los primeros 50 pares de barefoot Pals tienen un 40% de descuento a $121 más envío. Después de eso, el precio minorista será de $202 con envío gratuito a todo el mundo y podrá usar el código <strong>CUALQUIER EXAMEN</strong> con un 10% de descuento. En lo que respecta a los Zapatos barefoot, 121 dólares es un buen precio para un zapato de alta calidad y tan cómodo. Y se pueden resolvar una vez desgastados para prolongar su vida.</p>
 <p>Los Pals están en stock en la mayoría de los tamaños y listos para enviarse a cualquier parte del mundo a través de DHL, por lo que no debería tener que esperar mucho para recibirlos. Cualquier talla que no esté en stock tendrá un plazo de entrega de 4 a 6 semanas.</p>
@@ -91,3 +91,30 @@ Antes de valorar barefoot Pals: los zapatos más ligeros y flexibles que he revi
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar barefoot Pals: los zapatos más ligeros y flexibles que he revisado es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

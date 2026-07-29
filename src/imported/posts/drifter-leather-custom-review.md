@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Cómo: conseguir los zapatos personalizados perfectos de The Drifter Leather'
+title: "Cómo encargar zapatos personalizados a The Drifter Leather"
 description: Si está pensando en pedir zapatos personalizados de The Drifter Leather
   como cliente recurrente o por primera vez, ¡está en el lugar correcto! La siguiente
   es una guía detallada para conseguir los zapatos de tus sueños. Acerca de The Drifter
@@ -89,6 +89,6 @@ translatedFrom: en
 <p>Estos zapatos están hechos para moverse y doblarse con los pies, por lo que el cuero se arrugará a medida que se desgasta.</p>
 
 <h3 class="wp-block-heading">Cuidando tus zapatos</h3>
-<p>Con los zapatos en los que has trabajado tanto, querrás cuidarlos. Utilice productos para el cuidado del cuero de calidad para limpiar, acondicionar e impermeabilizar. El Drifter Leather lleva <a href="https://www.thedrifterleather.com/category/shoe-foot-care">estos</a> productos. Yo personalmente uso <a href="https://amzn.to/2WRohuT">Leche para cuero de Chamberlain</a>. Dejar que el cuero se ensucie hará que se degrade más rápido, por lo que es una buena idea limpiarlo rápidamente de vez en cuando. Mantenlos alejados de la luz solar directa cuando no estés usando los zapatos y, si no los vas a usar durante mucho tiempo, guárdalos para que no acumulen polvo.</p>
+<p>Con los zapatos en los que has trabajado tanto, querrás cuidarlos. Utilice productos para el cuidado del cuero de calidad para limpiar, acondicionar e impermeabilizar. El Drifter Leather lleva <a href="https://www.thedrifterleather.com/category/shoe-foot-care">estos</a> productos. Yo personalmente uso Leche para cuero de Chamberlain. Dejar que el cuero se ensucie hará que se degrade más rápido, por lo que es una buena idea limpiarlo rápidamente de vez en cuando. Mantenlos alejados de la luz solar directa cuando no estés usando los zapatos y, si no los vas a usar durante mucho tiempo, guárdalos para que no acumulen polvo.</p>
 <h2 class="wp-block-heading">Último paso: ¡Úselo y disfrute!</h2>
 

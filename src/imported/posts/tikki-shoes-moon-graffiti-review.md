@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de Tikki Shoes Moon Graffiti
+title: "Mi opinión sobre Tikki Shoes Moon Graffiti"
 description: Tikki fabrica Zapatos barefoot para niños de alta calidad con materiales
   naturales. ¡The Moon es su zapatilla más nueva diseñada para niños grandes y adolescentes!
 date: '2021-04-20T15:03:34'
@@ -31,7 +31,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Revisión de Tikki Luna</h2>
 
 <p class="has-text-align-center">Usar código <strong></strong> para 10% de descuento</p>
-<p>Tan pronto como mis hijos vieron estos <a href="https://www.tikkishoes.com/barefoot-boots/leather-boots-moon-graffiti-30-35-eu.html">tikki luna</a> zapatos que estaban peleando por quién podía probárselos.  ¡Pensaban que eran TAN GENIALES! El elegante cuero negro y el diseño gráfico blanco en los costados realmente los hacen especiales.  Se nota que se pensó mucho en diseñar un zapato que los niños mayores querrían usar, pero que aún cumple con todos los requisitos para <a href="/benefits-barefoot-minimalist-shoes/">calzado saludable</a>. </p>
+<p>Tan pronto como mis hijos vieron estos <a href="https://www.tikkishoes.com/barefoot-boots/leather-boots-moon-graffiti-30-35-eu.html">tikki luna</a> zapatos que estaban peleando por quién podía probárselos.  ¡Pensaban que eran TAN GENIALES! El elegante cuero negro y el diseño gráfico blanco en los costados realmente los hacen especiales.  Se nota que se pensó mucho en diseñar un zapato que los niños mayores querrían usar, pero que aún cumple con todos los requisitos para <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">calzado saludable</a>. </p>
 <p>Cuentan con una hermosa parte superior de napa encerada y un suave forro de cuero sin cromo.  La suela exterior de 3 mm (5 mm con plantilla extraíble) tiene agarre, es flexible y tiene paredes amuralladas alrededor de los bordes para proteger la parte superior.  Las correas dobles de velcro funcionan muy bien. A veces, las correas con este diseño no se deslizan libremente a través de las aberturas, pero son agradables y suaves.  Los usa mi hija de 9 años y una de las razones por las que le gustan tanto es lo fáciles que son de poner y ajustar.  Otro buen detalle es el pequeño lazo en la lengüeta por el que pasa la correa superior. Esto evita que la lengua se doble o se tuerza hacia un lado.  </p>
 <p>También están disponibles en un <a href="https://www.tikkishoes.com/barefoot-boots/water-repellent-leather-boots-moon-feather-30-35-eu.html">versión con cordones</a> con un diseño de pavo real azul.</p>
 
@@ -48,18 +48,18 @@ translatedFrom: en
 </div></div>
 
 <p>En cuanto a comodidad, no tiene ninguna queja. El cuello alrededor del tobillo está acolchado al igual que la lengüeta, lo que los hace muy agradables para el uso diario sin necesidad de descansar en el tiempo.</p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/"><strong>¡Lea esta publicación para obtener una guía completa para comprender su tipo de pie!</strong></a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/"><strong>¡Lea esta publicación para obtener una guía completa para comprender su tipo de pie!</strong></a></p>
 
 <h2 class="wp-block-heading">Tikki comparado con otras marcas</h2>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content">
-<p class="has-normal-font-size">En comparación con otras marcas populares descalzas, Tikki tiene una forma similar a Splay, pero un poco más inclinada que  (que cuenta con una puntera cuadrada). La puntera más ancha pertenece a <a href="https://www.anrdoezrs.net/links/9040624/type/dlg/https://www.belenka.com/">Sé Lenka</a>.</p>
+<p class="has-normal-font-size">En comparación con otras marcas populares descalzas, Tikki tiene una forma similar a Splay, pero un poco más inclinada que  (que cuenta con una puntera cuadrada). La puntera más ancha pertenece a <a href="https://www.belenka.com/">Sé Lenka</a>.</p>
 </div></div>
-<p class="has-text-align-center"><strong>Haga clic aquí para el <a href="/best-barefoot-minimalist-kids-shoes/">Los mejores Zapatos barefoot para niños para todas las estaciones</a></strong></p>
+<p class="has-text-align-center"><strong>Haga clic aquí para el <a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/">Los mejores Zapatos barefoot para niños para todas las estaciones</a></strong></p>
 <p></p>
 <h2 class="wp-block-heading">Costo y pedidos</h2>
 <p>Para tamaños <a href="https://www.tikkishoes.com/barefoot-boots/leather-boots-moon-graffiti-30-35-eu.html">UE 30-35</a>, el coste es de 73,81€ (unos 88$) y tallas para niños grandes <a href="https://www.tikkishoes.com/barefoot-boots/water-repellent-leather-boots-moon-graffiti-36-39-eu.html">UE 36-39</a> cuesta 80,95 € (unos 97 dólares). El envío se basa en el peso y la ubicación, pero Tikki ofrece envío gratuito por encima de ciertos umbrales por país (tabla <a href="https://www.tikkishoes.com/delivery.htm">aquí</a>). Para los Estados Unidos, puedes disfrutar de envío gratuito a partir de 150 €, lo cual no es un mínimo difícil de alcanzar si compras para varios niños. Puedes usar código <strong></strong> por 10% de descuento.</p>
 <p>Puede devolver zapatos nuevos o sin usar dentro de los 30 días y los clientes son responsables de los costos de envío.  Podría resultar más rentable intentar venderlos localmente o en el grupo de Facebook. <a href="https://www.facebook.com/groups/901582320662214/">Zapatos minimalistas/descalzos para niños COMPRAR/VENDER/COMERCIO.</a> </p>
-<p class="has-text-align-center"><strong>Mira esta lista de <a href="/affordable-barefoot-shoes-for-kids/">Zapatos barefoot asequibles para niños</a>!</strong></p>
+<p class="has-text-align-center"><strong>Mira esta lista de <a href="/zapatos-para-ninos-descalzos-asequibles-para-todos-los-presupuestos/">Zapatos barefoot asequibles para niños</a>!</strong></p>
 
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>A mi hija le gusta mucho usar estos zapatos y su hermano menor está ansioso por que se le queden pequeños para poder usarlos él también.  Se ven geniales, están muy bien hechos y son una excelente opción para niños de cualquier edad.  Conociendo el tiempo y la energía que se invirtieron en diseñar un zapato tan funcional y elegante, espero con ansias que otros estilos se unan a esta colección en el futuro. </p>
@@ -90,3 +90,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de Tikki Shoes Moon Graffiti es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

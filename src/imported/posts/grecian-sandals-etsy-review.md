@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de Etsy de sandalias griegas
+title: "Mi opinión sobre Etsy de sandalias griegas"
 description: '*¡Actualizar! Después de 2 años, las sandalias con tiras de bola siguen
   siendo algunas de mis sandalias baratas favoritas. La suela se ha ablandado y ahora
   es más flexible y son bastante cómodos (¡pero aún menos flexibles de lo que prefiero)!

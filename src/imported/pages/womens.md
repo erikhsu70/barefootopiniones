@@ -4,7 +4,7 @@ templateEngineOverride: njk
 title: Mujer
 description: "Guías, listas y reseñas de Isabel sobre zapatos barefoot para mujer: botas, sandalias, bailarinas, zapatillas y opciones arregladas."
 date: '2022-12-15T23:40:32'
-permalink: /womens/
+permalink: /mujeres/
 sourceType: Página
 contentType: Página
 sourceId: 25041
@@ -37,6 +37,14 @@ translatedFrom: en
 ] %}
 {% set womensPosts = collections.importedPosts | postsMatchingPatterns(womensPatterns) %}
 {% set featured = womensPosts.slice(0, 9) %}
+
+{% set hubPosts = womensPosts %}
+{% set hubEyebrow = "Mujer barefoot" %}
+{% set hubTitle = "Zapatos barefoot de mujer sin renunciar al estilo" %}
+{% set hubDescription = "Botas, sandalias, bailarinas, zapatillas y zapatos arreglados con puntera amplia, suela flexible y espacio para moverte cómoda." %}
+{% set hubListTitle = "Todos los artículos de mujer" %}
+{% include "components/lovable-hub.njk" %}
+{% if false %}
 
 <section class="page-content blog-page womens-hub">
   <section class="blog-dashboard">
@@ -75,22 +83,22 @@ translatedFrom: en
   </section>
 
   <section class="home-route-grid" aria-label="Atajos de mujer">
-    <a class="home-route home-route--large" href="/barefoot-minimalist-dress-shoes-women/">
+    <a class="home-route home-route--large" href="/zapatos-de-vestir-de-barefoot-femenino-la-lista-completa/">
       <span>Vestir</span>
       <strong>Zapatos barefoot arreglados para mujer</strong>
       <small>Opciones elegantes sin puntera estrecha ni tacón imposible.</small>
     </a>
-    <a class="home-route" href="/10-best-stylish-barefoot-sandals-for-women/">
+    <a class="home-route" href="/las-mejores-sandalias-de-pie-de-barefoot-para-mujeres/">
       <span>Verano</span>
       <strong>Sandalias bonitas</strong>
       <small>Tiras, looks frescos y pies libres.</small>
     </a>
-    <a class="home-route" href="/barefoot-ballet-flats-women/">
+    <a class="home-route" href="/los-mejores-apartamentos-mary-jane-y-ballet-para-2026/">
       <span>Bailarinas</span>
       <strong>Planos y Mary Janes</strong>
       <small>Alternativas cómodas a bailarinas rígidas.</small>
     </a>
-    <a class="home-route" href="/barefoot-boots-top-picks/">
+    <a class="home-route" href="/mis-botas-descalzos-mas-magos/">
       <span>Botas</span>
       <strong>Botas barefoot</strong>
       <small>Chelsea, invierno, diario y looks de calle.</small>
@@ -128,3 +136,4 @@ translatedFrom: en
     </div>
   </section>
 </section>
+{% endif %}

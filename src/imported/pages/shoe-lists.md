@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Listas de zapatos barefoot
 description: "Listas editoriales de Isabel para encontrar zapatos barefoot por uso, temporada, estilo, edad, anchura y presupuesto."
 date: '2020-06-14T16:55:14'
-permalink: /shoe-lists/
+permalink: /mejores-zapatos-barefoot/
 sourceType: Página
 contentType: Página
 sourceId: 6583
@@ -21,6 +21,14 @@ translatedFrom: en
 {% set featured = shoeListPosts.slice(0, 6) %}
 {% set latest = shoeListPosts.slice(6) %}
 
+{% set hubPosts = shoeListPosts %}
+{% set hubEyebrow = "Listas de zapatos" %}
+{% set hubTitle = "Encuentra el par barefoot que encaja contigo" %}
+{% set hubDescription = "Selecciones por uso, clima, estilo, edad, anchura y presupuesto para ir directamente a opciones que tienen sentido para ti." %}
+{% set hubListTitle = "Todas las listas de zapatos" %}
+{% include "components/lovable-hub.njk" %}
+{% if false %}
+
 <section class="style-hero">
   <div class="style-hero__copy">
     <p class="eyebrow">Listas de zapatos</p>
@@ -28,7 +36,7 @@ translatedFrom: en
     <p>Las listas de Isabel reunidas por uso, clima, estilo y tipo de pie. Menos buscar a ciegas, más ir directa a opciones que tienen sentido.</p>
     <div class="button-row">
       <a class="button" href="#listas-destacadas">Ver listas</a>
-      <a class="button secondary" href="/best-barefoot-shoes-foot-type/">Por tipo de pie</a>
+      <a class="button secondary" href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Por tipo de pie</a>
     </div>
   </div>
   <div class="style-hero__media">
@@ -37,27 +45,27 @@ translatedFrom: en
 </section>
 
 <section class="style-categories" aria-label="Categorias de listas de zapatos">
-  <a href="/best-barefoot-minimalist-shoe-brands/">
+  <a href="/las-mejores-marcas-de-zapatos-de-pie-y-minimalista/">
     <span>Marcas</span>
     <strong>Las mejores marcas barefoot</strong>
   </a>
-  <a href="/best-barefoot-minimalist-kids-shoes/">
+  <a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/">
     <span>Niños</span>
     <strong>Zapatos para pies en crecimiento</strong>
   </a>
-  <a href="/10-best-barefoot-boots-for-everyday-fall-winter/">
+  <a href="/las-mejores-botas-de-barefoot-para-el-otono-de-cada-dia/">
     <span>Botas</span>
     <strong>Otoño, invierno y diario</strong>
   </a>
-  <a href="/10-best-barefoot-sandals-hiking-running-walking/">
+  <a href="/las-mejores-sandalias-barefoot-para-las-aventuras-en-2026/">
     <span>Sandalias</span>
     <strong>Caminar, viajar y aventura</strong>
   </a>
-  <a href="/best-barefoot-minimalist-sneakers/">
+  <a href="/los-mejores-zapateros-casuales-que-parecen-guay/">
     <span>Zapatillas</span>
     <strong>Casual, deporte y ciudad</strong>
   </a>
-  <a href="/affordable-barefoot-minimalist-shoes/">
+  <a href="/lista-completa-de-zapatos-asequibles-de-pie-y-minimalista/">
     <span>Precio</span>
     <strong>Opciones barefoot asequibles</strong>
   </a>
@@ -97,10 +105,10 @@ translatedFrom: en
     <p>Estos enlaces son atajos a los usos más habituales: pies anchos, lluvia, vestir, deporte y primeras compras.</p>
   </div>
   <div class="style-link-list">
-    <a href="/best-shoes-for-wide-feet/">Zapatos para pies anchos</a>
-    <a href="/complete-list-waterproof-barefoot-shoes-rain/">Zapatos impermeables y lluvia</a>
-    <a href="/barefoot-minimalist-dress-shoes-women/">Zapatos de vestir para mujer</a>
-    <a href="/best-barefoot-hiking-boots-zero-drop-flexible/">Botas para montaña y exterior</a>
+    <a href="/zapatos-barefoot-para-pies-anchos-guia-completa/">Zapatos para pies anchos</a>
+    <a href="/las-mejores-botas-de-lluvia-impermeable-y-zapatos/">Zapatos impermeables y lluvia</a>
+    <a href="/zapatos-de-vestir-de-barefoot-femenino-la-lista-completa/">Zapatos de vestir para mujer</a>
+    <a href="/los-mejores-zapatos-para-gente-al-aire-libre/">Botas para montaña y exterior</a>
   </div>
 </section>
 
@@ -129,3 +137,4 @@ translatedFrom: en
     {% endfor %}
   </div>
 </section>
+{% endif %}

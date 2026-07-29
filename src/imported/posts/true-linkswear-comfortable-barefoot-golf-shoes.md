@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'True Linkswear: zapatos de golf descalzos que son realmente cómodos'
+title: "True Linkswear: zapatos de golf barefoot que son realmente cómodos"
 description: Me encanta el golf. Pero detesto los zapatos de golf tradicionales. Si
   está buscando un zapato de golf que funcione pero que TAMBIÉN no lastime sus pies,
   ¡necesita esta revisión!
@@ -35,13 +35,12 @@ translatedFrom: en
 <h2 class="wp-block-heading">Por qué VERDADERO Linkswear</h2>
 
 <p>TRUE Linkswear se basa en la idea de que los zapatos de golf pueden satisfacer todas sus necesidades en el campo. <a href="https://www.golfwrx.com/664109/how-pga-tour-member-ryan-moore-and-his-brother-are-leading-true-linkswear/">sin aplastarte los dedos de los pies ni crujir los pies</a> – un cambio de paradigma muy necesario en la cultura del golf (donde los zapatos de golf estándar parecen yeso) y en el mundo en general. </p>
-<p>Como ávido entusiasta de la <a href="/benefits-barefoot-minimalist-shoes/">movimiento del zapato barefoot</a>, esta es una propuesta increíblemente atractiva para mí. <em>Quiero jugar golf y sentirme genial.</em> <em>mientras lo hago! </em></p>
+<p>Como ávido entusiasta de la <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">movimiento del zapato barefoot</a>, esta es una propuesta increíblemente atractiva para mí. <em>Quiero jugar golf y sentirme genial.</em> <em>mientras lo hago! </em></p>
 <p>Profundicemos en estos zapatos de golf descalzos y en cómo podrían mejorar su experiencia de golf.</p>
 <h2 class="wp-block-heading">Zapatos de golf descalzos de TRUE</h2>
 
 <p class="has-text-align-center">  Tallas EE. UU. para hombres 7-5 | Opciones impermeables | Suela exterior de 7,5 mm + plantilla extraíble de 6 mm</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-91 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://truelinkswear.com/collections/mens-footwear?filter.p.m.custom.product_features_list=Zero+Drop">VERDADERO Linkswear</a></div>
+
 </div>
 
 <p>Llevo usando zapatos de golf descalzos de TRUE desde la primavera de 2021 y, entre dos modelos, se satisfacen todas mis necesidades de zapatos de golf. Proporcionan tracción, transpirabilidad e incluso una opción impermeable para los días húmedos. </p>
@@ -53,7 +52,7 @@ translatedFrom: en
 </ul>
 
 <p>Estas características del calzado no deben subestimarse cuando se trata de tu deporte. Ser capaz de extender los pies y moverse cómodamente mientras caminas 18 hoyos parece una mejor manera de mantener tu swing en plena forma que usar zapatos de “golf” tapados que parecen tener más que ver con la estética que con la función.</p>
-<p class="has-text-align-center"><a href="/benefits-barefoot-minimalist-shoes/">¿Quieres saber más sobre los Zapatos barefoot/minimalistas y por qué nos importan? Tome un desvío aquí.</a></p>
+<p class="has-text-align-center"><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">¿Quieres saber más sobre los Zapatos barefoot/minimalistas y por qué nos importan? Tome un desvío aquí.</a></p>
 <h3 class="wp-block-heading">¿Pero perjudican el rendimiento?</h3>
 <p>Los dos modelos TRUE que reviso aquí brindan una tracción fantástica mientras hago el swing con más fuerza desde el tee, por lo que no hay pérdida de estabilidad con la suela flexible. En cambio, la capacidad de los dedos de mis pies para extenderse mejora mi equilibrio. En cuanto a la suela totalmente plana (o zero drop) no he notado ningún inconveniente en mi juego (solo mayor comodidad). </p>
 <p>Mi índice de handicap se ha mantenido estable desde que adopté calzado de zero drop en el campo de golf hace dos años, pero me siento significativamente mejor en mi cuerpo, tanto mientras juego como después.</p>
@@ -66,7 +65,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">originales 1.2</h3>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Foto cortesía de Oliver Wilson</figcaption></figure>
 <p><a href="https://truelinkswear.com/products/true-original-1-2">El modelo 1.2 original</a> Tiene una parte superior de piel sintética impermeable con una montura perforada. No son tan transpirables como los originales, pero son funcionales para la lluvia o el clima húmedo y tienen un aspecto realmente elegante. ¡Termino usando los Originals cada vez que hace frío o llueve!</p>
-<p>Tienen un poquito de <a href="/ufaq/what-is-toe-spring/">resorte del dedo del pie</a>, que no me encanta.</p>
+<p>Tienen un poquito de <a href="/preguntas/que-es-la-primavera-de-los-pies/">resorte del dedo del pie</a>, que no me encanta.</p>
 
 <p>En días húmedos y descuidados de Nueva Jersey como el de la imagen de arriba, los Originals hicieron un trabajo valiente manteniendo mis pies <em>mayormente </em>seco. No creo que ningún zapato, aparte de las chanclas, hubiera podido funcionar mejor ese día (el agua entraba por la parte superior de mis pantalones saturados). En otros días húmedos y lluviosos, mis pies permanecieron completamente secos en el Original 1.2.</p>
 <h3 class="wp-block-heading">Sensación original</h3>
@@ -82,14 +81,14 @@ translatedFrom: en
 <li>Volumen medio a alto </li>
 <li>Lo mejor para ancho promedio y algunos pies anchos</li>
 </ul>
-<p>tengo volumen medio-alto, <a href="/best-barefoot-shoes-foot-type/">pies en forma de montaña</a>, que combinan bien con TRUE Linkswear. Solía ​​usar un US Mens 9.5, pero ahora uso un 10 porque mis pies se han fortalecido (sí, ¡los pies también tienen músculos!) y mi tolerancia a las restricciones ha disminuido. Los TRUE me quedan bien en la talla 10, pero para tener más espacio, quité las plantillas en ambos modelos. </p>
+<p>tengo volumen medio-alto, <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">pies en forma de montaña</a>, que combinan bien con TRUE Linkswear. Solía ​​usar un US Mens 9.5, pero ahora uso un 10 porque mis pies se han fortalecido (sí, ¡los pies también tienen músculos!) y mi tolerancia a las restricciones ha disminuido. Los TRUE me quedan bien en la talla 10, pero para tener más espacio, quité las plantillas en ambos modelos. </p>
 <p>Tengo un amplio espacio para extender activamente los dedos de los pies en los Feels, pero los Originals se sienten un poco más restringidos. Sin embargo, esto es relativo. Si actualmente usa zapatos de golf tradicionales, cualquiera de los modelos le resultará liberador.</p>
 <p>Ambos modelos tienen las mismas especificaciones de altura de pila, con un grosor de suela de 7,5 mm (una banda de rodadura de 5 mm y una suela de 2,5 mm) más la plantilla de 6 mm. Esta es una suela más gruesa de la que suelo usar hoy en día, pero nuevamente, en comparación con prácticamente cualquier otra opción en el mercado de zapatos de golf, es lo más minimalista posible.</p>
 <h3 class="wp-block-heading">Estilo de zapato de golf: sin miradas divertidas</h3>
 <p>Y si el estilo es una preocupación, nadie en la casa club te mirará raro con estos zapatos de golf. De hecho, ¡puede recibir algunos elogios e interés! Mis TRUE dan en el blanco del estilo de golf actual: son lo suficientemente versátiles como para combinar con prácticamente cualquier conjunto de golf que confeccione en mi guardarropa.</p>
 
 <h3 class="wp-block-heading">Lo que no amo</h3>
-<p>Como verdadero entusiasta de los pies descalzos, he llegado a amar aún más espacio para los dedos y la sensación de estar barefoot que lo que TRUE ofrece actualmente. Si bien siguen teniendo las mejores especificaciones de zapatos de golf con la sensación más cómoda, yo me encuentro cada vez más jugando totalmente barefoot o con zapatos ultra minimalistas (como los <a href="http://shrsl.com/2twgr">Softstar DASH RunAmoc</a>).</p>
+<p>Como verdadero entusiasta de los pies descalzos, he llegado a amar aún más espacio para los dedos y la sensación de estar barefoot que lo que TRUE ofrece actualmente. Si bien siguen teniendo las mejores especificaciones de zapatos de golf con la sensación más cómoda, yo me encuentro cada vez más jugando totalmente barefoot o con zapatos ultra minimalistas (como los Softstar DASH RunAmoc).</p>
 <p>Para los descalzos incondicionales, me encantaría ver aún más opciones en el futuro de TRUE con una forma más ancha y una suela más delgada.</p>
 <p>Otro inconveniente menor de ambos modelos es que la hierba y los escombros se atascan en el material del sillín alrededor de la parte media del pie. Eso requiere especial atención al limpiar.</p>
 <h3 class="wp-block-heading">Cómo hacer un pedido</h3>

@@ -48,14 +48,14 @@ translatedFrom: en
 <p>Si usted es alguien que necesita zapatos en dos tamaños diferentes, aquí hay varias marcas de Zapatos barefoot que hacen sus zapatos para pedir y puede acomodar a usted. ¡Sólo tiene que ponerse en contacto con su servicio al cliente de antemano!</p>
 <p>*Esta lista también es donde recomiendo comenzar si solo necesitas <em>uno</em> zapato*</p>
 <ul>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> (US)</li>
+<li>Zapatos de estrellas suaves (US)</li>
 <li> (Etsy, Turquía) – Código <strong></strong>
 
  para un descuento</li>
-<li><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra </a>(US) – Código <strong></strong> para 10% de descuento</li>
+<li><a href="https://earthrunners.com/">Corredores de la Tierra </a>(US) – Código <strong></strong> para 10% de descuento</li>
 <li> (US) – Código <strong>OPINIONES 2023</strong> para 10% de descuento</li>
 <li><a href="https://www.deliberatelifedesigns.com/">Diseños de vida deliberados</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
-<li><a href="https://www.unshoesusa.com/collections/sandals?aff=3">Unshoes </a>(US) – <strong></strong> para 10% de descuento</li>
+<li><a href="https://www.unshoesusa.com/collections/sandals">Unshoes </a>(US) – <strong></strong> para 10% de descuento</li>
 <li><a href="https://senmotic-shoes.eu/">Senmotic </a>(UE)</li>
 <li><a href="https://www.jenonleather.com/">Jenon Leather </a>(UE)</li>
 </ul>

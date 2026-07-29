@@ -44,7 +44,7 @@ translatedFrom: en
 </div>
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
-<p>Los Zapatos barefoot (o minimalistas) se llaman así porque permiten que sus pies se muevan naturalmente, la forma en que lo harían si en realidad barefoot. Las características definitorias de un zapato barefoot son que tienen un <strong>caja de pies en forma de pie</strong>, <strong>suela flexible</strong>, y <strong>sin elevación del talón (cero gota)</strong>. Leer este artículo para un desglose más detallado <a href="/benefits-barefoot-minimalist-shoes/">lo que es un zapato barefoot y minimalista</a>.</p>
+<p>Los Zapatos barefoot (o minimalistas) se llaman así porque permiten que sus pies se muevan naturalmente, la forma en que lo harían si en realidad barefoot. Las características definitorias de un zapato barefoot son que tienen un <strong>caja de pies en forma de pie</strong>, <strong>suela flexible</strong>, y <strong>sin elevación del talón (cero gota)</strong>. Leer este artículo para un desglose más detallado <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">lo que es un zapato barefoot y minimalista</a>.</p>
 </div>
 
 </div>

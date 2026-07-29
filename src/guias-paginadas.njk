@@ -1,0 +1,56 @@
+---
+layout: layouts/base.njk
+title: "Guías barefoot"
+description: Guías prácticas de Barefoot Opiniones organizadas por páginas.
+pagination:
+  data: collections.resourcePostsAfterFirstPage
+  size: 24
+  alias: pagedGuides
+permalink: "/recursos/pagina/{{ pagination.pageNumber + 2 }}/"
+pageClass: resource-index
+---
+<section class="resource-index__hero">
+  <div class="resource-index__hero-inner">
+    <p class="eyebrow">Biblioteca práctica · {{ collections.resourcePosts.length }} guías</p>
+    <h1>Guías barefoot</h1>
+    <p>Talla, ajuste, transición, movimiento y compra explicados con calma para tomar decisiones que tengan sentido para tus pies.</p>
+  </div>
+</section>
+
+<nav class="resource-paths" aria-label="Rutas de aprendizaje barefoot">
+  <a href="/preguntas/diferencia-barefoot-minimalistas-natural/"><span>01</span><strong>Entender el barefoot</strong><small>Conceptos y diferencias básicas</small></a>
+  <a href="/preguntas/como-medir-pies-elegir-talla/"><span>02</span><strong>Medir y elegir talla</strong><small>Longitud, anchura y espacio</small></a>
+  <a href="/mejores-marcas-zapatos-pie-tipo-pie/"><span>03</span><strong>Conocer tu tipo de pie</strong><small>Forma, volumen y ajuste</small></a>
+  <a href="/sencillos-ejercicios-pie-transicion-barefoot/"><span>04</span><strong>Hacer la transición</strong><small>Adaptación progresiva y movimiento</small></a>
+</nav>
+
+<section class="resource-library" aria-labelledby="resource-library-title">
+  <header class="resource-library__head">
+    <div><p class="eyebrow">Todas las guías</p><h2 id="resource-library-title">Lee según lo que necesites ahora</h2></div>
+    <p>Página {{ pagination.pageNumber + 2 }} de {{ collections.resourcePosts.length | pageNumbers(24) | length }}</p>
+  </header>
+
+  <div class="resource-library__grid">
+    {% for post in pagedGuides %}
+      <article class="resource-card">
+        <a href="{{ post.url }}">
+          <div class="resource-card__image">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy" width="720" height="450">{% endif %}</div>
+          <div class="resource-card__body">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+            <h3>{{ post.data.title }}</h3>
+            {% if post.data.description %}<p>{{ post.data.description | cleanSummary }}</p>{% endif %}
+            <span class="resource-card__link">Leer la guía</span>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+
+  <nav class="pagination-nav" aria-label="Paginación de guías">
+    <a href="{% if pagination.href.previous %}{{ pagination.href.previous }}{% else %}/recursos/{% endif %}">Anterior</a>
+    {% for pageNumber in collections.resourcePosts.length | pageNumbers(24) %}
+      <a href="{{ pageNumber | guidePageUrl }}"{% if pageNumber == pagination.pageNumber + 2 %} aria-current="page"{% endif %}>{{ pageNumber }}</a>
+    {% endfor %}
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Siguiente</a>{% else %}<span class="pagination-nav__disabled">Siguiente</span>{% endif %}
+  </nav>
+</section>

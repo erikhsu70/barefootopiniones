@@ -48,12 +48,12 @@ translatedFrom: en
 <p>¡Sí! No tienes que sacrificar tu presupuesto para la salud de los pies. Aquí están mis 3 mejores opciones para Zapatos barefoot asequibles para niños.</p>
 <ul>
 <li> – <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. Lea mis opiniones de Splay aquí</li>
-<li><a href="https://amzn.to/3sHOeS7">Saguaro</a></li>
+<li>Saguaro</li>
 <li></li>
 <li> – <strong></strong> para 10% de descuento</li>
-<li><a href="https://amzn.to/3sBQ4Uk">Sandalias Cior Water</a></li>
+<li>Sandalias Cior Water</li>
 </ul>
-<p class="has-text-align-center"><a href="/best-barefoot-minimalist-kids-shoes/#bestbudgetkids">Leer más sobre estos en mi artículo sobre los mejores zapatos para niños</a>!</p>
+<p class="has-text-align-center"><a href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/#bestbudgetkids">Leer más sobre estos en mi artículo sobre los mejores zapatos para niños</a>!</p>
 </div>
 
 </div>

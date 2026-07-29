@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Nuevas botas descalzas Shapen para el otoño de 2023
+title: "Nuevas botas barefoot Shapen para el otoño de 2023"
 description: ¡Estoy encantada con todas las preciosas botas descalzas Shapen que lanzaron
   este otoño! Aportan estilo y comodidad al mundo del calzado barefoot, donde no siempre
   ha sido fácil encontrar opciones elegantes que se ajusten a pies anchos.
@@ -32,7 +32,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Revisión de botas descalzas Shapen</h2>
 
-<p>Shapen se ha convertido rápidamente en uno de <a href="/best-barefoot-minimalist-shoe-brands/">las mejores marcas de Zapatos barefoot</a> ahí fuera. Me encantan sus zapatos de vestir descalzos para mujer durante años, pero ahora tienen algo para todos y para cada temporada.</p>
+<p>Shapen se ha convertido rápidamente en uno de <a href="/las-mejores-marcas-de-zapatos-de-pie-y-minimalista/">las mejores marcas de Zapatos barefoot</a> ahí fuera. Me encantan sus zapatos de vestir descalzos para mujer durante años, pero ahora tienen algo para todos y para cada temporada.</p>
 <p>Su línea otoño/invierno 2023 incluye opciones de botas elegantes y elegantes para los amantes de la moda descalzos, así como opciones cálidas y prácticas en toda la gama de tallas (para hombres y mujeres). ¡Y todos se ajustan a pies anchos a extra anchos con una sensación suave y flexible!</p>
 <p>Me muero por compartirlos con ustedes desde que vi la alineación a principios de este año (las ventajas de ser dueño de una zapatería barefoot, muahaha), así que sin más preámbulos, ¡profundicemos!</p>
 <h2 class="wp-block-heading">Ordenar Shapen</h2>
@@ -49,11 +49,11 @@ translatedFrom: en
 <li>Sensación real de estar barefoot gracias a la suela fina y flexible (sólo 5,5 mm de grosor, incluida la banda de rodadura)</li>
 </ul>
 <p>En general, las botas de Shapen le quedan muy espaciosas. Normalmente uso una talla 38 en mis botas para que me queden calcetines, pero en Shapen a veces uso una talla 37 y todavía tengo mucho espacio. También uso un <a href="https://www.shapenbarefoot.com/en/c/insoles">plantilla adicional</a> en casi todos los modelos porque tengo pies de poco volumen. ¡Shapen incluso se adapta cómodamente a los pies extra anchos y de gran volumen de Samantha!</p>
-<p>Eso significa que si tienes pies delgados y estrechos, es posible que te sientas más cómodo con <a href="/10-best-barefoot-boots-for-everyday-fall-winter/">una marca diferente</a> (¡pero nunca lo sabes con seguridad hasta que los pruebas!).</p>
+<p>Eso significa que si tienes pies delgados y estrechos, es posible que te sientas más cómodo con <a href="/las-mejores-botas-de-barefoot-para-el-otono-de-cada-dia/">una marca diferente</a> (¡pero nunca lo sabes con seguridad hasta que los pruebas!).</p>
 
 <h2 class="wp-block-heading">¿Son resistentes al invierno?</h2>
 <p>Cada uno de los modelos de botas Shapen viene con la misma suela, que tiene un agarre moderado pero no es especialmente funcional para el clima invernal severo. Considero que mis botas Shapen son las mejores para brindar calidez y comodidad en el estilo de vida cotidiano, incluidas las caminatas por la ciudad y por senderos ligeros bajo un poco de lluvia y nieve. Si realmente para ti es importante la flexibilidad y suavidad en las botas, Shapen es tu marca.</p>
-<p>Pero para conocer las opciones para exteriores más funcionales, consulte mi <a href="/warmest-barefoot-winter-boots-zero-drop/">guía para botas de invierno descalzas</a> Aquí.</p>
+<p>Pero para conocer las opciones para exteriores más funcionales, consulte mi <a href="/las-botas-de-invierno-de-pie-de-de-pie-todo-el-tiempo-para-nieve/">guía para botas de invierno descalzas</a> Aquí.</p>
 <p>¡Ahora a los zapatos! Samantha y yo probamos todos estos modelos, por lo que aquí obtendrás nuestra experiencia combinada. Tiene pies extra anchos y de gran volumen. Tengo pies anchos pero poco volumen/tacones estrechos.</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-alpha-channel-opacity has-black-background-color has-background is-style-dots"/>
@@ -61,8 +61,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Divino</h3>
 
 <p class="has-text-align-center">Cuero | Tallas 35-44</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-51 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/boots/divine-brown-barefoot-ankle-boots">Divino</a></div>
+
 </div>
 
 <p>The Divine es un botín elegante con un detalle de hebilla funcional. Vienen en negro, marrón y crema y son muy elegantes. Me ha encantado lo mismo  botas desde hace 4 años, pero la Divine es una mejor opción para pies extra anchos y de gran volumen.  ¡Ahora más personas pueden disfrutar de este fantástico look!</p>
@@ -74,8 +73,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">glamour</h3>
 
 <p class="has-text-align-center">Viene en vegano y cuero | Tallas 35-44</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-52 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/boots/glam-black-leather-barefoot-boots">glamour</a></div>
+
 </div>
 
 <p>La Glam es una bota estilo montar a caballo con hebillas (la del tobillo es extraíble) y cremallera lateral. Viene tanto en cuero como en cuero vegano, pero personalmente prefiero el cuero. ¡Son de aspecto clásico y refinado!</p>
@@ -88,8 +86,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">hiedra</h3>
 
 <p class="has-text-align-center">Cuero y Fieltro | Tallas UE 35-44</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-53 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/boots/IVY-Black-barefoot-boots">hiedra</a></div>
+
 </div>
 
 <p>El Ivy es un botín de corte bajo con cremallera lateral. Son geniales para vestirse y me encanta que tienen una altura baja para facilitar el peinado. El corte de la abertura del tobillo puede resultar un poco rígido si tienes la piel sensible, pero se volverá más suave con el uso. ¡La altura es perfecta para usar con todo tipo de atuendo!</p>
@@ -102,11 +99,10 @@ translatedFrom: en
 <h3 class="wp-block-heading">Acogedor</h3>
 
 <p class="has-text-align-center">Cuero y Lana | Tallas UE 35-47</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-54 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/cozy/cozy-brown-barefoot-shoes">Acogedor</a></div>
+
 </div>
 
-<p>The Cosy es uno de mis tiempos. <a href="/warmest-barefoot-winter-boots-zero-drop/#shapen-cozy">botas descalzas cálidas favoritas</a>, porque son muy suaves y, bueno, acogedores. La cremallera lateral realmente facilita salir por la puerta: se sienten como una zapatilla de casa pero se ven mucho más bonitas. </p>
+<p>The Cosy es uno de mis tiempos. <a href="/las-botas-de-invierno-de-pie-de-de-pie-todo-el-tiempo-para-nieve/#shapen-cozy">botas descalzas cálidas favoritas</a>, porque son muy suaves y, bueno, acogedores. La cremallera lateral realmente facilita salir por la puerta: se sienten como una zapatilla de casa pero se ven mucho más bonitas. </p>
 <p><strong>Ajuste:</strong> El Cozy se ajusta al tamaño de una bota forrada. Llevo la talla 38 y son perfectamente amplios. La Cozy también es el mejor modelo de bota Shapen para pies de poco volumen, porque los cordones se ajustan bien. ¡Eso los hace muy versátiles!</p>
 <p>The Cosy está disponible en negro y marrón en </a>!</p>
 
@@ -115,8 +111,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">urbanista</h3>
 
 <p class="has-text-align-center">Cuero y lana resistentes al agua | Tallas UE 35-47</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-55 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/shoes/urbaneer-black-high-winter-barefoot-boots">urbanista</a></div>
+
 </div>
 
 <p>La Urbaneer es una bota de estilo militar con forro de lana y parte superior de nobuck cepillado. Son un poco más estructurados que los Cosy y tienen un aspecto más masculino y vanguardista. No hay cremallera lateral y el cuero es resistente al agua, por lo que son más prácticas para climas húmedos que algunas de las otras botas Shapen. La parte posterior de la caña de la bota es elástica, lo que las hace realmente cómodas para caminar (¡sin bordes rígidos que se claven en el tobillo!). </p>
@@ -131,8 +126,7 @@ translatedFrom: en
 <figcaption class="blocks-gallery-caption wp-element-caption">Frosty en Oliva en Samantha</figcaption></figure>
 
 <p class="has-text-align-center">Forro de cuero y nailon | Tallas UE 35-47</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-56 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/shoes/frosty-olive-barefoot-winter-boots">helado</a></div>
+
 </div>
 
 <p>Las Frosty están confeccionadas con una parte superior de nailon con ribetes de cuero. La caña de la bota es de nailon por dentro hasta aproximadamente el tobillo y luego una suave piel sintética donde se asienta el pie. Si bien parecen botas de nieve, no las considero una gran opción para gran parte del clima invernal porque no son impermeables y no se puede cerrar la parte superior para evitar que entre humedad. Aún así, son cálidos y fáciles de usar porque se ponen, por lo que para algunos climas secos más suaves serán un excelente zapato de invierno para todos los días. </p>
@@ -147,12 +141,11 @@ translatedFrom: en
 <figcaption class="blocks-gallery-caption wp-element-caption">Botas mullidas en Beige en Samantha</figcaption></figure>
 
 <p class="has-text-align-center">Piel de ante y piel sintética | Tallas UE 35-44</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-57 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/boots/fluffy-beige-winter-barefoot-boots">esponjoso</a></div>
+
 </div>
 
 <p>Fluffy es un botín elegante forrado con suave piel sintética. Si estás buscando una bota sencilla que aún luzca elegante, ¡esta es una excelente opción! El tobillo asimétrico con cuello mullido le da un toque agradable. </p>
-<p>Debido a que no se pueden ajustar, no se adaptan muy bien a mis pies de poco volumen, pero Samantha los ha estado usando a menudo para los paseos fríos de la mañana. Usamos un <a href="https://amzn.to/3Tv6xlg">protector en aerosol</a> ¡Póngalos antes de sacarlos de casa para que no se ensucien! Son demasiado lindos para eso 😉</p>
+<p>Debido a que no se pueden ajustar, no se adaptan muy bien a mis pies de poco volumen, pero Samantha los ha estado usando a menudo para los paseos fríos de la mañana. Usamos un protector en aerosol ¡Póngalos antes de sacarlos de casa para que no se ensucien! Son demasiado lindos para eso 😉</p>
 <p>El forro de piel sintética es muy suave, pero he descubierto que me hace sudar los pies si no uso calcetines.</p>
 <p><strong>Ajuste: </strong>Alto volumen. Debido a que no se pueden ajustar, si tiene pies de poco volumen, necesitará plantillas adicionales y/o usar calcetines gruesos.</p>
 <p>No llevaremos Fluffy esta temporada en .</p>
@@ -162,8 +155,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">lince</h3>
 
 <p class="has-text-align-center">Forro de cuero y lana resistente al agua | Tallas 35-47</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-58 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/shoes/lynx-dark-green-barefoot-winter-boots">lince</a></div>
+
 </div>
 
 <p>Me encanta este nuevo estilo, lleva las cosas un paso más allá de tu bota básica con cordones con el cuello de lana doblado y los sujetadores de cordones de metal brillante. ¡Son neutrales, pero interesantes! Y la puntera de cuero y goma resistente al agua los hace prácticos para un poco de lluvia y nieve (tampoco tiene que preocuparse por raspaduras en la parte inferior).</p>
@@ -178,16 +170,15 @@ translatedFrom: en
 <figcaption class="blocks-gallery-caption wp-element-caption">Botas Berry en Pale Pink en Samantha</figcaption></figure>
 
 <p class="has-text-align-center">Forro de ante y textil | Tallas UE 35-47</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-59 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.shapenbarefoot.com/en/c/allyear/berry-pale-pink-allyear-barefoot-shoes">baya</a></div>
+
 </div>
 
-<p>Berry es un botín con cordones para todo el año y cordones de piel.  Viene en colores que normalmente no se ven en este estilo: burdeos, rosa pálido, vainilla y gris. Recomiendo encarecidamente proteger estas lindas botas safari con un <a href="https://amzn.to/3Tv6xlg">protector de zapatos en aerosol</a> para que se conserve el color. Pero si se ensucian, ¡un cepillo para gamuza puede hacer maravillas! Son realmente cómodos descalzos gracias al forro de microfibra suave y transpirable.</p>
+<p>Berry es un botín con cordones para todo el año y cordones de piel.  Viene en colores que normalmente no se ven en este estilo: burdeos, rosa pálido, vainilla y gris. Recomiendo encarecidamente proteger estas lindas botas safari con un protector de zapatos en aerosol para que se conserve el color. Pero si se ensucian, ¡un cepillo para gamuza puede hacer maravillas! Son realmente cómodos descalzos gracias al forro de microfibra suave y transpirable.</p>
 <p>Los cordones pueden ser un poco difíciles de apretar o aflojar, pero se vuelven más suaves con el uso.</p>
 <p><strong>Ajuste:</strong> El forro es un fino textil Microline, calzan anchos y con mucho volumen!</p>
 <p>No venderemos Berry esta temporada en .</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-alpha-channel-opacity has-black-background-color has-background is-style-dots"/>
 
-<p>¡Estoy muy feliz de ver cómo está progresando Shapen! Y no olvides que si quieres más consejos sobre <a href="/warmest-barefoot-winter-boots-zero-drop/">botas descalzas para el invierno</a>¡Mira mis otros artículos!</p>
+<p>¡Estoy muy feliz de ver cómo está progresando Shapen! Y no olvides que si quieres más consejos sobre <a href="/las-botas-de-invierno-de-pie-de-de-pie-todo-el-tiempo-para-nieve/">botas descalzas para el invierno</a>¡Mira mis otros artículos!</p>
 

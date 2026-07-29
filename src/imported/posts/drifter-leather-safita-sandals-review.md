@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de las sandalias Safita de cuero Drifter
+title: "Mi opinión sobre las sandalias Safita de cuero Drifter"
 description: Si has seguido mi trabajo, probablemente sepas que soy un gran admirador
   de The Drifter Leather. Sus zapatos están hechos a medida y tienen una amplia selección
   de estilos, lo que significa que puedes conseguir casi cualquier estilo que necesites
@@ -55,9 +55,9 @@ translatedFrom: en
 <p> Los clientes fuera de los EE. UU. querrán investigar cuánto les costaría el envío de devolución si lo necesitan. ¡Entrar preparado hace toda la diferencia! </p>
 <h2 class="wp-block-heading">Desgaste y cuidado</h2>
 
-<p>Los zapatos DL vienen con un folleto con instrucciones sobre cómo cuidar sus zapatos. Mi producto personal favorito para el cuidado del cuero es <a href="https://amzn.to/3cgla6o">chambelán</a> y lo uso regularmente en mis zapatos DL. Para impermeabilizar, utilizo <a href="https://amzn.to/2RDcT4G">esto</a> y <a href="https://amzn.to/2VyFuZZ">esto</a>, pero generalmente también trato de mantener los míos fuera del agua y la nieve para que sigan luciendo bien durante años.</p>
+<p>Los zapatos DL vienen con un folleto con instrucciones sobre cómo cuidar sus zapatos. Mi producto personal favorito para el cuidado del cuero es chambelán y lo uso regularmente en mis zapatos DL. Para impermeabilizar, utilizo esto y esto, pero generalmente también trato de mantener los míos fuera del agua y la nieve para que sigan luciendo bien durante años.</p>
 <p>Una de las cosas más interesantes de las licencias de manejar es que se pueden resolver. Esta es una gran noticia, porque es probable que las suelas sean lo primero que se desgaste. Drifter ha trabajado personalmente con varios zapateros que reemplazarán las suelas Vibram con buenos resultados y aceptarán zapatos enviados por correo:</p>
-<p><a href="https://m.facebook.com/VibramAthensAcademy/about/?ref=page_internal&amp;mt_nav=0&amp;_rdr">Academia Vibram</a> (Atenas, Grecia)<br/><a href="https://vibram-academy-sole-factor.business.site/?utm_source=gmb&amp;utm_medium=referral">Academia Vibram</a> (Londres, Reino Unido)<br/><a href="https://www.davepagecobbler.com/">Dave Page Zapatero</a> (Seattle, WA, EE. UU.)<br/><a href="https://www.facebook.com/pages/category/Footwear-Store/Arcadia-Shoe-Repair-198155686897234/">Reparación de calzado Arcadia</a> (Victoria, Canadá)</p>
+<p><a href="https://m.facebook.com/VibramAthensAcademy/about/?mt_nav=0&amp;_rdr=">Academia Vibram</a> (Atenas, Grecia)<br/><a href="https://vibram-academy-sole-factor.business.site/">Academia Vibram</a> (Londres, Reino Unido)<br/><a href="https://www.davepagecobbler.com/">Dave Page Zapatero</a> (Seattle, WA, EE. UU.)<br/><a href="https://www.facebook.com/pages/category/Footwear-Store/Arcadia-Shoe-Repair-198155686897234/">Reparación de calzado Arcadia</a> (Victoria, Canadá)</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Aunque siempre hay un largo tiempo de espera y la posibilidad de que algo salga mal, lograr un ajuste perfecto en un zapato vale un poco más de tiempo y dinero. Debido a que tienen estilos y opciones de personalización que incluyen hombres, mujeres y casi todas las ocasiones que se te ocurran, Drifter Leather es un excelente lugar para buscar algo específico que te resulta difícil encontrar en otros lugares. ¡Espero usar mis zapatos Drifter en los próximos años y los considero mis mejores zapatos para caminar barefoot! </p>
 <p></p>

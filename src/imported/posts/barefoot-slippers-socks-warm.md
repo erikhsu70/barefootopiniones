@@ -64,9 +64,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Kingdom of Wow: amigable extra ancho</h3>
 
 <p class="has-text-align-center">Lana y Bambú | Tallas EE. UU., 6 para mujer y 12,5 para hombre | Se envía desde:</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-181 wp-block-buttons-is-layout-flex">
 
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://tidd.ly/4f87M4h">Reino de Wow (Reino Unido)</a></div>
 </div>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
 <p>Son tan cómodas que uso mis pantuflas Kingdom of Wow tanto en corte alto como en corte bajo todo el tiempo. La versión ligera (75% lana de Nueva Zelanda y 25% fibras botánicas) no es tan cálida como las demás y se puede usar gran parte del año. Las pantuflas más acogedoras (65 % lana de Nueva Zelanda y 35 % fibras botánicas) son más gruesas y cálidas, pero aún así livianas. ¡Han tomado la forma de mis pies y son muy fáciles de usar!</p>
@@ -80,8 +78,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Softstar Fireside – Apto para ancho extra</h3>
 
 <p class="has-text-align-center">Ante y piel de oveja | Tamaños 5U-13U | 2 opciones de ancho | Hecho a mano en los EE.UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-182 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://shrsl.com/2tw5w">Chimenea Softstar</a></div>
+
 </div>
 
 <p>He estado usando este mismo par de pantuflas durante los últimos 5 o 6 años; son increíblemente cómodas, de alta calidad y muy espaciosas. Con el paso de los años, se han estirado y ahora quedan un poco flojos si los uso sin calcetines, pero siguen siendo perfectos con calcetines cómodos. y tu puedes  porque la piel de oveja puede aplanarse después de años de uso.</p>
@@ -122,8 +119,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Verloop: amigable con el ancho extra</h3>
 
 <p class="has-text-align-center">Vegano | Forro polar | Tallas XS – M/L | Envíos desde EE. UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-185 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://shop.verloopknits.com/collections/slippers">Pantuflas con lazo</a></div>
+
 </div>
 
 <p>¡Samantha tiene estas pantuflas de punto y le encantan! Tienen un poco más de amortiguación en la suela cuando son nuevos, pero se comprime con solo un par de usos (¡y a algunas personas les puede gustar ese aplastamiento extra!). También son un buen precio para unas pantuflas acogedoras con puntera ancha.</p>
@@ -137,7 +133,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Zapatillas más amigables para los pies</h2>
 <p>Los anteriores son mis favoritos, pero aquí hay algunas opciones más de zapatillas que son amigables para los pies.</p>
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
-<p><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fwomens-drifter-slip-on-shoes%2Fproducts%2Fwomens-drifter-fur">Piel de vagabundo Lems</a> (EE. UU.) – Cómodos zapatos sin cordones forrados con suela de goma para uso en interiores o exteriores y tacón plegable opcional. ¡Justin los ama! También se ven geniales. encontrar <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fmens-drifter-slip-on-shoes%2Fproducts%2Fmens-drifter-fur">Piel de vagabundo para hombre aquí</a></p>
+<p><a href="https://www.lemsshoes.com/collections/womens-drifter-slip-on-shoes/products/womens-drifter-fur">Piel de vagabundo Lems</a> (EE. UU.) – Cómodos zapatos sin cordones forrados con suela de goma para uso en interiores o exteriores y tacón plegable opcional. ¡Justin los ama! También se ven geniales. encontrar <a href="https://www.lemsshoes.com/collections/mens-drifter-slip-on-shoes/products/mens-drifter-fur">Piel de vagabundo para hombre aquí</a></p>
 <p>Si estás fuera de EE. UU., </p>
 </div></div>
 
@@ -150,7 +146,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
-<p><a href="https://www.poshpanda.ca/?ref=">Posh Panda</a> (CA) – Múltiples opciones de suela, incluida la “suela blanda”, que es una parte inferior de cuero. Pueden ser un simple zapato de casa de cuero o puedes agregar una plantilla de piel de oveja para darle una sensación más parecida a una zapatilla. <a href="/posh-panda-review-handmade-barefoot-moccasins/">¡Lea mi reseña de Posh Panda para más detalles!</a></p>
+<p><a href="https://www.poshpanda.ca/">Posh Panda</a> (CA) – Múltiples opciones de suela, incluida la “suela blanda”, que es una parte inferior de cuero. Pueden ser un simple zapato de casa de cuero o puedes agregar una plantilla de piel de oveja para darle una sensación más parecida a una zapatilla. <a href="/revision-de-posh-panda-mocasines-descalzos-hechos-a-mano/">¡Lea mi reseña de Posh Panda para más detalles!</a></p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
@@ -195,7 +191,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Calcetines acogedores que no te pellizcarán los dedos de los pies</h2>
 
-<p> ¡Me encantan los calcetines cómodos y acogedores para estar en casa! <a href="/best-foot-friendly-socks-dont-squish-your-toes/#extra-warm-foot-friendly-socks">Puedes encontrar todos mis favoritos aquí.</a></p>
+<p> ¡Me encantan los calcetines cómodos y acogedores para estar en casa! <a href="/los-mejores-calcetines-amistosos-del-pie-que-no-squish-your-toes/#extra-warm-foot-friendly-socks">Puedes encontrar todos mis favoritos aquí.</a></p>
 <p>¡Y ahí lo tienes! Puedes mantener tus pies calentitos y seguir manteniendo total comodidad durante la estación fría.</p>
-<p>Si realmente estás pensando en salir de casa este invierno, hay muchas opciones excelentes de botas descalzas que te mantendrán abrigado y cumplirán con todos los criterios para estar barefoot. Mira todo <a href="/style/boots/">Mis reseñas y guías de botas descalzas.</a> para muchas opciones para hombres, mujeres y niños. ¡Deje que los pies felices continúen incluso cuando haga frío afuera!</p>
+<p>Si realmente estás pensando en salir de casa este invierno, hay muchas opciones excelentes de botas descalzas que te mantendrán abrigado y cumplirán con todos los criterios para estar barefoot. Mira todo <a href="/estilo/boots/">Mis reseñas y guías de botas descalzas.</a> para muchas opciones para hombres, mujeres y niños. ¡Deje que los pies felices continúen incluso cuando haga frío afuera!</p>
 

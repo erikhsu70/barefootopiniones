@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Nauticos con puntera ancha"
+title: "Náuticos con puntera ancha"
 description: "El clasico zapato barco reinterpretado para pies que quieren espacio sin perder ese aire de verano arreglado."
 date: 2026-06-22
 category: "Estilo"

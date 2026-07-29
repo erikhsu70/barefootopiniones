@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 templateEngineOverride: njk
-title: Reseñas barefoot
-description: Opiniones y pruebas de Isabel sobre marcas y modelos barefoot, minimalistas y de puntera ancha.
+title: Opiniones barefoot
+description: Opiniones de Isabel sobre marcas y modelos barefoot, minimalistas y de puntera ancha.
 date: '2020-06-14T17:26:49'
 permalink: /reviews/
 sourceType: Página
@@ -11,15 +11,23 @@ sourceId: 6592
 sourceSlug: reviews
 sourceModified: '2024-07-11T20:37:57'
 image: "/assets/generated/featured/pages/reviews.jpg"
-imageAlt: "Imagen destacada de reseñas barefoot"
+imageAlt: "Imagen destacada de opiniones barefoot"
 pageClass: reviews-page
 tags:
 - traducido
 language: es
 translatedFrom: en
 ---
-{% set reviewPosts = collections.importedPosts | postsMatchingPatterns(["review", "reseña", "reviews"]) %}
+{% set reviewPosts = collections.importedPosts | postsMatchingPatterns(["review", "opinión", "opinion", "reviews"]) %}
 {% set featured = reviewPosts.slice(0, 9) %}
+
+{% set hubPosts = reviewPosts %}
+{% set hubEyebrow = "Opiniones barefoot" %}
+{% set hubTitle = "Opiniones de zapatos barefoot, claras y navegables" %}
+{% set hubDescription = "Análisis de modelos, marcas y comparativas para entender ajuste, flexibilidad, anchura, materiales y uso antes de comprar." %}
+{% set hubListTitle = "Todas las opiniones" %}
+{% include "components/lovable-hub.njk" %}
+{% if false %}
 
 <section class="page-content blog-page reviews-hub">
   <section class="blog-dashboard">
@@ -58,22 +66,22 @@ translatedFrom: en
   </section>
 
   <section class="home-route-grid" aria-label="Atajos de reseñas">
-    <a class="home-route home-route--large" href="/womens/">
+    <a class="home-route home-route--large" href="/mujeres/">
       <span>Mujer</span>
       <strong>Reseñas y guías de mujer</strong>
       <small>Zapatos bonitos, botas, sandalias, bailarinas y modelos arreglados.</small>
     </a>
-    <a class="home-route" href="/kids/">
+    <a class="home-route" href="/ninos/">
       <span>Niños</span>
       <strong>Zapatos infantiles</strong>
       <small>Modelos flexibles y resistentes para pies en crecimiento.</small>
     </a>
-    <a class="home-route" href="/shoe-lists/">
+    <a class="home-route" href="/mejores-zapatos-barefoot/">
       <span>Listas</span>
       <strong>Comparativas por uso</strong>
       <small>Cuando necesitas ver varias opciones juntas.</small>
     </a>
-    <a class="home-route" href="/style/">
+    <a class="home-route" href="/estilo/">
       <span>Estilo</span>
       <strong>Looks barefoot</strong>
       <small>Alternativas más bonitas y cómodas a zapatos estrechos.</small>
@@ -111,3 +119,4 @@ translatedFrom: en
     </div>
   </section>
 </section>
+{% endif %}

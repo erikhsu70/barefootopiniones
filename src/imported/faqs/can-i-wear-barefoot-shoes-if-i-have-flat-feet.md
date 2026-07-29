@@ -44,7 +44,7 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Hay una creencia común en el cuidado de los pies que los pies planos deben ser apoyados. Pero no está claro cuál es exactamente la definición de un pie plano, y qué complicaciones conduce a. El soporte de arco en el calzado tradicional no te enseña a usar bien tus pies y no te permite usar tus músculos de los pies, por lo que podría dificultar más que ayudar. La función del pie es un indicador de éxito mucho mayor que la altura de su arco. <strong>Mientras no haya dolor, disfunción o patologías subyacentes, ambos niños y adultos pueden usar Zapatos barefoot incluso con pies planos</strong>. </p>
-<p><a href="/why-birkenstocks-arent-long-term-solution-foot-pain/">Lea este artículo para más sobre por qué el soporte de arco no es una solución a largo plazo + artículos de investigación relacionados.</a></p>
+<p><a href="/por-que-birkenstocks-no-son-una-solucion-a-largo-plazo-para-el-dolor-de-pie/">Lea este artículo para más sobre por qué el soporte de arco no es una solución a largo plazo + artículos de investigación relacionados.</a></p>
 </div>
 
 </div>

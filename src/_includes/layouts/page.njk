@@ -1,12 +1,14 @@
 ---
 layout: layouts/base.njk
 ---
-<section class="page-hero">
-  <p class="eyebrow">{{ eyebrow or "Barefoot Opiniones" }}</p>
-  <h1>{{ title }}</h1>
-  <p>{{ description }}</p>
+<section class="lov-page-hero">
+  <div class="lov-page-hero__inner">
+    <p class="lov-article-kicker">{{ eyebrow or "Barefoot Opiniones" }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p>{{ description }}</p>{% endif %}
+  </div>
 </section>
 
-<section class="page-content">
+<section class="page-shell">
   {{ content | safe }}
 </section>

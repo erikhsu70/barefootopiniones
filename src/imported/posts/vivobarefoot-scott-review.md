@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de botas Vivobarefoot Scott
+title: "Mi opinión sobre botas Vivobarefoot Scott"
 description: Usar código Después de trabajar con mi esposo durante un año, finalmente
   admitió que los zapatos convencionales son súper incómodos. Probó y devolvió un
   montón de botas diferentes, y todas le pellizcaron los dedos de los pies y estaban
@@ -30,15 +30,15 @@ translatedFrom: en
 <p>Las botas Scott para hombre en marrón oscuro y negro tienen la puntera de cuero y lona en los laterales. La versión totalmente de cuero es de un color tostado más claro. Este año, las botas Scott 2.0 no tienen forro de sherpa, sino que tienen un interior de piel de camello y un forro de tela y lona para brindar calidez.</p>
 
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Suela exterior icónica en forma de panal.</figcaption></figure>
-<p>Mi marido iba y venía un poco con la talla y acabó probando dos tallas. Lleva un 13 en Vans y FitFinder le recomendó un 12,5 en el sitio de VB. Los 12.5 encajan bien en todas partes, excepto en un pie, le rozaba el cuarto dedo (el borde exterior se estrechaba demasiado rápido para sus dedos largos). Así que probó con los 13, que estaban demasiado flojos por todas partes. Al final, volvió a los 12.5 y optó por usar calcetines normales (en lugar de lana). La talla más habría funcionado con calcetines de lana y una <a href="https://amzn.to/2Mn9lQf">plantilla de piel de oveja</a>, pero entonces no habrían sido tan funcionales para el uso diario. En cuanto al ajuste, desearía que la puntera fuera más espaciosa.</p>
+<p>Mi marido iba y venía un poco con la talla y acabó probando dos tallas. Lleva un 13 en Vans y FitFinder le recomendó un 12,5 en el sitio de VB. Los 12.5 encajan bien en todas partes, excepto en un pie, le rozaba el cuarto dedo (el borde exterior se estrechaba demasiado rápido para sus dedos largos). Así que probó con los 13, que estaban demasiado flojos por todas partes. Al final, volvió a los 12.5 y optó por usar calcetines normales (en lugar de lana). La talla más habría funcionado con calcetines de lana y una plantilla de piel de oveja, pero entonces no habrían sido tan funcionales para el uso diario. En cuanto al ajuste, desearía que la puntera fuera más espaciosa.</p>
 <figure class="wp-block-image"><figcaption class="wp-element-caption">El borde exterior del zapato se estrecha</figcaption></figure>
 
-<p>Si tiene la intención de usarlas como bota de invierno, le recomiendo encarecidamente una <a href="https://amzn.to/2Mn9lQf">plantilla de piel de oveja</a>. Probablemente el principal inconveniente de estas botas es que los pies se enfrían con bastante rapidez. La plantilla térmica que viene con las botas definitivamente ayuda, pero cuando estás tan cerca del suelo es inevitable pasar frío en invierno. Llevar una plantilla en el mío este año me ha ayudado mucho.</p>
+<p>Si tiene la intención de usarlas como bota de invierno, le recomiendo encarecidamente una plantilla de piel de oveja. Probablemente el principal inconveniente de estas botas es que los pies se enfrían con bastante rapidez. La plantilla térmica que viene con las botas definitivamente ayuda, pero cuando estás tan cerca del suelo es inevitable pasar frío en invierno. Llevar una plantilla en el mío este año me ha ayudado mucho.</p>
 
 <figure class="wp-block-image"><figcaption class="wp-element-caption">Locamente flexible para una bota de invierno.</figcaption></figure>
-<p>encuentro en mi <a href="/vivobarefoot-gobi-hi-top-iii-review/">Camisetas altas Gobi</a> Que atarlos hasta arriba restringe mis tobillos, así que solo ato los míos parcialmente. A mi marido le gustan los cordones hasta arriba, manteniendo sus tobillos seguros (además, se ven increíbles de esa manera).</p>
-<p>Se anuncian como resistentes a la intemperie y al agua, pero son prácticamente impermeables. Llevo el mío en el agua todo el tiempo y rara vez me mojo los pies. Después de un tiempo es buena idea agregar un agente impermeabilizante ya que a medida que el cuero se desgasta se vuelve más permeable. <a href="https://amzn.to/2TXMrSa">Sello de nieve</a> Es el impermeabilizante más eficaz que he usado, muy resistente. pero <a href="https://amzn.to/2Dmncnd">chambelán</a>Este es mi favorito porque es fácil de aplicar y no cambia demasiado la apariencia del cuero.</p>
-<p>Después del invierno, también me gusta retocarlas con el limpiador y acondicionador <a href="https://amzn.to/2Dmncnd">chambelán</a> y a veces <a href="https://amzn.to/2FOyAcP">El betún de Angelu </a>antes de guardar el mío hasta la próxima temporada.</p>
+<p>encuentro en mi <a href="/revision-de-vivobarefoot-gobi-hi-bota-iconica-de-invierno-barefoot/">Camisetas altas Gobi</a> Que atarlos hasta arriba restringe mis tobillos, así que solo ato los míos parcialmente. A mi marido le gustan los cordones hasta arriba, manteniendo sus tobillos seguros (además, se ven increíbles de esa manera).</p>
+<p>Se anuncian como resistentes a la intemperie y al agua, pero son prácticamente impermeables. Llevo el mío en el agua todo el tiempo y rara vez me mojo los pies. Después de un tiempo es buena idea agregar un agente impermeabilizante ya que a medida que el cuero se desgasta se vuelve más permeable. Sello de nieve Es el impermeabilizante más eficaz que he usado, muy resistente. pero chambelánEste es mi favorito porque es fácil de aplicar y no cambia demasiado la apariencia del cuero.</p>
+<p>Después del invierno, también me gusta retocarlas con el limpiador y acondicionador chambelán y a veces El betún de Angelu antes de guardar el mío hasta la próxima temporada.</p>
 
 <p>En conclusión, mi marido y yo estamos muy satisfechos con la estética del zapato. También son ligeros, flexibles y espaciosos. Lo ideal sería que tuviera una puntera menos afilada, pero siguen siendo muy difíciles de superar en el ámbito de las botas de vestir descalzas para hombres.</p>
 <p>¿Qué zapatos de vestir de hombre has encontrado que se adaptan a un estilo de vida barefoot?</p>
@@ -88,3 +88,30 @@ Si vienes de calzado convencional, no hace falta pasar de cero a cien. Tus pies,
 La transicion no deberia sentirse como una penitencia. Puede haber trabajo muscular nuevo, pero no dolor persistente. Si notas molestias fuertes, baja ritmo, revisa talla y considera introducir ejercicios suaves de pies. A veces el problema no es el barefoot en si, sino un cambio demasiado brusco.
 
 Me gusta pensar en el barefoot como una conversacion con el cuerpo: das un paso, escuchas, ajustas y sigues.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de botas Vivobarefoot Scott es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

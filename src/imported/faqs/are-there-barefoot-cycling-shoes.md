@@ -47,7 +47,7 @@ translatedFrom: en
 
 <p>Actualmente hay algunas opciones de zapato de ciclismo que son más anchas y más amigables que la mayoría. </p>
 <ul>
-<li> (shown above) – La mejor opción para zapatos de ciclismo con forma de pie! <a href="/cycling-shoes-but-foot-shaped-strong-feet-athletics-review/">Lea la reseña completa aquí</a></li>
+<li> (shown above) – La mejor opción para zapatos de ciclismo con forma de pie! <a href="/zapatos-de-ciclismo-pero-con-forma-de-pie-una-revision/">Lea la reseña completa aquí</a></li>
 <li><a href="https://www.lakecycling.com/collections/all?page=1">Zapatos de bicicleta de lago</a> viene en anchos, y puede buscar opciones anchas o extra amplias.</li>
 <li><a href="https://www.hezo-cycling.com/en">Hezo Cycling</a> – alemán 3d impreso basado en un escaneo de pie</li>
 <li>Y <a href="https://bontcycling.com/">Zapatos de Ciclismo </a>también tienen una forma de pie más amplia y natural para ellos.</li>

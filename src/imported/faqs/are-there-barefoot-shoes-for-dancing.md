@@ -49,7 +49,7 @@ translatedFrom: en
 <ul>
 <li><a href="https://harlemshoes.com/category/barefoot">Zapatos de Harlem</a> – Esta compañía de zapatillas de baile ofrece una amplia gama de zapatos de baile de toe box y son hermosas! Usted puede elegir entre cero goteo, o alturas del talón que van desde .5-2cm. <a href="https://harlemshoes.com/category/barefoot-1">Usted puede encontrar la colección de hombres barefoot aquí.</a></li>
 <li><a href="https://www.dea-dos.com/">Dea Dos</a> – Zapatos de suela de Suede diseñados específicamente para bailar</li>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> – El modelo Ballerine está disponible con una suela de cuero de búfalo</li>
+<li>Zapatos de estrellas suaves – El modelo Ballerine está disponible con una suela de cuero de búfalo</li>
 <li> – Usar código <strong></strong>
 
  para un descuento</li>

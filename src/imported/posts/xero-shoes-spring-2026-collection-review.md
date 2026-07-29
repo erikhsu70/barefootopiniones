@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Xero Zapatos Primavera 2026 Revisión
+title: "Mi opinión sobre la colección de primavera 2026 de Xero Shoes"
 description: Xero Shoes ha estado subiendo la ante cuando se trata de estilo zapato
   barefoot, y su línea de primavera 2026 es tan fresca y al mismo tiempo funcional.
 date: '2026-05-01T19:26:08'
@@ -70,7 +70,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Sandalias</h2>
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
-<p> – Las Z Trek fueron mis primeras sandalias descalzas (escribí una reseña sobre ellas <a href="/xero-z-treks-review/">hace 7 años</a>, ¡¡casi hasta el día de hoy!!) y todavía son esencialmente el mismo zapato. De todas las sandalias de Xero, son las que mejor me quedan, con tiras que puedo ajustar a mi gusto. Y este nuevo estampado de leopardo era demasiado lindo para dejarlo pasar. Esta sandalia me queda grande, tengo una talla 6 y me queda como una 6.5</p>
+<p> – Las Z Trek fueron mis primeras sandalias descalzas (escribí una reseña sobre ellas <a href="/revision-de-las-sandalias-xero-z-trek/">hace 7 años</a>, ¡¡casi hasta el día de hoy!!) y todavía son esencialmente el mismo zapato. De todas las sandalias de Xero, son las que mejor me quedan, con tiras que puedo ajustar a mi gusto. Y este nuevo estampado de leopardo era demasiado lindo para dejarlo pasar. Esta sandalia me queda grande, tengo una talla 6 y me queda como una 6.5</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">

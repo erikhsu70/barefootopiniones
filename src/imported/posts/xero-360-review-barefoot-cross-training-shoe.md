@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Xero 360: el calzado barefoot definitivo para entrenamiento cruzado'
+title: "Mi opinión sobre Xero 360: el calzado barefoot definitivo para entrenamiento cruzado"
 description: El nuevo calzado de entrenamiento cruzado 360 combina todo lo que amo
   en un calzado deportivo barefoot junto con algunas mejoras importantes que no sabía
   que necesitaba, pero sin las que ahora no puedo vivir.
@@ -33,7 +33,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Por qué levanto Zapatos barefoot</h2>
 
 <p>Permítanme contarles una historia.  Hubo un momento en mi vida en el que apenas podía levantar la bolsa de pañales de mi niño sin sentir dolor.  Era 2018: acababa de cumplir 37 años y mis caderas sufrían por un embarazo difícil dos años antes.  Además de eso, un juanete me provocaba dolores agudos y punzantes a diario, me dolían las articulaciones y sentía el cuerpo débil.  En resumen, me sentía miserable y ya había tenido suficiente.  Impulsivamente, me uní al gimnasio local Strongman/Functional Fitness de mi zona a pesar de no tener experiencia en levantamiento de pesas y el resto, como dicen, es historia.</p>
-<p>Allí, en el gimnasio, aprendí por primera vez sobre el movimiento barefoot.  Todas las personas con las que me encontré levantaban pesas descalzas o con Zapatos barefoot con una puntera ancha (<a href="/benefits-barefoot-minimalist-shoes/">Puedes aprender más sobre qué es un zapato barefoot aquí.</a>).</p>
+<p>Allí, en el gimnasio, aprendí por primera vez sobre el movimiento barefoot.  Todas las personas con las que me encontré levantaban pesas descalzas o con Zapatos barefoot con una puntera ancha (<a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Puedes aprender más sobre qué es un zapato barefoot aquí.</a>).</p>
 <p>Mi entrenador me presentó la idea de necesitar pies fuertes y usar zapatos planos para utilizar todos los grupos de músculos correctos y tener una buena forma. Durante mis 37 años de vida, había estado apretando mis pies con zapatos puntiagudos y demasiado acolchados, por lo que este concepto me parecía extraño.  Pero también despertó la curiosidad sobre el papel que desempeñan nuestros pies en la salud general del cuerpo.  Estaba dispuesto a hacer cualquier cosa para ayudar a que mi cuerpo se fortaleciera y deshacerme de mi dolor diario.  Así que me lancé de lleno.</p>
 <p>Echemos un vistazo a cómo se compara un zapato barefoot como el 360 con los zapatos de elevación tradicionales.</p>
 <h2 class="wp-block-heading">Xero Shoes 360 VS Zapatos de Levantamiento Tradicionales</h2>
@@ -64,7 +64,7 @@ translatedFrom: en
 
 <p>Tengo un pie de volumen bajo, con forma de montaña y una separación entre media y ancha.  Puedo usar estos zapatos con y sin plantillas.  Como estoy a favor de una sensación óptima en el suelo, opté por quitarme las plantillas y ajustar los cordones para que quedaran más ajustados alrededor de la parte media del pie. Hay mucho espacio para aflojarlos para alguien con un pie de mayor volumen que el mío. </p>
 <p>Por lo general, soy EU39 y, según la guía de tallas del sitio web de Xero Shoes para 360, eso me sitúa en una talla de mujer 8,5 (la misma talla que uso en Prios).  Asegúrate de consultar la guía de tallas y traducir tu talla UE, ya que parece variar según la empresa de calzado. </p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">¿No estás seguro de cuál es tu tipo de pie o cómo encontrar tu talla de zapato? Lea este artículo.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¿No estás seguro de cuál es tu tipo de pie o cómo encontrar tu talla de zapato? Lea este artículo.</a></p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>el  Son verdaderamente un calzado de entrenamiento cruzado multiusos que te permite estar preparado para cualquier aventura que la vida te ofrezca.  Con un amplio espacio para los dedos, una increíble sensación en el suelo, durabilidad y transpirabilidad, no te puedes equivocar.  ¡Son otra gran oferta de Xero Shoes que realmente encarna su espíritu y su lema "Feel the World"!</p>
 <p class="has-text-align-center" style="font-size:15px">Descargo de responsabilidad: La 360 es una bicicleta elíptica y puede que no sea adecuada para tu deporte específico. Tenga cuidado y consulte con un profesional de su deporte si no está seguro.</p>

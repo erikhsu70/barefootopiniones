@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Groundies Felicia: zapatos planos clásicos pero hechos pensando
-  en los pies'
+title: "Mi opinión sobre Groundies Felicia: zapatos planos clásicos pero hechos pensando en los pies"
 description: Groundies es una de las marcas de calzado barefoot más vanguardistas
   que existen, con una amplia gama de elegantes zapatillas, botas, zapatos planos
   y ahora calzado deportivo. Uno de los lanzamientos de otoño más llamativos de Groundies
@@ -27,7 +26,7 @@ translatedFrom: en
 
 <p>Felicia viene en beige/negro o completamente negro, tallas 36-43. Tienen una parte superior de cuero y un forro de microfibra para brindar un poco más de calidez este otoño. Son fieles al tamaño y se adaptan mejor a un pie moderadamente ancho.</p>
 <p>Soy un gran admirador de la suela Groundies TruSense (GO1) utilizada en Felicia. Tiene extrema flexibilidad y sensación en el suelo, pero no se desgasta en un minuto. También tiene el ajuste más amplio de todas las suelas Groundies, lo cual es una buena noticia para mis pies anchos. </p>
-<p class="has-text-align-center"><a href="/groundies-performance-review-retro-barefoot-sneakers/#getting-to-know-groundies">Obtenga más información sobre Groundies y sus diferentes tipos de suelas en este artículo.</a></p>
+<p class="has-text-align-center"><a href="/revision-del-rendimiento-de-groundies-zapatillas-de-deporte-descalzas-con-un-aspecto-ret/#getting-to-know-groundies">Obtenga más información sobre Groundies y sus diferentes tipos de suelas en este artículo.</a></p>
 
 <p>Mis zapatos planos Felicia se ven hermosos, como siempre los zapatos Groundies, y se ajustan bien a mis pies anchos. Opté por una talla 37 (estoy entre una 36 y una 37 para zapatos planos), por lo que me quedan un poco holgados, pero me alegro de no haber bajado dado mi ancho. El forro cálido es un buen toque, ya que donde vivo la mayor parte del año hace fresco. ¡Y lucen maravillosamente!</p>
 <p class="has-text-align-center">!</p>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Nueva ancha pero no descalzos de Tolos
+title: "Nuevas zapatillas Tolos con puntera ancha y suela amortiguada"
 description: Recientemente, Tolos lanzó dos nuevas opciones de zapatillas casuales
   en una versión de transición barefoot y más grueso. Esto es lo que pienso de ellos.
 date: '2025-12-05T21:15:44'
@@ -80,5 +80,26 @@ translatedFrom: en
 <p>El Archetype es el modelo original de Tolos que es más ligero, flexible y minimalista. Están diseñados para quedar al ras del pie y ser dinámicos para el gimnasio, pero también pueden funcionar como calzado de uso diario. Estos me quedan mejor porque la suela queda más abajo a los lados del zapato, pero incluso en este siento el dedo meñique en el costado. Sin embargo, ¡son un excelente zapato barefoot para todo uso!</p>
 <p>Este modelo se ajusta más a la talla que los otros dos.</p>
 <p>Me encanta que Evan ofrezca suelas descalzas y de transición en los nuevos estilos; es muy raro tener esa opción sin comprometer el ajuste o la calidad. Los zapatos son anchos, duraderos y prácticos, sin dejar de parecer zapatillas de deporte “normales”. Si desea un zapato que pueda soportar largos días en terreno duro pero que aún respete la forma natural del pie, o simplemente desea ese estilo clásico de caña alta, vale la pena echarle un vistazo a Tolos.</p>
-<p class="has-text-align-center"><em>¿Te gusta la idea de estar ancho pero no barefoot? <a href="/the-best-wide-toe-box-shoes-that-arent-barefoot/">Vea más de mis marcas recomendadas aquí.</a></em></p>
+<p class="has-text-align-center"><em>¿Te gusta la idea de estar ancho pero no barefoot? <a href="/los-zapatos-de-la-puntera-mas-anchos-que-no-son-descalzos/">Vea más de mis marcas recomendadas aquí.</a></em></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Las zapatillas barefoot pueden parecer sencillas, pero no todas funcionan igual. En "Nueva ancha pero no descalzos de Tolos" hay que separar estilo, ajuste, flexibilidad y uso real para no comprar solo por la primera impresion.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Nueva ancha pero no descalzos de Tolos, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.

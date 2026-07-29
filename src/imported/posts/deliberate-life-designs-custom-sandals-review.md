@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de sandalias personalizadas de Deliberate Life Designs
+title: "Mi opinión sobre sandalias personalizadas de Deliberate Life Designs"
 description: '*12/02/20 – ¡Con el código obtendrás un 10 % de descuento! Estas sandalias
   ahora vienen con una correa deportiva opcional para mayor seguridad y el proceso
   de pedido se ha simplificado* Deliberate Life Designs es una pequeña tienda dirigida
@@ -39,7 +39,7 @@ translatedFrom: en
 <p>Gracias a las correas, no hay presión en los dedos de los pies y la suela de corte personalizado está hecha para adaptarse a la forma particular de su pie, por lo que este es un zapato que puede funcionar para cualquier tipo de pie.</p>
 <p>Elegí la opción de correas de nailon y suela de carretera. Las correas son resistentes y definitivamente seguras, pero no se frotan dolorosamente ni producen ampollas. Me gusta que se aplican fácilmente y se sienten suaves contra mi piel.</p>
 <p> Aprecio la tira del dedo más delgada (no elástica), ya que a veces me molesta una tira gruesa entre los dedos. La suela es una suela Vibram más firme (9 mm en total) sin mucha sensación del suelo, pero se siente bien al caminar y se mueve con el pie. Si quisieras una suela particularmente delgada, podrías trabajar con Adam en algo.</p>
-<p>En términos de cualidades minimalistas, estos zapatos son sólidos. Durarán mucho tiempo y son bastante cómodos. Se pueden ensuciar y mojar sin problema y son más fáciles de limpiar que <a href="/minimalist-summer-sandals/">Corredores de la Tierra</a>. Solo por esa razón he elegido estas sandalias DLD para hacer caminatas y aventuras en lugar de mis salas de emergencia. Además, la correa más gruesa entre los dedos de mis pies en las salas de emergencia a veces me molesta (me encantan mis salas de emergencia, solo úselas en diferentes momentos).</p>
+<p>En términos de cualidades minimalistas, estos zapatos son sólidos. Durarán mucho tiempo y son bastante cómodos. Se pueden ensuciar y mojar sin problema y son más fáciles de limpiar que <a href="/sandalias-de-verano-minimalistas-de-barefoot-la-lista-completa-2026/">Corredores de la Tierra</a>. Solo por esa razón he elegido estas sandalias DLD para hacer caminatas y aventuras en lugar de mis salas de emergencia. Además, la correa más gruesa entre los dedos de mis pies en las salas de emergencia a veces me molesta (me encantan mis salas de emergencia, solo úselas en diferentes momentos).</p>
 <figure class="wp-block-image"><figcaption>Las suelas tienen espacio extra alrededor de mi pie.</figcaption></figure>
 <p>En términos de seguridad, siento que tengo que mantenerlos un poco sueltos para mi comodidad, para que mi pie se deslice un poco cuando estoy fuera de la carretera. Tengo pies de muy poco volumen y esto parece suceder sin importar qué sandalia pruebo. Últimamente me encantan las sandalias huarache por la libertad de los dedos, pero siempre parece que me deslizo hacia el poste si estoy haciendo búlder, escalando, etc. Esto es cierto en todas las marcas. </p>
 <p>También he notado algunas veces que la correa parecía aflojarse. Esto no ha sucedido constantemente y podría haber sido parte del proceso de adaptación, pero tuve que reajustar mis sandalias varias veces durante los últimos meses.</p>

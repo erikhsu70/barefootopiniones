@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: ¿Por qué usé zapatos de trineo (incluso en Pavimento) + Cómo conseguir más
-  cómodo con él
+title: "Por qué uso zapatos de suela fina incluso sobre asfalto"
 description: Hay una idea errónea de que los pies humanos no están diseñados para
   caminar sobre superficies duras como el pavimento. ¡Pero si sales a la naturaleza,
   hay superficies duras de roca por todas partes!
@@ -31,23 +30,23 @@ translatedFrom: en
 <ul>
 <li>Caminar junto al camino pavimentado y sobre texturas siempre que sea posible (césped, troncos, barandillas, bordillos, cualquier elemento irregular)</li>
 <li>Realizar paseos recreativos en la naturaleza y en parques en lugar de en las aceras.</li>
-<li>Añadiendo <a href="/how-to-strengthen-your-feet-with-floor-texture/">Textura del suelo con baches en las superficies de mi casa.</a></li>
+<li>Añadiendo <a href="/como-fortalecer-tus-pies-con-textura-de-suelo/">Textura del suelo con baches en las superficies de mi casa.</a></li>
 <li>Haciendo rodar mi pie sobre una pelota</li>
 <li>Masajear y trabajar los tejidos internos de mis pies.</li>
 <li>Hacer una variedad de ejercicios para fortalecer los pies y los dedos de los pies.</li>
 </ul>
-<p class="has-text-align-center has-normal-font-size"><a href="/foot-exercises-transitioning-barefoot-shoes/">(Encuentre un resumen de los tres puntos inferiores en este artículo sobre ejercicios para los pies)</a></p>
+<p class="has-text-align-center has-normal-font-size"><a href="/5-sencillos-ejercicios-de-pie-para-la-transicion-a-zapatos-barefoot/">(Encuentre un resumen de los tres puntos inferiores en este artículo sobre ejercicios para los pies)</a></p>
 
 <p> Quiero tener unos pies fuertes que puedan soportarlo todo. Eso significa que necesito modificar un poco mi estilo de vida para asegurarme de que mis pies obtengan toda la VARIEDAD que necesitan (¿estás percibiendo un tema aquí?). Cuando hago eso, todavía me siento bien cuando estoy en la acera, incluso con zapatos de suela fina.</p>
 <h2 class="wp-block-heading">¿Qué pasa si mi trabajo o mis circunstancias dificultan la variedad?</h2>
-<p>Si tengo un período especialmente largo en la acera, por ejemplo si viajo en una zona urbana, podría elegir un zapato con más amortiguación. Uno de mis favoritos es el <a href="/lems-chelsea-boots-like-blundstones-but-better/">Chelsea</a>, que se muestra a continuación.</p>
-<figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption"><a href="/best-barefoot-minimalist-shoe-brands-beginners/">Consulte esta lista para conocer más opciones de zapatos minimalistas y acolchados.</a></figcaption></figure>
-<p>También me gusta agregar <a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">Plantillas propioceptivas de Naboso.</a> a mis zapatos siempre que no voy a poder conseguir variedad, porque mantienen mis nervios estimulados. De hecho, para mí las plantillas Naboso son incluso más efectivas para aliviar el dolor que los zapatos acolchados.</p>
+<p>Si tengo un período especialmente largo en la acera, por ejemplo si viajo en una zona urbana, podría elegir un zapato con más amortiguación. Uno de mis favoritos es el <a href="/lems-chelsea-botas-como-blundstones-pero-mejor/">Chelsea</a>, que se muestra a continuación.</p>
+<figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption"><a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">Consulte esta lista para conocer más opciones de zapatos minimalistas y acolchados.</a></figcaption></figure>
+<p>También me gusta agregar <a href="https://naboso-technology.myshopify.com/">Plantillas propioceptivas de Naboso.</a> a mis zapatos siempre que no voy a poder conseguir variedad, porque mantienen mis nervios estimulados. De hecho, para mí las plantillas Naboso son incluso más efectivas para aliviar el dolor que los zapatos acolchados.</p>
 
 <p><em>No trato de superar el dolor, así que si siento que las superficies duras son demasiado un día hago cambios (¡aquí buscamos longevidad!). </em>Esa línea donde se necesita más apoyo será diferente para todos dependiendo de dónde se encuentre actualmente, ¡pero la clave es que tenemos cierto control sobre ella!</p>
 <p>Si eres alguien que quiere cambiar la aguja en lo que respecta a tu comodidad en superficies duras, echa un vistazo <a href="https://youtu.be/q7Mm68jD-d0">este vídeo de YouTube de 4 ejercicios fáciles</a> puedes incorporar a tu día.</p>
 <p>En resumen, para mí la solución a largo plazo a un mundo de superficies duras es un estilo de vida que mantenga mis pies en forma. Por esa razón, sigo usando Zapatos barefoot e incluso mis pies descalzos sobre concreto y pavimento.</p>
-<p class="has-text-align-center"><a href="/ufaq/how-do-you-transition-to-barefoot-shoes/">Para obtener más consejos sobre cómo hacer una buena transición a los Zapatos barefoot, consulte mis mejores consejos aquí (¡respaldados por podólogos!)</a></p>
+<p class="has-text-align-center"><a href="/preguntas/como-hacer-la-transicion-a-zapatos-barefoot/">Para obtener más consejos sobre cómo hacer una buena transición a los Zapatos barefoot, consulte mis mejores consejos aquí (¡respaldados por podólogos!)</a></p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption"></figcaption></figure>
 
 

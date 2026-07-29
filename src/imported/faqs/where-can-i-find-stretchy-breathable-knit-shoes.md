@@ -47,24 +47,24 @@ translatedFrom: en
 
 <p>¡Nos encanta un buen zapato estirado! Puede hacer que encontrar un buen ajuste mucho más fácil tener un material superior que es perdonar como el derecho, y en el verano, dejaron que sus pies respirar. Si usted tiene bunions, estos podrían ser una buena opción para ayudar a prevenir puntos de pellizco incómodos. Hemos redondeado todos los zapatos de punto estirados como los calcetines en el universo de Zapatos barefoot para usted abajo.</p>
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://freetbarefoot.com/?ref=X9T_QsyhrdeOL">Freet</a> – Varios modelos son un tejido suave y estirado. Nos gustan especialmente Pace y Howgill.</p>
+<p><a href="https://freetbarefoot.com/">Freet</a> – Varios modelos son un tejido suave y estirado. Nos gustan especialmente Pace y Howgill.</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://lonowear.com/?ref=r99wnzmr">Lono Flow</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
+<p><a href="https://lonowear.com/">Lono Flow</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://lonowear.com/collections/lifestyle?ref=r99wnzmr">Lono Ezy</a> – ¡Son manos libres! </p>
+<p><a href="https://lonowear.com/collections/lifestyle">Lono Ezy</a> – ¡Son manos libres! </p>
 <p><strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shrsl.com/40y1a">Reima Astelu</a> – <strong></strong> para el 15% de su primera compra. Los encontramos para correr un poco grande. Pero la calidad y la comodidad son excelentes para el precio – nuestro equipo está realmente amando a los niños de todas las edades.</p>
+<p>Reima Astelu – <strong></strong> para el 15% de su primera compra. Los encontramos para correr un poco grande. Pero la calidad y la comodidad son excelentes para el precio – nuestro equipo está realmente amando a los niños de todas las edades.</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.saguaro.com/?ref=Nafs6yLHHkYzpP">Saguaro Gratis</a> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento. Estos vienen en todos los tamaños, mis hijos y yo los amamos. El modelo Free y Smart en mi opinión tienen la mejor sensación.</p>
+<p><a href="https://www.saguaro.com/">Saguaro Gratis</a> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento. Estos vienen en todos los tamaños, mis hijos y yo los amamos. El modelo Free y Smart en mi opinión tienen la mejor sensación.</p>
 </div></div>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">

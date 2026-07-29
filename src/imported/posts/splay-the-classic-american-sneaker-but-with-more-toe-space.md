@@ -85,7 +85,7 @@ translatedFrom: en
 <ul>
 <li><strong>Mayormente fiel al tamaño</strong>: Estos son un poco pequeños y no hay medias tallas, por lo que si hay entre tallas más grandes.</li>
 <li><strong>Ajuste ancho:</strong> Un corte amplio que se siente generoso porque tiene mucho volumen.</li>
-<li><strong>Alto volumen</strong>: Sin ajustes significa que los pies de volumen medio y bajo pueden tener demasiado espacio y necesitar usar un <a href="/ufaq/fit-hacks-for-low-volume-feet/">truco de ajuste.</a></li>
+<li><strong>Alto volumen</strong>: Sin ajustes significa que los pies de volumen medio y bajo pueden tener demasiado espacio y necesitar usar un <a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">truco de ajuste.</a></li>
 <li><strong>Espacio vertical para los dedos:</strong> ¡El espacio encima de los dedos de los pies en el Streetstyle significa más margen de maniobra!</li>
 </ul>
 <h2 class="wp-block-heading">el 101</h2>
@@ -101,7 +101,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Corredor 1 </h2>
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-304 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button">Corredor extendido 1</div>
+
 </div>
 
 <p>El Runner 1 es un zapato de estilo de transición con la suela más gruesa de todos los modelos Splay y un aire retro. También es menos flexible que los otros modelos y realmente no tiene sensación de suelo. Pero si eres alguien que quiere zero drop y espacio para los dedos en una zapatilla que de otro modo sería típica, te ayudarán en tu camino hacia unos pies más felices.</p>

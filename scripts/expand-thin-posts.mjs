@@ -1,5 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
+import { createRequire } from "node:module";
+
+const require = createRequire(import.meta.url);
+const { bySourceSlug } = require("../src/_lib/spanish-urls.js");
 
 const MIN_WORDS = 1250;
 const MARKER = "<!-- editorial-expansion:v1 -->";
@@ -42,6 +46,16 @@ function wordCount(text) {
     .trim()
     .split(/\s+/)
     .filter(Boolean).length;
+}
+
+function renderedWordCount(sourceSlug) {
+  const permalink = bySourceSlug[sourceSlug]?.to;
+  if (!permalink || bySourceSlug[sourceSlug]?.retired) return null;
+  const htmlPath = path.join("dist", permalink.replace(/^\/|\/$/g, ""), "index.html");
+  if (!fs.existsSync(htmlPath)) return null;
+  const html = fs.readFileSync(htmlPath, "utf8");
+  const body = html.match(/<div class="article-body imported-content"[^>]*>([\s\S]*?)<aside class="article-author-card"/i)?.[1];
+  return body ? wordCount(body) : null;
 }
 
 function contextFor(title, permalink, file) {
@@ -203,7 +217,8 @@ for (const file of files) {
   const parsed = parseMarkdown(raw);
   const title = metaValue(parsed.frontmatter, "title") || path.basename(file, ".md");
   const permalink = metaValue(parsed.frontmatter, "permalink");
-  let words = wordCount(parsed.body);
+  const sourceSlug = metaValue(parsed.frontmatter, "sourceSlug") || path.basename(file, ".md");
+  let words = renderedWordCount(sourceSlug) ?? wordCount(parsed.body);
   if (words >= MIN_WORDS) continue;
 
   const context = contextFor(title, permalink, file);
@@ -222,7 +237,7 @@ for (const file of files) {
     const fn = blocks[key];
     if (!fn) continue;
     additions.push(fn(title));
-    words = wordCount(`${parsed.body}\n${additions.join("\n\n")}`);
+    words = (renderedWordCount(sourceSlug) ?? wordCount(parsed.body)) + wordCount(additions.join("\n\n"));
     if (words >= MIN_WORDS) break;
   }
 

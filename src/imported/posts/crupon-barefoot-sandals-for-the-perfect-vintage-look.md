@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Sandalias Crupon – La mirada perfecta sin tiempo en Zapatos barefoot
+title: "Sandalias barefoot Crupon con estilo vintage"
 description: En 2019 pedí un par de sandalias Trevi de Crupon Sandals con suela plana
   personalizada. Me golpearon inmediatamente. Juntos hemos diseñado una suela con
   una forma de pie más natural!
@@ -33,8 +33,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Revisión de sandalias descalzas Crupon</h2>
 
 <p class="has-text-align-center">Cuero | Disponible en tallas UE 35-42 | Se envía desde la UE</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-149 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://cruponsandals.com/collections/barefoot">Colección Crupon barefoot</a></div>
+
 </div>
 <p class="has-text-align-center"><em>Usar código <strong><strong></strong></strong> conseguir <em>para obtener un 10% de descuento en cualquier compra</em></em>!</p>
 <p>Cada par de sandalias Crupon está hecho de un magnífico cuero curtido vegetal de Italia y cosido a mano por Dimitar y Yana (propietarios y zapateros). Sus sandalias descalzas tienen un grosor de 6 mm y son muy flexibles. </p>
@@ -60,8 +59,8 @@ translatedFrom: en
 <li>Suelen adaptarse mejor a pies de volumen medio y alto.</li>
 <li>Tienen forma de montaña inclinada.</li>
 </ul>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Conozca aquí los diferentes tipos de pies y los zapatos que mejor les funcionan.</a></p>
-<p>Tengo un pie de poco volumen y en varios de los modelos he descubierto que hay espacio extra encima de mi pie. Esto lo soluciono ya sea con algunos <a href="https://amzn.to/3wUFhmp">piel de topo</a> debajo de las correas, o este pequeño <a href="https://amzn.to/3wkoo8h">inserto adhesivo</a>. Otro consejo profesional si le preocupa que sus sandalias se caigan es elegir modelos con tacón cerrado en lugar de modelos con tacón abierto (por ejemplo, Nomade, en lugar de Nomade Light) porque se ajustan de forma más segura. ¡Para mí esto hace una gran diferencia!</p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Conozca aquí los diferentes tipos de pies y los zapatos que mejor les funcionan.</a></p>
+<p>Tengo un pie de poco volumen y en varios de los modelos he descubierto que hay espacio extra encima de mi pie. Esto lo soluciono ya sea con algunos piel de topo debajo de las correas, o este pequeño inserto adhesivo. Otro consejo profesional si le preocupa que sus sandalias se caigan es elegir modelos con tacón cerrado en lugar de modelos con tacón abierto (por ejemplo, Nomade, en lugar de Nomade Light) porque se ajustan de forma más segura. ¡Para mí esto hace una gran diferencia!</p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Sandalias Crupon Nomade en barefoot (izquierda) y Extra Ancho barefoot (derecha)</figcaption></figure>
 <p>También quiero señalar que el cuero es de muy alta calidad y resistente, por lo que requiere un poco de adaptación. Si eres alguien a quien le gusta mucho espacio para respirar desde el principio, te recomiendo los modelos Nomade, Breeze y Monstera. ¡Pero mis favoritos personales son Trevi, Fida y Abbie! Se ajustan de forma segura a mis pies de bajo volumen y al mismo tiempo brindan suficiente espacio para los dedos.</p>
 <p>Y si tienes pies estrechos, las sandalias estándar de Crupon son una buena opción para ello.</p>
@@ -99,3 +98,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Sandalias Crupon – La mirada perfecta sin tiempo en Zapatos barefoot es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

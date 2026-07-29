@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Mi nueva marca de Zapatos barefoot favorita para 2025 - Lang.S
+title: "Mi nueva marca de zapatos barefoot favorita para 2025: Lang.S"
 description: Lang.S es una marca para conocer. Puedo decir con seguridad que estoy
   enamorado; Son una de las mejores opciones nuevas tanto para pies anchos como para
   pies de ancho medio.
@@ -39,9 +39,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading"><strong>Conoce a Lang.S</strong></h2>
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-204 wp-block-buttons-is-layout-flex">
 
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://langs.shoes/en/adults/lang-s?affiliate_code=Kn5kEjmj9k&amp;referring_service=link">Idioma S (UE)</a></div>
 </div>
 
 <p class="has-text-align-center" style="font-size:17px">Usar código <strong></strong> con un 15% de descuento directamente desde Lang.S en la UE, pero tenga en cuenta que los clientes de EE. UU. ahora tienen que pagar aranceles y tarifas en todas las compras internacionales. ¡Por eso también los tenemos en EE. UU.!</p>
@@ -81,3 +79,24 @@ translatedFrom: en
 <p>Este es un estilo nuevo en el mundo del calzado barefoot y definitivamente es moderno y versátil. He estado usando los míos sin calcetines hasta ahora y no puedo esperar a usarlos este otoño con lindos calcetines o medias. ¡¡Son tan cómodos!! Si ha estado buscando algo diferente en su línea barefoot, Mira da en el blanco.</p>
 <p>En general,  ha logrado crear zapatos que honran la forma natural del pie sin sacrificar el estilo, la comodidad o la calidad. Ya sea que elijas el Kombat grueso, el Luna clásico o el nuevo Mira de moda, encontrarás una opción versátil para caminar barefoot que se siente tan bien como parece.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Mi nueva marca de Zapatos barefoot favorita para 2025 - Lang.S" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Mi nueva marca de Zapatos barefoot favorita para 2025 - Lang.S, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

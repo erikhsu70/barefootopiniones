@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Sandalias para correr descalzos Shamma: una revisión'
+title: "Mi opinión sobre las sandalias Shamma para correr"
 description: Shamma Sandals es una operación familiar con sede en Santa Cruz, CA,
   y cada par está completamente hecho a mano allí. Correr es la esencia de lo que
   hacen, pero sus sandalias se pueden usar para caminar, hacer senderismo y todos
@@ -40,7 +40,7 @@ translatedFrom: en
 
 <p> es una operación familiar con sede en Santa Cruz, CA, y cada par está completamente hecho a mano allí. Correr es la esencia de lo que hacen, pero sus sandalias se pueden usar para caminar, hacer senderismo y todos los días. Crecí en el norte de California y pasé mucho tiempo en Redwoods, por lo que sentí una conexión inmediata con esta pequeña empresa cerca de mi casa. La mejor parte es que las sandalias Shamma son algunas de las mejores que he probado.</p>
 <h2 class="wp-block-heading"><span id="barefoot-qualities"></span>2. Cualidades de estar barefoot</h2>
-<p>Todas las sandalias Shamma están hechas pensando en correr barefoot. Eso significa que son completamente planos, flexibles y sin soporte para el arco, por lo que tus pies pueden moverse libremente como si estuvieras barefoot (para más información). <a href="/benefits-barefoot-minimalist-shoes/">¿Qué es un zapato barefoot? Consulta esta página).</a>. </p>
+<p>Todas las sandalias Shamma están hechas pensando en correr barefoot. Eso significa que son completamente planos, flexibles y sin soporte para el arco, por lo que tus pies pueden moverse libremente como si estuvieras barefoot (para más información). <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">¿Qué es un zapato barefoot? Consulta esta página).</a>. </p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Power Strap izquierdo, sin Power Strap derecho</figcaption></figure>
 <p>Todos los modelos se pueden usar con una correa eléctrica para mayor seguridad, lo cual recomiendo si eres nuevo en esta marca y especialmente si eres nuevo en correr/caminar minimalista. Las correas eléctricas mantienen el zapato seguro a su pie para que no lo agarre con los dedos ni se deslice dentro de las correas. Esta es una característica importante de las sandalias para correr descalzos.</p>
 <p>Una de las cosas buenas de Shamma es que tienen una gama completa de grosores, desde muy acolchados hasta muy mínimos. E incluso los más gruesos son lo suficientemente flexibles como para formar una bola. Así que no importa con qué grosor te sientas cómodo, seguirás haciendo bien a tus pies.</p>
@@ -74,15 +74,15 @@ translatedFrom: en
 </div></figure>
 <p></p>
 <h2 class="wp-block-heading"><span id="shamma-v-luna"></span>5. Shamma V. Luna</h2>
-<p>Otro gran nombre en el mundo del running barefoot es <a href="https://www.lunasandals.com/?rfsn=3198401.409750&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3198401.409750">Sandalias Luna</a>. Tengo varios pares de sandalias Luna y he descubierto que siempre son de buena calidad tanto para el estilo de vida como para el ejercicio. Entonces, ¿cómo se comparan las sandalias Shamma?</p>
+<p>Otro gran nombre en el mundo del running barefoot es <a href="https://www.lunasandals.com/">Sandalias Luna</a>. Tengo varios pares de sandalias Luna y he descubierto que siempre son de buena calidad tanto para el estilo de vida como para el ejercicio. Entonces, ¿cómo se comparan las sandalias Shamma?</p>
 <p>Ambas marcas son muy livianas, tienen una variedad de espesores y opciones de cuero y veganas. En cuanto al precio, son comparables y, según mi experiencia, ambos son de alta calidad y duraderos. Ahora hablemos de diferencias.</p>
-<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Sandalias Shamma (izquierda) y <a href="https://lunasandals.com/collections/roots?rfsn=3198401.409750&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3198401.409750">Sandalias Luna Brujitas</a> (derecha)</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Sandalias Shamma (izquierda) y <a href="https://lunasandals.com/collections/roots">Sandalias Luna Brujitas</a> (derecha)</figcaption></figure>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-51 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Luna Retro Mono junto a Shamma Warriors</figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Luna Retro Mono junto a Shamma Warriors</figcaption></figure>
 </figure>
 <h3 class="wp-block-heading">5.1 Selección</h3>
-<p>Luna tiene una selección más amplia de estilos, incluidas mis sandalias de estilo de vida favoritas. <a href="https://lunasandals.com/collections/roots?rfsn=3198401.409750&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3198401.409750">las brujitas</a>. También lanzan regularmente nuevos estilos, mientras que todos los de Shamma se ven bastante similares. </p>
+<p>Luna tiene una selección más amplia de estilos, incluidas mis sandalias de estilo de vida favoritas. <a href="https://lunasandals.com/collections/roots">las brujitas</a>. También lanzan regularmente nuevos estilos, mientras que todos los de Shamma se ven bastante similares. </p>
 <h3 class="wp-block-heading">5.2 Flexibilidad</h3>
 <p>Las sandalias Shamma son más flexibles que las Lunas. Incluso la suela más gruesa que ofrece Shamma se puede enrollar formando una bola apretada, mientras que las Luna son un poco más rígidas. Se adaptan con el tiempo, pero aun así encuentro que el de Shamma es más flexible. Shamma también tiene la sandalia Warrior, que es más minimalista que cualquier cosa que ofrece Luna.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-52 is-layout-flex wp-block-gallery-is-layout-flex">
@@ -93,13 +93,13 @@ translatedFrom: en
 <p>Las sandalias Shamma tienen un velcro en la parte trasera Y un velcro en el lateral. Eso significa que puedes hacer la mayoría de los ajustes con las sandalias en tus pies. También facilita el microajuste de tus sandalias. Con Luna, tienes que quitarte el zapato por completo y puede ser difícil afinarlo. La única preocupación que tengo sobre el velcro es que podría desgastarse más rápido que el resto del zapato si se ensucia mucho.</p>
 <h2 class="wp-block-heading"><span id="shamma-v-earth-runners"></span>6. Shamma V. Corredores de la Tierra</h2>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Sandalias Shamma (izquierda) y Earth Runners (derecha)</figcaption></figure>
-<p><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> Son una sandalia descalza muy popular y una de mis favoritas personales. Tanto en Earth Runners como en Shamma tienes una variedad de espesores y un rango de precios similar, pero muchas otras diferencias.</p>
+<p><a href="https://earthrunners.com/">Corredores de la Tierra</a> Son una sandalia descalza muy popular y una de mis favoritas personales. Tanto en Earth Runners como en Shamma tienes una variedad de espesores y un rango de precios similar, pero muchas otras diferencias.</p>
 <h3 class="wp-block-heading">6.1 Selección</h3>
 <p>Earth Runners solo tiene un estilo de flejado, pero 3 opciones de grosor, 2 opciones de material de flejado y varias combinaciones de colores. Todos son veganos. Shamma tiene una mayor selección de estilos y grosores, pero sólo 2 opciones de color (negro y marrón). Shamma también ofrece cuero.</p>
 <h3 class="wp-block-heading">6.2 Flexibilidad</h3>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-53 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><a href="https://www.earthrunners.com/products/alpha?rfsn=3201806.600dc2">Corredores Alfa de la Tierra</a></figcaption></figure>
-<figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><a href="https://www.earthrunners.com/products/elemental?rfsn=3201806.600dc2">Corredores de tierra elementales</a></figcaption></figure>
+<figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><a href="https://www.earthrunners.com/products/alpha">Corredores Alfa de la Tierra</a></figcaption></figure>
+<figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><a href="https://www.earthrunners.com/products/elemental">Corredores de tierra elementales</a></figcaption></figure>
 </figure>
 <p>Todas las sandalias Shamma son muy flexibles. En Earth Runners la opción más gruesa (la Alpha), no es muy flexible, pero la más delgada (Elemental) sí lo es. Por lo tanto, no se obtiene una flexibilidad constante en Earth Runners.</p>
 <h3 class="wp-block-heading">6.3 Ajuste de la correa</h3>
@@ -119,5 +119,5 @@ translatedFrom: en
 
 <h2 class="wp-block-heading"><span id="conclusion"></span>10. Conclusión</h2>
 <p>Shamma Sandals es una empresa seria de sandalias descalzas. Las sandalias de cuero son mi mejor elección de Shamma y soy un gran admirador de lo flexibles que son todas sus suelas. Son una excelente opción para quienes desean sandalias fáciles de usar que se vean y se sientan geniales. Si planea realizar un pedido, no olvide el código de cupón que crearon para usted. <strong>OPINIONES 2023</strong> ¡con un 10 % de descuento!</p>
-<p>Para obtener más información sobre sandalias, consulte mi <a href="/minimalist-summer-sandals/">lista completa de sandalias minimalistas</a>. Y luego asegúrate de seguirme <a href="https://www.instagram.com">Instagram</a> ¡Para toneladas de mini reseñas y actualizaciones periódicas sobre Zapatos barefoot!</p>
+<p>Para obtener más información sobre sandalias, consulte mi <a href="/sandalias-de-verano-minimalistas-de-barefoot-la-lista-completa-2026/">lista completa de sandalias minimalistas</a>. Y luego asegúrate de seguirme <a href="https://www.instagram.com">Instagram</a> ¡Para toneladas de mini reseñas y actualizaciones periódicas sobre Zapatos barefoot!</p>
 

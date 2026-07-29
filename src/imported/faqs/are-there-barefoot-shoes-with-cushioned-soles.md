@@ -56,15 +56,15 @@ translatedFrom: en
 <p>Aquí están algunos de mis favoritos:</p>
 
 <ul>
-<li><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=66cd7281-3b94-450a-a78b-0da115ae4b42&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Flems-minimalist-shoes">Lems</a></li>
+<li><a href="https://www.lemsshoes.com/collections/lems-minimalist-shoes">Lems</a></li>
 <li></li>
-<li><a href="https://www.anrdoezrs.net/click-9040624-15232475?url=https%3A%2F%2Fwww.barebarics.com%2F">Barebarics</a></li>
+<li><a href="https://www.barebarics.com/">Barebarics</a></li>
 <li>Joe Nimble</li>
 <li><a href="https://oeshshoes.com/">Oesh</a></li>
 </ul>
-<p class="has-text-align-center">Para saber más sobre estas marcas, además de encontrar más opciones amortiguadas, lea mi <a href="/best-barefoot-minimalist-shoe-brands-beginners/">Zapatos barefoot para principiantes Artículo</a>.</p>
-<p>Si estás buscando zapatos con una caja de dedo ancha y no una suela barefoot, <a href="/ufaq/are-there-wide-toe-box-shoes-that-arent-barefoot/">Mira este recurso.</a></p>
-<p>Los zapatos cubiertos no son un requisito a medida que usted pasa a los Zapatos barefoot, pero están aquí para usted si satisface sus necesidades particulares mejor. Lea esta FAQ para saber más sobre <a href="/ufaq/how-do-you-transition-to-barefoot-shoes/">Como Transition To barefoot Shoes.</a></p>
+<p class="has-text-align-center">Para saber más sobre estas marcas, además de encontrar más opciones amortiguadas, lea mi <a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">Zapatos barefoot para principiantes Artículo</a>.</p>
+<p>Si estás buscando zapatos con una caja de dedo ancha y no una suela barefoot, <a href="/preguntas/hay-zapatos-anchos-de-caja-que-no-son-barefoot/">Mira este recurso.</a></p>
+<p>Los zapatos cubiertos no son un requisito a medida que usted pasa a los Zapatos barefoot, pero están aquí para usted si satisface sus necesidades particulares mejor. Lea esta FAQ para saber más sobre <a href="/preguntas/como-hacer-la-transicion-a-zapatos-barefoot/">Como Transition To barefoot Shoes.</a></p>
 </div>
 
 </div>

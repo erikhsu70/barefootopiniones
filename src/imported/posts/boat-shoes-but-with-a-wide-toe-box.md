@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Zapatos de barco, pero con una caja de pies anchos
+title: "Zapatos náuticos con puntera ancha"
 description: Es hora de ver otra tendencia de zapato a través de la lente de calzado
   natural. Es zapatos de barco, pero hacerlo barefoot y caja de dedo ancha por favor!
 date: '2026-06-18T22:32:23'
@@ -21,7 +21,7 @@ translatedFrom: en
 <p>¡Los náuticos han regresado! Y, sinceramente, no estoy triste por eso. Me encantan los zapatos neutros que se mantienen bien puestos. Los náuticos combinan bien con todos los conjuntos que no quieres que parezcan deportivos, pero que aún así sean relajados y alegres. Quedan muy bien tanto en hombres como en mujeres, y tienen la facilidad de las zapatillas pero lucen más elegantes. Y si has visto mi cuenta de Instagram, aparentemente eres el zapato it-girl del 2026. Pero ya me conoces. No tiene nada de chic si me causa dolor. </p>
 <p class="has-text-align-center"><strong>¡Así que hoy tomamos la tendencia de los zapatos náuticos y los hacemos descalzos!</strong> <em>Aquí están los zapatos náuticos con puntera amplia que tienen el mismo estilo sin la forma estrecha y puntiaguda.</em></p>
 
-<p class="has-text-align-center">Ah, y antes de comenzar, aquí hay algunos conjuntos de la vida real que he usado en el mundo con zapatos náuticos descalzos. ¿Quieres ver más de esto? Sígueme en Instagram y mira mi <a href="/tag/but-make-it-barefoot/">Pero hazlo Serie barefoot.</a></p>
+<p class="has-text-align-center">Ah, y antes de comenzar, aquí hay algunos conjuntos de la vida real que he usado en el mundo con zapatos náuticos descalzos. ¿Quieres ver más de esto? Sígueme en Instagram y mira mi <a href="/tema/version-barefoot/">Pero hazlo Serie barefoot.</a></p>
 
 <p>Junto a las opciones a continuación, he incluido la región desde donde se envían, para que sepas si debes esperar aranceles/tarifas o no, así como los tamaños disponibles y si son extra anchos. ¡También hay un par de náuticos veganos aquí!</p>
 

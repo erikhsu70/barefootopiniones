@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "15 zapatillas barefoot con estilo que no parecen de gimnasio raro"
+title: "15 zapatillas barefoot con estilo que no parecen deportivas"
 description: "Sneakers con puntera amplia, suela flexible y suficiente actitud para llevar con vaqueros, vestido o traje relajado."
 date: 2026-07-07
 category: "Estilo"

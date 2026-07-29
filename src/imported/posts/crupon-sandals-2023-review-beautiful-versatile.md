@@ -33,7 +33,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conoce a Crupón</h2>
 
 <p>Crupon hace calzado al estilo del viejo mundo. Todo se hace a mano de principio a fin, hasta los puntos individuales y los agujeros para las hebillas. Los materiales también son diferentes: el cuero está curtido vegetal y teñido de forma natural sin productos químicos, lo que da como resultado un arco iris de colores bellamente orgánico. Pero este cuero no sólo es hermoso, sino que también es resistente y duradero. Invertir en un par de Crupons es invertir en zapatos que deberían durar mucho tiempo. Y si es necesario, un zapatero local puede repararlos fácilmente. ¿Puedes sentir mi corazón de nerd de zapatos latiendo con fuerza?</p>
-<p>yo estaba<a href="/crupon-barefoot-sandals-for-the-perfect-vintage-look/"> Ya estoy obsesionada con mis sandalias Crupon.</a>, pero este año me dan aún más motivos para estar emocionado. Ahora puedes conseguir algunos estilos con un ajuste extra ancho. Siga leyendo para conocer los detalles.</p>
+<p>yo estaba<a href="/sandalias-crupon-la-mirada-perfecta-sin-tiempo-en-zapatos-barefoot/"> Ya estoy obsesionada con mis sandalias Crupon.</a>, pero este año me dan aún más motivos para estar emocionado. Ahora puedes conseguir algunos estilos con un ajuste extra ancho. Siga leyendo para conocer los detalles.</p>
 
 <h2 class="wp-block-heading">Tipo de ajuste de sandalias Crupon</h2>
 <p>Las sandalias Crupon en su ajuste barefoot tienen una forma anatómica que es mejor para pies medianos a ligeramente anchos. Suelen adaptarse mejor a pies de mayor volumen y ciertos modelos pueden sentir un poco de presión en el dedo meñique si tienes un pie de forma cuadrada.</p>
@@ -49,14 +49,13 @@ translatedFrom: en
 <li><strong>Volumen medio: </strong>La mayoría debería funcionar.</li>
 <li><strong>Alto volumen:</strong> Iris, Carmel, Cuomo, Febo, Febo Cross (pero todos podrían funcionar con un poco de estiramiento porque tienen un corte abierto)</li>
 </ul>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">¡Obtenga más información sobre su tipo de pie aquí!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¡Obtenga más información sobre su tipo de pie aquí!</a></p>
 <h2 class="wp-block-heading">Tamaño de crupón</h2>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Sandalias Crupon Carmel</figcaption></figure>
-<p><strong>Las sandalias Crupon son un poco largas.</strong> y las personas que están entre tallas a menudo bajan. Para su comodidad, Crupon proporciona plantillas imprimibles en la pestaña "Descripción" en la página de cada producto que le muestran la forma exacta de cada tamaño, incluido dónde están las costuras. tu también puedes <a href="/ufaq/how-do-i-measure-my-feet-to-pick-a-size/">mide tus pies</a> y consulta la tabla de tallas para elegir una talla.</p>
+<p><strong>Las sandalias Crupon son un poco largas.</strong> y las personas que están entre tallas a menudo bajan. Para su comodidad, Crupon proporciona plantillas imprimibles en la pestaña "Descripción" en la página de cada producto que le muestran la forma exacta de cada tamaño, incluido dónde están las costuras. tu también puedes <a href="/preguntas/como-puedo-medir-mis-pies-para-elegir-un-tamano-de-zapatos/">mide tus pies</a> y consulta la tabla de tallas para elegir una talla.</p>
 <h2 class="wp-block-heading">Cómo pedir sandalias Crupon</h2>
 
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-137 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://cruponsandals.com/collections/barefoot">Comprar sandalias Crupon</a></div>
+
 </div>
 <p>Puedes usar el código <strong></strong> para obtener un 10% de descuento en su pedido. Las sandalias Crupon están hechas a pedido por el equipo formado por marido y mujer, Dimitar y Yana. Aceptan devoluciones en todos los pedidos excepto <a href="https://cruponsandals.com/collections/one-of-kind">Único en su tipo </a>pedidos personalizados, siempre y cuando la devolución se realice dentro de los 14 días posteriores a la entrega y los zapatos estén nuevos y sin usar.</p>
 <p>Pero es importante recordar que es difícil para una empresa como esta manejar pedidos grandes y muchas devoluciones. una tienda minorista  Podemos gestionar las devoluciones más fácilmente por la sencilla razón de que no fabricamos todos los pares de zapatos por encargo. <em>Cuando compras zapatos hechos a mano, estás pagando por el tiempo del fabricante más que cualquier otra cosa; si su tiempo no es compensado, no pueden mantenerse a sí mismos.</em></p>
@@ -66,9 +65,9 @@ translatedFrom: en
 <h2 class="wp-block-heading">Cuidando los crupones</h2>
 
 <p>Debido a que el cuero se tiñe naturalmente sin productos químicos, cambiará de color y textura con el tiempo (desarrollará una pátina). Notarás que a medida que uses los zapatos, estos tendrán pequeñas arrugas y el color se intensificará. Si les dejas caer agua, es probable que deje una mancha una vez que se seque, al menos hasta que toda la parte superior tenga una pátina y entonces ya no verás marcas individuales. Así funciona el cuero natural.</p>
-<p>Si realmente quieres que tus Crupons mantengan el mismo color, querrás tratarlos con un <a href="https://amzn.to/3FxwLPx">protector contra salpicaduras</a>. Esto puede ayudar, pero no es infalible, por lo que debes hacerlo esperando que tus zapatos cambien con el tiempo.</p>
+<p>Si realmente quieres que tus Crupons mantengan el mismo color, querrás tratarlos con un protector contra salpicaduras. Esto puede ayudar, pero no es infalible, por lo que debes hacerlo esperando que tus zapatos cambien con el tiempo.</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Mis sandalias Crupon Trevi barefoot, usadas.</figcaption></figure>
-<p>El cuero es bastante grueso y no se estira ni se deforma naturalmente con el uso, pero si quieres estirarlo manualmente puedes rellenarlo con calcetines y dejarlo toda la noche o estirar estratégicamente puntos específicos usando un <a href="https://amzn.to/3TqIZ2p">bola de cedro</a> o algo parecido. Simplemente no te excedas, porque no se puede deshacer.</p>
+<p>El cuero es bastante grueso y no se estira ni se deforma naturalmente con el uso, pero si quieres estirarlo manualmente puedes rellenarlo con calcetines y dejarlo toda la noche o estirar estratégicamente puntos específicos usando un bola de cedro o algo parecido. Simplemente no te excedas, porque no se puede deshacer.</p>
 <h2 class="wp-block-heading">Extra ancho Nomade y Mida</h2>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Vegan Nomade (izquierda) y Extra Wide Nomade (derecha)</figcaption></figure>
 <p>Otra novedad este año es la<a href="https://cruponsandals.com/collections/barefoot-extra-wide"> versión extra ancha de Nomade y Mida</a>. ¡Crupon y yo trabajamos juntos en esta nueva forma, que debería adaptarse a pies más anchos que no funcionan con los otros zapatos Crupon barefoot! En particular, el Nomade será ideal para pies extra anchos. Samantha ha estado esperando con impaciencia que estén disponibles, ¡ha estado deseando mi colección Crupon durante años!</p>
@@ -76,5 +75,26 @@ translatedFrom: en
 <p>*Tenga en cuenta que durante un tiempo esta forma extra ancha fue incluso más ancha de lo que es actualmente. Después de recibir comentarios adicionales, revisamos ligeramente la forma, así que consulte las plantillas de tamaño actuales para obtener la información más precisa.*</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Con la adición de una opción extra ancha,<a href="https://cruponsandals.com/collections/barefoot"> Sandalias Crupón</a> Ahora son más versátiles que nunca. Estoy encantada de que les guste hacer Zapatos barefoot tanto como a nosotros usarlos, y espero ver aún más bellezas en el futuro.</p>
-<p class="has-text-align-center"><a href="/crupon-barefoot-sandals-for-the-perfect-vintage-look/">¡Haga clic aquí para obtener más información sobre cómo surgieron las sandalias Crupon barefoot!</a></p>
+<p class="has-text-align-center"><a href="/sandalias-crupon-la-mirada-perfecta-sin-tiempo-en-zapatos-barefoot/">¡Haga clic aquí para obtener más información sobre cómo surgieron las sandalias Crupon barefoot!</a></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+En sandalias barefoot, el detalle pequeno cambia mucho la experiencia. En "Sandalias Crupon en 2023: más bonitas y versátiles que nunca" merece la pena hablar de sujecion, tiras, forma de la planta y de si realmente sirven para caminar sin ir agarrando el zapato con los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Sandalias Crupon en 2023: más bonitas y versátiles que nunca, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

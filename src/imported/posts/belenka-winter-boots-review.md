@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de botas de invierno Be Lenka
+title: "Mi opinión sobre botas de invierno Be Lenka"
 description: Está claro que el movimiento barefoot se está acelerando, las buenas
   marcas apenas pueden mantener existencias en sus estantes. Este otoño, Be Lenka
   anunció su nueva línea de invierno y, tan pronto como estuvieron disponibles, ¡se

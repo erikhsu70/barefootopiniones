@@ -1,20 +1,33 @@
 ---
 layout: layouts/base.njk
 ---
-<article class="article">
-  <header class="article-hero">
-    {% if image %}
-      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager">
-    {% endif %}
-    <div class="article-heading">
-      <p class="eyebrow">{{ category or "Guia" }}</p>
+<article class="lov-article">
+  <header class="lov-article-hero">
+    <div class="lov-article-heading">
+      <p class="lov-article-kicker">{{ category or "Guía" }} · {{ page.date | readableDate }}</p>
       <h1>{{ title }}</h1>
-      <p>{{ description }}</p>
-      <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+      {% if description %}<p>{{ description }}</p>{% endif %}
+      <div class="article-author article-author--compact">
+        <img src="/assets/images/isabel-author.png" alt="Isabel" width="42" height="42">
+        <span><strong>Isabel</strong><small>Autora · Barefoot Opiniones</small></span>
+      </div>
     </div>
+    {% if image %}<div class="lov-article-image">
+      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager" width="1600" height="900">
+    </div>{% endif %}
   </header>
 
-  <div class="article-body">
-    {{ content | safe }}
+  <div class="article-layout article-layout--single">
+    <div class="article-body imported-content">
+      {{ content | safe }}
+      <aside class="article-author-card" aria-label="Sobre la autora">
+        <img src="/assets/images/isabel-author.png" alt="Isabel" width="56" height="56">
+        <div>
+          <p>Escrito por Isabel</p>
+          <span>Comparo calzado barefoot con una mirada práctica: ajuste, comodidad, materiales y estilo para la vida real.</span>
+          <a href="/sobre-mi/">Conoce mi historia</a>
+        </div>
+      </aside>
+    </div>
   </div>
 </article>

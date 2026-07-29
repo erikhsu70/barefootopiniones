@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Repaso de calzado DaVinci – Nuevo, fresco, elegante
+title: "Mi opinión sobre DaVinci Footwear: calzado barefoot elegante"
 description: El calzado DaVinci ha aterrizado con una gran salpicadura en la comunidad
   barefoot. La marca es nueva, fresca y viene al movimiento barefoot desde un ángulo
   diferente, que parece estar resonando fuertemente con su nueva base de clientes.
@@ -22,7 +22,7 @@ translatedFrom: en
 <p class="has-text-align-center has-large-font-size"><strong>Esta empresa ya está cerrada.</strong></p>
 
 <p>**He escuchado demasiados informes de personas que tienen problemas para realizar pedidos a Da Vinci, por lo que ahora recomiendo precaución. Espero que solucionen las cosas, pero en este momento desaconsejo hacerles pedidos**</p>
-<p><strong>¡Da Vinci ha actualizado el ancho de sus zapatos! leer <a href="/davinci-barefoot-boots-wide/">esta nueva reseña </a>por todos los detalles.</strong></p>
+<p><strong>¡Da Vinci ha actualizado el ancho de sus zapatos! leer <a href="/nuevas-botas-descalzas-extra-anchas-hechas-a-mano-de-davinci/">esta nueva reseña </a>por todos los detalles.</strong></p>
 <h1 class="wp-block-heading"><span id="TableOfContents"></span>Tabla de contenidos</h1>
 <ol>
 <li><a href="#DavinciBrandReview">Revisión de marca</a>
@@ -41,7 +41,7 @@ translatedFrom: en
 <h2 class="wp-block-heading"><span id="DavinciBrandReview"></span> 1. Revisión de la marca</h2>
 <p>El calzado DaVinci ha aterrizado con una gran salpicadura en la comunidad barefoot. La marca es nueva, fresca y viene al movimiento barefoot desde un ángulo diferente, que parece estar resonando fuertemente con su nueva base de clientes.</p>
 <figure class="wp-block-image"><figcaption class="wp-element-caption">DaVinci Primavera, Lapworth y Pickford</figcaption></figure>
-<p>Si bien me dedico al calzado minimalista y saludable, también tengo un gran amor por el oficio de zapatero en general. Tenemos una gran cantidad de maravillosas marcas de calzado barefoot a nuestra disposición, pero pocas de ellas provienen de una perspectiva tradicional de fabricación de calzado. Lo cual tiene sentido, para estas marcas el enfoque principal (y la estrategia de marketing) son las cualidades de los zapatos para estar descalzos. Pero la fabricación tradicional de calzado produce algo que DURARÁ, se siente como una segunda piel y se mueve con el pie. Es algo completamente separado de la lista de verificación de <a href="/what-is-a-barefoot-minimalist-shoe/">¿Qué constituye un zapato barefoot?</a>.</p>
+<p>Si bien me dedico al calzado minimalista y saludable, también tengo un gran amor por el oficio de zapatero en general. Tenemos una gran cantidad de maravillosas marcas de calzado barefoot a nuestra disposición, pero pocas de ellas provienen de una perspectiva tradicional de fabricación de calzado. Lo cual tiene sentido, para estas marcas el enfoque principal (y la estrategia de marketing) son las cualidades de los zapatos para estar descalzos. Pero la fabricación tradicional de calzado produce algo que DURARÁ, se siente como una segunda piel y se mueve con el pie. Es algo completamente separado de la lista de verificación de <a href="/que-es-exactamente-un-zapato-barefoot-o-minimalista/">¿Qué constituye un zapato barefoot?</a>.</p>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Primavera</figcaption></figure>
 <p>Entonces, cuando saqué mis botas DaVinci de la caja, lo primero que pensé fue: "ESTO es un zapato". Este es un zapato desde cualquier punto de vista y durará toda la vida. Tener un producto como este en el mercado que también cumple con los requisitos de los Zapatos barefoot es ciertamente nuevo.</p>
 <p>DaVinci también logra capturar un estilo moderno. Recuerdan estilos que conocemos y amamos desde hace años, pero con detalles únicos que los separan de las marcas icónicas. Está claro que las personas detrás de las botas DaVinci son verdaderos artistas.</p>
@@ -59,17 +59,17 @@ translatedFrom: en
 <p>La principal preocupación que escucho sobre estas botas es que son estrechas en la puntera. Las botas de mujer son más estrechas que las de hombre y estoy de acuerdo en que son estrechas para una marca descalza. El ancho es comparable a <a href="/2019/02/24/zuzii-loafers-sandals/">Zuzii</a> y <a href="https://www.instagram.com/p/B3nsMT2Bjbd/?utm_source=ig_web_copy_link">salón</a>, que no dan espacio para una gran extensión, pero se estiran y se adaptan con el tiempo. </p>
 <p>En los meses que llevo usando los míos, se han estirado y aflojado, pero todavía los encuentro estrechos para mis dedos en forma de abanico. DaVinci ha prometido versiones más amplias en el futuro y creo que eso marcará una gran diferencia para las mujeres de pies anchos que desean este impulso. </p>
 <p>Para los hombres, el ancho es más cómodo para los pies y me encantan como opción de zapato de vestir. Mi marido considera que se adaptan perfectamente a sus pies y no se aplastan en absoluto.</p>
-<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Botas descalzas de mujer de izquierda a derecha: <a href="https://www.thedrifterleather.com/products">Cuero vagabundo</a>, <a href="https://www.lukshoes.com/">Luks barefoot</a>, calzado davinci, , <a href="https://www.zaqq.com/?sPartner=aj22122020">Zaqq</a></figcaption></figure>
+<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Botas descalzas de mujer de izquierda a derecha: <a href="https://www.thedrifterleather.com/products">Cuero vagabundo</a>, <a href="https://www.lukshoes.com/">Luks barefoot</a>, calzado davinci, , <a href="https://www.zaqq.com/">Zaqq</a></figcaption></figure>
 <h3 class="wp-block-heading">1.3 Dimensionamiento</h3>
 <p>Estos zapatos son bastante largos y, en algunos casos, es posible que desees reducir el tamaño. Obtuve una talla 6 (normalmente uso una 6.5 en botas) y tengo casi una pulgada de largo en el frente. Si los zapatos fueran más anchos, reduciría aún más la talla, pero como es el 6 es el más pequeño que puedo usar.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-15 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Mi talla 6 junto a las botas Zaqq talla 37</figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Talla 6 junto a las botas Vivobarefoot talla 38</figcaption></figure>
 </figure>
-<p>Como puede ver en las fotos de arriba, la longitud de la talla 6 es comparable a la de una talla 7 o 7,5. Tenga en cuenta que debido a que DaVinci utiliza un método de costura superior, son más angostos que los <a href="https://www.zaqq.com/?sPartner=aj22122020">Zaqq</a> y  botas en la foto de arriba. Pero Zaqq y Vivobarefoot usan una pared de goma alrededor de la suela, por lo que, aunque comienzan más anchas, no se estiran ni se adaptan con el tiempo.</p>
+<p>Como puede ver en las fotos de arriba, la longitud de la talla 6 es comparable a la de una talla 7 o 7,5. Tenga en cuenta que debido a que DaVinci utiliza un método de costura superior, son más angostos que los <a href="https://www.zaqq.com/">Zaqq</a> y  botas en la foto de arriba. Pero Zaqq y Vivobarefoot usan una pared de goma alrededor de la suela, por lo que, aunque comienzan más anchas, no se estiran ni se adaptan con el tiempo.</p>
 <p>Mi marido pidió una talla 12,5, que es media talla más pequeña de la que suele usar en Vivobarefoot y Vans. El 12.5 del DaVinci Lapworth es perfecto para él. Los dedos de sus pies no están aplastados y su talón está seguro y no se desliza. Lleva calcetines de algodón con los suyos.</p>
 <p>DaVinci tiene una tabla de tallas en su sitio web que detalla el largo y ancho interno de sus zapatos, y es consistente en todos sus estilos.</p>
-<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">DaVinci Lapworth tamaño 12,5 junto a un <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-chukka">Chukka de Lem</a> talla 12.5 (los Lem tienen media talla pequeña y son demasiado pequeños para él)</figcaption></figure>
+<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">DaVinci Lapworth tamaño 12,5 junto a un <a href="https://www.lemsshoes.com/products/mens-chukka">Chukka de Lem</a> talla 12.5 (los Lem tienen media talla pequeña y son demasiado pequeños para él)</figcaption></figure>
 <h3 class="wp-block-heading">1.4 Otros detalles</h3>
 <p>Una preocupación que tengo acerca de los zapatos DaVinci es que pueden resultar resbaladizos cuando están mojados. Mi marido usa el suyo casi todos los días para ir a trabajar y cuando llueve se queja de que tiene que tener mucho cuidado al caminar. Espero que esto sea algo que aborden en el futuro.</p>
 <h3 class="wp-block-heading">1.5 Conclusión</h3>

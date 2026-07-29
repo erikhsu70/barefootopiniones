@@ -48,20 +48,20 @@ translatedFrom: en
 <p>Zapatos de gota cero con una caja de dedo natural <em>posible </em>para moverse naturalmente, pero muchas personas tienen músculos débiles del pie intrínseco y aprendieron patrones de gait antinaturales (heavy tacón golpeando por ejemplo) que llevan encima incluso en Zapatos barefoot. Así que... <em>tendrá los mejores resultados si considera otras maneras de mejorar su rendimiento general y la salud del pie, además de usar mejores zapatos</em>. </p>
 <p>Aquí hay consejos adicionales para la transición a Zapatos barefoot:</p>
 <ul>
-<li>Añadir <a href="/foot-exercises-transitioning-barefoot-shoes/">ejercicios de pie como estos</a> a tu rutina diaria.</li>
+<li>Añadir <a href="/5-sencillos-ejercicios-de-pie-para-la-transicion-a-zapatos-barefoot/">ejercicios de pie como estos</a> a tu rutina diaria.</li>
 <li>Ir completamente barefoot a menudo para relearn naturalmente movimiento funcional</li>
-<li><a href="/how-to-strengthen-your-feet-with-floor-texture/">Añadir textura a tu entorno interior</a> para estimular los nervios en los pies</li>
+<li><a href="/como-fortalecer-tus-pies-con-textura-de-suelo/">Añadir textura a tu entorno interior</a> para estimular los nervios en los pies</li>
 <li>No tengas miedo de cambiar entre tus nuevos Zapatos barefoot y tus zapatos de apoyo más antiguos.</li>
-<li>Considerar un <a href="/best-barefoot-minimalist-shoe-brands-beginners/">marca de zapato barefoot</a> si usted es incómodo en las suelas delgadas y minimalistas. <a href="/barefoot-insoles-review/">Suelas</a> son también una buena opción.</li>
+<li>Considerar un <a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">marca de zapato barefoot</a> si usted es incómodo en las suelas delgadas y minimalistas. <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">Suelas</a> son también una buena opción.</li>
 <li>Recuerde que necesita tiempo para que su cuerpo se adapte!</li>
 </ul>
 <p>Puede tomar varias semanas, meses o años para sus músculos, ligamento, nervios y piel para adaptarse a las nuevas tensiones de estar en Zapatos barefoot. <em>Es por eso que ir despacio y cuidadosamente es a menudo el mejor camino</em>. Dale tiempo a tu cerebro y a tu cuerpo para relear cómo estar cómodo barefoot, y recuerda caminar antes de correr! </p>
-<p>Los Zapatos barefoot pueden no sentirse cómodos mientras caminas y te mueves. Esto está bien... <strong>puedes alternar entre Zapatos barefoot y tus zapatos viejos mientras tu cuerpo se adapta</strong>. Si sólo estás buscando espacio de dedo, sin la suela barefoot <a href="/ufaq/are-there-wide-toe-box-shoes-that-arent-barefoot/">ver esta lista</a>.</p>
+<p>Los Zapatos barefoot pueden no sentirse cómodos mientras caminas y te mueves. Esto está bien... <strong>puedes alternar entre Zapatos barefoot y tus zapatos viejos mientras tu cuerpo se adapta</strong>. Si sólo estás buscando espacio de dedo, sin la suela barefoot <a href="/preguntas/hay-zapatos-anchos-de-caja-que-no-son-barefoot/">ver esta lista</a>.</p>
 <p>Si ya está acostumbrado a estar barefoot a menudo y son físicamente adecuados, puede ser capaz de cambiar inmediatamente. La mayor parte de la toma: Todo el mundo es diferente. No te empujes más allá del dolor y escucha tu cuerpo si te está diciendo que te desaceleres!</p>
-<p>Echa un vistazo a la FAQ en <a href="/ufaq/how-do-i-pick-my-first-pair-of-barefoot-shoes/">Cómo elegir su primer par de Zapatos barefoot</a> para empezar.</p>
+<p>Echa un vistazo a la FAQ en <a href="/preguntas/como-escojo-mi-primer-par-de-zapatos-barefoot/">Cómo elegir su primer par de Zapatos barefoot</a> para empezar.</p>
 <p><strong>Lista de Recursos/Profesionales que pueden ayudar al proceso de transición:</strong></p>
 <ul>
-<li><a href="/find-your-footing-evergreen/">Encuentre su taller de pie</a> – una colaboración entre yo y el experto en movimiento Petra Fisher</li>
+<li><a href="/recursos/">Encuentre su taller de pie</a> – una colaboración entre yo y el experto en movimiento Petra Fisher</li>
 <li><a href="/how-to-walk-well-guide-to-natural-gait/">Caminando 101 – Consejos para caminar bien en Zapatos barefoot</a></li>
 <li></li>
 <li><a href="https://gaithappens.com/?gh=1">Gait Ocurre Mi función de pie Composición &amp;amp; Consulta Virtual</a></li>

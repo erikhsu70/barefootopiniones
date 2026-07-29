@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Conocer a los expertos de pie de página natural
+title: "Conoce a los expertos de Natural Footgear"
 description: Los expertos en salud de pie detrás de Natural Footgear son los primeros
   adoptantes de la salud de pie natural que han estado defendiendo un enfoque funcional
   a los pies durante más de 10 años.

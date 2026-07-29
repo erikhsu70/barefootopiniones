@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Los mejores zapatos de vestido de barefoot de los hombres que no aplastar sus
-  pies
+title: "Los mejores zapatos barefoot de vestir para hombre"
 description: Estos zapatos de vestido de barefoot amplios para los hombres te permitirán
   lucir lo suficientemente afilado para trabajar, iglesia, bodas, etc sin sacrificar
   tu comodidad.
@@ -41,14 +40,14 @@ translatedFrom: en
 
 <p>Estos zapatos de vestir descalzos para hombres incluyen una variedad de opciones, desde informales de negocios hasta profesionales de lujo y apropiados para corbata negra. Llevamos años usando zapatos de vestir descalzos en todos nuestros eventos elegantes: ¡la gente casi nunca se da cuenta de que nuestros zapatos son "diferentes" porque se parecen mucho a los zapatos de vestir normales!</p>
 <h3 class="wp-block-heading">Fit Hack: uso de plantillas en Zapatos barefoot</h3>
-<p>Antes de entrar en materia, uno de mis trucos favoritos para calzar zapatos son las plantillas. Puede agregar, reemplazar o quitar plantillas de sus zapatos para obtener un ajuste personalizado. Encuentra aquí mi guía para usar <a href="/barefoot-insoles-review/">plantillas con Zapatos barefoot</a>.</p>
+<p>Antes de entrar en materia, uno de mis trucos favoritos para calzar zapatos son las plantillas. Puede agregar, reemplazar o quitar plantillas de sus zapatos para obtener un ajuste personalizado. Encuentra aquí mi guía para usar <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantillas con Zapatos barefoot</a>.</p>
 <p>Ok, aquí están nuestros favoritos.</p>
 <h3 class="wp-block-heading">Pico Zaqq</h3>
 
 <p class="has-text-align-center">Cuero | Tallas UE UE 38-48 | Envíos desde EE. UU. o UE</p>
 
 <p>Los zapatos de vestir Zaqq son suaves como la mantequilla y tienen una suela maravillosamente delgada y flexible. Son simples, tienen clase y cumplen todos los requisitos para los Zapatos barefoot. Zaqq es mejor para pies de ancho promedio y volumen medio. Algunos de sus zapatos de vestir son más cónicos, pero el Peaq tiene buena forma.</p>
-<p class="has-text-align-center">También puedes encontrarlos directamente desde <a href="http://zaqq.com/?sPartner=aj22122020">Zaqq en la UE</a></p>
+<p class="has-text-align-center">También puedes encontrarlos directamente desde <a href="http://zaqq.com/">Zaqq en la UE</a></p>
 <p><strong>Sizing &amp;amp; Fit Type:</strong></p>
 <ul>
 <li>Fiel al tamaño</li>
@@ -70,15 +69,14 @@ translatedFrom: en
 <li>Ajuste extra ancho</li>
 <li>Volumen medio a alto</li>
 </ul>
-<p>Si tiene pies de bajo volumen, es posible que necesite agregar un <a href="/barefoot-insoles-review/">plantilla adicional.</a></p>
+<p>Si tiene pies de bajo volumen, es posible que necesite agregar un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla adicional.</a></p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <h3 class="wp-block-heading">Groundies – Amigable extra ancho</h3>
 
 <p class="has-text-align-center">Cuero | Tallas UE 40-48 | Envíos desde la UE o EE. UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-116 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.groundies.com/barefoot-shoes-men/business/">Zapatos de vestir Groundies (UE)</a></div>
+
 
 </div>
 
@@ -105,15 +103,14 @@ translatedFrom: en
 <li>Apto ancho a extra ancho</li>
 <li>Alto volumen</li>
 </ul>
-<p>mira mi <a href="/carets-review-barefoot-dress-shoes-men/">Revisión de Carets aquí</a> para todos los detalles.</p>
+<p>mira mi <a href="/revision-de-carets-zapatos-barefoot-elegantes-para-hombres/">Revisión de Carets aquí</a> para todos los detalles.</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <h3 class="wp-block-heading">Lems: extra anchos y acolchados</h3>
 
 <p class="has-text-align-center">Opciones de cuero y lona | Tallas EE.UU. 3,5-15 | Se envía desde EE. UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-118 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fall-mens-products">Zapatos Lems para hombre</a></div>
+
 </div>
 <p class="has-text-align-center">Si estás fuera de EE. UU., </p>
 <p>¡Lems tiene varios modelos que pueden pasar por zapatos de vestir! Si bien no son las más elegantes de todas las opciones aquí, combinan bien con pantalones para el trabajo o la iglesia y son muy cómodos. Algunos modelos vienen con su forma más ancha, que es muy generosa y cómoda. También nos gusta su forma ancha, pero no es tan buena para pies muy anchos. </p>
@@ -130,8 +127,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Birchbury: ancho pero no barefoot</h3>
 
 <p class="has-text-align-center">Cuero | Tallas UE 39-49 | Se envía desde EE. UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-119 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://birchbury.com/?ref=jfNy1td1V2L3f4">Birchbury</a></div>
+
 </div>
 
 <p>Estos son una opción intermedia de calzado barefoot: tienen una puntera mucho más ancha de lo que es típico en los zapatos de vestir para hombres, pero aún conservan una estética convencional y vienen con una plantilla acolchada y con un ligero apoyo.</p>
@@ -149,8 +145,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Tomás Sullivan – Amistoso Extra Ancho</h3>
 
 <p class="has-text-align-center">Cuero | Tallas UE 39-48 | Hecho a mano en España | Se envía desde EE. UU.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-120 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://sullivent.com/">Zapatos Sullivent</a></div>
+
 </div>
 
 <p>Sullivent fabrica hermosos zapatos de vestir con todos los detalles que esperarías de un artículo de lujo, pero con una puntera realmente ancha. Ofrecen muchos estilos de zapatos de vestir clásicos que no se pueden obtener de otras marcas, como modelos de charol y hebillas. Ésta es la única opción en esta lista que es un verdadero producto patrimonial. Se fabrican de forma tradicional y se pueden resoldar y reparar para que duren para siempre. $$$ pero excelentes zapatos.</p>
@@ -160,7 +155,7 @@ translatedFrom: en
 <li>Ajuste extra ancho: debería ser adecuado para aquellos con pies extra anchos o que desean mucho espacio para los dedos.</li>
 <li>Volumen medio/alto sobre los arcos.</li>
 </ul>
-<p><a href="/tomas-sullivent-dress-shoes-luxury-meets-wide-toe-box/">¡Lea nuestra reseña completa aquí para conocer todos los detalles!</a></p>
+<p><a href="/zapatos-de-vestir-tomas-sullivent-el-lujo-se-une-a-la-puntera-ancha/">¡Lea nuestra reseña completa aquí para conocer todos los detalles!</a></p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
@@ -223,7 +218,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">¡Más opciones de calzado!</h2>
 <p>Dependiendo de dónde vivas o de tu tipo de pie, ¡quizás prefieras algo de esta lista! Aquí hay Zapatos barefoot para hombres aún más elegantes y elegantes.</p>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><div class="wp-block-media-text__content">
-<p> (UE) – Tallas UE 36-50. <a href="/feelbarefoot-affordable-handmade-barefoot-shoes/">¡Lea la reseña completa aquí!</a></p>
+<p> (UE) – Tallas UE 36-50. <a href="/aintap-feelbarefoot-zapatos-barefoot-asequibles-y-hechos-a-mano/">¡Lea la reseña completa aquí!</a></p>
 <p>Usar código <strong></strong>
 
  para un descuento</p>
@@ -276,13 +271,13 @@ translatedFrom: en
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://freetbarefoot.com/product/freet-citee/?ref=X9T_QsyhrdeOL">Cita libre</a> (Reino Unido) – Tallas UE 37-49. Vegano. Estos son un poco pequeños, Justin necesitaba medir uno más para un buen ajuste. Pero tienen una puntera ancha y son una de las únicas opciones de zapatos de vestir veganos descalzos. Usar código <strong></strong> por 10% de descuento.</p>
+<p><a href="https://freetbarefoot.com/product/freet-citee/">Cita libre</a> (Reino Unido) – Tallas UE 37-49. Vegano. Estos son un poco pequeños, Justin necesitaba medir uno más para un buen ajuste. Pero tienen una puntera ancha y son una de las únicas opciones de zapatos de vestir veganos descalzos. Usar código <strong></strong> por 10% de descuento.</p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><div class="wp-block-media-text__content">
-<p><a href="https://gaucho.ninja/pages/formal-dressy-barefoot-shoes-and-boots?sca_ref=1590756.RvKfloLbRH">Cuero Ninja Gaucho</a> (Reino Unido) – Tallas 36-45. Esta pequeña empresa fabrica botas descalzas para hombres, y algunos de los estilos son muy elegantes y elegantes (y bastante caros). <a href="/gaucho-ninja-review-handmade-barefoot-boots/">Puedes ver mi reseña de las opciones estándar y personalizadas de Gaucho Ninja aquí.</a>. Código de uso <strong>CUALQUIER EXAMEN</strong> ¡con un 10 % de descuento!</p>
+<p><a href="https://gaucho.ninja/pages/formal-dressy-barefoot-shoes-and-boots">Cuero Ninja Gaucho</a> (Reino Unido) – Tallas 36-45. Esta pequeña empresa fabrica botas descalzas para hombres, y algunos de los estilos son muy elegantes y elegantes (y bastante caros). <a href="/revision-de-gaucho-ninja-botas-descalzas-hechas-a-mano/">Puedes ver mi reseña de las opciones estándar y personalizadas de Gaucho Ninja aquí.</a>. Código de uso <strong>CUALQUIER EXAMEN</strong> ¡con un 10 % de descuento!</p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
@@ -295,19 +290,19 @@ translatedFrom: en
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><div class="wp-block-media-text__content">
 <p><a href="https://www.jenonleather.com/BUSINESS-formal-shoes-c30_92_3.htm">Jenon Leather</a> (Solo UE y EE. UU.): tamaños 36-48 y tamaños personalizados disponibles. Esta marca tiene un ancho de puntera muy generoso. Usar código <strong>JENON11</strong> para 10% de descuento</p>
-<p><a href="/jenon-leather-review-barefoot-shoes-for-any-foot-type/">Lea mi reseña de Jenon Leather aquí</a></p>
+<p><a href="/revision-de-jenon-leather-zapatos-barefoot-personalizables-para-cualquier-tipo-de-pie/">Lea mi reseña de Jenon Leather aquí</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><div class="wp-block-media-text__content">
-<p> (UE) – Tallas UE 37-47. Tengo varios pares de Magical Shoes y son sumamente flexibles y cómodos. Mido uno de ellos porque se quedan un poco cortos. Usar código <strong></strong> con un 10% de descuento. Lee todos nuestros <a href="/brand/magical-shoes/">Reseñas de zapatos mágicos aquí.</a></p>
+<p> (UE) – Tallas UE 37-47. Tengo varios pares de Magical Shoes y son sumamente flexibles y cómodos. Mido uno de ellos porque se quedan un poco cortos. Usar código <strong></strong> con un 10% de descuento. Lee todos nuestros <a href="/marca/magical-shoes/">Reseñas de zapatos mágicos aquí.</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:19% auto"><div class="wp-block-media-text__content">
-<p><a href="https://nonsbarefoot.com/en/">No(N)s</a> (UE) – Tallas UE 37-44. Todos estos están hechos a mano por encargo, lea nuestro <a href="/nons-review-charming-barefoot-shoe-brand/">¡Revisión de NoNs para más información!</a></p>
+<p><a href="https://nonsbarefoot.com/en/">No(N)s</a> (UE) – Tallas UE 37-44. Todos estos están hechos a mano por encargo, lea nuestro <a href="/no-n-s-resena-por-que-nosotros-nos-encanta-esta-atractiva-barefoot-zapato-marca/">¡Revisión de NoNs para más información!</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
@@ -326,7 +321,7 @@ translatedFrom: en
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.saguaro.com/collections/dress-barefoot-shoes/?ref=Nafs6yLHHkYzpP">Saguaro</a> – Tallas UE 36-46. Opción asequible sin cuero. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
+<p><a href="https://www.saguaro.com/collections/dress-barefoot-shoes/">Saguaro</a> – Tallas UE 36-46. Opción asequible sin cuero. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-alpha-channel-opacity has-black-background-color has-background is-style-wide"/>

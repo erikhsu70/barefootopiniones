@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 5 sencillos ejercicios de pie para la transición a Zapatos barefoot
+title: "5 sencillos ejercicios de pie para la transición a zapatos barefoot"
 description: ¿Son los Zapatos barefoot la respuesta a todo lo que te aqueja? La verdad
   es que son tus pies los que te salvarán, no los zapatos. Los Zapatos barefoot sólo
   te beneficiarán si tus pies pueden hacer lo que solían hacer tus viejos zapatos
@@ -21,7 +21,7 @@ language: es
 translatedFrom: en
 ---
 <p>La investigación sobre los Zapatos barefoot arrojará puntos de vista drásticamente diferentes. ¿Son los Zapatos barefoot la respuesta a todo lo que te aqueja? ¿O son la reencarnación del diablo, una forma segura de destruir la salud de tus pies?</p>
-<p>La verdad es, <strong>son tus pies los que te salvarán</strong>, no los zapatos. Sí, personalmente estoy 100% en el campo de “<a href="/benefits-barefoot-minimalist-shoes/">Zapatos barefoot o sin zapatos</a>”, pero no fortalecer los pies cuando se cambia a zapatos minimalistas es como usar un yeso durante años y luego no hacer fisioterapia cuando se lo quita. Los Zapatos barefoot sólo te beneficiarán si tus pies pueden hacer lo que solían hacer tus viejos zapatos de apoyo, y eso requiere MÚSCULO. <em>Entonces, si está buscando un camino sostenible hacia la salud de los pies, entonces debe pensar en<strong> más que zapatos. </strong></em></p>
+<p>La verdad es, <strong>son tus pies los que te salvarán</strong>, no los zapatos. Sí, personalmente estoy 100% en el campo de “<a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Zapatos barefoot o sin zapatos</a>”, pero no fortalecer los pies cuando se cambia a zapatos minimalistas es como usar un yeso durante años y luego no hacer fisioterapia cuando se lo quita. Los Zapatos barefoot sólo te beneficiarán si tus pies pueden hacer lo que solían hacer tus viejos zapatos de apoyo, y eso requiere MÚSCULO. <em>Entonces, si está buscando un camino sostenible hacia la salud de los pies, entonces debe pensar en<strong> más que zapatos. </strong></em></p>
 <p class="has-text-align-center" style="font-size:21px"><strong>En esta publicación cubrimos 5 ejercicios simples para <em>fortalecimiento</em>, <em>movilizando</em>, y <em>preparando</em> sus pies dependan menos de zapatos con soporte. </strong>Si usted es un usuario experimentado barefoot, está haciendo una transición activa a los Zapatos barefoot o simplemente desea mejorar la salud de sus pies sin realizar grandes cambios, estos ejercicios son para usted. </p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-402d2159" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
@@ -42,7 +42,7 @@ translatedFrom: en
 
 <p>Ayudar a que los pies se extiendan puede ser de gran ayuda para reducir el dolor y aumentar la estabilidad. Muchos de nosotros caminamos con los pies efectivamente atados porque los músculos están tan contraídos que los inmovilizan, gracias a nuestros zapatos apretados y músculos débiles. Entrelazar los dedos de las manos entre los dedos de los pies (¡o intentar hacerlo! Eventualmente llegarán allí) es la forma más fácil de aumentar la movilidad del pie. Hazlo mientras ves la televisión o durante una reunión de negocios (no pueden ver debajo de la mesa…) y mantenlo todo el tiempo que te resulte cómodo. Apunta al menos 30 segundos. </p>
 
-<p>Si realmente desea una mejor visualización, considere . Son una forma pasiva de abrir los dedos de los pies mientras te ocupas de tus asuntos, y una vez que hayas llegado a ello, puedes usarlos todo el día en tus zapatos. leer <a href="/correct-toes-review/">mi reseña de ellos aquí</a>.</p>
+<p>Si realmente desea una mejor visualización, considere . Son una forma pasiva de abrir los dedos de los pies mientras te ocupas de tus asuntos, y una vez que hayas llegado a ello, puedes usarlos todo el día en tus zapatos. leer <a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">mi reseña de ellos aquí</a>.</p>
 
 <h2 class="wp-block-heading">Toe-ga</h2>
 
@@ -71,11 +71,11 @@ translatedFrom: en
 </ul>
 <p>Y aquí hay algunas maneras de llevar el equilibrio de una sola pierna al siguiente nivel.</p>
 <ul>
-<li> pasar un <a href="https://amzn.to/3biiXuh">pesa rusa</a> ida y vuelta entre tus manos</li>
+<li> pasar un pesa rusa ida y vuelta entre tus manos</li>
 <li>Inclínate hacia adelante e intenta tocar el suelo (peso muerto)</li>
 <li>Extiéndete como una estrella</li>
 <li>caminar sobre un </li>
-<li>Párese en un <a href="https://amzn.to/2LoQSqc">tabla de equilibrio</a></li>
+<li>Párese en un tabla de equilibrio</li>
 <li>Usar un <a href="https://www.moboboard.com/">Tablero Mobo</a></li>
 <li>Agregue aumentos de pantorrilla: ¡la fuerza de la pantorrilla es muy importante!</li>
 </ul>
@@ -83,11 +83,10 @@ translatedFrom: en
 
 <p>La verdad es que la forma en que nos sentamos, nos ponemos de pie y nos ponemos en cuclillas (o no nos ponemos en cuclillas) afecta la función de nuestro pie. Si te sientas la mayor parte del día en una posición, inhibirás tu movimiento, así que intenta agregar una variedad de posturas a tu vida. Párese con frecuencia, siéntese en el suelo en lugar de en una silla y agáchese con regularidad para mantener todas sus partes ágiles. </p>
 <p class="has-text-align-center">Para obtener aún más información, consulte este fantástico <em>gratis</em> curso de fortalecimiento de pies de <a href="https://thetoespacer.com/pages/video">El espaciador de dedos</a>.</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://thetoespacer.com/pages/video">Curso de fortalecimiento del pie</a></div>
+
 </div>
 <h2 class="wp-block-heading">Conclusión</h2>
-<p>Si una parte de tu cuerpo está débil, puedes fortalecerla. Los pies son tan adaptables al ejercicio como cualquier otra parte de tu cuerpo, y tú PUEDES cambiarlos. Así que agregue algunos ejercicios para los pies a su vida y vea lo que una base sólida puede hacer por usted. Si agregas <a href="/shoe-lists/">Zapatos barefoot</a> ¡También estás en el buen camino hacia unos pies felices!</p>
+<p>Si una parte de tu cuerpo está débil, puedes fortalecerla. Los pies son tan adaptables al ejercicio como cualquier otra parte de tu cuerpo, y tú PUEDES cambiarlos. Así que agregue algunos ejercicios para los pies a su vida y vea lo que una base sólida puede hacer por usted. Si agregas <a href="/mejores-zapatos-barefoot/">Zapatos barefoot</a> ¡También estás en el buen camino hacia unos pies felices!</p>
 <p>¿Te gusta el vídeo? Mírame hacer los ejercicios aquí.</p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wnScMfAmATE?feature=oembed&amp;enablejsapi=1" title="5 sencillos ejercicios de pie para la transición a Zapatos barefoot" width="500"></iframe></div>

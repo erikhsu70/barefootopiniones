@@ -22,7 +22,7 @@ language: es
 translatedFrom: en
 ---
 <p>*Sorteo cerrado*</p>
-<p><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> ¡Tiene más de 30 años de experiencia en la fabricación de calzado! Tienen estilos para todos y cada uno está hecho a mano hermosa y cuidadosamente en su tienda.</p>
+<p>Zapatos de estrellas suaves ¡Tiene más de 30 años de experiencia en la fabricación de calzado! Tienen estilos para todos y cada uno está hecho a mano hermosa y cuidadosamente en su tienda.</p>
 <p>¡Me he convertido en un gran admirador de los zapatos Softstar y estoy muy emocionado de que estén regalando una tarjeta de regalo de $100 a un seguidor afortunado! El sorteo se realiza en <a href="https://www.instagram.com/p/CADUS8ADvW2/?utm_source=ig_web_copy_link">Instagram </a>y Facebook y se llevará a cabo entre el 11/05 y el 16/05. ¡Así que dirígete allí para entrar!</p>
 <p>Mientras tanto, estos son algunos de mis modelos Softstar favoritos.</p>
 <div class="wp-block-media-text" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">

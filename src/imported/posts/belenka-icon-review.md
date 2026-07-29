@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión del icono de Be Lenka: zapatos casuales descalzos'
+title: "Mi opinión sobre Be Lenka Icon: calzado barefoot informal"
 description: El equipo de Be Lenka lanza regularmente estilos de Zapatos barefoot
   que se mantienen al día con las tendencias actuales, pero que aún cumplen con todos
   los requisitos del calzado natural. ¡Sigue leyendo para conocer mi reseña completa
@@ -21,7 +21,7 @@ language: es
 translatedFrom: en
 ---
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Calcetines Injinji y zapatos Be Lenka Icon</figcaption></figure>
-<p>, una marca conocida por sus cualidades insuperables para andar barefoot, tiene mucho bajo la manga para nosotros. El equipo de Be Lenka ha estado lanzando regularmente estilos de Zapatos barefoot que se mantienen al día con las tendencias actuales, pero que aún cumplen con todos los requisitos de <a href="/benefits-barefoot-minimalist-shoes/">calzado natural</a>. <strong>¡Sigue leyendo para conocer mi reseña completa de su modelo insignia, el Icon!</strong></p>
+<p>, una marca conocida por sus cualidades insuperables para andar barefoot, tiene mucho bajo la manga para nosotros. El equipo de Be Lenka ha estado lanzando regularmente estilos de Zapatos barefoot que se mantienen al día con las tendencias actuales, pero que aún cumplen con todos los requisitos de <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">calzado natural</a>. <strong>¡Sigue leyendo para conocer mi reseña completa de su modelo insignia, el Icon!</strong></p>
 <h3 class="wp-block-heading">Tabla de contenidos</h3>
 <ol>
 <li><a href="#the-icon">El icono</a></li>
@@ -67,10 +67,10 @@ translatedFrom: en
 <h2 class="wp-block-heading"><span id="sizing"></span>4. Dimensionamiento</h2>
 <p>Los zapatos Be Lenka son unisex con tallas que van del 36 al 46. En las botas de invierno me sentía cómoda con una talla 37, así que elegí la misma talla en las Icon. Me sorprendió que fuera un poco más espacioso y necesitaba usar una plantilla para evitar que el pie se deslizara. Los zapatos en sí son exactamente del mismo tamaño, pero como las botas de invierno están forradas de lana, se sienten mucho más superficiales. </p>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Be Lenka Botas de invierno talla 37 junto a zapatos Icon Year Round talla 37</figcaption></figure>
-<p>Las botas de invierno fueron las primeras Belenkas con puntera cerrada que probé, así que no me di cuenta de cuánto espacio ocupaba la lana. Ahora entiendo mejor lo espaciosos que son los zapatos Belenka sin forro. Estos 37 todavía funcionan bien para mí y no me gustaría reducir el tamaño, pero si los uso sin <a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">consola </a>o  Mi pie no está seguro y corre hacia un lado cuando camino.</p>
-<p>Vivo de mis plantillas (<a href="/2019/03/28/north-sole-insoles-barefoot-ing-your-way/">estos </a>y <a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">estos) </a>y  porque tengo pies de poco volumen. Hacen que muchos de mis zapatos me queden mejor.</p>
-<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">calcetines injinji, <a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">Plantilla Naboso</a>, Me sentí pegajoso</figcaption></figure>
-<p>Hay una tabla de tallas en cada página de producto Be Lenka que muestra la medida de la horma utilizada para moldear el zapato. Llevo una talla 37 en Vivobarefoot, Zaqq, Feelgrounds (y tengo <a href="/reviews/">los revisó todos</a>) y la mayoría de los zapatos y botas con cordones. Pero uso una talla 36 en la mayoría de los zapatos de vestir, y en la marca Luks uso una talla 35.</p>
+<p>Las botas de invierno fueron las primeras Belenkas con puntera cerrada que probé, así que no me di cuenta de cuánto espacio ocupaba la lana. Ahora entiendo mejor lo espaciosos que son los zapatos Belenka sin forro. Estos 37 todavía funcionan bien para mí y no me gustaría reducir el tamaño, pero si los uso sin <a href="https://naboso-technology.myshopify.com/">consola </a>o  Mi pie no está seguro y corre hacia un lado cuando camino.</p>
+<p>Vivo de mis plantillas (<a href="/2019/03/28/north-sole-insoles-barefoot-ing-your-way/">estos </a>y <a href="https://naboso-technology.myshopify.com/">estos) </a>y  porque tengo pies de poco volumen. Hacen que muchos de mis zapatos me queden mejor.</p>
+<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">calcetines injinji, <a href="https://naboso-technology.myshopify.com/">Plantilla Naboso</a>, Me sentí pegajoso</figcaption></figure>
+<p>Hay una tabla de tallas en cada página de producto Be Lenka que muestra la medida de la horma utilizada para moldear el zapato. Llevo una talla 37 en Vivobarefoot, Zaqq, Feelgrounds (y tengo <a href="/resenas/">los revisó todos</a>) y la mayoría de los zapatos y botas con cordones. Pero uso una talla 36 en la mayoría de los zapatos de vestir, y en la marca Luks uso una talla 35.</p>
 <h2 class="wp-block-heading"><span id="comparisons"></span>5. Comparaciones</h2>
 <p>Las siguientes comparaciones de zapatos son todas en talla 37.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-107 is-layout-flex wp-block-gallery-is-layout-flex">
@@ -83,7 +83,7 @@ translatedFrom: en
 </figure>
 <p>En comparación con las marcas anteriores, Be Lenka tiene aproximadamente la misma longitud pero un poco más ancha que todas ellas. No mucho más ancho, pero unos pocos milímetros pueden marcar una gran diferencia en el ajuste. Entonces, si probó algunas de las marcas anteriores y las encontró demasiado limitadas para usted, considere Be Lenkas.</p>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption"><a href="/2019/01/05/unshoes-terra-vida/">Zapatos barefoot Terra Vidas talla 6.5</a> al lado de Be Lenka.  Los Unshoes son notablemente más cortos que los Be Lenkas y parecen más guantes. Aunque un poco más estrecho en los dedos.</figcaption></figure>
-<p>Los únicos otros zapatos que tengo que combinan con Be Lenka en cuanto a la forma del pie son <a href="/brand/luks-shoes/">zapatos luks</a> y <a href="/softstar-shoes-sawyer-review/">Primarios Softstar</a>. De esos tres, los Primals son los más anchos.</p>
+<p>Los únicos otros zapatos que tengo que combinan con Be Lenka en cuanto a la forma del pie son <a href="/marca/luks-shoes/">zapatos luks</a> y <a href="/revision-de-sawyer-de-zapatos-softstar/">Primarios Softstar</a>. De esos tres, los Primals son los más anchos.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-109 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><a href="/2020/01/16/luks-primavera-boots/">Luks Primaveras </a>talla 35 junto a Belenka talla 37</figcaption></figure>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">Luks 35 junto a Belenka 37</figcaption></figure>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Carets: Zapatos barefoot elegantes para hombres'
+title: "Mi opinión sobre Carets: zapatos barefoot elegantes para hombres"
 description: Los zapatos de vestir Carets barefoot no tienen caída, son anchos y lo
   suficientemente elegantes para entornos de trabajo profesionales y eventos de gala.
   Si quieres los beneficios de los Zapatos barefoot sin comprometer el estilo, ¡debes
@@ -31,15 +31,15 @@ translatedFrom: en
 </div>
 
 <h2 class="wp-block-heading">Revisión de zapatos Carets</h2>
-<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Carets a la izquierda, y estoy usando <a href="/shapen-review-barefoot-dress-shoes-women/">Pisos moldeados</a>!</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Carets a la izquierda, y estoy usando <a href="/revision-de-shapen-los-mejores-zapatos-de-vestir-descalzos-para-mujeres/">Pisos moldeados</a>!</figcaption></figure>
 <p>Existe una desconexión en nuestra cultura entre función y forma. Cuando necesitamos lucir profesionales y sofisticados, damos por sentado que no podemos estar cómodos al mismo tiempo. Los zapatos más bonitos duelen, ¿verdad? Si ha estado presente, sabrá que estamos desacreditando ese mito de manera lenta pero segura aquí en <a href="/">Barefoot Opiniones</a>. Y el siguiente zapato que veremos es Carets.</p>
 <p> es una pequeña empresa iniciada por Mountain Chang, un corredor barefoot y entusiasta. Él, como muchos de ustedes, estaba sumamente frustrado por sus incómodos zapatos de trabajo. Una vez que te acostumbras a los zapatos planos y flexibles con mucho espacio para los dedos de los pies, ¡es muy difícil seguir metiendo los pies en zapatos restrictivos! Pero tenía que usar algo profesional todos los días de la semana. Entonces, ¿por qué no fabricar sus propios zapatos de trabajo aptos para caminar barefoot?</p>
-<p>Mountain diseñó los zapatos Carets para que luzcan tan elegantes como los zapatos de vestir tradicionales para hombres, pero que cumplan con las <a href="/benefits-barefoot-minimalist-shoes/">requisitos para Zapatos barefoot</a>. Mi marido, Justin, fue quien probó estos zapatos.</p>
+<p>Mountain diseñó los zapatos Carets para que luzcan tan elegantes como los zapatos de vestir tradicionales para hombres, pero que cumplan con las <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">requisitos para Zapatos barefoot</a>. Mi marido, Justin, fue quien probó estos zapatos.</p>
 <h2 class="wp-block-heading">Pero, ¿están realmente descalzos?</h2>
 <p>Los zapatos Carets tienen un tacón falso, pero en realidad no tienen caída. El zapato tiene 9 mm de grosor y se puede enrollar hasta formar una bola (mi marido protestó cuando hice esto, ¡pero tuve que demostrarles que podían enrollarse!). </p>
 
 <p class="has-medium-font-size"><strong>Pero ¿qué pasa con la puntera?</strong></p>
-<p>Cada vez que publico sobre Carets recibo respuestas que parecen demasiado limitadas. Pero cuando publico fotos de zapatos con forma de pie ultraanchos escucho quejas de que son feos. <strong>Carets hace que sus zapatos sean intencionalmente más largos para que puedan afinarse <em>después</em> tus dedos terminan</strong>. Esto significa que parecen un zapato normal, pero se adaptan a la forma natural del pie. Esto también significa que tienes que lidiar con más zapatos que con otros Zapatos barefoot, un hecho que puede molestar a algunas personas. Pero para aquellos que realmente necesitan algo que luzca elegante, o que simplemente <em>querer</em> Con un aspecto convencional, actualmente no hay nada comparable a Carets en el mercado. Entonces, ¿los zapatos Carets están descalzos? No tan descalzos como algunos, pero cumplen con mis <a href="/benefits-barefoot-minimalist-shoes/">Requisitos para un calzado saludable.</a>.</p>
+<p>Cada vez que publico sobre Carets recibo respuestas que parecen demasiado limitadas. Pero cuando publico fotos de zapatos con forma de pie ultraanchos escucho quejas de que son feos. <strong>Carets hace que sus zapatos sean intencionalmente más largos para que puedan afinarse <em>después</em> tus dedos terminan</strong>. Esto significa que parecen un zapato normal, pero se adaptan a la forma natural del pie. Esto también significa que tienes que lidiar con más zapatos que con otros Zapatos barefoot, un hecho que puede molestar a algunas personas. Pero para aquellos que realmente necesitan algo que luzca elegante, o que simplemente <em>querer</em> Con un aspecto convencional, actualmente no hay nada comparable a Carets en el mercado. Entonces, ¿los zapatos Carets están descalzos? No tan descalzos como algunos, pero cumplen con mis <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Requisitos para un calzado saludable.</a>.</p>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Puedes ver aquí que el zapato es un poco más largo que el pie de Justin y encaja justo donde Carets es más ancho.</figcaption></figure>
 <h2 class="wp-block-heading">Materiales y cuidado</h2>
 <p>Los zapatos Carets están fabricados íntegramente en piel de becerro con suela de poliuretano. El cuero es grueso, resistente y se siente algo rígido cuando son nuevos. Se ven exactamente como se ven un verdadero zapato de vestir, no holgados y desestructurados como suelen ser los Zapatos barefoot. Justin podía sentir los bordes del zapato alrededor de su tobillo y definitivamente necesitaba amoldarse. Esto es normal con los zapatos de vestir de cuero, y después de algunos usos se suavizaron y se sintieron bien para él. La piel de becerro debe conservarse durante años.</p>
@@ -48,7 +48,7 @@ translatedFrom: en
 <p>Mountain ha hecho un trabajo minucioso <a href="https://carets.com/pages/use-and-care">respondiendo preguntas </a>sobre cómo cuidar mejor tus zapatos. Recomienda una horma para que mantengan su forma y tiene recomendaciones de productos para acondicionar y pulir los zapatos. Está claro que conoce los zapatos de vestir de hombre y aprecia plenamente un zapato hermoso en todo su esplendor.</p>
 <h2 class="wp-block-heading">Tamaño y ajuste de Carets</h2>
 <p class="has-text-align-left">Esta sección se basa en la experiencia de mi esposo, así como en la experiencia de otros 10 propietarios de Carets de la comunidad descalzos.</p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Haga clic aquí para entender cómo hablamos <strong>tipo de pie</strong> y <strong>encajar</strong> en este espacio!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Haga clic aquí para entender cómo hablamos <strong>tipo de pie</strong> y <strong>encajar</strong> en este espacio!</a></p>
 <h3 class="wp-block-heading">Dimensionamiento</h3>
 <p><strong>Los zapatos de vestir Carets son grandes para la mayoría de las personas.</strong> hay un <a href="https://carets.com/pages/sizing-fit-and-feel">tabla de tallas</a> en el sitio web de Carets y puede enviar un correo electrónico para solicitar ayuda (¡lo cual nunca es mala idea!). Mi esposo normalmente usa una talla US 13 en zapatos de hombre, pero Mountain le recomendó que comprara la 12 según la longitud de su pie. Aun así, son bastante espaciosos, con mucho espacio para todos los dedos de los pies y demasiado espacio alrededor del tobillo. Consideramos reducir el tamaño a 11, pero decidimos que probablemente sería demasiado estrecho en la puntera. Eso nos lleva a la siguiente sección; volumen.</p>
 <h3 class="wp-block-heading">Volumen</h3>
@@ -75,6 +75,19 @@ translatedFrom: en
 <p class="has-normal-font-size">¡Un agradecimiento especial a Sean de @sean.fit4life, Zack de @footfriendlyfashion y @barfuss_im_pott__cast por compartir sus fotos con nosotros!</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Mi marido se siente muy cómodo en sus Carets, incluso durante un largo día de trabajo. ¡El hecho de que un zapato pueda ser tan cómodo y aun así cumplir con los requisitos de un calzado barefoot es un unicornio! Si bien el gran volumen y la longitud adicional del zapato hacen que no sean perfectos para todos, Mountain ha convergido en algo verdaderamente único en el mundo de los Zapatos barefoot.</p>
-<p class="has-text-align-center">Mira mi lista completa de <a href="/barefoot-minimalist-dress-shoes-men/">Zapatos de vestir descalzos para hombre</a> ¡Para más opciones!</p>
+<p class="has-text-align-center">Mira mi lista completa de <a href="/los-mejores-zapatos-de-vestido-de-barefoot-de-los-hombres-que-no-aplastar-sus-pies/">Zapatos de vestir descalzos para hombre</a> ¡Para más opciones!</p>
 <p class="has-text-align-center"><strong>¿Quieres participar en futuras revisiones de Zapatos barefoot? ¡La comunidad es fuerte aquí! Suscríbase a los correos electrónicos a continuación para recibir un boletín semanal y tener la oportunidad de compartir sus experiencias.</strong></p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Carets: Zapatos barefoot elegantes para hombres" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.
+
+
+## Como lo integraria en un armario normal
+
+Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu ropa real. No con una vida imaginaria de Pinterest. Si usas vaqueros, mira como queda con vaqueros. Si usas vestidos, pruebalo con largos y siluetas distintas. Si vas mucho de negro, no compres un color dificil solo porque estaba de moda.
+
+Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
+
+Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.

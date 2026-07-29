@@ -22,8 +22,8 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p>¿Eres nuevo en el mundo de los Zapatos barefoot? A continuación se presentan algunos recursos para ayudarlo a comenzar. Asegúrate de revisar mi <a href="/best-barefoot-minimalist-shoe-brands-beginners/">Los mejores zapatos minimalistas para principiantes</a> publicar también!</p>
-<p>*Si quieres saber cómo llegué a andar barefoot, lee <a href="/being-me-a-journey-to-barefoot/">esto</a> publicar*</p>
+<p>¿Eres nuevo en el mundo de los Zapatos barefoot? A continuación se presentan algunos recursos para ayudarlo a comenzar. Asegúrate de revisar mi <a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">Los mejores zapatos minimalistas para principiantes</a> publicar también!</p>
+<p>*Si quieres saber cómo llegué a andar barefoot, lee <a href="/articulos/">esto</a> publicar*</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-7519fcad" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -35,10 +35,10 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Recursos descalzos</h2>
 <ul>
-<li><a href="http://tidd.ly/267b7509">Zapatería</a> – Este documental de 4 minutos de Vivobarefoot hace un gran trabajo al presentar el tema (desplácese hasta el final de la página para ver el video).</li>
-<li><a href="https://www.nutritiousmovement.com/product/whole-body-barefoot/?ref=42791">Todo el cuerpo barefoot</a> – Creo que este libro es el mejor lugar para comenzar si lo dices en serio, porque explica el “por qué” de los Zapatos barefoot en el contexto de nuestra vida moderna. <strong>¡Muchas personas se entusiasman con correr barefoot y se lanzan solo para lastimarse!</strong> Entender que es un cambio en todo el cuerpo es realmente importante.</li>
-<li><a href="https://amzn.to/2QYGmFQ">Nacido para correr</a> – ¡La chispa que encendió el movimiento barefoot! Excelente lectura para motivarte, pero es mejor combinarla con Whole Body barefoot si quieres probarlo tú mismo.</li>
-<li><a href="/benefits-barefoot-minimalist-shoes/">¿Cuáles son los beneficios de los Zapatos barefoot?</a> – Un resumen de qué buscar en un zapato saludable y por qué es importante.</li>
+<li>Zapatería – Este documental de 4 minutos de Vivobarefoot hace un gran trabajo al presentar el tema (desplácese hasta el final de la página para ver el video).</li>
+<li><a href="https://www.nutritiousmovement.com/product/whole-body-barefoot/">Todo el cuerpo barefoot</a> – Creo que este libro es el mejor lugar para comenzar si lo dices en serio, porque explica el “por qué” de los Zapatos barefoot en el contexto de nuestra vida moderna. <strong>¡Muchas personas se entusiasman con correr barefoot y se lanzan solo para lastimarse!</strong> Entender que es un cambio en todo el cuerpo es realmente importante.</li>
+<li>Nacido para correr – ¡La chispa que encendió el movimiento barefoot! Excelente lectura para motivarte, pero es mejor combinarla con Whole Body barefoot si quieres probarlo tú mismo.</li>
+<li><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">¿Cuáles son los beneficios de los Zapatos barefoot?</a> – Un resumen de qué buscar en un zapato saludable y por qué es importante.</li>
 <li><a href="https://www.softstarshoes.com/live-bare-blog/2023/07/24/foot-development-study/">Estudio sobre el desarrollo del pie de la Universidad de Sydney</a></li>
 </ul>
 <h3 class="wp-block-heading">Podólogos descalzos</h3>
@@ -65,11 +65,11 @@ translatedFrom: en
 <li><a href="http://thefootcollective.com/foothealth101/">El colectivo del pie</a></li>
 <li><a href="https://naturalfootgear.com/">Calzado Natural</a> – Toneladas de información excelente sobre diferentes afecciones de los pies y la salud general de los mismos. </li>
 <li><a href="https://www.correcttoes.com/?gclid=EAIaIQobChMIgLLt44rD6AIVuv_jBx1tIAGPEAAYASAAEgLNAfD_BwE">Tonos correctos</a></li>
-<li><a href="https://amzn.to/2QXXwU3">La historia del cuerpo humano</a> por Daniel Liberman</li>
-<li><a href="https://amzn.to/2zoCOqQ">Nacido para caminar</a> por James Earls</li>
+<li>La historia del cuerpo humano por Daniel Liberman</li>
+<li>Nacido para caminar por James Earls</li>
 <li><a href="https://www.youtube.com/channel/UCgtX7eei9MQfEWO8ZBCjKVg">Canal de YouTube de Ray McClanahan</a></li>
 <li><a href="https://olderyetfaster.com/">Más viejo aún más rápido</a></li>
-<li><a href="https://amzn.to/2UknzKk">Corre por tu vida </a>por Mark Cucuzella</li>
+<li>Corre por tu vida por Mark Cucuzella</li>
 <li><a href="https://philmaffetone.com/">Phil Maffetone</a></li>
 </ul>
 <h2 class="wp-block-heading">Comunidades en línea y cuentas a seguir</h2>
@@ -146,3 +146,30 @@ Si tuviera que resumir Recursos fundamentales para comprender el movimiento bare
 Mi consejo es elegir con calma, medir el pie, revisar la politica de cambios y pensar en tres looks o situaciones donde lo usarias. Si no se te ocurren, espera. Si encaja de forma natural, probablemente vas por buen camino.
 
 Barefoot no deberia sentirse como renunciar al estilo. Deberia sentirse como dejar de negociar con zapatos que nunca tuvieron en cuenta la forma de tus pies.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Recursos fundamentales para comprender el movimiento barefoot es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

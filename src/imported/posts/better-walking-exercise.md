@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Mejore su caminata con 1 ejercicio simple, 3 formas
+title: "Mejora tu forma de caminar con un ejercicio sencillo"
 description: ¿Estás caminando de la manera que es mejor para tu cuerpo? Caminar mejor
   es la forma más poderosa de maximizar los increíbles beneficios de los zapatos minimalistas.
   Hoy Petra nos va a mostrar cómo lograr caminar mejor.
@@ -20,7 +20,7 @@ language: es
 translatedFrom: en
 ---
 <p>Por Petra Fisher</p>
-<p>¿Estás caminando de la manera que es mejor para tu cuerpo? Caminar mejor es la forma más poderosa de maximizar la <a href="/benefits-barefoot-minimalist-shoes/">increíbles beneficios de los Zapatos barefoot</a>. </p>
+<p>¿Estás caminando de la manera que es mejor para tu cuerpo? Caminar mejor es la forma más poderosa de maximizar la <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">increíbles beneficios de los Zapatos barefoot</a>. </p>
 <p>Aunque los zapatos minimalistas <em>naturalmente</em> Para permitir que nuestros pies se vuelvan más fuertes y saludables, en realidad hay mucho más que podemos hacer para aprovechar al máximo nuestras opciones de calzado barefoot. Porque esta es la cuestión: después de tantos años de usar zapatos normales (y sentarnos mucho en sillas), nuestros cuerpos se han adaptado. Estas adaptaciones de zapatos y sillas tienen un gran impacto en nuestra forma de caminar. Y eso significa que la forma en que caminamos puede causar problemas a nuestros pies y cuerpo a largo plazo. </p>
 <p class="has-text-align-center"><strong>Hoy repasaré los conceptos básicos para caminar mejor.</strong> Compartiré un ejercicio sencillo que puedes utilizar para mejorar tu marcha y la función de tu pie al mismo tiempo.<strong><em> Saldrá con pies más felices, herramientas poderosas para caminar mejor y es posible que descubra que sus tobillos, rodillas y caderas también están más felices. </em></strong></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-52f1db75" data-offset="30" data-scroll="1" style="">

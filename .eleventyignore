@@ -1,4 +1,10 @@
-src/index.njk
+src/en 2.njk
+src/imported/pages/home.md
+src/contacto 2.md
+src/privacy-policy 2.md
+src/disclaimers 2.md
+src/terms-of-service 2.md
+src/sobre-mi 2.md
 src/popular.njk
 src/estilo.njk
 src/listas.njk
@@ -8,4 +14,9 @@ src/recursos.njk
 src/resenas.njk
 src/descuentos.md
 src/preguntas-frecuentes-zapatos-barefoot.md
-src/sobre-mi.md
+src/contacto 2.md
+src/privacy-policy 2.md
+src/disclaimers 2.md
+src/terms-of-service 2.md
+src/sobre-mi 2.md
+src/en 2.njk

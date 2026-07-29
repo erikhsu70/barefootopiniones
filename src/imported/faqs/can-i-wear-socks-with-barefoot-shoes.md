@@ -47,7 +47,7 @@ translatedFrom: en
 <p>Los calcetines afectan la función de los pies: pueden restringir los dedos de los pies al igual que los zapatos y cubren los nervios que inhiben su entrada sensorial. Así que encontrar tiempo para ser calzado y sin calcetines es una parte importante de mejorar su salud general de los pies. Mucha gente, yo mismo incluida, a menudo ir completamente barefoot en sus zapatos.</p>
 <p>¡Pero si quieres usar calcetines, ciertamente puedes! Llevo calcetines en los meses fríos y a veces para hacer que mis zapatos se ajusten mejor. <strong>Es sólo una buena idea encontrar calcetines que permiten que los dedos de los pies se diseminen para obtener el beneficio completo de sus zapatos con forma de pie.</strong> Encuentra una lista de muchas opciones de calcetín fáciles de usar a continuación.</p>
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/best-foot-friendly-socks-dont-squish-your-toes/">Calcetines amigos del pie</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="/los-mejores-calcetines-amistosos-del-pie-que-no-squish-your-toes/">Calcetines amigos del pie</a></div>
 </div>
 
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><figcaption>El calcetín "regular" de la izquierda está jalando mis dedos de los pies. ¡Los calcetines a la derecha dan mi libertad de pie! Pero hay calcetines anatómicos que no son calcetines de los pies.</figcaption></figure></div>

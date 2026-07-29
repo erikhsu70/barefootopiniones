@@ -6,7 +6,7 @@ date: 2026-07-21
 category: "Opinión"
 tags: ["resenas", "guia", "mujer", "sandalias", "ninos", "puntera-ancha"]
 contentType: "Artículo"
-permalink: /origo-shoes-opinion-tallas/
+permalink: /origo-opinion-tallas/
 image: "/assets/images/mary-jane.jpg"
 imageAlt: "Zapatos tejidos Origo negros con correa sobre el empeine y puntera amplia"
 faqItems:

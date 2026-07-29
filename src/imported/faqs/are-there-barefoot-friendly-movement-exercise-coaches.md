@@ -2,11 +2,9 @@
 layout: layouts/imported.njk
 templateEngineOverride: md
 title: ¿Hay entrenadores descalzos y amigos?
-description: 'A Are There barefoot-Friendly Movement/Exercise Coaches? Si usted está
-  buscando añadir más que sólo los ejercicios de pie en su vida, recomiendo revisar
-  estos entrenadores/programas: Restaurar su núcleo con Lauren Ohayon Petra Fisher
-  Movimiento El entrenador corporal Rmotion Coach Kathryn Blaze Fitness Strength in
-  Motion PT Gait Happens Whealth – Use el código  for [ limithellip;]'
+description: Existen profesionales del movimiento y el ejercicio familiarizados con
+  calzado barefoot. Revisa su titulación, experiencia y ámbito profesional antes de
+  contratar un programa.
 date: '2023-03-09T22:55:14'
 permalink: /ufaq/are-there-barefoot-friendly-movement-exercise-coaches/
 sourceType: FAQ
@@ -61,4 +59,3 @@ translatedFrom: en
 </div>
 </div>
 </div>
-

@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Xero Xcursion Fusion: una bota de senderismo impermeable y de
-  zero drop'
+title: "Mi opinión sobre Xero Xcursion Fusion: una bota de senderismo impermeable y de zero drop"
 description: ¡Xero Shoes está lanzando una versión actualizada de su bota de montaña
   Xcursion Waterproof! Probé la versión anterior el año pasado, así que estoy emocionado
   de ver cómo se compara el nuevo Xcursion. Siga leyendo para conocer mi reseña de
@@ -32,7 +31,7 @@ translatedFrom: en
 </div>
 <h2 class="wp-block-heading">Revisión de Xero Xcursion</h2>
 
-<p>El senderismo es posiblemente mi forma favorita de ejercicio, ¡es naturaleza y caminata combinadas! Así que encontrar un buen <a href="/best-barefoot-hiking-boots-zero-drop-flexible/">bota de senderismo aprobada para caminar barefoot</a> es un gran problema para mí. </p>
+<p>El senderismo es posiblemente mi forma favorita de ejercicio, ¡es naturaleza y caminata combinadas! Así que encontrar un buen <a href="/los-mejores-zapatos-para-gente-al-aire-libre/">bota de senderismo aprobada para caminar barefoot</a> es un gran problema para mí. </p>
 <p>el  es una bota de montaña impermeable con drop cero (suela completamente plana) y una forma anatómica en la puntera. Están disponibles en tallas para hombres y mujeres en tallas 5 para mujeres de EE. UU. y 15 para hombres por $140. Las etiquetas de género son arbitrarias en mi opinión, recomiendo obtener la  Si se puede porque son más anchos.</p>
 <p class="has-text-align-center">¿Vive en la UE? </p>
 <h3 class="wp-block-heading">Especificaciones</h3>
@@ -47,11 +46,11 @@ translatedFrom: en
 <h3 class="wp-block-heading">Dimensionamiento</h3>
 <p>Estas botas corren <strong>fiel al tamaño</strong> de largo, pero son estrechos de ancho. Normalmente usaría una talla 7 de mujer de EE. UU. en este tipo de zapato, pero usé una talla hasta 7,5. Debido a los cordones, el largo extra está bien, pero todavía son demasiado estrechos para la amplitud de mis dedos.</p>
 <h3 class="wp-block-heading">¿Impermeable?</h3>
-<p>Los usé en dos caminatas mojadas y embarradas y no tuve ningún problema. Luego me paré en una bañera con agua durante 6 minutos y ¡aún estaba bien! La lengüeta está reforzada hasta el gancho de primera velocidad, por lo que los zapatos sólo son impermeables hasta ese punto. Dado que la impermeabilización tiende a desaparecer con el tiempo, un producto como <a href="https://amzn.to/2GFwdMg">Aquaseal</a> Es genial para mejorar las botas que gotean.</p>
+<p>Los usé en dos caminatas mojadas y embarradas y no tuve ningún problema. Luego me paré en una bañera con agua durante 6 minutos y ¡aún estaba bien! La lengüeta está reforzada hasta el gancho de primera velocidad, por lo que los zapatos sólo son impermeables hasta ese punto. Dado que la impermeabilización tiende a desaparecer con el tiempo, un producto como Aquaseal Es genial para mejorar las botas que gotean.</p>
 <h3 class="wp-block-heading">Xcursion frente a otros excursionistas descalzos</h3>
 <p>Como mencioné antes, estas botas de montaña Xcursion son más estrechas que la versión anterior y otras botas de montaña descalzas. Vea esta comparación a continuación. ¡La talla 7.5 Xcursion para mujer de EE. UU. es incluso más estrecha que la antigua Xcursion talla 7!</p>
 
-<p>Mira esta publicación en <a href="/best-barefoot-hiking-boots-zero-drop-flexible/">botas de montaña descalzas</a> para obtener más detalles sobre las otras opciones. Tenga en cuenta que esta imagen muestra la <em>externo</em>  medidas de cada bota y no deben usarse para determinar la talla. Elijo utilizar medidas externas en lugar de medidas de la plantilla porque encuentro que es más consistente al mostrar el ancho entre marcas.</p>
+<p>Mira esta publicación en <a href="/los-mejores-zapatos-para-gente-al-aire-libre/">botas de montaña descalzas</a> para obtener más detalles sobre las otras opciones. Tenga en cuenta que esta imagen muestra la <em>externo</em>  medidas de cada bota y no deben usarse para determinar la talla. Elijo utilizar medidas externas en lugar de medidas de la plantilla porque encuentro que es más consistente al mostrar el ancho entre marcas.</p>
 <h3 class="wp-block-heading">Conclusión</h3>
 <p>Estas botas son resistentes y tienen buena tracción, pero lamentablemente son demasiado estrechas para mis pies. Son una buena opción si tienes pies estrechos y de gran volumen. Pero dado que incluso los pies estrechos pueden caber en una bota de montaña más ancha, recomiendo encarecidamente a Xero que aumenten el ancho de la puntera de sus zapatos.</p>
 
@@ -92,3 +91,30 @@ El primer error es comprar una talla mas grande para ganar anchura. A veces func
 Tambien evitaria elegir solo por estetica. Lo bonito importa, claro que importa, pero en calzado barefoot la forma manda. Si la puntera es estrecha, si la suela es rigida o si el talon te obliga a caminar raro, no compensa.
 
 Y el ultimo error: cambiar todo tu armario de golpe. Mejor probar un par, usarlo de verdad y aprender que necesita tu pie antes de comprar tres mas.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de Xero Xcursion Fusion: una bota de senderismo impermeable y de es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

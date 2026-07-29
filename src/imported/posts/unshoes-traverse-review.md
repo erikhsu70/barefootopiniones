@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de Unshoes Traverse
+title: "Mi opinión sobre Unshoes Traverse"
 description: Las botas Traverse de Unshoes me hacen pensar en el otoño con solo mirarlas.
   Veo visiones de hojas frescas, camisas de franela y fogatas. ¡Estas botas son tan
   acogedoras como parecen!
@@ -21,7 +21,7 @@ translatedFrom: en
 ---
 <div class="wp-block-image"><figure class="aligncenter is-resized"><figcaption><a href="https://www.unshoesusa.com/products/traverse">Bota Traverse</a></figcaption></figure></div>
 
-<p>**El modelo Traverse ya está descontinuado, ¡pero busca una bota nueva de Unshoes en 2021! Puedes leer todos mis <a href="/brand/unshoes-footwear/">Reseñas de Unshoes aquí</a> y obtén un 10% de descuento con el código <strong></strong>.</p>
+<p>**El modelo Traverse ya está descontinuado, ¡pero busca una bota nueva de Unshoes en 2021! Puedes leer todos mis <a href="/marca/unshoes-footwear/">Reseñas de Unshoes aquí</a> y obtén un 10% de descuento con el código <strong></strong>.</p>
 <p>el <a href="https://www.unshoesusa.com/products/traverse">Botas Traverse</a> Hazme pensar en caer con solo mirarlos. Veo visiones de hojas frescas, camisas de franela y fogatas. ¡Estas botas son tan acogedoras como parecen!</p>
 
 <h2 class="wp-block-heading">Marca</h2>
@@ -32,7 +32,7 @@ translatedFrom: en
 
 <p>El exterior de cuero es un cuero más fino y el forro de tela es liviano, por lo que no son botas súper cálidas. Definitivamente necesitarás calcetines gruesos para mantener los pies calientes en invierno. Por este motivo, son unas excelentes botas de transición. He estado usando los míos en primavera cuando todavía llueve y hace frío y han sido perfectos. Me encantan para hacer senderismo o trabajar en el jardín porque protegen mis pies de la lluvia y el barro y siguen siendo seguros y fáciles de caminar.</p>
 
-<p>Sin embargo, sería reacio a usarlos en MUCHA agua. Definitivamente necesitarían ser tratados con un <a href="https://amzn.to/2D72OG6">agente impermeabilizante</a> primero, y el agua probablemente se filtraría a través de las costuras y ojales (a diferencia de un <a href="/2019/01/01/chelsea-boots-and-vivobarefoots-fulham/">Chelsea</a> tipo bota que no tiene entrada de agua).</p>
+<p>Sin embargo, sería reacio a usarlos en MUCHA agua. Definitivamente necesitarían ser tratados con un agente impermeabilizante primero, y el agua probablemente se filtraría a través de las costuras y ojales (a diferencia de un <a href="/2019/01/01/chelsea-boots-and-vivobarefoots-fulham/">Chelsea</a> tipo bota que no tiene entrada de agua).</p>
 <p>Debido a que el forro de tela es de algodón y transpirable, no me importa usarlos sin calcetines.  Se han adaptado muy bien y son suaves y cómodos.</p>
 
 <div class="wp-block-image"><figure class="aligncenter"><figcaption>¡Logotipo de descalzado!</figcaption></figure></div>

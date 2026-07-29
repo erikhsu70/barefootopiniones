@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de botas para niños Bobux
+title: "Mi opinión sobre botas para niños Bobux"
 description: Comprar botas para niños es un suplicio. Puede que mi hijo sea la única
   persona que conozco que sea tan exigente como yo con el calzado. Así que fue un
   alivio para mí encontrar CUALQUIER bota de invierno práctica que le gustara. ¡Gracias
@@ -28,12 +28,12 @@ translatedFrom: en
 <figure class="wp-block-image"><figcaption><a href="https://www.bobux.com/aspen-navy-832805">álamo temblón</a></figcaption></figure>
 <figure class="wp-block-image"><figcaption><a href="https://www.bobux.com/aspen-navy-832805">álamo temblón</a></figcaption></figure>
 <p>Los zapatos Bobux ya están disponibles aquí en Amazon, lo cual es bastante emocionante. Algunos de los precios son más baratos y obtienes envío gratis con Prime. También me gusta que en Amazon puedes encontrar estilos de años anteriores.</p>
-<p>Son zapatos bien hechos, la calidad se nota a primera vista. También son resistentes y soportan fácilmente el clima (agua) y el juego brusco. Actualmente llevamos dos estilos en nuestra casa: el <a href="https://www.bobux.com/aspen-navy-832805">álamo temblón</a> arranque y el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> arranque. Las botas Aspen se parecen más a una bota de nieve tradicional. Tienen correas de velcro que los hacen ajustables para caber en pantalones para la nieve o calcetines gruesos cuando sea necesario, y están forrados para brindar calidez. Son más pesados que los <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> estilo, y menos flexible, pero apropiado para nuestros estilos de vida e inviernos. La cremallera también facilita el encendido y apagado. Se han mantenido bien sin que hayamos tratado el cuero, pero impermeabilizarlos los hará aún más duraderos. he usado <a href="https://amzn.to/2RPg6zs">Sello de nieve</a> (Muy eficaz, pero puede oscurecer significativamente el cuero) y <a href="https://amzn.to/2Clt528">chambelán</a>'s (Mi favorito personal, viene con un limpiador y acondicionador, el impermeabilizante es eficaz pero no tan espeso como el Sno-Seal).</p>
+<p>Son zapatos bien hechos, la calidad se nota a primera vista. También son resistentes y soportan fácilmente el clima (agua) y el juego brusco. Actualmente llevamos dos estilos en nuestra casa: el <a href="https://www.bobux.com/aspen-navy-832805">álamo temblón</a> arranque y el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> arranque. Las botas Aspen se parecen más a una bota de nieve tradicional. Tienen correas de velcro que los hacen ajustables para caber en pantalones para la nieve o calcetines gruesos cuando sea necesario, y están forrados para brindar calidez. Son más pesados que los <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> estilo, y menos flexible, pero apropiado para nuestros estilos de vida e inviernos. La cremallera también facilita el encendido y apagado. Se han mantenido bien sin que hayamos tratado el cuero, pero impermeabilizarlos los hará aún más duraderos. he usado Sello de nieve (Muy eficaz, pero puede oscurecer significativamente el cuero) y chambelán's (Mi favorito personal, viene con un limpiador y acondicionador, el impermeabilizante es eficaz pero no tan espeso como el Sno-Seal).</p>
 <figure class="wp-block-image"><figcaption><a href="https://www.bobux.com/aspen-navy-832805">álamo temblón</a></figcaption></figure>
 
 <figure class="wp-block-image"><figcaption>Tenga en cuenta el forro de piel y el espacio adicional que se puede utilizar si afloja el velcro.</figcaption></figure>
 <p>También amamos el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> botas. De hecho, ¡realmente desearía que los hicieran en tallas para adultos! Son clásicos, flexibles, livianos y fáciles de poner y quitar para mis hijos. el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> Las botas no tienen forro, lo que las hace menos prácticas para la nieve, pero siguen siendo increíblemente versátiles e ideales para un niño en movimiento. En años anteriores <a href="https://www.bobux.com/">Bobux</a> Vendí una bota tipo chelsea en las tallas más pequeñas que estaba forrada y nos encantó para el invierno. ¡Quizás reaparezca en el futuro! </p>
-<figure class="wp-block-image"><figcaption>el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> bota que compramos el año pasado (las suelas ahora son de otro color). Los he acondicionado, pero necesitaría un poco de betún para zapatos como <a href="https://amzn.to/2Clt528">esto</a> uno (yo siempre uso <a href="https://amzn.to/2Clt528">ángelú</a>'s) para restaurarlos completamente.</figcaption></figure>
+<figure class="wp-block-image"><figcaption>el <a href="https://www.bobux.com/jodhpur-navy-830007">Jodhpur</a> bota que compramos el año pasado (las suelas ahora son de otro color). Los he acondicionado, pero necesitaría un poco de betún para zapatos como esto uno (yo siempre uso ángelú's) para restaurarlos completamente.</figcaption></figure>
 <figure class="wp-block-image"><figcaption>¡Muy flexible!</figcaption></figure>
 <figure class="wp-block-image"><figcaption>¡Cuero por dentro y por fuera!</figcaption></figure>
 <div class="wp-block-image"><figure class="aligncenter"><figcaption>¡Las botas Bobux más antiguas de mi pequeño que encontramos en eBay!</figcaption></figure></div>
@@ -86,3 +86,30 @@ El primer error es comprar una talla mas grande para ganar anchura. A veces func
 Tambien evitaria elegir solo por estetica. Lo bonito importa, claro que importa, pero en calzado barefoot la forma manda. Si la puntera es estrecha, si la suela es rigida o si el talon te obliga a caminar raro, no compensa.
 
 Y el ultimo error: cambiar todo tu armario de golpe. Mejor probar un par, usarlo de verdad y aprender que necesita tu pie antes de comprar tres mas.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de botas para niños Bobux es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para pies infantiles
+
+En calzado infantil miro tres cosas antes que el diseno: espacio delante, sujecion y facilidad para ponerlo. Un zapato infantil barefoot no deberia comprimir los dedos, pero tampoco debe quedar tan grande que el nino compense agarrando con los dedos o arrastrando el pie. Lo ideal es que pueda correr, saltar y cambiar de direccion sin que el zapato se desplace.
+
+Tambien recomiendo revisar el ajuste cada pocas semanas, porque los ninos pueden crecer de golpe y no siempre avisan de que algo les aprieta. Si el upper marca los dedos, si aparecen rozaduras o si empiezan a quitarse el calzado en cuanto pueden, suele haber una pista clara. Mejor comprobarlo pronto que esperar a que el zapato se quede pequeno del todo.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

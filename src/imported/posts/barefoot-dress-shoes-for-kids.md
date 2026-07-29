@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 20 zapatos de vestir descalzos para que los niños los usen en ocasiones elegantes
+title: "20 zapatos barefoot de vestir para niños"
 description: Los zapatos de vestir descalzos para niños permiten que los más pequeños
   de tu vida se mantengan cómodos incluso en ocasiones elegantes. Aquí encontrarás
   elegantes bailarinas, botas y zapatos con cordones para niños pequeños y grandes
@@ -32,20 +32,20 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">¿Por qué Zapatos barefoot para niños?</h2>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Los Zapatos barefoot tienen forma de pie, son planos y flexibles</figcaption></figure>
-<p>Los Zapatos barefoot para niños permiten que los pies en desarrollo se extiendan y se muevan de forma natural. Las investigaciones continúan mostrándonos que <a href="https://www.correcttoes.com/foot-help/wp-content/uploads/2015/12/rossiWhyShoesMakeNormalGaitImpossible.pdf">Un mal calzado provoca cambios en la marcha.</a>, cambios de alineación y deformidades del pie, por lo que elegir un buen calzado para los niños es especialmente importante para prevenir problemas futuros. Para obtener más información sobre cómo los zapatos afectan el cuerpo, lea este artículo en el <a href="/benefits-barefoot-minimalist-shoes/">Beneficios de los Zapatos barefoot</a>!</p>
-<p>Y si desea ver más opciones de Zapatos barefoot para niños para todos los días, invierno y verano, consulte todas mis <a href="/age-group/kids/">Reseñas de Zapatos barefoot para niños aquí.</a>. ¡Ahora pasemos a las opciones de zapatos de vestir descalzos para niños!</p>
+<p>Los Zapatos barefoot para niños permiten que los pies en desarrollo se extiendan y se muevan de forma natural. Las investigaciones continúan mostrándonos que <a href="https://www.correcttoes.com/foot-help/wp-content/uploads/2015/12/rossiWhyShoesMakeNormalGaitImpossible.pdf">Un mal calzado provoca cambios en la marcha.</a>, cambios de alineación y deformidades del pie, por lo que elegir un buen calzado para los niños es especialmente importante para prevenir problemas futuros. Para obtener más información sobre cómo los zapatos afectan el cuerpo, lea este artículo en el <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Beneficios de los Zapatos barefoot</a>!</p>
+<p>Y si desea ver más opciones de Zapatos barefoot para niños para todos los días, invierno y verano, consulte todas mis <a href="/grupo/ninos/">Reseñas de Zapatos barefoot para niños aquí.</a>. ¡Ahora pasemos a las opciones de zapatos de vestir descalzos para niños!</p>
 <h2 class="wp-block-heading">Zapatos de vestir descalzos para bebés/niños pequeños</h2>
 <p>¿Quieres vestir elegante a tu hijo sin que se queje constantemente de sentirse incómodo? ¡Los zapatos de vestir descalzos para niños son la respuesta! Se ven elegantes, pero se sienten cómodos para los pies pequeños. Las siguientes opciones vienen en tamaños para bebés y niños pequeños y harán que tu pequeña diva se sienta atrevida en todos los sentidos.</p>
 
 <h3 class="wp-block-heading">Bailarinas y Merceditas</h3>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://butterflyyourworld.com/?ref=msbe30l6">Butterfly Tu Mundo</a> (EE. UU.) – Tallas EE. UU. 3C-4Y.  Hecha a mano en los EE. UU. por un solo fabricante, ¡esta tienda tiene muchas opciones coloridas!</p>
+<p><a href="https://butterflyyourworld.com/">Butterfly Tu Mundo</a> (EE. UU.) – Tallas EE. UU. 3C-4Y.  Hecha a mano en los EE. UU. por un solo fabricante, ¡esta tienda tiene muchas opciones coloridas!</p>
 <p>Código <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.kqzyfj.com/click-9040624-15425299?url=https%3A%2F%2Fwww.camper.com%2Fen_US%2Fcontent%2Fpeu-icons">Camper</a> (EE. UU.) – Tallas EE. UU. 9T-6Y. La línea “Right” de Camper incluye bailarinas estilo bailarina en varios colores de piel y también algunos metalizados.</p>
+<p><a href="https://www.camper.com/en_US/content/peu-icons">Camper</a> (EE. UU.) – Tallas EE. UU. 9T-6Y. La línea “Right” de Camper incluye bailarinas estilo bailarina en varios colores de piel y también algunos metalizados.</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
@@ -53,7 +53,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p> (EE. UU.) – Tallas EE. UU. 2-12. ¡Varios estilos planos adorables en bonitos colores! Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-love-bug-review/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
+<p> (EE. UU.) – Tallas EE. UU. 2-12. ¡Varios estilos planos adorables en bonitos colores! Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-nos-encanta-bug-resena-adorable-y-asequible-zapatos-de-pie-para-little-pie/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
@@ -61,11 +61,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.tkqlhce.com/click-9040624-15238199?url=https%3A%2F%2Fwww.robeez.com%2Fshoes%2Fsoft-soles%2F">Robeez</a> (EE. UU.) – Tallas EE. UU. 0/6 meses – 18/24 meses</p>
+<p><a href="https://www.robeez.com/shoes/soft-soles/">Robeez</a> (EE. UU.) – Tallas EE. UU. 0/6 meses – 18/24 meses</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos Softstar Niño Merry Jane</a> (EE. UU.) – Tallas EE. UU. 6C-12C. Hechos a mano en Oregón, estos zapatos clásicos se ofrecen en diferentes colores según la temporada, ¡con la posibilidad de personalizar tus colores! También vienen en anchos estrechos, regulares y anchos.</p>
+<p>Zapatos Softstar Niño Merry Jane (EE. UU.) – Tallas EE. UU. 6C-12C. Hechos a mano en Oregón, estos zapatos clásicos se ofrecen en diferentes colores según la temporada, ¡con la posibilidad de personalizar tus colores! También vienen en anchos estrechos, regulares y anchos.</p>
 </div></div>
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
 <p><a href="https://starryknightdesign.com/">Starry Knight Design</a> (EE. UU.) – Tallas EE. UU. 00-10. </p>
@@ -90,11 +90,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p> (EE. UU.) – Tallas EE. UU. 2-12. Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-love-bug-review/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
+<p> (EE. UU.) – Tallas EE. UU. 2-12. Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-nos-encanta-bug-resena-adorable-y-asequible-zapatos-de-pie-para-little-pie/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.tkqlhce.com/click-9040624-15238199?url=https%3A%2F%2Fwww.robeez.com%2Fshoes%2Fsoft-soles%2F">Oxfords Robeez</a> (EE. UU.) – Tallas EE. UU. 0/6 meses – 18/24 meses</p>
+<p><a href="https://www.robeez.com/shoes/soft-soles/">Oxfords Robeez</a> (EE. UU.) – Tallas EE. UU. 0/6 meses – 18/24 meses</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
@@ -108,12 +108,12 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://gaucho.ninja/collections/barefoot-pals?sca_ref=1590756.RvKfloLbRH">Amigos descalzos gaucho ninja</a> (Reino Unido) – UE 25-35. Velcro en las tallas más pequeñas, cordones en las más grandes. ¡Tienen una gran forma!</p>
+<p><a href="https://gaucho.ninja/collections/barefoot-pals">Amigos descalzos gaucho ninja</a> (Reino Unido) – UE 25-35. Velcro en las tallas más pequeñas, cordones en las más grandes. ¡Tienen una gran forma!</p>
 <p>Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p> (EE. UU.) – Tallas EE. UU. 2-12. Darling botines chelsea y botas de montar en varios colores, disponibles por temporada. Código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-love-bug-review/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
+<p> (EE. UU.) – Tallas EE. UU. 2-12. Darling botines chelsea y botas de montar en varios colores, disponibles por temporada. Código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/little-nos-encanta-bug-resena-adorable-y-asequible-zapatos-de-pie-para-little-pie/">¡Lea nuestra reseña de Little Love Bug aquí!</a></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
@@ -130,7 +130,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 <h2 class="wp-block-heading">Zapatos de vestir descalzos para niños grandes</h2>
-<p>Los siguientes zapatos de vestir descalzos vienen en tallas para niños grandes. Si su hijo puede caber en tallas de adulto, consulte mi<a href="/tag/dressy/"> Opciones de zapatos de vestir descalzos para adultos.</a> para más.</p>
+<p>Los siguientes zapatos de vestir descalzos vienen en tallas para niños grandes. Si su hijo puede caber en tallas de adulto, consulte mi<a href="/tema/arreglado/"> Opciones de zapatos de vestir descalzos para adultos.</a> para más.</p>
 
 <h3 class="wp-block-heading">Bailarinas y Merceditas</h3>
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
@@ -138,7 +138,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.kqzyfj.com/click-9040624-15425299?url=https%3A%2F%2Fwww.camper.com%2Fen_US%2Fcontent%2Fpeu-icons">Camper</a> (EE. UU.) – Tallas EE. UU. 9T-6Y. La línea “Right” de Camper incluye bailarinas estilo bailarina en varios colores de piel y también algunos metalizados.</p>
+<p><a href="https://www.camper.com/en_US/content/peu-icons">Camper</a> (EE. UU.) – Tallas EE. UU. 9T-6Y. La línea “Right” de Camper incluye bailarinas estilo bailarina en varios colores de piel y también algunos metalizados.</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
@@ -147,7 +147,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos Softstar Jóvenes Merry Jane</a> (EE. UU.) – Tallas EE. UU. 1A-4A. Hechos a mano en Oregón, estos zapatos clásicos se ofrecen en diferentes colores según la temporada, ¡con la posibilidad de personalizar tus colores! También vienen en anchos estrechos, regulares y anchos.</p>
+<p>Zapatos Softstar Jóvenes Merry Jane (EE. UU.) – Tallas EE. UU. 1A-4A. Hechos a mano en Oregón, estos zapatos clásicos se ofrecen en diferentes colores según la temporada, ¡con la posibilidad de personalizar tus colores! También vienen en anchos estrechos, regulares y anchos.</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
@@ -165,11 +165,11 @@ translatedFrom: en
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 <h3 class="wp-block-heading">Zapatos Oxford y Derby</h3>
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://freetbarefoot.com/product/junior-freet-citee/?ref=X9T_QsyhrdeOL">Cita libre</a> (Reino Unido) – Tallas UE 30-36. ¡Una de las únicas opciones de zapatos de vestir veganos para niños! Usar código <strong></strong> para 10% de descuento</p>
+<p><a href="https://freetbarefoot.com/product/junior-freet-citee/">Cita libre</a> (Reino Unido) – Tallas UE 30-36. ¡Una de las únicas opciones de zapatos de vestir veganos para niños! Usar código <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.saguaro.com/collections/dress-barefoot-shoes/?ref=Nafs6yLHHkYzpP">Saguaro</a> – Tallas UE 36-46. Opción asequible sin cuero. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
+<p><a href="https://www.saguaro.com/collections/dress-barefoot-shoes/">Saguaro</a> – Tallas UE 36-46. Opción asequible sin cuero. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
@@ -183,7 +183,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://gaucho.ninja/collections/barefoot-pals?sca_ref=1590756.RvKfloLbRH">Amigos descalzos gaucho ninja </a>(Reino Unido) – UE 25-35.  Velcro en las tallas más pequeñas, cordones en las más grandes. ¡Tienen una gran forma!</p>
+<p><a href="https://gaucho.ninja/collections/barefoot-pals">Amigos descalzos gaucho ninja </a>(Reino Unido) – UE 25-35.  Velcro en las tallas más pequeñas, cordones en las más grandes. ¡Tienen una gran forma!</p>
 <p>Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
@@ -196,3 +196,32 @@ translatedFrom: en
 </div></div>
 <p>Calambres en los dedos de los pies al vestirse elegante no es un rito de iniciación. No es necesario que los niños (o los adultos) se torturen los pies para verse bien. Los zapatos de vestir descalzos para niños brindan a los pequeños la oportunidad de expresarse sin sufrir daños. ¡Todos ganan!</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "20 zapatos de vestir descalzos para que los niños los usen en ocasiones elegantes" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar 20 zapatos de vestir descalzos para que los niños los usen en ocasiones elegantes, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+## Para que tipo de pie puede funcionar mejor
+
+La anchura es solo una parte de la historia. Dos personas pueden tener la misma talla y necesitar zapatos muy distintos. Hay pies anchos en la zona de los dedos, pies estrechos de talon, pies con mucho volumen, pies planos, empeines altos y dedos especialmente largos.
+
+Si tienes pie ancho, mira la plantilla desde arriba y no te fies solo de la palabra "wide". Si tienes bajo volumen, busca buen ajuste con cordones o velcros. Si tu empeine es alto, evita modelos con lengueta corta o materiales rigidos. Y si estas entre tallas, prioriza que los dedos tengan espacio delante sin que el talon pierda estabilidad.
+
+La mejor senal es simple: puedes mover los dedos, el pie no se desplaza dentro y no tienes que "domar" el zapato durante semanas.

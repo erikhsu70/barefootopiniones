@@ -73,7 +73,7 @@ translatedFrom: en
 <ul>
 <li></li>
 <li></li>
-<li><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fwomens-primal-2">Lems Primal 2 </a>(grandes tallas para niños)</li>
+<li><a href="https://www.lemsshoes.com/products/womens-primal-2">Lems Primal 2 </a>(grandes tallas para niños)</li>
 </ul>
 </li>
 </ul>

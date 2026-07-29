@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Xero Shoes Invierno 2022: ¡todos los modelos nuevos revisados ​​aquí!'
+title: "Mi opinión sobre la colección de invierno 2022 de Xero Shoes"
 description: Para ayudarte en tus esfuerzos con el calzado barefoot, probé y revisé
   los 5 nuevos zapatos Xero, con un poco de ayuda de mis amigos.
 date: '2022-11-15T22:02:05'
@@ -40,13 +40,13 @@ translatedFrom: en
 <p>En general, los zapatos Xero se ajustan de la siguiente manera:</p>
 <ul>
 <li>Fiel al tamaño en su mayoría, pero a veces un poco pequeño: si Xero se adapta bien a la forma de su pie, es menos probable que necesite aumentar el tamaño. Mido al menos media talla más en la mayoría de mis zapatos Xero porque tengo los dedos de los pies anchos.</li>
-<li><a href="/best-shoes-for-wide-feet/#where-do-you-need-your-width">Amplia recta</a> – Esto significa que son buenos para personas que son anchas a lo largo de su pie, y pueden no ser mejores para pies que tienen forma de abanico (muy anchos en los dedos).</li>
-<li><a href="/ufaq/what-is-foot-volume/">Alto volumen</a> – Xero suele tener mucho espacio vertical en sus zapatos, lo que significa que tienes espacio por encima de los dedos y el arco. Pero algunos de los nuevos modelos de esta temporada son más <strong>volumen medio.</strong></li>
-<li><a href="/ufaq/whats-my-foot-type/">Puntera en forma de montaña/meseta</a> – la punta redondeada significa que tendrás espacio para el segundo y tercer dedo largos.</li>
+<li><a href="/zapatos-barefoot-para-pies-anchos-guia-completa/#where-do-you-need-your-width">Amplia recta</a> – Esto significa que son buenos para personas que son anchas a lo largo de su pie, y pueden no ser mejores para pies que tienen forma de abanico (muy anchos en los dedos).</li>
+<li><a href="/preguntas/que-es-el-volumen-del-pie/">Alto volumen</a> – Xero suele tener mucho espacio vertical en sus zapatos, lo que significa que tienes espacio por encima de los dedos y el arco. Pero algunos de los nuevos modelos de esta temporada son más <strong>volumen medio.</strong></li>
+<li><a href="/preguntas/cual-es-mi-tipo-de-pie/">Puntera en forma de montaña/meseta</a> – la punta redondeada significa que tendrás espacio para el segundo y tercer dedo largos.</li>
 </ul>
-<p>Mis pies tienen forma de abanico y de poco volumen. Eso significa que Xero no es la combinación perfecta para mí, pero si mido y uso <a href="/ufaq/fit-hacks-for-low-volume-feet/">Trucos de ajuste de bajo volumen</a> Puedo hacer que la mayoría de los modelos Xero funcionen bien. </p>
+<p>Mis pies tienen forma de abanico y de poco volumen. Eso significa que Xero no es la combinación perfecta para mí, pero si mido y uso <a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">Trucos de ajuste de bajo volumen</a> Puedo hacer que la mayoría de los modelos Xero funcionen bien. </p>
 <p>Prestar atención al tipo de ajuste de una marca realmente puede ayudarlo a tomar decisiones de compra más informadas, pero son más pautas que reglas reales. 🏴‍☠️ Así que no tengas miedo de probar algo que te atraiga; nunca sabes realmente si funcionarán hasta que estés en tus pies. </p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Para obtener más información sobre el tipo de pie y las marcas de Zapatos barefoot que les funcionan bien, diríjase aquí.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Para obtener más información sobre el tipo de pie y las marcas de Zapatos barefoot que les funcionan bien, diríjase aquí.</a></p>
 
 <p>¡Ahora profundicemos en los 5 nuevos modelos de Xero Shoes!</p>
 
@@ -56,7 +56,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">$130 | Tallas EE. UU. Mujer 5 – Hombre 15 | vegano</p>
 
-<p>Anteriormente el <a href="/xero-360-review-barefoot-cross-training-shoe/">Xero 360</a> fue mi recomendación para los ratas del gimnasio, pero el Xero Forza Trainer podría ganar. Están construidos sobre una nueva suela exterior extra flexible y con mayor agarre y tienen una parte superior similar a un calcetín que es ligera y transpirable. La correa de seguridad combinada con los cordones los hace muy estables y realmente cómodos incluso si no los usas para hacer ejercicio.</p>
+<p>Anteriormente el <a href="/revision-de-xero-360-el-calzado-barefoot-definitivo-para-entrenamiento-cruzado/">Xero 360</a> fue mi recomendación para los ratas del gimnasio, pero el Xero Forza Trainer podría ganar. Están construidos sobre una nueva suela exterior extra flexible y con mayor agarre y tienen una parte superior similar a un calcetín que es ligera y transpirable. La correa de seguridad combinada con los cordones los hace muy estables y realmente cómodos incluso si no los usas para hacer ejercicio.</p>
 <p>Mi amiga Megan y yo probamos el Forza Trainer (ella tiene la misma talla de zapato que yo). Yo los usé trabajando en el almacén y ella los usó en el gimnasio para hacer kickboxing, levantamiento de pesas y CrossFit. Su opinión es la siguiente:</p>
 <p>"Eran cómodos para los arranques con barra y proporcionaban una buena base para levantar objetos sin ser restrictivos. También tienen algo de protección en los dedos para los burpees y una pequeña estructura en el talón para que no se salgan de las correas de la máquina de remo. Llevo usando Xero Prio para mis entrenamientos desde mayo, ¡pero son una opción aún mejor para los entrenamientos en el gimnasio!"</p>
 <p>Notamos algunos chirridos en las superficies interiores (piense en los chirridos del piso de baloncesto interior), pero parecían desaparecer después de varios usos.</p>
@@ -83,7 +83,7 @@ translatedFrom: en
 
 <p>Este es el primer par de Xero de Justin y fueron un jonrón total. Tiene un pie de forma rectangular que se mantiene ancho hasta la parte media del pie, por lo que no sorprende que los zapatos Xero le queden bien. La flexibilidad también es buena: no hubo descanso para Justin, ¡simplemente se los puso y siguió con su día! </p>
 <p>Ambos estábamos muy satisfechos con su diseño elegante y el acogedor forro de franela agrega suficiente calidez para que se sientan bien en los meses fríos pero no demasiado calientes para usarlos en interiores.</p>
-<p>El cuero de plena flor es naturalmente resistente al agua, pero también puedes tratarlo tú mismo: aprende el <a href="/complete-list-waterproof-barefoot-shoes-rain/#how-to-waterproof-your-shoes">Las mejores formas de impermeabilizar tus zapatos aquí.</a>. El cuero tiene un aspecto rústico sin terminar que se raya, pero desarrolla una pátina y mejora con el tiempo. Los amamos.</p>
+<p>El cuero de plena flor es naturalmente resistente al agua, pero también puedes tratarlo tú mismo: aprende el <a href="/las-mejores-botas-de-lluvia-impermeable-y-zapatos/#how-to-waterproof-your-shoes">Las mejores formas de impermeabilizar tus zapatos aquí.</a>. El cuero tiene un aspecto rústico sin terminar que se raya, pero desarrolla una pátina y mejora con el tiempo. Los amamos.</p>
 
 <p><strong>Sizing &amp;amp; Fit Type:</strong> Fiel al tamaño con un corte amplio y recto. Se ajustan a un volumen medio: Justin tiene arcos bajos y se puede ver que todavía no aprieta demasiado los cordones. Pero deberías poder aflojarlos o apretarlos según sea necesario para tu tipo de pie.</p>
 
@@ -104,7 +104,7 @@ translatedFrom: en
 
 <p class="has-text-align-center"><meta charset="utf-8"/>$110 | Talla estadounidense para hombre 6.5 – 15 | Malla y ante.</p>
 
-<p>Recluté a Allison, fanática de los Zapatos barefoot (y autora de este artículo sobre <a href="/14-tween-teen-approved-barefoot-shoes/">Zapatos barefoot para adolescentes y preadolescentes</a>), para ayudarme con este. Su hijo de 16 años ha estado probando el Xero Prio Suede como zapato de gimnasio/entrenamiento con pesas durante los últimos 3 meses. Esto es lo que ella dijo sobre ellos:</p>
+<p>Recluté a Allison, fanática de los Zapatos barefoot (y autora de este artículo sobre <a href="/13-zapatos-barefoot-aprobados-para-preadolescentes-y-adolescentes-mira-mama-sin-velcro/">Zapatos barefoot para adolescentes y preadolescentes</a>), para ayudarme con este. Su hijo de 16 años ha estado probando el Xero Prio Suede como zapato de gimnasio/entrenamiento con pesas durante los últimos 3 meses. Esto es lo que ella dijo sobre ellos:</p>
 <p>"El Xero Prio en gamuza es una buena actualización de uno de los zapatos más vendidos de Xero. El estilo de gamuza y malla lleva al Prio de un calzado deportivo a un look más informal, casi un zapato de skate.</p>
 <p>Mi hijo de 16 años tiene una edad en la que le permitimos tomar muchas decisiones por sí mismo, incluido el calzado. Padres de adolescentes, ¡sé que sienten la lucha por esto! Pero sabe que lo ideal es levantar pesas pesadas con la mayor estabilidad posible, por lo que aceptó probarlas en su clase de levantamiento de pesas.</p>
 <p>Los Prio de gamuza parecen estar usando la misma suela Feel True de 6 mm que también aparece en sus . El color gris tiene una suela color canela, mientras que el color negro tiene una suela negra. Mi hijo notó que las suelas tenían mucho agarre y sintió que le ayudaban con su estabilidad mientras hacía peso muerto y sentadillas traseras. La flexibilidad de la suela también fue una ventaja, ya que corría con ellas con frecuencia para calentar. </p>

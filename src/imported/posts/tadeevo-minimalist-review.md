@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de zapatos minimalistas Tadeevo
+title: "Mi opinión sobre zapatos minimalistas Tadeevo"
 description: '*Debido a problemas continuos con el envío y las devoluciones para clientes
   fuera de Europa, solo recomendamos esta marca a aquellos dentro de Europa. Como
   sabrás, me encanta probar nuevas marcas y siempre estoy buscando gemas escondidas.
@@ -27,7 +27,7 @@ translatedFrom: en
 <figure class="wp-block-image"><figcaption class="wp-element-caption"><a href="https://tadeevo.com/en_US/p/Tadeevo-volcanic-grey-minimalist-shoes/60">Zapatos minimalistas Tadeevo en Gris Volcánico</a></figcaption></figure>
 
 <h2 class="wp-block-heading">Materiales</h2>
-<p>Estos zapatos son increíblemente flexibles y muy livianos. Encima están hechas de piel y malla (muy transpirables) y están completamente desestructuradas, por lo que se mueven mucho con el pie. La suela es de goma. La plantilla es de piel, pero es un poco áspera y no me encanta usarlas sin calcetines ni plantillas. Yo uso mi <a href="https://northsole.co/collections/insoles">Plantillas de suela norte.</a> o estos <a href="https://amzn.to/2BpCA0C">calcetines invisibles</a> (estos calcetines tienen la costura debajo y no me pellizca los dedos de los pies). Por lo demás, son MUY cómodos.</p>
+<p>Estos zapatos son increíblemente flexibles y muy livianos. Encima están hechas de piel y malla (muy transpirables) y están completamente desestructuradas, por lo que se mueven mucho con el pie. La suela es de goma. La plantilla es de piel, pero es un poco áspera y no me encanta usarlas sin calcetines ni plantillas. Yo uso mi <a href="https://northsole.co/collections/insoles">Plantillas de suela norte.</a> o estos calcetines invisibles (estos calcetines tienen la costura debajo y no me pellizca los dedos de los pies). Por lo demás, son MUY cómodos.</p>
 
 <figure class="wp-block-image"><figcaption class="wp-element-caption">¡Tan flexible!</figcaption></figure>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">La lengüeta de los zapatos es fina y tiende a caer hacia un lado. Mi única otra queja, además de la plantilla áspera.</figcaption></figure>
@@ -45,7 +45,7 @@ translatedFrom: en
 <p>En cuanto al estilo, realmente aprecio el color neutro de estos. Hay varias opciones neutras y yo elegí Volcanic Grey. Cuando quise comprarlos, estaban agotados, pero no tuve que esperar mucho para que volvieran a estar disponibles. No me gustan los zapatos que tienen un aspecto deportivo, y busqué durante mucho tiempo algo con lo que pudiera hacer ejercicio, pero que pareciera más una zapatilla de moda. Estos Tadeevos son sencillos y fáciles de poner con joggers o leggings. No parece que sólo pertenezcan a un gimnasio o a un sendero. Para aquellos a quienes les gusta el color, también hay algunas opciones divertidas y brillantes (rojo brillante, verde y naranja).</p>
 
 <h2 class="wp-block-heading">Cuidado del calzado</h2>
-<p>yo usé <a href="https://amzn.to/2GcPQtB">Limpiador de cuero de Chamberlain</a> para limpiar las secciones de cuero y ha funcionado muy bien para quitar las manchas. No he necesitado limpiar la malla, pero sí usaría un trapo con agua y jabón. Si se ensuciaran mucho, me arriesgaría a lavarlos suavemente en agua fría con mi <a href="https://amzn.to/2GtHNrp">detergente de nueces de jabón</a> (¡Lo he hecho con mi Vivobarefoot Gobi y no hay problema!). Sorprendentemente, todavía no he arruinado ningún zapato de cuero lavándolos en la máquina, ¡aunque no lo recomiendo para zapatos elegantes!.</p>
+<p>yo usé Limpiador de cuero de Chamberlain para limpiar las secciones de cuero y ha funcionado muy bien para quitar las manchas. No he necesitado limpiar la malla, pero sí usaría un trapo con agua y jabón. Si se ensuciaran mucho, me arriesgaría a lavarlos suavemente en agua fría con mi detergente de nueces de jabón (¡Lo he hecho con mi Vivobarefoot Gobi y no hay problema!). Sorprendentemente, todavía no he arruinado ningún zapato de cuero lavándolos en la máquina, ¡aunque no lo recomiendo para zapatos elegantes!.</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Según mi experiencia, estas son algunas de las zapatillas más minimalistas que existen. ¡Marcan todas las casillas y son lindos además!</p>
 <p>¿Alguno de vosotros ha encontrado zapatillas descalzas que no tengan un aspecto demasiado deportivo, pero que funcionen como un sueño? ¡Me encantaría saber qué más hay por ahí!</p>

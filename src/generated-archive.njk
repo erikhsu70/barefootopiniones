@@ -1,67 +1,51 @@
 ---
 layout: layouts/base.njk
 pagination:
-  data: anyasSitemap.generatedPages
+  data: localizedArchives
   size: 1
   alias: archive
-permalink: "{{ archive.path }}"
+permalink: "{{ archive.path | localizeUrl }}"
 eleventyComputed:
-  title: "{{ archive | archiveDisplayTitle }} | Archivo"
-  description: "Archivo de {{ archive | archiveDisplayTitle }} en Barefoot Opiniones: artículos, reseñas y guías de Isabel para encontrar contenido barefoot por tema, marca o necesidad."
+  title: "{{ archive | archiveDisplayTitle }}"
+  description: "Explora {{ archive | archiveDisplayTitle }} en Barefoot Opiniones: artículos, opiniones y guías de Isabel para encontrar contenido barefoot por tema, marca o necesidad."
 ---
 {% set archiveItems = collections.importedPosts | archivePosts(archive) %}
 {% set archiveLabel = archive | archiveTypeLabel %}
 {% set archiveTitle = archive | archiveDisplayTitle %}
 
-<section class="page-content taxonomy-page">
-  <section class="taxonomy-hero">
-    <div>
-      <p class="eyebrow">{{ archiveLabel }}</p>
+<section class="lov-page-hero">
+  <div class="lov-page-hero__inner">
+      <p class="lov-article-kicker">{{ archiveLabel }} · {{ archiveItems.length }} artículos</p>
       <h1>{{ archiveTitle }}</h1>
-      <p>{{ archive.description or "Artículos de BarefootOpiniones agrupados para navegar rápido por tema, intención de búsqueda y tipo de zapato." }}</p>
-    </div>
-    <div class="taxonomy-stats">
-      <div><strong>{{ archiveItems.length }}</strong><span>Artículos</span></div>
-      <div><strong>{{ collections.importedPosts.length }}</strong><span>Total blog</span></div>
-    </div>
-  </section>
+      <p>Artículos de BarefootOpiniones agrupados para navegar rápido por tema, intención de búsqueda y tipo de zapato.</p>
+  </div>
+</section>
 
-  <nav class="taxonomy-jump" aria-label="Archivos relacionados">
-    <a href="/articulos/">Todo el blog</a>
-    <a href="/category/shoe-lists/">Listas</a>
-    <a href="/category/resources/">Recursos</a>
-    <a href="/category/reviews/">Reseñas</a>
-    <a href="/tag/transitioning/">Transición</a>
-    <a href="/style/">Estilo</a>
-  </nav>
-
+<section class="lov-archive">
   {% if archiveItems.length %}
-    <div class="archive-grid taxonomy-grid">
+    <div class="lov-category-grid">
       {% for post in archiveItems %}
-        <article class="post-card">
-          <a href="{{ post.url }}">
-            {% if post.data.image %}
-              <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        <a class="lov-category-card" href="{{ post.url }}">
+          <div class="lov-category-card__image">
+            {% if (post | featuredImage) %}
+              <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
             {% endif %}
-            <div class="post-card-content">
-              <div class="post-meta">
-                <span>{{ archiveLabel }}</span>
-                <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-              </div>
-              <h3>{{ post.data.title }}</h3>
+          </div>
+          <div class="lov-category-card__body">
+              <time class="lov-card-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+              <h2>{{ post.data.title }}</h2>
               {% if post.data.description %}
-                <p>{{ post.data.description | safe }}</p>
+                <p>{{ post.data.description | cleanSummary }}</p>
               {% endif %}
-            </div>
-          </a>
-        </article>
+          </div>
+        </a>
       {% endfor %}
     </div>
   {% else %}
     <section class="taxonomy-empty">
       <p class="eyebrow">Sin resultados claros</p>
-      <h2>No he encontrado artículos para este archivo.</h2>
-      <p>Puede que esta URL exista por mantener el sitemap original. Mientras organizamos el contenido, puedes volver al índice completo.</p>
+      <h2>No he encontrado artículos en esta colección.</h2>
+      <p>Puede que esta dirección se conserve por compatibilidad con enlaces antiguos. Puedes volver al directorio completo.</p>
       <a class="button" href="/articulos/">Ver todos los artículos</a>
     </section>
   {% endif %}

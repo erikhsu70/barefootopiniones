@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Zapatillas de ciclismo con forma de pie"
 description: "Una mirada a las primeras opciones de ciclismo pensadas para no comprimir los dedos dentro de la cala."
 date: 2026-06-11
-category: "Reseña"
+category: "Opinión"
 tags: ["resenas"]
 permalink: /zapatillas-ciclismo-forma-pie/
 image: "/assets/images/cycling.jpg"

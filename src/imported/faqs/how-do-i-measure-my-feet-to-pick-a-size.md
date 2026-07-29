@@ -45,12 +45,12 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Debido a que los Zapatos barefoot no se venden a menudo en las tiendas físicas, estar preparados para pedir en línea. ¡El primer paso es medir tus pies! Aquí están mis mejores prácticas para medir con precisión sus pies con el fin de elegir un tamaño de zapato barefoot:</p>
-<ul><li>Siempre mido mis pies <strong>centímetros</strong> para asegurar un número exacto, y mido antes de cada compra (<a href="/ufaq/will-my-feet-change-if-i-wear-barefoot-shoes/">si mis pies han cambiado</a>). </li></ul>
+<ul><li>Siempre mido mis pies <strong>centímetros</strong> para asegurar un número exacto, y mido antes de cada compra (<a href="/preguntas/mis-pies-cambiaran-si-uso-zapatos-barefoot/">si mis pies han cambiado</a>). </li></ul>
 <ul><li>Si planeas usar calcetines en los zapatos que estás comprando deberías tenerlos.</li></ul>
 <ul><li>Medir al final del día cuando tus pies son más grandes.</li></ul>
 <ul><li>Si eres nuevo en Zapatos barefoot, ten en cuenta que pueden sentirse demasiado grandes la primera vez que los pones. <em>Si se quedan seguras en su pie cuando usted camina y no se desliza alrededor, ese espacio alrededor de sus dedos de los pies es bueno</em> <em>y probablemente elegiste el siz correcto</em>¡E!</li></ul>
 <ul><li>La recomendación general es usar zapatos que son de 1 a 1,2 cm más largos que el pie, pero <strong>puede variar significativamente dependiendo de su preferencia y el estilo de zapato.</strong> En zapatillas, a veces tengo sólo 5 cm de longitud extra para que se ajusten cerca y de forma segura a mi pie. En las botas de encaje que son altamente ajustables, estoy cómodo con tanto como 2cm de longitud extra. Si el zapato coincide perfectamente con la forma del pie, se requiere menos longitud extra (¡son guantes de pie!). Y <em><strong>todo esto puede ser impactado por el diseño de la parte superior, los materiales utilizados, y su tipo de pie y preferencias particulares.</strong></em></li></ul>
-<p>A pesar de las inevitables variaciones, obtener una medición precisa y entender un gráfico de tamaño puede reducir la posibilidad de dimensionar errores. Hay dos formas principales de medir en casa: <strong>Un rastreo de pie</strong> y <strong>el método de la pared</strong>. O usted puede saltar ambos y comprar <a href="https://amzn.to/44Xy6dQ">un dispositivo de medición</a>!</p>
+<p>A pesar de las inevitables variaciones, obtener una medición precisa y entender un gráfico de tamaño puede reducir la posibilidad de dimensionar errores. Hay dos formas principales de medir en casa: <strong>Un rastreo de pie</strong> y <strong>el método de la pared</strong>. O usted puede saltar ambos y comprar un dispositivo de medición!</p>
 <p>En cualquier caso, para compras costosas/riesgadas de zapatos siempre mido múltiples formas TWICE por la noche. Está bien si sus mediciones son ligeramente diferentes cada vez, simplemente use el promedio.</p>
 <h3 class="wp-block-heading">Foot Tracing</h3>
 
@@ -60,8 +60,8 @@ translatedFrom: en
 <h3 class="wp-block-heading">Método de pared</h3>
 
 <p>El método de la pared produce la longitud y el ancho más precisos de su pie. Mide el pie. <em>longitud</em> colocando su tacón ligeramente contra la pared (no lo empuje) y poniendo un libro pesado donde su dedo más largo termina. Luego marca dónde está el libro y mide esa distancia. Tienes el pie. <em>ancho</em> alineando el borde exterior de tu pie contra la pared y colocando el libro en el otro lado. Luego marca con un lápiz y medida. </p>
-<p><a href="/best-barefoot-shoes-foot-type/#measuring-your-feet">Usted puede encontrar una demostración de vídeo de cómo medir sus pies a ambos lados aquí.</a></p>
-<p>Y si ahora estás listo para aprender <a href="/ufaq/how-do-i-interpret-a-size-chart/">cómo interpretar un gráfico de tamaño</a>, diríjase a esa FAQ aquí.</p>
+<p><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">Usted puede encontrar una demostración de vídeo de cómo medir sus pies a ambos lados aquí.</a></p>
+<p>Y si ahora estás listo para aprender <a href="/preguntas/como-uso-una-tabla-de-tamano-para-elegir-un-tamano/">cómo interpretar un gráfico de tamaño</a>, diríjase a esa FAQ aquí.</p>
 </div>
 
 </div>

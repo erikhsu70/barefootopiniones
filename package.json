@@ -6,6 +6,13 @@
   "scripts": {
     "build": "node scripts/clean-dist.mjs && eleventy",
     "check:featured": "node scripts/check-featured-images.mjs",
+    "check:affiliates": "node scripts/clean-affiliate-links.mjs --check",
+    "check:models": "node scripts/check-model-images.mjs",
+    "check:schema": "node scripts/check-schema.mjs",
+    "check:site": "node scripts/check-built-site.mjs",
+    "check:titles": "node scripts/normalize-spanish-titles.mjs",
+    "check:urls": "node scripts/check-spanish-urls.mjs",
+    "export:content": "node scripts/export-content-inventory.mjs",
     "export:titles": "node scripts/export-post-titles.mjs",
     "hydrate:thumbnails": "node scripts/hydrate-imported-thumbnails.mjs",
     "import:anyas": "node scripts/import-anyas.mjs",

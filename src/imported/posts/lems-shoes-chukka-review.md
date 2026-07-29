@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de botas Chukka de Lems Shoes
+title: "Mi opinión sobre botas Chukka de Lems Shoes"
 description: Lems lanzó recientemente una nueva bota chukka que me llamó la atención,
   así que decidí probárselas con mi esposo para ver cómo se comparaban. El chukka
   de ante es un gran estilo tanto para hombres como para mujeres, y no se encuentra
@@ -21,11 +21,11 @@ tags:
 language: es
 translatedFrom: en
 ---
-<figure class="wp-block-image"><figcaption class="wp-element-caption"><a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fall-mens-products%2Fproducts%2Fmens-chukka%3Fvariant%3D23602871238714">Botas Lems Chukka en Melena de León</a></figcaption></figure>
+<figure class="wp-block-image"><figcaption class="wp-element-caption"><a href="https://www.lemsshoes.com/collections/all-mens-products/products/mens-chukka?variant=23602871238714">Botas Lems Chukka en Melena de León</a></figcaption></figure>
 
-<p>Lems lanzó recientemente un nuevo <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-chukka">bota chukker</a> eso me llamó la atención, así que decidí probárselos con mi esposo para ver cómo se comparaban.</p>
-<p>La chukka de gamuza es un gran estilo para ambos. <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-chukka">hombres</a> y <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fwomens-chukka">mujeres</a>, y no se encuentra comúnmente en marcas descalzas (<a href="https://www.hosshandmade.com/">Hoss Handmade</a> tiene lo más parecido), por lo que siempre es emocionante cuando se agregan nuevos estilos al repertorio barefoot.</p>
-<p>Lems <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-chukka">Chukker</a> está construido sobre la misma suela que el <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fmens-boulder-boot-leather">roca</a>, <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-nine2five">nueve2cinco</a> y <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-mariner">marinero</a>, y disponible tanto para hombre como para mujer en dos colores (bronceado y topo).</p>
+<p>Lems lanzó recientemente un nuevo <a href="https://www.lemsshoes.com/products/mens-chukka">bota chukker</a> eso me llamó la atención, así que decidí probárselos con mi esposo para ver cómo se comparaban.</p>
+<p>La chukka de gamuza es un gran estilo para ambos. <a href="https://www.lemsshoes.com/products/mens-chukka">hombres</a> y <a href="https://www.lemsshoes.com/products/womens-chukka">mujeres</a>, y no se encuentra comúnmente en marcas descalzas (<a href="https://www.hosshandmade.com/">Hoss Handmade</a> tiene lo más parecido), por lo que siempre es emocionante cuando se agregan nuevos estilos al repertorio barefoot.</p>
+<p>Lems <a href="https://www.lemsshoes.com/products/mens-chukka">Chukker</a> está construido sobre la misma suela que el <a href="https://www.lemsshoes.com/collections/mens-boulder-boot-leather">roca</a>, <a href="https://www.lemsshoes.com/products/mens-nine2five">nueve2cinco</a> y <a href="https://www.lemsshoes.com/products/mens-mariner">marinero</a>, y disponible tanto para hombre como para mujer en dos colores (bronceado y topo).</p>
 
 <p>Elegimos el color bronceado (Melena de León) y resultó ser un bronceado rico y encantador, con un tono más sutil de lo que sugieren las imágenes del sitio web.</p>
 
@@ -37,7 +37,7 @@ translatedFrom: en
 
 <p>Debido a que las suelas de Lems están inyectadas con aire, siguen siendo muy livianas a pesar de su aspecto pesado. El interior está forrado de tela y el cuero es agradable y flexible. En conjunto, se ven y se sienten como un zapato realmente cómodo, ¡y mi esposo está ansioso por conseguir el siguiente número!</p>
 
-<p>Si estás buscando botas, Lems <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fmens-boulder-boot-leather">Bota de búlder</a> ¡Es una bota de invierno popular que entusiasma a mucha gente! Lo he echado el ojo desde hace un tiempo y noté que están lanzando un <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fproducts%2Fmens-waterproof-boulder-boot">versión impermeable</a> de ello pronto. </p>
+<p>Si estás buscando botas, Lems <a href="https://www.lemsshoes.com/collections/mens-boulder-boot-leather">Bota de búlder</a> ¡Es una bota de invierno popular que entusiasma a mucha gente! Lo he echado el ojo desde hace un tiempo y noté que están lanzando un <a href="https://www.lemsshoes.com/products/mens-waterproof-boulder-boot">versión impermeable</a> de ello pronto. </p>
 <p>Los residentes europeos pueden comprar Lems <span style="font-size: 1rem;">en</span> .</p>
 <p>¡Déjenme saber si alguno de ustedes prueba estos Chukkas y tiene alguna idea adicional!</p>
 
@@ -94,3 +94,30 @@ No todos los zapatos barefoot sirven para todo. Algunos son maravillosos para ci
 Por eso me gusta pensar en escenarios concretos: caminar al trabajo, hacer recados, viajar, salir a cenar, llevar ninos al parque, caminar por adoquines o pasar muchas horas de pie. Cuando imaginas el uso real, la decision se vuelve mucho mas clara.
 
 Un buen zapato no tiene que ganar en todas las categorias. Tiene que ser honesto en la categoria para la que lo compras.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de botas Chukka de Lems Shoes es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

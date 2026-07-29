@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Be Lenka Kids: ¡Zapatos barefoot para pies pequeños y anchos!'
+title: "Mi opinión sobre el calzado infantil Be Lenka para pies anchos"
 description: Be Lenka Zapatos barefoot para niños y adultos. ¡Los amamos! Los modelos
   para niños son ideales para pies extra anchos y también nos encanta que Be Lenka
   ofrezca muchas opciones en tallas grandes para niños y adolescentes.
@@ -19,7 +19,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p> fabrica Zapatos barefoot de alta calidad para niños y adultos. <a href="/brand/belenka/">Los amamos</a>! Los modelos para niños son ideales para pies extra anchos y también nos encanta que Be Lenka ofrezca muchas opciones en tallas grandes para niños y adolescentes. Echa un vistazo a nuestra reseña de los Zapatos barefoot para niños Be Lenka a continuación.</p>
+<p> fabrica Zapatos barefoot de alta calidad para niños y adultos. <a href="/marca/belenka/">Los amamos</a>! Los modelos para niños son ideales para pies extra anchos y también nos encanta que Be Lenka ofrezca muchas opciones en tallas grandes para niños y adolescentes. Echa un vistazo a nuestra reseña de los Zapatos barefoot para niños Be Lenka a continuación.</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-2712d4a5" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -38,7 +38,7 @@ translatedFrom: en
 <p>Toda la línea de zapatos para niños está construida con la misma suela, por lo que puedes esperar tallas consistentes en todos los estilos. La suela es de goma de 6 mm que es flexible, pero no flexible. Tiene una banda de rodadura con pocos baches que proporciona cierto agarre en el patio de recreo y nos ha funcionado bastante bien en superficies interiores y exteriores en todas las estaciones. Mis hijos no se quejan de que estén resbaladizos, ¡ni siquiera en invierno!</p>
 </div></div>
 
-<p>También hay varios modelos para adultos que llegan hasta la talla EU 33; puedes obtener más información sobre las suelas de esos zapatos en nuestra <a href="/be-lenka-barefoot-review-2022/">Sé una revisión para adultos de Lenka.</a></p>
+<p>También hay varios modelos para adultos que llegan hasta la talla EU 33; puedes obtener más información sobre las suelas de esos zapatos en nuestra <a href="/revision-de-be-lenka-barefoot-nuevos-modelos-para-2022/">Sé una revisión para adultos de Lenka.</a></p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-dots"/>
 
@@ -46,7 +46,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuero | $69 | 6 colores | Tallas UE 25-35</p>
 <p>¡La zapatilla Jolly es una zapatilla sencilla de corte bajo para todos los días disponible en TRECE combinaciones de colores diferentes! La parte superior es de nobuk lujoso y está forrada con un tejido de malla transpirable. </p>
-<p>Mi hija mayor es muy sensible a las texturas de sus zapatos y no los usa sin calcetines porque la malla le pica y le resulta incómoda. Ella siempre me roba  para usar con ellos porque son delgados y combinan muy bien con el color azul. ¡Aparte del forro, le encantan sus zapatos Be Lenka! Ella ha sido bendecida con pies anchos como yo y le quedan muy bien. Los rocié con <a href="https://amzn.to/3LHoKZA">Collonil Carbono Pro</a> y cualquier suciedad o desgaste se ha eliminado fácilmente.</p>
+<p>Mi hija mayor es muy sensible a las texturas de sus zapatos y no los usa sin calcetines porque la malla le pica y le resulta incómoda. Ella siempre me roba  para usar con ellos porque son delgados y combinan muy bien con el color azul. ¡Aparte del forro, le encantan sus zapatos Be Lenka! Ella ha sido bendecida con pies anchos como yo y le quedan muy bien. Los rocié con Collonil Carbono Pro y cualquier suciedad o desgaste se ha eliminado fácilmente.</p>
 <p><strong>Sizing &amp;gt; Fit: </strong>¡Fiel al tamaño! Lleva la misma talla que las de otras marcas, pero ciertamente son más anchas en los dedos de los pies. Se ajustan a un volumen medio-alto. Los pies de volumen bajo necesitarán apretar más el velcro, y los de volumen extra alto pueden quitar la plantilla para obtener algo de espacio adicional. Hay mucha capacidad de ajuste en las correas para lograr un ajuste seguro en la parte superior del pie. </p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
@@ -56,7 +56,7 @@ translatedFrom: en
 <p class="has-text-align-center">Cuero | $79 | 13 colores | Tallas UE 25-35</p>
 <p>Las zapatillas Play de Be Lenka son un básico para todo el año. Funcionan como una zapatilla de deporte para el uso diario, pero llegan un poco más arriba del tobillo que las Jolly. Incluso pueden vestirse elegantemente gracias a la elegante parte superior de cuero nobuck (especialmente en colores neutros). Los cierres de doble velcro hacen que sean fáciles de poner y conseguir un ajuste seguro. El interior es un tejido de malla transpirable con plantilla extraíble (igual que Jolly). </p>
 <p>A diferencia de mi hija, que no usa sus zapatillas Jolly sin calcetines, mi hijo no tiene problemas con el forro y siempre las usa barefoot a menos que haga mucho frío afuera. ¡También tiene pies anchos y es un gran admirador de sus zapatos Be Lenka!</p>
-<p>He visto algunas quejas sobre el color del cuero de los zapatos Be Lenka que sangra en la piel o los calcetines cuando están mojados, pero no hemos tenido ese problema. Recientemente mi hijo los usó durante una lluvia torrencial de primavera (yo <em>dijo</em> (le pidió que usara sus botas de lluvia, pero ¿escuchó?) y no hubo sangrado de color. los traté con <a href="https://amzn.to/3LHoKZA">Collonil Carbono Pro</a> antes de usarlo, ¡tal vez esa sea la clave! </p>
+<p>He visto algunas quejas sobre el color del cuero de los zapatos Be Lenka que sangra en la piel o los calcetines cuando están mojados, pero no hemos tenido ese problema. Recientemente mi hijo los usó durante una lluvia torrencial de primavera (yo <em>dijo</em> (le pidió que usara sus botas de lluvia, pero ¿escuchó?) y no hubo sangrado de color. los traté con Collonil Carbono Pro antes de usarlo, ¡tal vez esa sea la clave! </p>
 <p><strong>Sizing &amp;gt; Fit: </strong>¡Estos son fieles al tamaño! Se ajustan exactamente a lo esperado según la tabla de tallas. Tienen la puntera más ancha de todos los zapatos para niños que tenemos y se adaptan mejor a un pie de volumen medio-alto. Es posible que los pies con un volumen realmente alto necesiten quitar la plantilla para obtener espacio adicional. </p>
 
 <p><strong>Actualizaciones de 2021:</strong> Estos se actualizaron en 2021 desde el Play original con algunas diferencias clave. Lo más destacable para mí es la plantilla mejorada. Las plantillas antiguas (foto de la izquierda) eran de una espuma muy fina que se doblaba y comprimía inmediatamente. Siempre se salían de los zapatos cuando se los quitaba y era difícil volver a ponérselos. Frustraron tanto a mi hijo que se negó a usar las plantillas. </p>
@@ -97,7 +97,7 @@ translatedFrom: en
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <h2 class="wp-block-heading">Zapatos para niños grandes y adolescentes</h2>
-<p>¡Be Lenka tiene muchos estilos para adultos que están disponibles a partir de la talla EU 33! No muchas marcas ofrecen estilos para adultos en tallas pequeñas, por lo que es increíble poder encontrar estilos maduros para adultos con pies pequeños y niños con pies grandes. Lea el <a href="/be-lenka-barefoot-review-2022/">Revisión de Be Lenka primavera 22</a> para conocer todos los detalles y rangos de tallas de la línea actual.</p>
+<p>¡Be Lenka tiene muchos estilos para adultos que están disponibles a partir de la talla EU 33! No muchas marcas ofrecen estilos para adultos en tallas pequeñas, por lo que es increíble poder encontrar estilos maduros para adultos con pies pequeños y niños con pies grandes. Lea el <a href="/revision-de-be-lenka-barefoot-nuevos-modelos-para-2022/">Revisión de Be Lenka primavera 22</a> para conocer todos los detalles y rangos de tallas de la línea actual.</p>
 
 <h2 class="wp-block-heading">Conclusión de la revisión de Be Lenka Kids</h2>
 <p>Be Lenka sigue ofreciendo estilos cada vez más funcionales para casi todas las situaciones. ¡Son una marca a la que seguimos regresando por su estilo, durabilidad y esa puntera extra ancha que tanto amamos!</p>
@@ -106,3 +106,24 @@ translatedFrom: en
 <p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<!-- editorial-expansion:v1 -->
+
+Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Revisión de Be Lenka Kids: ¡Zapatos barefoot para pies pequeños y anchos!" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Be Lenka Kids: ¡Zapatos barefoot para pies pequeños y anchos!, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

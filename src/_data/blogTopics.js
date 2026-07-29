@@ -5,7 +5,7 @@ module.exports = {
       label: "Primeros pasos",
       eyebrow: "Para empezar",
       description: "Guías para entender qué es el barefoot, cómo elegir talla y cómo hacer la transición sin drama.",
-      url: "/tag/transitioning/",
+      url: "/temas/primeros-pasos/",
       patterns: [
         "what-is-a-barefoot",
         "why-barefoot",
@@ -24,7 +24,7 @@ module.exports = {
       label: "Listas y comparativas",
       eyebrow: "Atajos buenos",
       description: "Rankings, recopilatorios y listas grandes para decidir rápido por tipo de zapato o necesidad.",
-      url: "/category/shoe-lists/",
+      url: "/temas/listas/",
       patterns: [
         "best-",
         "complete-list",
@@ -38,11 +38,11 @@ module.exports = {
       ]
     },
     {
-      key: "resenas",
-      label: "Reseñas de marcas",
+      key: "opiniones",
+      label: "Opiniones de marcas",
       eyebrow: "Probados y mirados",
       description: "Opiniones de modelos y marcas concretas, con foco en forma, ajuste, materiales y uso real.",
-      url: "/category/reviews/",
+      url: "/opiniones/1/",
       patterns: [
         "review",
         "altra",
@@ -65,7 +65,7 @@ module.exports = {
       label: "Mujer y estilo",
       eyebrow: "Bonitos de verdad",
       description: "Bailarinas, Mary Janes, botas, looks y alternativas barefoot a zapatos populares.",
-      url: "/womens/",
+      url: "/temas/mujer-estilo/",
       patterns: [
         "women",
         "womens",
@@ -87,7 +87,7 @@ module.exports = {
       label: "Niños",
       eyebrow: "Pies pequeños",
       description: "Zapatos infantiles, colegio, botas, sandalias, lluvia y guías para elegir sin complicarse.",
-      url: "/kids/",
+      url: "/temas/ninos/",
       patterns: [
         "kids",
         "child",
@@ -107,7 +107,7 @@ module.exports = {
       label: "Botas e invierno",
       eyebrow: "Frío y lluvia",
       description: "Botas barefoot, lluvia, nieve, invierno, trabajo y modelos resistentes con puntera amplia.",
-      url: "/style/boots/",
+      url: "/temas/botas-invierno/",
       patterns: [
         "boot",
         "boots",
@@ -126,7 +126,7 @@ module.exports = {
       label: "Sandalias y verano",
       eyebrow: "Calor y aire",
       description: "Sandalias minimalistas, huaraches, modelos de verano y opciones elegantes con forma de pie.",
-      url: "/style/sandals/",
+      url: "/temas/sandalias-verano/",
       patterns: [
         "sandal",
         "sandals",
@@ -144,7 +144,7 @@ module.exports = {
       label: "Deporte y movimiento",
       eyebrow: "Moverse mejor",
       description: "Running, gimnasio, senderismo, ciclismo, golf y opciones con espacio para dedos.",
-      url: "/tag/performance/",
+      url: "/temas/deporte/",
       patterns: [
         "running",
         "gym",
@@ -163,7 +163,7 @@ module.exports = {
       label: "Puntera ancha",
       eyebrow: "Dedos libres",
       description: "Opciones barefoot y no barefoot para pies anchos, juanetes y gente que necesita más espacio.",
-      url: "/tag/extra-wide/",
+      url: "/temas/puntera-ancha/",
       patterns: [
         "wide",
         "toe-box",

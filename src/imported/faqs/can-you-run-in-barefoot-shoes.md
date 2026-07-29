@@ -45,7 +45,7 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Sí puedes correr en Zapatos barefoot, pero si estás acostumbrado a correr en zapatos maximalistas de apoyo puede requerir un cambio en la forma y un período de ajuste. Si desea adoptar un estilo natural barefoot de correr, comience con un montón de barefoot caminando primero! <strong>Preste mucha atención a su cuerpo y dale tiempo para adaptarse.</strong> Aunque puede tomar tiempo y dedicación para relear este movimiento natural, correr en Zapatos barefoot puede ser libre de lesiones y agradable.</p>
-<p>Recursos adicionales para correr estilo barefoot: <br/><a href="https://peterattiamd.com/irenedavis/">Irene Davis on Running Injuries &amp;quot; Minimalist Shoes</a><br/><a href="https://amzn.to/3wZbR6p">Correr Rewired</a>, por Jay Dicharry<br/><a href="https://amzn.to/3kJvpqQ">Corre por tu vida</a>por Mark Cucuzella<br/><a href="https://olderyetfaster.com/">Más viejo aún más rápido</a>, por Keith Bateman y Heidi Jones</p>
+<p>Recursos adicionales para correr estilo barefoot: <br/><a href="https://peterattiamd.com/irenedavis/">Irene Davis on Running Injuries &amp;quot; Minimalist Shoes</a><br/>Correr Rewired, por Jay Dicharry<br/>Corre por tu vidapor Mark Cucuzella<br/><a href="https://olderyetfaster.com/">Más viejo aún más rápido</a>, por Keith Bateman y Heidi Jones</p>
 </div>
 
 </div>

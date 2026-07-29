@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Conclusiones De un Análisis de Gait – Cómo moverse Sin Dolor
+title: "Qué aprendí de un análisis de la marcha para moverme sin dolor"
 description: Después de que mi segundo hijo naciera, he desarrollado un dolor de pie
   debilitante (y no explicado). Mi análisis me mostró cómo puedo moverme con menos
   dolor.
@@ -19,7 +19,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p>Después del nacimiento de mi segundo hijo, desarrollé un dolor debilitante (e inexplicable) en el pie, el tobillo, la cadera y la espalda baja que persistió durante mucho tiempo, hasta que comencé a abordar la debilidad y la inestabilidad comenzando con mis pies. he hecho <a href="/being-me-a-journey-to-barefoot/">mucho progreso desde entonces</a>, pero cuando has pasado décadas sin entender tu cuerpo, ¡lleva un tiempo desentrañarlo!</p>
+<p>Después del nacimiento de mi segundo hijo, desarrollé un dolor debilitante (e inexplicable) en el pie, el tobillo, la cadera y la espalda baja que persistió durante mucho tiempo, hasta que comencé a abordar la debilidad y la inestabilidad comenzando con mis pies. he hecho <a href="/articulos/">mucho progreso desde entonces</a>, pero cuando has pasado décadas sin entender tu cuerpo, ¡lleva un tiempo desentrañarlo!</p>
 <p>Así que estaba muy emocionado de recibir un análisis de la marcha en persona con <a href="https://gaithappens.com/?gh=1">Gait Happens</a> para obtener una visión más profunda de lo que puedo mejorar. He tenido la suerte de cruzarme con las fundadoras de Gait Happens, Jenifer Perez y Courtney Conley, muchas veces a lo largo de los años y considerarlas amigas, ¡pero también son increíbles a la hora de ayudar a las personas a salir del dolor! Profundicemos en lo que aprendí.</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-69a6e8e3" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">

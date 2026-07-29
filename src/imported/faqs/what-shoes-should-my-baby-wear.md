@@ -49,11 +49,11 @@ translatedFrom: en
 <p>Afortunadamente, muchos zapatos de bebé ya están barefoot aprobado por lo que no necesita ser limitado a mi lista. ¡Una vez que sepas qué buscar puedes pasar por cualquier opción que no sea totalmente suave y flexible!</p>
 <p>Pero aquí están algunas de nuestras marcas de Zapatos barefoot para bebés y niños pequeños:</p>
 <ul>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> (US)</li>
+<li>Zapatos de estrellas suaves (US)</li>
 <li><a href="https://starryknightdesign.com/">Starry Knight Design</a> (US)</li>
 <li><a href="https://zutano.com/collections/baby-booties">Zutano Booties</a> (US)</li>
 <li><a href="https://www.jackandlily.com/">Jack &amp;amp; Lily</a> (US)</li>
-<li><a href="https://poshpanda.ca/?ref=">Posh Panda</a> (CA)</li>
+<li><a href="https://poshpanda.ca/">Posh Panda</a> (CA)</li>
 <li><a href="https://www.robeez.com/shoes/soft-soles/">Robeez </a>(US &amp;amp; CA)</li>
 <li><a href="https://www.paperkrane.com.au/">PaperKrane</a> (AU) – <strong></strong> para 10% de descuento</li>
 <li><a href="https://magicalshoes24.com/en/shop/barefoot-shoes-soft-sole/">Zapatos mágicos</a> (UE) – Tamaños UE 18 y arriba. Usar código <strong></strong> para 10% de descuento</li>
@@ -63,12 +63,12 @@ translatedFrom: en
 </ul>
 <p>¿Buscas botas de invierno para niños? Aquí están mis primeros picos para mantener los pies pequeños secos sin pesarlos abajo:</p>
 <ul>
-<li><a href="https://janandjul.com/?ref=liGdUekDMceQw">Jan &amp;apos; Jul </a>(US &amp;amp; CA) – Booties de invierno para bebés, Toasty-Dry Booties para niños pequeños (remove el tacón en la plantilla para ser cero gota)</li>
+<li><a href="https://janandjul.com/">Jan &amp;apos; Jul </a>(US &amp;amp; CA) – Booties de invierno para bebés, Toasty-Dry Booties para niños pequeños (remove el tacón en la plantilla para ser cero gota)</li>
 <li><a href="https://www.jackandlily.com/">Jack &amp;amp; Lily</a> (US)</li>
 <li>(UE)</li>
 <li><a href="https://stonz.com/collections/booties">Stonz</a> (CA) - Cubiertas impermeables con forro de polar opcional. Código <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</li>
 </ul>
-<p>Para una lista de nuestros favoritos personales, lea <a href="/the-best-barefoot-shoes-for-babies-toddlers/">los mejores Zapatos barefoot para bebés y niños pequeños artículo</a></p>
+<p>Para una lista de nuestros favoritos personales, lea <a href="/los-mejores-zapatos-barefoot-para-bebes-y-ninos-pequenos/">los mejores Zapatos barefoot para bebés y niños pequeños artículo</a></p>
 </div>
 
 </div>

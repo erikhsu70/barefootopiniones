@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Mukishoes primavera 2022: nube, hiedra, azafrán y mini musgo'
+title: "Mi opinión sobre Mukishoes primavera 2022: nube, hiedra, azafrán y mini musgo"
 description: Mukishoes es una marca de calzado barefoot que apuesta por la sostenibilidad.
   ¡Tuve la oportunidad de probar 4 modelos de la colección primavera 2022 y los estoy
   reseñando aquí!
@@ -34,7 +34,7 @@ translatedFrom: en
 
 <p>Mukishoes se centra en zapatos casuales descalzos para adultos y niños. Todos los modelos tienen una suela muy fina, son unisex y están fabricados sobre una suela de puro caucho. Los modelos para adultos tienen una puntera de ancho medio, forma redondeada (ideal para pies de montaña o de meseta) y son anchos en el empeine y el talón. También suelen ajustarse a volúmenes altos, por lo que recomiendo añadir un  a tu pedido si tienes pies de poco volumen.</p>
 <p>Los zapatos para niños tienen un calce similar, pero tienen una forma de puntera extra ancha. Mukishoes es una de las marcas de Zapatos barefoot más ligeras y flexibles que existen.</p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Si deseas obtener más información sobre el tipo de pie y cómo elegir una talla, ¡consulta este artículo!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Si deseas obtener más información sobre el tipo de pie y cómo elegir una talla, ¡consulta este artículo!</a></p>
 
 <p>Lanzarán otra ronda de lanzamientos de primavera y verano en un par de semanas que incluye más colores neutros y ligeros y elásticos. Esta tienda está ubicada en Portugal y los zapatos se envían con DHL express, ¡así que llegan muy rápido! Los zapatos sin uso se pueden devolver a cargo del cliente en un plazo de 30 días.</p>
 <p>Otra cosa interesante de Mukishoes es que ofrecen una <a href="https://mukishoes.com/resoleprogram/">programa de resolución</a> para residentes de la UE. Muy bien, ¡entremos en los 4 modelos de Mukishoes de la colección Primavera '22 que estoy reseñando!</p>
@@ -52,7 +52,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">azafrán</h2>
 
 <p class="has-text-align-center">Vegano | 99€ | Altura de pila de 4,5 mm | Tallas UE 36-48</p>
-<p> Es una zapatilla de color óxido confeccionada con una parte superior de lino reciclado y un forro de algodón orgánico. Añaden un pequeño toque de color sin dejar de ser neutros y apagados. Este modelo tiene el talón un poco más curvado de lo habitual y una pequeña etiqueta en la parte trasera. Descubrí que me rascaba la parte posterior del talón y me resultaba incómodo las primeras veces que los usé, pero agregar un <a href="https://amzn.to/3HPagUU">capa de piel de topo</a> fue una solución fácil. Mis talones son sensibles, así que tengo piel de topo a mano para este tipo de cosas. Además de ese pequeño detalle, son realmente ligeros y cómodos, ¡tal como esperaba de todos mis Mukishoes!</p>
+<p> Es una zapatilla de color óxido confeccionada con una parte superior de lino reciclado y un forro de algodón orgánico. Añaden un pequeño toque de color sin dejar de ser neutros y apagados. Este modelo tiene el talón un poco más curvado de lo habitual y una pequeña etiqueta en la parte trasera. Descubrí que me rascaba la parte posterior del talón y me resultaba incómodo las primeras veces que los usé, pero agregar un capa de piel de topo fue una solución fácil. Mis talones son sensibles, así que tengo piel de topo a mano para este tipo de cosas. Además de ese pequeño detalle, son realmente ligeros y cómodos, ¡tal como esperaba de todos mis Mukishoes!</p>
 <p>La Salvia es igual que el Azafrán, pero en color azul/verde.</p>
 <p><strong>Sizing &amp;gt; Fit:</strong> Estos encajan tal como se esperaba para Mukishoes. Son fieles a su talla, de ancho medio en el antepié, ancho en el talón y gran volumen en todas partes. Tengo una talla 37 y estoy usando una plantilla de lana en este momento (cuando haga calor cambiaré a una ). Los Saffron me quedan un poco más holgados, especialmente alrededor del tobillo, que los Cloud.</p>
 <h2 class="wp-block-heading">Mini Musgo – Niños</h2>
@@ -67,5 +67,26 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión de la revisión de Mukishoes</h2>
 <p>Además de la pequeña bola curva con el tamaño de Cloud, la línea de resorte de Mukishoes es la esperada y consistente con su espíritu de sostenibilidad y cualidades para andar barefoot. ¡Gracias Mukishoes!</p>
 
-<p class="has-text-align-center">Si desea leer más de mis pensamientos sobre esta marca, consulte mis otros <a href="/mukishoes-brand-review/">Revisión de Mukishoes</a>.</p>
+<p class="has-text-align-center">Si desea leer más de mis pensamientos sobre esta marca, consulte mis otros <a href="/revision-de-mukishoes-una-marca-de-calzado-barefoot-sostenible/">Revisión de Mukishoes</a>.</p>
 
+
+<!-- editorial-expansion:v1 -->
+
+Para que "Revisión de Mukishoes primavera 2022: nube, hiedra, azafrán y mini musgo" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.
+
+
+## Como miro el ajuste antes de recomendarlo
+
+Antes de valorar Revisión de Mukishoes primavera 2022: nube, hiedra, azafrán y mini musgo, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+
+Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+
+Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+## Criterios que uso para separar una buena opcion de una regular
+
+No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+
+Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+
+Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.

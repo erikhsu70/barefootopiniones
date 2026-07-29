@@ -1,74 +1,34 @@
 ---
 layout: layouts/base.njk
-title: "Artículos BarefootOpiniones"
-description: Archivo paginado de artículos de BarefootOpiniones.
+title: "Todos los artículos"
+description: Artículos de Barefoot Opiniones organizados por páginas.
 pagination:
-  data: collections.importedPosts
+  data: collections.importedPostsAfterFirstPage
   size: 24
   alias: pagedPosts
-permalink: "/articulos/pagina/{{ pagination.pageNumber + 1 }}/"
+permalink: "/articulos/pagina/{{ pagination.pageNumber + 2 }}/"
+pageClass: lovable-archive
 ---
-<section class="page-content blog-page paginated-archive">
-  <section class="blog-dashboard">
-    <div class="blog-dashboard__copy">
-      <p class="eyebrow">Archivo de artículos</p>
-      <h1>Todos los artículos, página {{ pagination.pageNumber + 1 }}.</h1>
-      <p>Archivo paginado para navegar el contenido completo sin cargar cientos de enlaces de golpe.</p>
-    </div>
-    <div class="mirror-stats blog-stats">
-      <div><strong>{{ collections.importedPosts.length }}</strong><span>Artículos</span></div>
-      <div><strong>{{ pagination.pageNumber + 1 }}</strong><span>Página</span></div>
-      <div><strong>{{ pagination.pages.length }}</strong><span>Total</span></div>
-    </div>
-  </section>
-
-  <nav class="taxonomy-jump" aria-label="Volver al blog">
-    <a href="/articulos/">Hub del blog</a>
-    <a href="/shoe-lists/">Listas</a>
-    <a href="/resources/">Recursos</a>
-    <a href="/style/">Estilo</a>
-    <a href="/kids/">Niños</a>
-  </nav>
-
-  <div class="archive-grid paginated-grid">
+<section class="lov-page-hero"><div class="lov-page-hero__inner">
+  <p class="eyebrow">Todos los artículos · Página {{ pagination.pageNumber + 2 }}</p>
+  <h1>Todos los artículos</h1>
+  <p>{{ collections.importedPosts.length }} artículos publicados en Barefoot Opiniones.</p>
+</div></section>
+<section class="lov-archive">
+  <ul class="lov-archive-list">
     {% for post in pagedPosts %}
-      <article class="post-card">
-        <a href="{{ post.url }}">
-          {% if post.data.image %}
-            <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
-          {% endif %}
-          <div class="post-card-content">
-            <div class="post-meta">
-              <span>{{ post.data.contentType or "Artículo" }}</span>
-              <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-            </div>
-            <h3>{{ post.data.title }}</h3>
-            {% if post.data.description %}
-              <p>{{ post.data.description | safe }}</p>
-            {% endif %}
-          </div>
-        </a>
-      </article>
+      <li class="lov-archive-row"><a href="{{ post.url }}">
+        <div class="lov-archive-row__image">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">{% endif %}</div>
+        <div><h2>{{ post.data.title }}</h2>{% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}</div>
+        <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      </a></li>
     {% endfor %}
-  </div>
-
+  </ul>
   <nav class="pagination-nav" aria-label="Paginación de artículos">
-    {% if pagination.href.previous %}
-      {% if pagination.pageNumber == 1 %}
-        <a href="/articulos/">Anterior</a>
-      {% else %}
-        <a href="{{ pagination.href.previous }}">Anterior</a>
-      {% endif %}
-    {% else %}
-      <span>Anterior</span>
-    {% endif %}
-
-    <span>Página {{ pagination.pageNumber + 1 }} de {{ pagination.pages.length }}</span>
-
-    {% if pagination.href.next %}
-      <a href="{{ pagination.href.next }}">Siguiente</a>
-    {% else %}
-      <span>Siguiente</span>
-    {% endif %}
+    <a href="{% if pagination.href.previous %}{{ pagination.href.previous }}{% else %}/articulos/{% endif %}">Anterior</a>
+    {% for pageNumber in collections.importedPosts.length | pageNumbers(24) %}
+      <a href="{{ pageNumber | articlePageUrl }}"{% if pageNumber == pagination.pageNumber + 2 %} aria-current="page"{% endif %}>{{ pageNumber }}</a>
+    {% endfor %}
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Siguiente</a>{% else %}<span>Siguiente</span>{% endif %}
   </nav>
 </section>

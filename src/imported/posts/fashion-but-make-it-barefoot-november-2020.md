@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Moda, pero hazlo barefoot – noviembre de 2020
+title: "Ideas de estilo barefoot para noviembre de 2020"
 description: ¡Aquí hay un resumen de las publicaciones de Fashion Friday, But Make
   it barefoot de noviembre de 2020! Mira mis estilos favoritos hechos saludables.
 date: '2021-01-02T02:27:57'
@@ -19,42 +19,38 @@ language: es
 translatedFrom: en
 ---
 <p>Una de mis actividades favoritas de todos los tiempos es recrear looks increíbles con Zapatos barefoot. Nunca he sido de los que se conforman, así que ¿por qué no lucir increíble con zapatos saludables? Comparto una nueva foto de “Moda, pero hazlo barefoot” todos los viernes el Instagram y Facebook¡Y aquí hay un resumen de las publicaciones de noviembre de 2020! Desplázate para ver la inspiración y comprar los zapatos.</p>
-<p class="has-text-align-center">Haga clic aquí para el otro <a href="/tag/but-make-it-barefoot/">Moda, pero hazlo barefoot</a>.</p>
+<p class="has-text-align-center">Haga clic aquí para el otro <a href="/tema/version-barefoot/">Moda, pero hazlo barefoot</a>.</p>
 <p><strong>6 de noviembre de 2020</strong></p>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption"><a href="https://www.instagram.com/p/CHQdARdh8gp/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></figcaption></figure>
 <p class="has-text-align-center"><strong>El Zaqq Riquet | $210 | Cuero | Barcos desde Alemania</strong></p>
 <p class="has-text-align-center"><strong>Ya puedes comprar El Zaqq Riquet desde </strong> <strong>en los EE. UU. con envío a todo el mundo también disponible.</strong></p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
 
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.zaqq.com/riquet-black/?sPartner=aj22122020">Compra los zapatos – Zaqq</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/zaqq-barefoot-brand-review/">Leer la reseña</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/revision-de-la-marca-zaqq-barefoot/">Leer la reseña</a></div>
 </div>
 
-<p>La inspiración de la moda actual proviene de la Sra. Kristine de <a href="https://www.trendycurvy.com/">Curvas de moda</a>. Ella es una de las caras más increíblemente radiantes que ilumina mi feed y estoy obsesionado con su estilo. Pero ella usa MUCHOS tacones altos. Así que quería ver si podía mantener su estilo elegante pero cambiar los tacones altos por una versión completamente plana.<br/><br/>¡Los usuarios de Zapatos barefoot se alegran! ¡Puedes lucir elegante y a la moda y seguir siendo bueno con tus pies! Estas son las botas Riquet de Zaqq barefoot y son unas de mis favoritas. ¿Ves cómo las botas de Kristine tienen un corte cerca del tobillo? En mi opinión, esta es la clave para mantener una apariencia elegante y lo que siempre busco en mis elegantes botas descalzas.<br/><br/>Si está interesado en Zaqq, asegúrese de leer la reseña vinculada anteriormente. Y ya que estás en ello, aquí tienes un<a href="/barefoot-minimalist-womens-boots-full-list/"> lista completa de botas descalzas </a>¡Para muchas otras opciones!</p>
+<p>La inspiración de la moda actual proviene de la Sra. Kristine de <a href="https://www.trendycurvy.com/">Curvas de moda</a>. Ella es una de las caras más increíblemente radiantes que ilumina mi feed y estoy obsesionado con su estilo. Pero ella usa MUCHOS tacones altos. Así que quería ver si podía mantener su estilo elegante pero cambiar los tacones altos por una versión completamente plana.<br/><br/>¡Los usuarios de Zapatos barefoot se alegran! ¡Puedes lucir elegante y a la moda y seguir siendo bueno con tus pies! Estas son las botas Riquet de Zaqq barefoot y son unas de mis favoritas. ¿Ves cómo las botas de Kristine tienen un corte cerca del tobillo? En mi opinión, esta es la clave para mantener una apariencia elegante y lo que siempre busco en mis elegantes botas descalzas.<br/><br/>Si está interesado en Zaqq, asegúrese de leer la reseña vinculada anteriormente. Y ya que estás en ello, aquí tienes un<a href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/"> lista completa de botas descalzas </a>¡Para muchas otras opciones!</p>
 
 <p><strong>13 de noviembre de 2020</strong></p>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption"><a href="https://www.instagram.com/p/CHierq0BXk1/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></figcaption></figure>
 <p class="has-text-align-center"><strong>El Vivobarefoot Fulham | $210 | cuero</strong></p>
-<p class="has-text-align-center"><a href="https://tidd.ly/3h3GSCo"><strong><em>¡Para 2022, el Fulham se actualizó y pasó a llamarse Geo Chelsea!</em></strong></a></p>
+<p class="has-text-align-center"><strong><em>¡Para 2022, el Fulham se actualizó y pasó a llamarse Geo Chelsea!</em></strong></p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
 
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/vivobarefoot-fulham-review-barefoot-chelsea-boot/">Leer la reseña</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/barefoot-minimalist-womens-boots-full-list/#chelsea-boots">Más botas Chelsea descalzas</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/revision-de-vivobarefoot-fulham-una-bota-chelsea-descalza/">Leer la reseña</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/#chelsea-boots">Más botas Chelsea descalzas</a></div>
 </div>
 
 <p>Es viernes y ya sabes lo que eso significa... ¡Viernes de moda #perohazlodescalzo!</p>
 <p>Antes de cambiarme a los zapatos minimalistas, siempre estaba buscando el botín perfecto. Como probablemente sepas, un botín “normal” que encontrarás en tu tienda local no será cómodo (¿los dedos de los pies pellizcados mucho?).</p>
 <p>Pero me quedé con un par que consideraba un compromiso para ocasiones especiales, al igual que los zapatos de la izquierda. Quiero decir, tenía que tener botines, ¿no? Fueron ESAS MALDITAS BOTAS que usé en mi cena de cumpleaños hace casi 5 años y las que me enviaron a una espiral de dolor y disfunción. Por supuesto que ya estaba en ese camino, pero LOS ZAPATOS me llevaron al límite.</p>
 <p>¡Todavía amo mis botines! Si tienes visiones de adorables conjuntos de botines como este de <a href="https://shopthemint.com/products/classic-by-nature-camel-brown-booties?variant=23267487121466">Comprar la menta</a>, mira algunas de estas opciones de botines color canela (tercera foto) que son planos y espaciosos en la puntera. No, no agregarán centímetros a su altura, PERO podrían evitarle dolores y lesiones. Creo que ya sé cuál elegiré 🙂</p>
-<p>Llevo los Vivobarefoot Fulhams. Mi código Vivo es <code><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></code>. Mira este enlace si quieres ver más <a href="/barefoot-minimalist-womens-boots-full-list/#chelsea-boots">opciones de botines descalzos</a>!</p>
+<p>Llevo los Vivobarefoot Fulhams. Mi código Vivo es <code><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></code>. Mira este enlace si quieres ver más <a href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/#chelsea-boots">opciones de botines descalzos</a>!</p>
 <p>¡Feliz viernes amigos!</p>
 
 <p><strong>19 de noviembre de 2020</strong></p>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption"><a href="https://www.instagram.com/p/CHyBbeyhAdu/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></figcaption></figure>
 <p class="has-text-align-center"><strong>El universo Groundies | $156 | cuero</strong></p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
 
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.instagram.com/p/CG8KmAYBNfY/?utm_source=ig_web_copy_link">Leer la reseña</a></div>
 </div>
 
 <p>Beyoncé no consiguió nada con mi sentadilla con los pies planos. 💃🏻<br/><br/>Entonces, ¿cuál es el problema con las sentadillas? Además de ser un movimiento funcional (si puedes hacerlo, la vida es más fácil), son un gran ejercicio/estiramiento que trabaja básicamente toda tu cadena posterior a la vez (¡hola suelo pélvico!).<br/><br/>Se requiere MUCHA movilidad y fuerza para mantener una sentadilla, así que aquí hay una serie de movimientos que uso para mantener mis músculos en cuclillas listos para las rutinas de baile en la cocina.<br/><br/>Estos son algunos de los ejercicios que ve en el video vinculado arriba:<br/><br/>1. Estiramiento de los isquiotibiales: ya lo tienes, solo asegúrate de no curvar la espalda baja. Luego se convierte en un estiramiento de espalda, no en un estiramiento de isquiotibiales.<br/><br/>2. Bisagra de cadera y sentadillas verticales con espinillas: son como mini sentadillas para lubricar las caderas y hacer que los glúteos se activen.<br/><br/>3. Sentarse sobre las espinillas: en realidad, esta es una excelente opción para preparar las sentadillas. Meta los dedos de los pies debajo de usted también es genial, y puede hacer ambas cosas en la vida normal cuando esté sentado en el suelo.<br/><br/>4. Cadera 90 90: ¡poner las piernas a 90 grados de las caderas y luego rotarlas con fluidez hacia el otro lado es muy bueno para la movilidad de la cadera!<br/><br/>¡La mejor parte es que muchos de estos se pueden lograr sin tomar más tiempo para hacer ejercicio! Cuando te agaches, haz una bisagra en las caderas o haz una mini sentadilla. Levántese y bájese del suelo con frecuencia. Y cuando te sientes en el suelo, varía la forma en que te sientas con frecuencia.<br/><br/>Por cierto, normalmente haría todo esto barefoot, ¡pero mis caderas estaban demasiado cansadas para volver a grabar el video! ADEMÁS, Bey es 👸🏿 y probablemente podría hacer una sentadilla con los pies planos si quisiera.<br/><br/>Para obtener más información sobre las sentadillas, esta publicación de blog de Nutritious Movement llamada <a href="https://www.nutritiousmovement.com/you-dont-know-squat/">No sabes ponerse en cuclillas</a> es un gran lugar para comenzar.</p>
@@ -62,12 +58,11 @@ translatedFrom: en
 <p><strong>20 de noviembre de 2020</strong></p>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption"><a href="https://www.instagram.com/p/CH0wEeghgbJ/?utm_source=ig_web_copy_link">Ver la publicación original en Instagram</a></figcaption></figure>
 <p class="has-text-align-center"><strong>El Chukka Gaucho Ninja | $405 después del código <strong>CUALQUIER EXAMEN</strong>  | cuero</strong></p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Compra los zapatos</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/gaucho-ninja-review-handmade-barefoot-boots/">Leer la reseña</a></div>
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/revision-de-gaucho-ninja-botas-descalzas-hechas-a-mano/">Leer la reseña</a></div>
 </div>
 
-<p>¡Botas con cordones! #perohazlodescalzo<br/><br/>Me encanta este aspecto rústico de <a href="https://prettylittlefawn.com/">Bonito cervatillo</a>, pero no se puede hacer con las botas. Gracias a los Zapatos barefoot, ¡sin tacones no hay problema! Me mantendré firme con mis botas descalzas, ¡gracias!<br/><br/>El estilo de botas con cordones es uno de mis favoritos porque es muy versátil: masculino, femenino, elegante y casual. ¡No se requiere tacón de bloque! Amo el mio de <a href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a> porque no solo son lindos, sino que también están hechos a mano de manera sustentable por una empresa familiar (ya sabes, amo mis pequeñas empresas).<br/><br/>¡Que tengan un excelente fin de semana amigos!</p>
+<p>¡Botas con cordones! #perohazlodescalzo<br/><br/>Me encanta este aspecto rústico de <a href="https://prettylittlefawn.com/">Bonito cervatillo</a>, pero no se puede hacer con las botas. Gracias a los Zapatos barefoot, ¡sin tacones no hay problema! Me mantendré firme con mis botas descalzas, ¡gracias!<br/><br/>El estilo de botas con cordones es uno de mis favoritos porque es muy versátil: masculino, femenino, elegante y casual. ¡No se requiere tacón de bloque! Amo el mio de <a href="https://gaucho.ninja/">Gaucho Ninja</a> porque no solo son lindos, sino que también están hechos a mano de manera sustentable por una empresa familiar (ya sabes, amo mis pequeñas empresas).<br/><br/>¡Que tengan un excelente fin de semana amigos!</p>
 
 
 <!-- editorial-expansion:v1 -->
@@ -90,3 +85,30 @@ Antes de valorar Moda, pero hazlo barefoot – noviembre de 2020, siempre pienso
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Moda, pero hazlo barefoot – noviembre de 2020 es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

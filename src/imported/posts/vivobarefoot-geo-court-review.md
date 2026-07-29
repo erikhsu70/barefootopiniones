@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Vivobarefoot Geo Court: la zapatilla de cuero perfecta'
+title: "Mi opinión sobre Vivobarefoot Geo Court: la zapatilla de cuero perfecta"
 description: La nueva Vivobarefoot Geo Court es la zapatilla de piel PERFECTA. Son
   esa combinación exacta de deportividad y sencillez que permite combinarlos con todo,
   pero sin comprometer la salud de los pies.
@@ -31,13 +31,13 @@ translatedFrom: en
 </div>
 <h2 class="wp-block-heading"><span id="meet-the-court"></span>Revisión del tribunal geográfico</h2>
 
-<p>Las zapatillas de deporte realmente se han apoderado de la escena de la moda en los últimos años, lo cual es demasiado bueno para aquellos de nosotros que queremos estar cómodos todo el tiempo. Me encanta la pequeña ventaja que pueden dar unas zapatillas y me encanta que sean fáciles de usar durante un día entero.  Pero aunque la mayoría de las zapatillas de deporte son mucho mejores para los pies que un par de tacones, todavía no puedo usar cómodamente la mayoría de las zapatillas de deporte sin que me pellizquen los dedos de los pies. Ahí es donde <a href="/benefits-barefoot-minimalist-shoes/">Zapatos barefoot</a> entra.</p>
+<p>Las zapatillas de deporte realmente se han apoderado de la escena de la moda en los últimos años, lo cual es demasiado bueno para aquellos de nosotros que queremos estar cómodos todo el tiempo. Me encanta la pequeña ventaja que pueden dar unas zapatillas y me encanta que sean fáciles de usar durante un día entero.  Pero aunque la mayoría de las zapatillas de deporte son mucho mejores para los pies que un par de tacones, todavía no puedo usar cómodamente la mayoría de las zapatillas de deporte sin que me pellizquen los dedos de los pies. Ahí es donde <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Zapatos barefoot</a> entra.</p>
 <p>Los zapatos planos y flexibles de Vivobarefoot son buenos para mis pies y, con el lanzamiento del nuevo Geo Court, también son buenos para mi estilo. el es la zapatilla de piel PERFECTA. Son esa combinación exacta de deportividad y sencillez que permite combinarlos con todo, pero sin comprometer la salud de los pies.</p>
 <p>La Vivobarefoot Geo Court es una zapatilla de tenis sencilla para hombres y mujeres (). Con un diseño elegante y detalles sutiles, Geo Court es un zapato para uso diario que Vivobarefoot lanza en diferentes colores y materiales según la temporada (opciones veganas disponibles durante el verano).</p>
 
 <h2 class="wp-block-heading"><span id="sizing"></span>Tamaño de la cancha geográfica</h2>
 <p>Tengo una talla 37 (talla 7 de EE. UU.) y me quedan perfectos. Uso un 37 en todos mis zapatos Vivobarefoot y son cómodamente anchos con aproximadamente un espacio para los pulgares en el frente. 36-37 (a veces 38) es mi talla normal y Vivobarefoot es conocido por correr un poco pequeño. Entonces, si estás en el medio, aumentaría el tamaño. El sitio web de EE. UU. muestra tallas estadounidenses, pero las tallas europeas son las que están impresas en los zapatos. Así que recomiendo revisar sus <a href="https://www.vivobarefoot.com/us/customer-services/size-guide">tabla de tallas</a> para estar seguro.</p>
-<p>Se adaptan a pies de poco volumen, pero puedes quitar la plantilla para tener un poco más de espacio. La mayoría de los zapatos Vivobarefoot se ajustan a un pie con forma egipcia, con una puntera inclinada. Puedes aprender más sobre lo que eso significa. <a href="/best-barefoot-shoes-foot-type/">en esta publicación</a>.</p>
+<p>Se adaptan a pies de poco volumen, pero puedes quitar la plantilla para tener un poco más de espacio. La mayoría de los zapatos Vivobarefoot se ajustan a un pie con forma egipcia, con una puntera inclinada. Puedes aprender más sobre lo que eso significa. <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">en esta publicación</a>.</p>
 <h2 class="wp-block-heading"><span id="barefoot-qualities"></span>Cualidades de estar barefoot</h2>
 
 <p>Los zapatos Vivobarefoot son todos completamente planos, finos, flexibles y con una puntera ancha. El ancho de la zapatilla Court es consistente con el de otros zapatos Vivobarefoot que probé recientemente. <a href="/?s=vivobarefoot">(ver mis otras reseñas aquí)</a> lo cual es perfecto para mis pies anchos, pero necesito usarlos sin calcetines para tener suficiente espacio. Los zapatos Vivobarefoot son de ancho medio, pero la mayoría de sus estilos no son adecuados para pies muy anchos (su gama Made in Etiopía es una excepción).</p>
@@ -45,8 +45,8 @@ translatedFrom: en
 <p>Estas zapatillas se actualizaron en 2021 para que sean más suaves y no tan ajustadas alrededor del tobillo, lo cual es una gran noticia. Cuando los compré por primera vez en 2020, me frotaron el tobillo durante un tiempo hasta que se asentaron. En general, los zapatos Vivobarefoot requieren un poco de asentamiento, pero duran mucho tiempo.</p>
 
 <h2 class="wp-block-heading"><span id="materials"></span>Materiales</h2>
-<p>La parte superior de los zapatos está hecha de cuero, lo que hace que sea muy fácil mantenerla brillante y limpia. La mayoría de las veces, todo lo que necesitas hacer es limpiarlos y, si se rayan, puedes usar un trapo. <a href="https://amzn.to/36kbiVQ">caucho</a> para borrar marcas. El interior está parcialmente forrado de cuero y parcialmente de tela.</p>
-<p>La plantilla extraíble está hecha de algas y ayuda a que el aire circule alrededor del pie, lo que puede ayudar con la sudoración. Me gusta la sensación y puedo decir que mis pies se mantienen frescos mientras los uso, pero todavía sudaba con estos zapatos después de un tiempo. Creo que habría que usar calcetines para eliminarlo por completo. Estos <a href="http://www.avantlink.com/click.php?tt=cl&amp;merchant_id=500ef46d-f4f3-4e77-8f16-a030bf6b59b8&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.injinji.com%2Fheight%2Fhidden.html">calcetines invisibles</a> ¡Iría bien con estos!</p>
+<p>La parte superior de los zapatos está hecha de cuero, lo que hace que sea muy fácil mantenerla brillante y limpia. La mayoría de las veces, todo lo que necesitas hacer es limpiarlos y, si se rayan, puedes usar un trapo. caucho para borrar marcas. El interior está parcialmente forrado de cuero y parcialmente de tela.</p>
+<p>La plantilla extraíble está hecha de algas y ayuda a que el aire circule alrededor del pie, lo que puede ayudar con la sudoración. Me gusta la sensación y puedo decir que mis pies se mantienen frescos mientras los uso, pero todavía sudaba con estos zapatos después de un tiempo. Creo que habría que usar calcetines para eliminarlo por completo. Estos <a href="https://www.injinji.com/height/hidden.html">calcetines invisibles</a> ¡Iría bien con estos!</p>
 <p>Vivo desarrolló una nueva suela para estos zapatos que tiene mayor agarre. En comparación con las suelas de todos los días, definitivamente puedo notar la diferencia. Puedes usarlos en la cancha de tenis, pero no he oído de mucha gente que realmente lo haya hecho.</p>
 
 <h2 class="wp-block-heading"><span id="style"></span>Estilo</h2>
@@ -78,3 +78,30 @@ Para que un zapato barefoot funcione en el dia a dia, tiene que encajar con tu r
 Las proporciones ayudan mucho. Los pantalones rectos, anchos o ligeramente cropped suelen equilibrar mejor la puntera amplia. Los pitillos muy ajustados, en cambio, pueden hacer que cualquier zapato parezca mas grande.
 
 Mi regla: si el zapato ya tiene presencia, simplifica el resto. Si el look es basico, puedes permitirte un color o textura mas especial.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de Vivobarefoot Geo Court: la zapatilla de cuero perfecta es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Reseña de Mocasines Terrestres – Zapatos de barefoot ¡Usted puede hacerse!
+title: "Mi opinión sobre Earthing Moccasins: mocasines barefoot para hacer en casa"
 description: Con Mocasines Terrestres usted puede hacer sus propios zapatos, o tener
   un par personalizado hecho a sus medidas. ¡Los amamos por adultos, y también por
   bebés!
@@ -56,26 +56,25 @@ translatedFrom: en
 
 <p>Envié el rastreo y las medidas del pie de mi bebé a Earthing Moccasins y le hicieron un par de botines 100% de piel de oveja. Casi no usó nada más en sus pies durante todo el invierno; ¡Encajaban perfectamente! Mantuvieron sus pies calientes, fueron fáciles de poner y también se quedaron bien. También me gustó poder levantar el tobillo cuando lo llevaba en caminatas frías al aire libre. Eran todo lo que necesitaba en invierno, sin “apoyo” innecesario mientras aprendía a caminar. </p>
 <p>Si tiene dificultades para encontrar zapatos que se adapten a su pequeño (¡o a cualquier edad!), Earthing Moccasins podría ser la respuesta.</p>
-<p class="has-text-align-center"><a href="/the-best-barefoot-shoes-for-babies-toddlers/">¡Lea este artículo para conocer más de nuestros zapatos recomendados para bebés y niños pequeños!</a></p>
+<p class="has-text-align-center"><a href="/los-mejores-zapatos-barefoot-para-bebes-y-ninos-pequenos/">¡Lea este artículo para conocer más de nuestros zapatos recomendados para bebés y niños pequeños!</a></p>
 
 <hr class="wp-block-separator has-text-color has-background has-ast-global-color-8-background-color has-ast-global-color-8-color is-style-dots"/>
 
 <h2 class="wp-block-heading">Revisión de mocasines Runner</h2>
 <figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-80 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"></li><li class="blocks-gallery-item"></li></ul></figure>
 <p>Los mocasines Runner personalizados de Isabel la han acompañado en muchos paseos esta primavera. El cuero grueso se sostiene muy bien y permite la mayor sensación de contacto con el suelo y la experiencia de estar barefoot que puedes obtener mientras usas calzado. </p>
-<p>Se ajustan como un guante y el cuero se estirará con el uso, pero no sucede muy rápido. Prefieren hacer zapatos personalizados para adultos que les queden bien ajustados para que se adapten a su pie, pero eso significa que pueden sentirse cómodos al principio. Si prefiere más margen de maniobra, asegúrese de solicitar espacio adicional o planificar <a href="/ufaq/can-i-stretch-my-barefoot-shoes/">estirándolos usted mismo.</a> </p>
+<p>Se ajustan como un guante y el cuero se estirará con el uso, pero no sucede muy rápido. Prefieren hacer zapatos personalizados para adultos que les queden bien ajustados para que se adapten a su pie, pero eso significa que pueden sentirse cómodos al principio. Si prefiere más margen de maniobra, asegúrese de solicitar espacio adicional o planificar <a href="/preguntas/puedo-estirar-mis-zapatos-barefoot/">estirándolos usted mismo.</a> </p>
 <hr class="wp-block-separator has-text-color has-background has-ast-global-color-8-background-color has-ast-global-color-8-color is-style-wide"/>
 <h2 class="wp-block-heading">Más marcas de Zapatos barefoot personalizados</h2>
 <p>Para ver más marcas de Zapatos barefoot personalizados con las que hemos trabajado personalmente y recomendamos, consulte este artículo.</p>
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link has-ast-global-color-8-color has-ast-global-color-6-background-color has-text-color has-background" href="/custom-barefoot-shoe-brands-for-hard-to-fit-feet/">Marcas de Zapatos barefoot personalizados</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-ast-global-color-8-color has-ast-global-color-6-background-color has-text-color has-background" href="/las-mejores-marcas-de-zapatos-barefoot-personalizados-para-pies-dificiles/">Marcas de Zapatos barefoot personalizados</a></div>
 </div>
 
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Si estás pensando en dedicarte a la fabricación de zapatos, quieres un mocasín a medida o simplemente te encanta el calzado ultra minimalista, Earthing Moccasins es una marca que debes visitar. Su amor y pasión por su oficio es admirable, y este sencillo enfoque de los Zapatos barefoot es una opción sostenible para la mayoría de las familias.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.earthingmoccasins.com/en-us">Mocasines terrestres</a></div>
+
 </div>
 <p class="has-text-align-center">No lo olvides, puedes usar código.<strong> <strong>CUALQUIER EXAMEN</strong> </strong>por 10% de descuento.</p>
 
@@ -96,3 +95,30 @@ Antes de valorar Reseña de Mocasines Terrestres – Zapatos de barefoot ¡Usted
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Reseña de Mocasines Terrestres – Zapatos de barefoot ¡Usted puede hacerse! es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

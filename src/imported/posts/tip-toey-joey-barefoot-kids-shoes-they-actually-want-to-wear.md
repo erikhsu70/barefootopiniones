@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Tip Toey Joey: zapatos para niños descalzos que realmente quieren usar'
+title: "Tip Toey Joey: zapatos para niños barefoot que realmente quieren usar"
 description: Tip Toey Joey fabrica calzado funcional para bebés, niños pequeños y
   niños pequeños en estilos adorables. Mi familia de 5 hijos probó varios pares y
   tenemos todos los detalles sobre esta genial marca brasileña de Zapatos barefoot.
@@ -34,13 +34,12 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conozca a Tip Toey Joey</h2>
 <p><a href="http://www.tiptoeyjoey.com.br/">Tip Toey Joey</a>La historia del origen no es inaudita. Como muchas marcas de calzado barefoot, comienza con los niños. Los fundadores hicieron el par original de TTJ para su primer hijo y su huella se convirtió en la inspiración y el diseño rector de la marca. Más tarde, pusieron a disposición del público sus zapatos para niños y ahora ¡TTJ se puede encontrar en tiendas de todo el mundo! </p>
 <p>Sin duda, estos son algunos de los Zapatos barefoot para niños más bonitos que hemos visto. Tienen estilos veganos y de cuero para todas las estaciones en tres categorías de tallas con algunas diferencias clave entre ellas (¡más sobre eso a continuación!). Pero nunca tendrás que preguntarte si son aptos para caminar barefoot o no, porque todos los zapatos de Tip Toey Joey cumplen todos los requisitos para ser un calzado saludable: puntera ancha, zero drop y tienen una suela exterior delgada y flexible.</p>
-<p class="has-text-align-center"><a href="/benefits-barefoot-minimalist-shoes/">¿Quieres saber más sobre los Zapatos barefoot? ¡Lea esto!</a></p>
+<p class="has-text-align-center"><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">¿Quieres saber más sobre los Zapatos barefoot? ¡Lea esto!</a></p>
 
 <h2 class="wp-block-heading">Realizar pedidos desde TTJ</h2>
 <p>Tip Toey Joey se puede comprar en su <a href="https://br.tiptoeyjoey.com/?_ga=2.163716156.2055286503.1674665096-8273712.1674665096">sitio web principal</a> dentro de Brasil solo con los siguientes términos: Envío gratuito disponible a partir de BRL 400,00, se aceptan devoluciones dentro de los 7 días y cambios dentro de los 30 días. Los artículos deben estar en condiciones nuevas. </p>
 <p>¡El resto del mundo necesitará encontrar un minorista cercano para poder comprar zapatos TTJ! Se venden en tiendas físicas, así como en línea, y la mayoría de los zapatos tienen un precio de entre $ 50 y $ 75. Haga clic en el botón a continuación, elija su país y luego haga clic en "tiendas" en la esquina superior derecha y podrá buscar en el mapa de sus minoristas.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://us.tiptoeyjoey.com/stores/">Encuentre minoristas de Tip Toey Joey cerca de usted</a></div>
+
 </div>
 <p>Si estás en los EE. UU., hice parte del trabajo preliminar por ti y encontré las selecciones más grandes en línea en los siguientes minoristas:</p>
 <ul><li><a href="https://justshoesforkids.com/collections/shoes/tip-toey-joey">Sólo zapatos para niños</a></li><li><a href="https://anmeshop.com/search?q=tip+toey+joey">An.yo</a></li></ul>
@@ -70,11 +69,11 @@ translatedFrom: en
 <h2 class="wp-block-heading">Nacer y crecer UE 14-17</h2>
 
 <p><a href="https://br.tiptoeyjoey.com/nascer-e-crescer">La línea Nacer y Crecer</a> presenta unos preciosos zapatitos pensados para los pies más pequeños. ¡Mi hijo menor era demasiado grande para usarlos, pero mis hijas se divirtieron poniéndolos en sus muñecas! Son suaves y lindos con suelas de cuero y se sienten un poco más estructurados que un mocasín. Tienen el mismo pequeño elástico oculto a ambos lados del tobillo que los zapatos para niños pequeños. </p>
-<p><strong>Recomendamos los zapatos más suaves y apenas visibles para bebés y nuevos andadores.</strong>, por lo que estos no son nuestra primera opción como zapato de bebé. Sin embargo, para eventos especiales y uso ocasional están bien. También puedes masajear y estirar el cuero para suavizarlo antes de ponértelo. <a href="/ufaq/what-shoes-should-my-baby-wear/">Estas son algunas de nuestras mejores opciones para zapatos para bebés y niños pequeños.</a></p>
+<p><strong>Recomendamos los zapatos más suaves y apenas visibles para bebés y nuevos andadores.</strong>, por lo que estos no son nuestra primera opción como zapato de bebé. Sin embargo, para eventos especiales y uso ocasional están bien. También puedes masajear y estirar el cuero para suavizarlo antes de ponértelo. <a href="/preguntas/que-zapatos-barefoot-son-mejores-para-bebes-y-ninos-pequenos/">Estas son algunas de nuestras mejores opciones para zapatos para bebés y niños pequeños.</a></p>
 <p><strong>Sizing &amp;amp; Fit</strong>: Puntera cuadrada, adecuada para ancho medio</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p> Para los niños que quieren verse geniales y los padres que se preocupan por la salud de los pies, Tip Toey Joey da en el blanco. Nos encantan los estilos de moda para todas las estaciones y las características apropiadas para la edad de cada línea. ¡Lo único que haría que esta marca fuera aún mejor serían tamaños más grandes y un poco más de durabilidad!</p>
-<p class="has-text-align-center"><a href="/kids/">¿Tiene más preguntas sobre los mejores Zapatos barefoot para niños? Lo tenemos cubierto aquí.</a></p>
+<p class="has-text-align-center"><a href="/ninos/">¿Tiene más preguntas sobre los mejores Zapatos barefoot para niños? Lo tenemos cubierto aquí.</a></p>
 <div class="wp-block-media-text alignwide" style="grid-template-columns:30% auto"><div class="wp-block-media-text__content">
 <p>Samantha es escritora/investigadora y asistente ejecutiva de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
@@ -92,3 +91,30 @@ Antes de valorar Tip Toey Joey: zapatos para niños descalzos que realmente quie
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Tip Toey Joey: zapatos para niños descalzos que realmente quieren usar es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para pies infantiles
+
+En calzado infantil miro tres cosas antes que el diseno: espacio delante, sujecion y facilidad para ponerlo. Un zapato infantil barefoot no deberia comprimir los dedos, pero tampoco debe quedar tan grande que el nino compense agarrando con los dedos o arrastrando el pie. Lo ideal es que pueda correr, saltar y cambiar de direccion sin que el zapato se desplace.
+
+Tambien recomiendo revisar el ajuste cada pocas semanas, porque los ninos pueden crecer de golpe y no siempre avisan de que algo les aprieta. Si el upper marca los dedos, si aparecen rozaduras o si empiezan a quitarse el calzado en cuanto pueden, suele haber una pista clara. Mejor comprobarlo pronto que esperar a que el zapato se quede pequeno del todo.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

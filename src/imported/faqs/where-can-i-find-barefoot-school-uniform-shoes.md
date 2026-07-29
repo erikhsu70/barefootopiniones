@@ -53,26 +53,26 @@ translatedFrom: en
 <li>– <strong>Tamaños UE 26-40</strong> – Durable con una caja de dedo muy amplia. Usar código <strong>CUALQUIER EXAMEN</strong> por 5% de descuento. Si estás fuera de Estados Unidos, </li>
 <li><a href="https://conkershoes.com/product-category/school-shoe-range/">Zapatos de conker</a> – <strong>Tamaños Reino Unido 1-5.5</strong>Asegúrese de elegir una suela barefoot. Cada par incluye un servicio gratuito de estiramiento de media talla y también son relebles y reparables.</li>
 <li> – <strong>Tamaños UE 24-37</strong></li>
-<li><a href="https://freetbarefoot.com/usa/product/junior-freet-citee/?ref=X9T_QsyhrdeOL">Freet</a> – <strong>Tamaños UE 30-36</strong></li>
+<li><a href="https://freetbarefoot.com/usa/product/junior-freet-citee/">Freet</a> – <strong>Tamaños UE 30-36</strong></li>
 <li>Froddo –<strong> Tamaños UE 27-38</strong>. Obtener 10% de su primer pedido con código <strong>CUALQUIER EXAMEN</strong></li>
 <li> – <strong>Tamaños hasta la UE 29</strong>. Código de uso <strong></strong> por 10% de descuento.</li>
 <li><a href="https://murisbrand.com/">Muris Brand </a>– <strong>Tamaños UE 28-35</strong>Mary Janes y Sneakers. Use el código  para 10% de descuento</li>
 <li><a href="https://www.paperkrane.com.au/collections/school-shoes">PaperKrane</a> – <strong>Tamaños UE 19-42</strong>¡Muchos estilos negros! Usar código <strong></strong> 10% de descuento</li>
-<li> <strong>Tamaños US 8C-13M</strong>. Código de uso <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/brand/splay-shoes/">Lee mis comentarios</a></li>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> – <strong>Tamaños 6C-5Y</strong></li>
+<li> <strong>Tamaños US 8C-13M</strong>. Código de uso <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/marca/splay-shoes/">Lee mis comentarios</a></li>
+<li>Zapatos de estrellas suaves – <strong>Tamaños 6C-5Y</strong></li>
 <li><a href="https://www.sole-runner.com/kinder">Sole Runner</a> – <strong>Tamaños UE 25-35</strong></li>
 <li>– <strong>Tamaños US 5C-6Y</strong>. Código de uso <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></li>
-<li> – <strong>Tamaños UE 23-35</strong>Tanuki Umi y Flying Fox. <a href="/brand/wildling-shoes/">Lea mis comentarios de Wildling aquí</a>. Código de uso <strong></strong> por €5/$10 fuera de su compra. Si vives fuera de Estados Unidos/Canadá, </li>
+<li> – <strong>Tamaños UE 23-35</strong>Tanuki Umi y Flying Fox. <a href="/marca/wildling-shoes/">Lea mis comentarios de Wildling aquí</a>. Código de uso <strong></strong> por €5/$10 fuera de su compra. Si vives fuera de Estados Unidos/Canadá, </li>
 <li> – <strong>Tamaños US 12-4</strong></li>
 <li><a href="https://zeazoo.com/en">Zeazoo </a>– <strong>Tamaños UE 18-36.</strong> Usar código <strong>CUALQUIER EXAMEN</strong> por 5% de descuento.</li>
 </ul>
 <h2 class="wp-block-heading">Todos los zapatos blancos</h2>
 <ul>
 <li> – <strong>Tamaños 8T-4Y</strong>. Código de uso <strong></strong> por 10% de descuento.</li>
-<li><a href="https://www.anrdoezrs.net/links/9040624/type/dlg/https://www.belenka.com/kids-barefoot-shoes/">Sé Lenka</a> – <strong>Tamaños UE 26-40</strong> – Durable con una caja de dedo muy amplia. Usar código <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
+<li><a href="https://www.belenka.com/kids-barefoot-shoes/">Sé Lenka</a> – <strong>Tamaños UE 26-40</strong> – Durable con una caja de dedo muy amplia. Usar código <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
 <li><a href="https://murisbrand.com/">Muris Brand </a>– <strong>Tamaños UE 28-35</strong> – Usar código  para 10% de descuento</li>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> – <strong>Tamaños 6C-5Y</strong> (opción acostumbrada)</li>
-<li> – <strong>Tamaños US 4C-13</strong>Lea mi <a href="/ten-little-kids-review/">Ten Little review aquí</a></li>
+<li>Zapatos de estrellas suaves – <strong>Tamaños 6C-5Y</strong> (opción acostumbrada)</li>
+<li> – <strong>Tamaños US 4C-13</strong>Lea mi <a href="/resena-de-ten-little-ninos-asequible-vegana-y-minimalista/">Ten Little review aquí</a></li>
 </ul>
 </div>
 

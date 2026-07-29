@@ -21,7 +21,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">miranda <a href="https://xeroshoes.com/shop/gender/womens/ztrail-women/">Xero Zapatos Z Trail</a></figcaption></figure>
+<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">miranda <a href="https://xeroshoes.com/shop/gender/mujeres/ztrail-women/">Xero Zapatos Z Trail</a></figcaption></figure>
 
 <p>Miranda, siendo una amiga súper inteligente y compasiva (y corredora/escaladora/ortesista), aceptó compartir contigo una guía para principiantes sobre cómo seleccionar calzado saludable en una publicación invitada.</p>
 <h2 class="wp-block-heading">Elementos clave de los zapatos minimalistas</h2>
@@ -36,7 +36,7 @@ translatedFrom: en
 <li><a href="#secure-to-the-foot">Seguro al pie</a></li>
 </ol>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption"></figcaption></figure>
-<p>A mí, como a mucha gente, se me ocurrió por primera vez la idea de “andar barefoot” en el libro “<a href="https://amzn.to/2lMZhH5">Nacido para correr</a>”por Christopher McDougall. Ahora, como alguien que usó aparatos ortopédicos para pies planos cuando era niño y luego se convirtió en ortesista, esa idea me dejó atónito.</p>
+<p>A mí, como a mucha gente, se me ocurrió por primera vez la idea de “andar barefoot” en el libro “Nacido para correr”por Christopher McDougall. Ahora, como alguien que usó aparatos ortopédicos para pies planos cuando era niño y luego se convirtió en ortesista, esa idea me dejó atónito.</p>
 <p>No estoy sugiriendo que las ortesis estén siempre contraindicadas. Definitivamente tienen su lugar.  Sin embargo, una persona sana que usa una ortesis sin planes de dejarla es similar a una persona que toma ibuprofeno a largo plazo para tratar el dolor sin investigar la razón subyacente del dolor. Cuando las ortesis hacen el trabajo de sostener las articulaciones o los arcos, los músculos que rodean estas áreas se debilitan. </p>
 <h2 class="wp-block-heading"><span id="wide-toe-box"></span>1. Puntera ancha</h2>
 <p>Esto permite que los dedos de los pies se extiendan como lo hacen naturalmente cuando 
@@ -62,7 +62,7 @@ Neuroma de Morton.</p>
 <p>Por supuesto, empezar a caminar y moverse con Zapatos barefoot no siempre es algo natural para todos. De hecho, puede parecer muy antinatural. Si sus pies han pasado toda su vida enyesados ​​(también conocidos como zapatos rígidos con soporte), es posible que se sientan abrumados por la cantidad de trabajo que de repente se les exige.</p>
 <p>La transición a zapatos minimalistas requiere tiempo y mucho esfuerzo. Si no los ha usado antes, es posible que deba consultar a un profesional antes de realizar la transición. Antes de saber mucho sobre los pies, sin saberlo, salté de un zapato con gran apoyo a Nike Free (un zapato más minimalista) y me encontré con fascitis plantar por no realizar la transición correctamente. Es fundamental empezar usando zapatos minimalistas por un tiempo corto e ir aumentando en tiempo y distancia. Cada cuerpo es diferente y, como resultado, el camino de cada uno hacia estar barefoot será diferente.</p>
 <p>La transición a estar barefoot es más que una simple cuestión de cambiar de calzado. Puede significar cambiar patrones de marcha, trabajar en su alineación y/o fortalecer sus músculos a través de diferentes ejercicios y <a href="https://www.nutritiousmovement.com/13-ways-to-make-your-walk-more-nutritious/" rel="noreferrer noopener" target="_blank">textura caminando</a>. Pero no se preocupe, hay muchos recursos excelentes para ayudarlo en este proceso, como <a href="https://www.nutritiousmovement.com/" rel="noreferrer noopener" target="_blank">Katy Bowman'</a>es un excelente trabajo y <a href="https://www.thefootcollective.com/barefoot/" rel="noreferrer noopener" target="_blank">El colectivo del pie</a>.</p>
-<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption"><a href="https://amzn.to/2OuYecM">Todo el cuerpo barefoot</a> por Katy Bowman (lleva Unshoes <a href="http://www.unshoesusa.com/?AffId=36">Wokovas</a>)</figcaption></figure>
+<figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Todo el cuerpo barefoot por Katy Bowman (lleva Unshoes <a href="http://www.unshoesusa.com/">Wokovas</a>)</figcaption></figure>
 <p>Desde que hice la transición total y adecuada al calzado minimalista, puedo andar por la casa sin zapato ni apoyo y estar bien. De hecho, puedo pasar mucho más tiempo de pie o caminando antes de que mis pies se cansen.  Mi equilibrio ha mejorado. Y les estoy haciendo un gran servicio a mis pies al no aplastarlos en una puntera restrictiva. </p>
 <p>Entonces, si te preguntas si TÚ puedes andar barefoot porque usas aparatos ortopédicos o porque has tenido fascitis plantar, únete al club.  Ponte unos zapatos minimalistas y comprueba por ti mismo lo maravillosos que funcionan tus pies cuando se mueven de la forma prevista por la naturaleza.   </p>
 
@@ -79,3 +79,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar ¿Qué es exactamente un zapato barefoot o minimalista? es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

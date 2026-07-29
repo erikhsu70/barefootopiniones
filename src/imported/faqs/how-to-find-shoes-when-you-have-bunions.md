@@ -51,10 +51,10 @@ translatedFrom: en
 <li>Elige zapatos con una parte superior suave que se extiende fácilmente y no se pincha mientras caminas.</li>
 <li>Busca zapatos con suelas que se sientan debajo del pie. Si quieres probar zapatos que tengan una suela de pared alta, asegúrate de que sean lo suficientemente anchos que no toquen tus bunions.</li>
 <li>Asegúrate de que los zapatos estén seguros en tu pie y no te deslices; correr hacia los lados de tu zapato puede exacerbar el dolor.</li>
-<li>Si usted se siente incomodidad de las suelas delgadas o tiene rango limitado de movimiento en su dedo grande, <a href="/barefoot-insoles-review/">añadir una plantilla</a> puede proporcionar cojín y soporte mientras que permite que su pie se realine.</li>
+<li>Si usted se siente incomodidad de las suelas delgadas o tiene rango limitado de movimiento en su dedo grande, <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">añadir una plantilla</a> puede proporcionar cojín y soporte mientras que permite que su pie se realine.</li>
 </ol>
-<p>También puede ser muy útil para usar <a href="/correct-toes-review/">toe spacers</a> dentro de sus zapatos – una razón más para elegir zapatos extra anchos.</p>
-<p>Si por cualquier razón necesitas un zapato más estructurado, ve por <a href="/ufaq/i-cant-find-barefoot-shoes-wide-enough-for-my-feet-what-do-i-do/">opciones extra amplias</a>. De nuevo, será más espacio que sus dedos de los pies necesita, pero proporcionará su bunion la limpieza <em>es</em> necesidades. Mientras el zapato se ajuste de forma segura alrededor de su pie medio, el espacio extra de los pies no debe ser un problema.</p>
+<p>También puede ser muy útil para usar <a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">toe spacers</a> dentro de sus zapatos – una razón más para elegir zapatos extra anchos.</p>
+<p>Si por cualquier razón necesitas un zapato más estructurado, ve por <a href="/preguntas/no-puedo-encontrar-zapatos-barefoot-suficientemente-anchos-para-mis-pies-que-hago/">opciones extra amplias</a>. De nuevo, será más espacio que sus dedos de los pies necesita, pero proporcionará su bunion la limpieza <em>es</em> necesidades. Mientras el zapato se ajuste de forma segura alrededor de su pie medio, el espacio extra de los pies no debe ser un problema.</p>
 </div>
 
 </div>

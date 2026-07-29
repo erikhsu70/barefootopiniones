@@ -1,10 +1,15 @@
 import fs from "node:fs";
 import path from "node:path";
+import { createRequire } from "node:module";
+
+const require = createRequire(import.meta.url);
+const { bySourceSlug } = require("../src/_lib/spanish-urls.js");
+const modelImageAssignments = require("../src/_data/modelImageAssignments.js");
 
 const ROOT = process.cwd();
 const POSTS_ROOT = path.join(ROOT, "src", "imported", "posts");
 const SRC_ROOT = path.join(ROOT, "src");
-const DIST_ROOT = path.join(ROOT, "dist");
+const DIST_ROOT = path.resolve(process.env.SITE_OUTPUT_DIR || path.join(ROOT, "dist"));
 
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -30,9 +35,14 @@ const problems = [];
 
 for (const postPath of posts) {
   const fm = frontmatter(fs.readFileSync(postPath, "utf8"));
-  const image = field(fm, "image");
-  const imageAlt = field(fm, "imageAlt");
-  const permalink = field(fm, "permalink");
+  const sourceSlug = field(fm, "sourceSlug") || path.basename(postPath, ".md");
+  const modelMedia = modelImageAssignments[sourceSlug];
+  const image = modelMedia?.featured?.src || field(fm, "image");
+  const imageAlt = modelMedia?.featured?.alt || field(fm, "imageAlt");
+  const record = bySourceSlug[sourceSlug];
+  const permalink = record?.to || field(fm, "permalink");
+
+  if (record?.retired) continue;
 
   if (!image) {
     problems.push({ postPath, permalink, problem: "Falta image" });

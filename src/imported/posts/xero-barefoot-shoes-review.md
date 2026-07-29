@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de zapatos Xero: Pheonix, Aptos, Alpine'
+title: "Mi opinión sobre zapatos Xero: Pheonix, Aptos, Alpine"
 description: ¡Xero Shoes nos ha sorprendido con una línea de nuevos e increíbles estilos
   para el otoño! A lo largo de los años, Xero ha ido ampliando su colección para incluir
   Zapatos barefoot para más ocasiones, por lo que estoy especialmente emocionado de
@@ -36,7 +36,7 @@ translatedFrom: en
 </div>
 
 <h2 class="wp-block-heading">Phoenix – Bailarina plana</h2>
-<p class="has-text-align-center">Desde entonces, escribí una reseña en profundidad del Phoenix tanto en tejido como en cuero. <a href="/xero-shoes-phoenix-review-barefoot-ballet-flat/">¡Mira la reseña de Phoenix aquí!</a></p>
+<p class="has-text-align-center">Desde entonces, escribí una reseña en profundidad del Phoenix tanto en tejido como en cuero. <a href="/revision-de-xero-zapatos-phoenix-una-elegante-bailarina-descalza/">¡Mira la reseña de Phoenix aquí!</a></p>
 <h3 class="wp-block-heading">Cuero – $100</h3>
 
 <p>el Es un pequeño zapato plano elegante con detalles alrededor de la puntera para darle un toque elegante. Viene con plantilla extraíble para pies de gran volumen y está forrada en piel. El zapato está estructurado (lo que le da un aspecto más elegante), pero la suela es más rígida de lo que normalmente prefiero en un zapato.</p>
@@ -62,11 +62,11 @@ translatedFrom: en
 <h2 class="wp-block-heading">Aptos – Zapatilla sin cordones</h2>
 <h3 class="wp-block-heading">Vegano – $60</h3>
 
-<p>el <a href="https://xeroshoes.com/shop/shoes/aptos-men/"> </a>(versión femenina ) ¡La zapatilla sin cordones de cáñamo es realmente liviana, flexible y la zapatilla casual más asequible hasta la fecha! Definitivamente es un volumen alto, así que tuve que usar un <a href="/barefoot-insoles-review/">consola</a> y inserto de fieltro y todavía son espaciosos alrededor del tobillo. Tengo pies muy poco profundos, por lo que esto no es tan raro para mí. Si tienes pies muy voluminosos, ¡los Aptos serán un buen zapato para ti!</p>
+<p>el <a href="https://xeroshoes.com/shop/shoes/aptos-men/"> </a>(versión femenina ) ¡La zapatilla sin cordones de cáñamo es realmente liviana, flexible y la zapatilla casual más asequible hasta la fecha! Definitivamente es un volumen alto, así que tuve que usar un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">consola</a> y inserto de fieltro y todavía son espaciosos alrededor del tobillo. Tengo pies muy poco profundos, por lo que esto no es tan raro para mí. Si tienes pies muy voluminosos, ¡los Aptos serán un buen zapato para ti!</p>
 <h3 class="wp-block-heading">Dimensionamiento</h3>
 <p>Compré una talla 6,5, que es mi talla típica de zapatillas. Aunque son espaciosos, no los reduciré porque mi pie ocupa toda la puntera. Entonces, diría que son fieles al tamaño, pero ligeramente estrechos en la puntera.</p>
 <h3 class="wp-block-heading">Comparaciones</h3>
-<p>Me gustan las zapatillas sin cordones y he probado algunos estilos este año (puedes ver mi reseña de las <a href="/feelgrounds-droptop-review/">Feelgrounds Droptop aquí</a> y el <a href="https://www.instagram.com/p/CCBrDXHp3AK/?utm_source=ig_web_copy_link">Sé Lenka Eazy aquí</a>). A modo de comparación, el Xero Aptos es genial y parece un zapato normal. Me gustan las costuras blancas en contraste y el material de cáñamo. Desafortunadamente, son más estrechos que Feelgrounds y Be Lenka y apenas son lo suficientemente anchos para mí.</p>
+<p>Me gustan las zapatillas sin cordones y he probado algunos estilos este año (puedes ver mi reseña de las <a href="/revision-de-feelgrounds-droptop-geniales-zapatos-barefoot/">Feelgrounds Droptop aquí</a> y el <a href="https://www.instagram.com/p/CCBrDXHp3AK/?utm_source=ig_web_copy_link">Sé Lenka Eazy aquí</a>). A modo de comparación, el Xero Aptos es genial y parece un zapato normal. Me gustan las costuras blancas en contraste y el material de cáñamo. Desafortunadamente, son más estrechos que Feelgrounds y Be Lenka y apenas son lo suficientemente anchos para mí.</p>
 <p>Si tienes un hijo o un amigo al que estás intentando ponerle Zapatos barefoot, ¡creo que este es un gran estilo de transición! Mire el vídeo a continuación para obtener más detalles.</p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uPxHm4MEEW0?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Revisión de Xero Shoes Aptos - Zapatos sin cordones descalzos" width="500"></iframe></div>
@@ -76,7 +76,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Vegano – $150</h3>
 
 <p>¡Estoy muy entusiasmado con este! Todavía tengo que probar una bota de nieve impermeable como esta, y es algo que realmente necesito para vivir en un clima frío.  Es definitivamente más rígido que cualquier otro zapato que tengo, pero tiene tacos duraderos y una suela que se siente realmente resistente. La parte superior está acolchada y en el interior hay una plantilla térmica (extraíble).</p>
-<p>Realmente no puedo probar la clasificación de frío en este momento, pero háblame en enero cuando haga -15 grados Fahrenheit y te diré cómo están mis pies. En general, parecen estar bien hechos y aprecio que la abertura del tobillo se pueda cerrar de forma segura para evitar la entrada de nieve. tengo <a href="/barefoot-boots-top-picks/">varias otras botas</a> Eso me ayuda a pasar el invierno, pero ninguno de ellos realmente puede soportar la nieve y el hielo, ¡así que soy optimista sobre el Alpine!</p>
+<p>Realmente no puedo probar la clasificación de frío en este momento, pero háblame en enero cuando haga -15 grados Fahrenheit y te diré cómo están mis pies. En general, parecen estar bien hechos y aprecio que la abertura del tobillo se pueda cerrar de forma segura para evitar la entrada de nieve. tengo <a href="/mis-botas-descalzos-mas-magos/">varias otras botas</a> Eso me ayuda a pasar el invierno, pero ninguno de ellos realmente puede soportar la nieve y el hielo, ¡así que soy optimista sobre el Alpine!</p>
 <h3 class="wp-block-heading">Dimensionamiento</h3>
 <p>Obtuve un 6.5 y usaré una talla hasta un 7 para poder usar calcetines más gruesos (el 6.5 queda perfecto con calcetines finos, pero quiero más espacio para los días súper fríos). La puntera es lo suficientemente espaciosa para que yo esté cómodo, pero no hay mucho espacio extra. Yo diría que están a la par del ancho de las botas Vivobarefoot.</p>
 <p>¡Mira el vídeo a continuación para obtener más detalles!</p>
@@ -110,3 +110,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de zapatos Xero: Pheonix, Aptos, Alpine es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Zapatos para correr/caminar descalzos Bahe con tecnología de conexión a tierra
+title: "Bahe: zapatillas barefoot para correr y caminar con conexión a tierra"
 description: Ahora está disponible la zapatilla para correr barefoot Bahe Revive,
   una excelente opción para alguien que quiere una suela un poco más robusta que la
   que normalmente se encuentra en los Zapatos barefoot.
@@ -19,7 +19,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p>Ya está disponible para envío el <a href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5">Bahe revivir</a> Zapato para correr (y caminar) barefoot, que he estado probando durante las últimas semanas. Tienen un grosor de 11 a 14 mm y tecnología de conexión a tierra, y los considero una excelente opción para alguien que quiere <strong>una suela ligeramente más robusta que la que normalmente se encuentra en los Zapatos barefoot.</strong></p>
+<p>Ya está disponible para envío el <a href="https://bahe.co/">Bahe revivir</a> Zapato para correr (y caminar) barefoot, que he estado probando durante las últimas semanas. Tienen un grosor de 11 a 14 mm y tecnología de conexión a tierra, y los considero una excelente opción para alguien que quiere <strong>una suela ligeramente más robusta que la que normalmente se encuentra en los Zapatos barefoot.</strong></p>
 <p class="has-text-align-center"><em>Usar código <strong></strong> con un 10% de descuento en tu pedido.</em></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-567837e2" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
@@ -31,7 +31,7 @@ translatedFrom: en
 </div>
 
 <h2 class="wp-block-heading">Revisión de los zapatos para correr descalzos Bahe</h2>
-<p>he usado mi<a href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5"> Bahe revivir</a> Zapatos para caminatas rápidas de varios kilómetros por el vecindario (tomando un descanso de la carrera mientras trabajo en algunas articulaciones hiperlaxas) ¡y realmente los disfruté! Realmente cualquier zapato que se comercialice para correr también funciona muy bien como zapato para caminar. Y a veces disfruto de un poco más de acolchado bajo el pie cuando camino sobre cemento. </p>
+<p>he usado mi<a href="https://bahe.co/"> Bahe revivir</a> Zapatos para caminatas rápidas de varios kilómetros por el vecindario (tomando un descanso de la carrera mientras trabajo en algunas articulaciones hiperlaxas) ¡y realmente los disfruté! Realmente cualquier zapato que se comercialice para correr también funciona muy bien como zapato para caminar. Y a veces disfruto de un poco más de acolchado bajo el pie cuando camino sobre cemento. </p>
 <p>Funcionalmente, la suela tiene buen agarre y la parte superior es transpirable, exactamente lo que buscas en un calzado deportivo. Incluso después de que terminé de probarlos para esta revisión, ¡todavía los uso para mis caminatas! También son muy lindos, lo que siempre ayuda.</p>
 <h2 class="wp-block-heading">¿Están descalzos?</h2>
 
@@ -41,7 +41,7 @@ translatedFrom: en
 <li>Forma anatómica: más ancha en los dedos de los pies.</li>
 <li>Flexibles</li>
 </ul>
-<p>Pero comparado con<a href="/reviews/"> otros Zapatos barefoot</a>, la suela es un poco más gruesa (14 mm con plantilla, 11 mm sin) y tiene un borde cuadrado para que no se doblen fácilmente en todas las direcciones. En mi opinión, esto los hace mejores para superficies urbanas, pero también los usaría para correr en senderos mayoritariamente llanos. </p>
+<p>Pero comparado con<a href="/resenas/"> otros Zapatos barefoot</a>, la suela es un poco más gruesa (14 mm con plantilla, 11 mm sin) y tiene un borde cuadrado para que no se doblen fácilmente en todas las direcciones. En mi opinión, esto los hace mejores para superficies urbanas, pero también los usaría para correr en senderos mayoritariamente llanos. </p>
 <p>En general, Bahe tiene una sensación ligera y natural y se flexiona fácilmente (simplemente no se tuercen fácilmente). Si buscas un zapato minimalista intermedio (ni súper delgado ni súper grueso), Bahe es genial y planeo seguir usándolos cuando necesite un pequeño descanso para no sentir el pavimento.</p>
 <p>Bahe también fabrica una zapatilla tradicional llamada Recharge que no cumple con este criterio y que no he probado.</p>
 <h2 class="wp-block-heading">Sizing &amp;amp; Fit</h2>
@@ -49,24 +49,23 @@ translatedFrom: en
 <ul>
 <li>Corre un poco más, pero no reduciré el tamaño.</li>
 <li>Son de ancho medio: funcionan en mis pies anchos porque la parte superior de malla es flexible.</li>
-<li>son <a href="/ufaq/what-is-foot-volume/">Volumen medio a alto </a>– una plantilla extraíble los hace adecuados para una variedad de pies.</li>
+<li>son <a href="/preguntas/que-es-el-volumen-del-pie/">Volumen medio a alto </a>– una plantilla extraíble los hace adecuados para una variedad de pies.</li>
 </ul>
 <p>Llevo unas US 7 para mujer (aunque estas zapatillas son unisex) y son un poco más largas de lo que esperaba, pero aún me quedan bien. Normalmente uso mis zapatos deportivos del lado más grande porque los pies se hinchan cuando estás activo. </p>
-<p>Son de volumen medio a alto, así que tengo que apretar bastante los cordones porque tengo el arco bajo. También estoy considerando agregar un adicional<a href="/barefoot-insoles-review/"> plantilla amigable para los pies descalzos</a> para que se ajusten más firmemente a mis delgados tobillos. </p>
+<p>Son de volumen medio a alto, así que tengo que apretar bastante los cordones porque tengo el arco bajo. También estoy considerando agregar un adicional<a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/"> plantilla amigable para los pies descalzos</a> para que se ajusten más firmemente a mis delgados tobillos. </p>
 <p>El ancho es bueno para mis pies y la parte superior de malla es indulgente, pero es posible que no funcionen para un pie extra ancho. ¡Ofrecen una guía de tallas imprimible para que puedas asegurarte de que también estás adquiriendo la talla correcta!</p>
 <p>La única queja de comodidad que tuve es que los lados suben un poco y me rozan los huesos del tobillo. Me encantaría verlos cortados un poco más abajo para que quepan más personas.</p>
 
 <h2 class="wp-block-heading">Tecnología de puesta a tierra</h2>
 <p>Los zapatos Bahe tienen materiales conductores en todo el zapato y han sido probados por terceros para tener una resistencia eléctrica cercana a cero. Sinceramente, no compro zapatos por su tecnología de conexión a tierra porque no he notado ninguna diferencia al usarlos; para mí, lo importante es el ajuste del zapato. Pero si esto le resulta intrigante, puede profundizar más en <a href="https://bahe.co/pages/grounding">El enfoque de Bahe sobre la conexión a tierra aquí.</a></p>
 <h2 class="wp-block-heading">Realizar pedidos</h2>
-<p>¡La zapatilla para correr descalza Bahe Revive está lista para enviarse desde el Reino Unido! Aceptan devoluciones/cambios según su <a href="https://bahe.co/policies/refund-policy?sca_ref=4079638.1tpEM7ApW5">política de devolución normal</a>. Si estás en los EE. UU., el envío demora aproximadamente una semana y tiene una tarifa fija de $15. Si necesita devolverlos, tienen una dirección en EE. UU. para que los clientes estadounidenses hagan las cosas más fáciles.</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-90 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5">Bahe revivir</a></div>
+<p>¡La zapatilla para correr descalza Bahe Revive está lista para enviarse desde el Reino Unido! Aceptan devoluciones/cambios según su <a href="https://bahe.co/policies/refund-policy">política de devolución normal</a>. Si estás en los EE. UU., el envío demora aproximadamente una semana y tiene una tarifa fija de $15. Si necesita devolverlos, tienen una dirección en EE. UU. para que los clientes estadounidenses hagan las cosas más fáciles.</p>
+
 </div>
 <p class="has-text-align-center"><em>No olvides usar el código. <strong></strong> para 10% de descuento</em>.</p>
 <h2 class="wp-block-heading">Te gustará Bahe si...</h2>
 <p>El Bahe Revive es ideal para alguien que quiere un zapato para correr minimalista sin andar barefoot. Son una opción atlética sólida que cabe entre un Vibram 5 Fingers (súper minimalista) y un Altra o Topo (acolchado). ¡También te encantará Bahe si te encanta la idea de conectarte a tierra!</p>
-<p class="has-text-align-center">Si desea explorar más opciones en diferentes espesores, diríjase a mi resumen de <a href="/10-best-barefoot-running-shoes-for-healthy-feet/">¡Los diez mejores zapatos para correr descalzos!</a></p>
+<p class="has-text-align-center">Si desea explorar más opciones en diferentes espesores, diríjase a mi resumen de <a href="/los-mejores-zapatos-barefoot-para-pies-sanos/">¡Los diez mejores zapatos para correr descalzos!</a></p>
 
 
 <!-- editorial-expansion:v1 -->
@@ -97,3 +96,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Zapatos para correr/caminar descalzos Bahe con tecnología de conexión a tierra es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

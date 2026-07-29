@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Caminar 101: Cómo mejorar su marcha para una movilidad permanente'
+title: "Cómo caminar mejor y recuperar una marcha natural"
 description: ¿No estás seguro de si tu forma de caminar es buena para tu cuerpo? Caminar
   bien es sostenible, por lo que aprender a caminar con el paso y la alineación adecuados
   significa que podrás caminar sin dolor durante décadas. Lea esta publicación para
@@ -36,7 +36,7 @@ translatedFrom: en
 <p>Aquí en Barefoot Opiniones hablamos de cómo el calzado afecta al cuerpo. Los Zapatos barefoot están diseñados para permitirte moverte <em>como si</em> barefoot y son una manera maravillosa de ayudar a recuperar los patrones de movimiento naturales que la mayoría de nosotros perdemos con la edad. <strong>Pero muchas veces no basta con cambiarse de zapatos.</strong> Mucha gente (incluyéndome a mí) se siente incómoda después de cambiar a zapatos completamente planos, delgados y flexibles.</p>
 <p class="has-text-align-center has-background" style="background-color:#ebebeb"><em>¿Quieres desviarte y aprender más sobre los zapatos? ¡Haga clic en el enlace a continuación! ¿Quieres seguir los consejos para caminar? ¡Sigue leyendo!</em></p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-156 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/benefits-barefoot-minimalist-shoes/">Por qué uso Zapatos barefoot</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Por qué uso Zapatos barefoot</a></div>
 </div>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
@@ -54,7 +54,7 @@ translatedFrom: en
 <figure class="wp-block-video aligncenter"><video controls="" muted="" poster=""></video></figure>
 
 <p>¡Planta ese pie y luego empújalo detrás de ti! Las caminatas impulsadas por los glúteos son estables: puedes detenerte en cualquier punto sin caerte. Estás conectado a tierra y tus piernas se mueven debajo de ti.</p>
-<p><a href="/benefits-barefoot-minimalist-shoes/">zapatos de zero drop</a> ayude a mantener el peso sobre los talones para que sea más fácil caminar así. Por el contrario, los zapatos de tacón tienden a empujar el peso hacia adelante y pueden provocar un dominio de los cuádriceps (caminar con los cuádriceps en lugar de los glúteos).</p>
+<p><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">zapatos de zero drop</a> ayude a mantener el peso sobre los talones para que sea más fácil caminar así. Por el contrario, los zapatos de tacón tienden a empujar el peso hacia adelante y pueden provocar un dominio de los cuádriceps (caminar con los cuádriceps en lugar de los glúteos).</p>
 <h3 class="wp-block-heading">Golpe del talón</h3>
 <p>Al caminar continuamente sobre un terreno plano y nivelado, es importante hacer contacto primero con la almohadilla carnosa del talón para desencadenar una cadena de impulso que sea a la vez eficiente y estable. esto se llama <strong>golpe del talón</strong> (a diferencia del golpe con el antepié). A pesar del nombre, no es un golpe dramático con el talón. Primero pisas el talón (la parte blanda, no la parte trasera huesuda) y luego dispersas rápidamente el peso por todo el pie. </p>
 <p>Si te cuesta dar un paso <em>sin</em> Al golpear, es posible que tengas que acercar el pie al centro de gravedad. La buena noticia es que caminar barefoot mejorará su propiocepción, por lo que podrá controlar mejor su aterrizaje Y generará una piel más gruesa.</p>
@@ -78,13 +78,13 @@ translatedFrom: en
 <h3 class="wp-block-heading">Caminar sobre el dedo gordo</h3>
 
 <p>Se supone que el dedo gordo del pie desempeña un papel importante en el ciclo de la marcha. Cuando el dedo gordo se dobla, tira del tejido fibroso que hay debajo del pie (la fascia plantar), lo tensa y eleva el arco. Cuando el dedo gordo del pie se dobla así y la fascia plantar se estira, el pie es una palanca rígida. <em>rígido</em> para permitir la transferencia de energía para impulsarte hacia adelante. Todo esto se llama mecanismo de molinete y es un componente esencial de una marcha sostenible. <strong>¡Caminar directamente sobre el dedo gordo del pie hace que suceda esta magia!</strong></p>
-<p>Los zapatos rígidos que aprietan los dedos de los pies no le permiten caminar así, lo que puede agravar una cantidad incalculable de partes de su cuerpo y provocar problemas como juanetes. <a href="/ufaq/can-i-wear-barefoot-shoes-if-i-have-plantar-fasciitis/">fasciosis plantar</a>, hallux rigidus y más adelante en la cadena. Calzarse zapatos con forma de pie puede mejorar la alineación de su pie para que pueda aprovechar estas eficiencias incorporadas.</p>
+<p>Los zapatos rígidos que aprietan los dedos de los pies no le permiten caminar así, lo que puede agravar una cantidad incalculable de partes de su cuerpo y provocar problemas como juanetes. <a href="/preguntas/puedo-usar-zapatos-de-barefoot-si-tengo-plantar-fasciosis/">fasciosis plantar</a>, hallux rigidus y más adelante en la cadena. Calzarse zapatos con forma de pie puede mejorar la alineación de su pie para que pueda aprovechar estas eficiencias incorporadas.</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-157 wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">¡Empiece aquí con los Zapatos barefoot!</a></div>
 </div>
 
 <h4 class="wp-block-heading">Ejercicios de alineación del pie</h4>
-<p>Además de un mejor calzado, ¡puedes empezar a alinear los dedos de los pies inmediatamente con unos sencillos ejercicios! Aquí puedes encontrar <a href="/foot-exercises-transitioning-barefoot-shoes/">mis ejercicios de pies favoritos</a> eso realmente puede marcar una diferencia en la función de su pie. Y aquí está <a href="https://www.instagram.com/reel/CWbOOniJKzx/?utm_source=ig_web_copy_link">uno mas</a> He llegado a amar recientemente.</p>
+<p>Además de un mejor calzado, ¡puedes empezar a alinear los dedos de los pies inmediatamente con unos sencillos ejercicios! Aquí puedes encontrar <a href="/5-sencillos-ejercicios-de-pie-para-la-transicion-a-zapatos-barefoot/">mis ejercicios de pies favoritos</a> eso realmente puede marcar una diferencia en la función de su pie. Y aquí está <a href="https://www.instagram.com/reel/CWbOOniJKzx/?utm_source=ig_web_copy_link">uno mas</a> He llegado a amar recientemente.</p>
 <h3 class="wp-block-heading">La lista pélvica</h3>
 
 <p>Una vez que comienzas a moverte, muchas personas quieren dejar que la cadera colapse sobre la pierna que se balancea, lo que resulta en un movimiento de las caderas hacia adelante y hacia atrás al caminar. Esto se llama fuga del plano frontal y es ineficiente y estresante para las articulaciones. En su lugar, desea utilizar los músculos laterales (externos) de la cadera de la pierna de apoyo para mantener la pelvis recta y ligeramente levantada como se muestra en la imagen de arriba. Pasamos la mayor parte de nuestro tiempo caminando sobre una pierna, por lo que el equilibrio con una sola pierna es muy importante y, sin embargo, ¡muchos de nosotros no tenemos la fuerza para ello! Entonces es cuando las ineficiencias empiezan a aparecer.</p>
@@ -128,8 +128,7 @@ translatedFrom: en
 <li>Contenido gratuito para redes sociales</li>
 <li>Suscripción por correo electrónico con consejos semanales.</li>
 </ul>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-158 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://gaithappens.com/?gh=1">¡Haga clic aquí para ver todos los recursos de Gait Happens!</a></div>
+
 </div>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:43% auto"><div class="wp-block-media-text__content">

@@ -1,39 +1,79 @@
 ---
 layout: layouts/base.njk
 ---
-{% set hideToc = true %}
-<article class="article imported-article">
-  <header class="article-hero imported-hero">
-    <div class="article-heading">
-      <p class="eyebrow">Artículo traducido{% if contentType %} / {{ contentType }}{% endif %}</p>
+{% set showToc = contentType == "Artículo" %}
+{% set modelMedia = modelImageAssignments[sourceSlug] %}
+<article class="lov-article imported-article">
+  <header class="lov-article-hero">
+    <div class="lov-article-heading">
+      <p class="lov-article-kicker">{% if contentType == "FAQ" %}Pregunta frecuente{% else %}{{ contentType or "Artículo" }}{% endif %} · Barefoot Opiniones</p>
       <h1>{{ title }}</h1>
       {% if description %}
         <p>{{ description | cleanSummary }}</p>
       {% endif %}
+      <div class="article-author article-author--compact">
+        <img src="/assets/images/isabel-author.png" alt="Isabel" width="42" height="42">
+        <span><strong>Isabel</strong><small>Editora · Barefoot Opiniones</small></span>
+      </div>
     </div>
-    {% if image %}
-      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager">
-    {% endif %}
+    {% set articleImage = modelMedia.featured.src if modelMedia and modelMedia.featured else image %}
+    {% if articleImage %}<div class="lov-article-image">
+      <img src="{{ articleImage }}" alt="{{ modelMedia.featured.alt if modelMedia and modelMedia.featured else imageAlt or title }}" loading="eager" width="1600" height="900">
+    </div>{% endif %}
   </header>
 
   <div class="article-layout">
-    {% if not hideToc %}
+    <div class="article-body imported-content" data-article-content>
+      {% if showToc %}
+        <details class="article-toc-mobile" open>
+          <summary>En este artículo</summary>
+          <nav data-article-toc-mobile></nav>
+        </details>
+      {% endif %}
+      {% if modelMedia and modelMedia.gallery and modelMedia.gallery.length %}
+        <section class="model-image-gallery" aria-label="Modelos mencionados en el artículo">
+          {% for modelImage in modelMedia.gallery %}
+            <figure>
+              <img src="{{ modelImage.src }}" alt="{{ modelImage.alt }}" loading="lazy" width="474" height="474">
+              <figcaption>{{ modelImage.alt }}</figcaption>
+            </figure>
+          {% endfor %}
+        </section>
+      {% endif %}
+      {{ content | cleanImportedHtml(contentType == "FAQ" or pageClass == "faq-page") | safe }}
+      <aside class="article-author-card" aria-label="Sobre la autora">
+        <img src="/assets/images/isabel-author.png" alt="Isabel" width="56" height="56">
+        <div>
+          <p>Editado por Isabel</p>
+          <span>Reviso y adapto cada guía con una mirada práctica sobre ajuste, comodidad, materiales y estilo para la vida real.</span>
+          <a href="/sobre-mi/">Conoce mi historia</a>
+        </div>
+      </aside>
+    </div>
+    {% if showToc %}
       <aside class="article-toc" aria-label="Tabla de contenidos">
-        <p>Contenido</p>
+        <p>En este artículo</p>
         <nav data-article-toc></nav>
       </aside>
     {% endif %}
-    <div class="article-body imported-content" data-article-content>
-      {{ content | cleanImportedHtml(contentType == "FAQ" or pageClass == "faq-page") | safe }}
-    </div>
   </div>
 </article>
 
 <script>
   (() => {
     const content = document.querySelector("[data-article-content]");
-    const toc = {% if hideToc %}null{% else %}document.querySelector("[data-article-toc]"){% endif %};
+    const toc = {% if showToc %}document.querySelector("[data-article-toc]"){% else %}null{% endif %};
+    const mobileToc = {% if showToc %}document.querySelector("[data-article-toc-mobile]"){% else %}null{% endif %};
     if (!content) return;
+
+    const articleLayout = content.closest(".article-layout");
+    if (articleLayout) {
+      [...articleLayout.children].forEach((child) => {
+        if (child !== content && !child.classList.contains("article-toc")) content.append(child);
+      });
+      const desktopToc = document.querySelector(".article-toc");
+      if (desktopToc) articleLayout.append(desktopToc);
+    }
 
     const isJunkText = (text) => {
       const normalized = text.replace(/\u00a0/g, " ").trim();
@@ -52,6 +92,7 @@ layout: layouts/base.njk
     const documentExt = "." + "pdf";
     const externalAssetTextPattern = new RegExp(["youtube", "vimeo", "v[íi]deo", "video", "replay", "descargar\\s+" + "pdf", "pdf"].join("|"), "i");
     const amazonHrefPattern = /(amzn\.to|amazon\.[a-z.]+)/i;
+    const legacyPersonalClaimPattern = /(mi experiencia personal|mi equipo de (evaluadores|probadores)|he (estado )?(probando|revisando) (zapatos|calzado|marcas)|he revisado cientos|durante [0-9]+ años|compr[eé] mi primer par|para que mi familia y mi equipo)/i;
     const shouldRemoveAmazonLinks = {{ "true" if contentType == "FAQ" or pageClass == "faq-page" else "false" }};
     const legacyUrlMap = {
       "/2019/03/28/north-sole-insoles-barefoot-ing-your-way/": "/northsole-barefoot-insoles-review/",
@@ -148,6 +189,10 @@ layout: layouts/base.njk
       if (discountTextPattern.test(node.textContent)) node.remove();
     });
 
+    content.querySelectorAll("p, blockquote").forEach((node) => {
+      if (legacyPersonalClaimPattern.test(node.textContent)) node.remove();
+    });
+
     content.querySelectorAll("li, p").forEach((node) => {
       if (isJunkText(node.textContent) && !hasUsefulMedia(node)) node.remove();
     });
@@ -160,8 +205,8 @@ layout: layouts/base.njk
       if (isJunkText(figure.textContent) && !hasUsefulMedia(figure)) figure.remove();
     });
 
-    {% if not hideToc %}
-      if (!toc) return;
+    {% if showToc %}
+      if (!toc || !mobileToc) return;
 
       const headings = [...content.querySelectorAll("h2, h3")]
         .filter((heading) => heading.textContent.trim().length > 0)
@@ -169,6 +214,7 @@ layout: layouts/base.njk
 
       if (!headings.length) {
         toc.closest(".article-toc")?.remove();
+        mobileToc.closest(".article-toc-mobile")?.remove();
         return;
       }
 
@@ -198,6 +244,7 @@ layout: layouts/base.njk
       });
 
       toc.append(list);
+      mobileToc.append(list.cloneNode(true));
     {% endif %}
   })();
 </script>

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambia estos zapatos populares por alternativas comodas"
+title: "Cambia estos zapatos populares por alternativas cómodas"
 description: "Versiones barefoot o de puntera amplia para sustituir siluetas conocidas sin renunciar al estilo."
 date: 2026-06-28
 category: "Estilo"

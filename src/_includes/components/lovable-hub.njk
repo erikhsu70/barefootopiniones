@@ -1,0 +1,33 @@
+<section class="lov-page-hero">
+  <div class="lov-page-hero__inner">
+    <p class="lov-article-kicker">{{ hubEyebrow }} · {{ hubPosts.length }} artículos</p>
+    <h1>{{ hubTitle }}</h1>
+    <p>{{ hubDescription }}</p>
+  </div>
+</section>
+
+<section class="lov-archive" aria-labelledby="hub-articles-title">
+  <div class="lov-section-head">
+    <div>
+      <p class="lov-article-kicker">Selección editorial</p>
+      <h2 id="hub-articles-title">{{ hubListTitle or "Todos los artículos" }}</h2>
+    </div>
+    <a href="/articulos/">Ver todo el blog</a>
+  </div>
+  <div class="lov-category-grid">
+    {% for post in hubPosts %}
+      <a class="lov-category-card" href="{{ post.url }}">
+        <div class="lov-category-card__image">
+          {% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="{% if loop.index <= 3 %}eager{% else %}lazy{% endif %}">{% endif %}
+        </div>
+        <div class="lov-category-card__body">
+          <time class="lov-card-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          <h2>{{ post.data.title }}</h2>
+          {% if post.data.description %}<p>{{ post.data.description | cleanSummary }}</p>{% endif %}
+        </div>
+      </a>
+    {% else %}
+      <p>No hay artículos publicados en esta sección todavía.</p>
+    {% endfor %}
+  </div>
+</section>

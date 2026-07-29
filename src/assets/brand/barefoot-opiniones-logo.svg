@@ -1,31 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 116" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 132" role="img" aria-labelledby="title desc">
   <title id="title">Barefoot Opiniones</title>
-  <desc id="desc">Logo de Barefoot Opiniones con una suela barefoot y el nombre de la marca.</desc>
+  <desc id="desc">Logo de Barefoot Opiniones con una pisada minimalista y el nombre de la marca.</desc>
   <defs>
-    <linearGradient id="sole" x1="12" x2="92" y1="84" y2="22" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#c6503d"/>
-      <stop offset="1" stop-color="#f4c95d"/>
+    <linearGradient id="sole" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c6503d"/>
+      <stop offset="55%" stop-color="#d86c42"/>
+      <stop offset="100%" stop-color="#f4c95d"/>
     </linearGradient>
-    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#15120f" flood-opacity=".18"/>
-    </filter>
   </defs>
-  <g filter="url(#soft-shadow)">
-    <path fill="#fffaf2" d="M14 58c0-28.7 23.3-52 52-52h16c28.7 0 52 23.3 52 52s-23.3 52-52 52H66c-28.7 0-52-23.3-52-52Z"/>
-    <path fill="url(#sole)" d="M59.5 88.3c-12.1-3.6-20.7-13.4-22.1-25.4-1.5-12.6 5.1-25.4 16.8-32.2 11.7-6.9 26-6.5 37.6.8 10.8 6.8 16.6 18.2 15 29.4-1.5 10.1-8.9 17.2-18 22.1-9.4 5-19.7 8.1-29.3 5.3Z"/>
-    <path fill="#15120f" d="M73.4 81.1c-2.8.8-5.3-.2-6.3-2.6-1-2.4-.1-5.3 2.2-7.1 4.5-3.6 13.1-8.5 14.8-17.8.6-3.2 3.2-5.1 6-4.4 2.9.8 4.6 3.6 4 6.9-2.4 13-13.2 22.7-20.7 25Z" opacity=".2"/>
-    <circle cx="52" cy="24" r="9.2" fill="#c6503d"/>
-    <circle cx="69" cy="18" r="8.8" fill="#d86c42"/>
-    <circle cx="86" cy="20.5" r="8.2" fill="#e8904b"/>
-    <circle cx="101" cy="29.5" r="7.5" fill="#f4c95d"/>
-    <circle cx="111" cy="44" r="6.8" fill="#f7d77c"/>
-    <path fill="none" stroke="#fffefd" stroke-linecap="round" stroke-width="5" d="M55 62c10.4-11.3 28.7-12 42-3.2"/>
-    <path fill="#15120f" d="M47.5 63.8c0-13.1 8.4-25 20.6-29.2-8.1 6.8-12 16.3-10.5 26.4 1.5 10.1 8 18.2 17.8 22.4-15.5 1.1-27.9-7.4-27.9-19.6Z" opacity=".09"/>
+
+  <!-- Footprint mark -->
+  <g>
+    <rect x="8" y="8" width="116" height="116" rx="28" fill="#fffaf2"/>
+    <path fill="url(#sole)" d="M34.5 102.5c-10.8-6.4-18.5-17.6-20.4-30.8-2.2-15.3 5.8-30.9 20.1-39.3 14.3-8.4 31.9-8 46.1 1 13.1 8.3 20.2 22.2 18.3 35.9-1.7 12.3-10.8 21-21.9 27-11.4 6.1-24 9.8-35.5 6.5-2.1-.6-4.2-1.3-6.7-2.3Z"/>
+    <path fill="#fffaf2" opacity=".35" d="M36.5 77.4c8.4-14.6 26.8-19.4 41.6-11.2 3.5 1.9 5.6 5.7 5.1 9.6-.6 4.3-4 7.7-8.2 8.7-12.6 3.1-26.1-.5-35.1-10.3-1.3-1.4-2.6-3-3.4-4.8Z"/>
+    <circle cx="38" cy="30" r="10" fill="#c6503d"/>
+    <circle cx="58" cy="22" r="9.5" fill="#d86c42"/>
+    <circle cx="78" cy="25" r="8.8" fill="#e8904b"/>
+    <circle cx="96" cy="36" r="8" fill="#f4c95d"/>
+    <circle cx="107" cy="53" r="7.2" fill="#f7d77c"/>
+    <path fill="none" stroke="#fffaf2" stroke-linecap="round" stroke-width="6" d="M44 68c12.8-13.9 35.3-14.7 51.6-4"/>
   </g>
+
+  <!-- Wordmark -->
   <g fill="#15120f">
-    <text x="154" y="51" font-family="Inter, Arial, Helvetica, sans-serif" font-size="34" font-weight="850" letter-spacing="0">Barefoot</text>
-    <text x="154" y="85" font-family="Inter, Arial, Helvetica, sans-serif" font-size="34" font-weight="850" letter-spacing="0">Opiniones</text>
+    <text x="152" y="62" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="52" font-weight="900" letter-spacing="-0.02em">Barefoot</text>
+    <text x="152" y="108" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="52" font-weight="900" letter-spacing="-0.02em">Opiniones</text>
   </g>
-  <path fill="#c6503d" d="M342 63.5c0-2 1.6-3.5 3.5-3.5h52c2 0 3.5 1.6 3.5 3.5s-1.6 3.5-3.5 3.5h-52c-2 0-3.5-1.6-3.5-3.5Z"/>
-  <text x="346" y="83" fill="#687a43" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="800" letter-spacing="0">por Isabel</text>
+
+  <!-- Tagline -->
+  <text x="154" y="126" fill="#687a43" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700" letter-spacing="0.04em">por Isabel</text>
 </svg>

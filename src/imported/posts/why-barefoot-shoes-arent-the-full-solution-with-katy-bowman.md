@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: ¿Por qué los Zapatos barefoot no son la solución completa – con Katy Bowman
+title: "Por qué el calzado barefoot no es toda la solución según Katy Bowman"
 description: Repensar el calzado es un paso importante si quieres unos pies felices
   y sanos. Pero no es el único paso. La biomecánica Katy Bowman comparte los eslabones
   que faltan.
@@ -23,7 +23,7 @@ translatedFrom: en
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/y07RzUK5EDY?feature=oembed&amp;enablejsapi=1" title="Por qué los Zapatos barefoot no son la solución completa: una entrevista con Katy Bowman, biomecánica" width="500"></iframe></div>
 </div></figure>
 
-<p>Katy Bowman es una biomecánica, prolífica autora, oradora y fundadora de <a href="https://www.nutritiousmovement.com/">Movimiento nutritivo</a>. Sus libros más vendidos incluyen (mi favorito personal) y su libro más reciente <a href="https://www.nutritiousmovement.com/product/rethink-your-position-reshape-your-exercise-yoga-and-everyday-movement-one-part-at-a-time/?ref=42791">Reconsidere su posición</a>. Su trabajo fue muy influyente para mí durante mis momentos más oscuros de lesiones y dolor, y creo que a ti también te encantará.</p>
+<p>Katy Bowman es una biomecánica, prolífica autora, oradora y fundadora de <a href="https://www.nutritiousmovement.com/">Movimiento nutritivo</a>. Sus libros más vendidos incluyen (mi favorito personal) y su libro más reciente <a href="https://www.nutritiousmovement.com/product/rethink-your-position-reshape-your-exercise-yoga-and-everyday-movement-one-part-at-a-time/">Reconsidere su posición</a>. Su trabajo fue muy influyente para mí durante mis momentos más oscuros de lesiones y dolor, y creo que a ti también te encantará.</p>
 <p>Katy fue una de las primeras defensoras del calzado minimalista como una solución viable a muchos de los problemas de los pies que experimentamos en el mundo desarrollado. Pero a medida que esta idea se ha afianzado (¡y con razón!), hay una parte de la conversación que a menudo queda fuera. Y es que los zapatos en realidad no son la solución completa. Es el pie dentro del zapato el que debe ser capaz de soportar nuestra vida diaria. </p>
 <div class="wp-block-uagb-blockquote uagb-block-9f3c9a7f uagb-blockquote__skin-quotation uagb-blockquote__align-left uagb-blockquote__style-style_2 uagb-blockquote__stack-img-none"><blockquote class="uagb-blockquote"><span class="uagb-blockquote__icon"><svg height="20" viewbox="0 0 32 32" width="20"><path d="M7.031 14c3.866 0 7 3.134 7 7s-3.134 7-7 7-7-3.134-7-7l-0.031-1c0-7.732 6.268-14 14-14v4c-2.671 0-5.182 1.040-7.071 2.929-0.364 0.364-0.695 0.751-0.995 1.157 0.357-0.056 0.724-0.086 1.097-0.086zM25.031 14c3.866 0 7 3.134 7 7s-3.134 7-7 7-7-3.134-7-7l-0.031-1c0-7.732 6.268-14 14-14v4c-2.671 0-5.182 1.040-7.071 2.929-0.364 0.364-0.695 0.751-0.995 1.157 0.358-0.056 0.724-0.086 1.097-0.086z"></path></svg></span><div class="uagb-blockquote__content">Tenemos esta mentalidad de que el zapato es todo lo que necesito... [pero] lo que buscamos es la fuerza del pie, no el calzado. Es un cambio en nuestras mentes al pensar: ‘¿Por qué estoy haciendo esto en primer lugar?’ Lo estás haciendo para tener pies que sean lo suficientemente fuertes para tu cuerpo”.</div><footer></footer></blockquote></div>
 <p>Y eso significa que cuando surge el dolor debemos pensar no sólo en nuestro calzado, sino también en cómo estamos usando/no usamos los pies y qué podemos hacer para prepararlos mejor para la vida que queremos llevar.</p>
@@ -45,16 +45,16 @@ translatedFrom: en
 <p>¿Esta entrevista le generó más preguntas? ¿Estás listo para comenzar a profundizar en estos ejercicios complementarios para pies y cuerpo para prepararte para el futuro? A continuación se incluyen algunos recursos que le ayudarán a seguir su camino.</p>
 <p class="has-medium-font-size"><strong>Recursos adicionales para su viaje Happy Feet</strong>:</p>
 <ul>
-<li>los libros <a href="https://www.nutritiousmovement.com/product-category/bookstore/?ref=42791">Todo el cuerpo barefoot y reconsidere su posición</a> por Katy Bowman</li>
-<li><a href="/foot-exercises-transitioning-barefoot-shoes/">5 ejercicios fundamentales para los pies</a></li>
-<li><a href="/benefits-barefoot-minimalist-shoes/">Por qué los Zapatos barefoot podrían ser (parte de) la solución a su dolor de pie</a></li>
-<li><a href="/the-best-wide-toe-box-shoes-that-arent-barefoot/">Zapatos con puntera amplia que no están descalzos</a> – Si necesitas elegir alternativas en esta etapa de tu vida</li>
-<li><a href="/how-to-walk-correctly-guide-to-natural-gait/">Caminar 101</a> – Consejos para empezar</li>
+<li>los libros <a href="https://www.nutritiousmovement.com/product-category/bookstore/">Todo el cuerpo barefoot y reconsidere su posición</a> por Katy Bowman</li>
+<li><a href="/5-sencillos-ejercicios-de-pie-para-la-transicion-a-zapatos-barefoot/">5 ejercicios fundamentales para los pies</a></li>
+<li><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Por qué los Zapatos barefoot podrían ser (parte de) la solución a su dolor de pie</a></li>
+<li><a href="/los-zapatos-de-la-puntera-mas-anchos-que-no-son-descalzos/">Zapatos con puntera amplia que no están descalzos</a> – Si necesitas elegir alternativas en esta etapa de tu vida</li>
+<li><a href="/caminar-101-como-mejorar-su-marcha-para-una-movilidad-permanente/">Caminar 101</a> – Consejos para empezar</li>
 </ul>
 <p class="has-medium-font-size"><strong>Conéctate con Katy:</strong></p>
 <ul>
 <li>La compañía de Katy: <a href="https://www.nutritiousmovement.com/">MovimientoNutritivo.com</a></li>
-<li>Libros destacados:<a href="https://www.nutritiousmovement.com/product-category/bookstore/?ref=42791"> Reconsidere su posición, crezca salvajemente, todo el cuerpo barefoot</a></li>
+<li>Libros destacados:<a href="https://www.nutritiousmovement.com/product-category/bookstore/"> Reconsidere su posición, crezca salvajemente, todo el cuerpo barefoot</a></li>
 <li>Redes sociales: Katy Bowman @nutritiousmovement en <a href="https://www.instagram.com/nutritiousmovement/">Instagram</a> y <a href="https://www.facebook.com/NutritiousMovement/">Facebook</a></li>
 </ul>
 

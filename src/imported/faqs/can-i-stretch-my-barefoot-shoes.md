@@ -45,7 +45,7 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Muchos zapatos hechos de materiales naturales pueden estirarse y conformarse a su pie con el tiempo. Mi regla del pulgar es que si el zapato generalmente coincide con mi forma de pie y es sólo un poco hinchado entonces es probable que se convierta en un buen ajuste con un poco de trabajo. Si está formada como una almendra (con un dedo puntiagudo), si mis dedos de los pies están acurrucados en los bordes, o si se siente <em>Realmente</em> apretado entonces no pierdo mi tiempo tratando de estirar. Aquí están mis dos maneras favoritas de estirar mis zapatos:</p>
-<ul><li>Coloque la puntera con calcetines o periódicos y agita un secador de pelo sobre él</li><li>Empuja una pelota de golf o una pequeña bola de goma en el lugar que quiero estirado</li><li>Usar un <a href="https://amzn.to/3Fuhltg">camilla de zapatos de madera</a></li></ul>
+<ul><li>Coloque la puntera con calcetines o periódicos y agita un secador de pelo sobre él</li><li>Empuja una pelota de golf o una pequeña bola de goma en el lugar que quiero estirado</li><li>Usar un camilla de zapatos de madera</li></ul>
 <p>Los zapatos también se estiran naturalmente mientras los usas, por lo que un zapato ligeramente snug hecho de cuero o telas naturales probablemente se convertirá en un ajuste perfecto después de algunos desgastes.</p>
 </div>
 

@@ -1,0 +1,6 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+{% for redirect in legacyRedirects %}{{ redirect.from }} {{ redirect.to }} 301
+{% endfor %}

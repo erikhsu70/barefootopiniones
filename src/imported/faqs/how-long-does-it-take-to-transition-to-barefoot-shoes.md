@@ -46,8 +46,8 @@ translatedFrom: en
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 
 <p>Algunas personas pasan a los Zapatos barefoot durante la noche y nunca miren atrás. Otros tardan años en acostumbrarse. Lo más importante para entender es que los ligamentos y los músculos tardan varias semanas o incluso meses en adaptarse a nuevas tensiones. Si usted ha pasado la mayor parte de su vida en calzado restrictivo usted puede encontrar que muchos tejidos nuevos se están usando de repente después de mentir dormida durante años. Está bien cambiar de ida y vuelta entre los Zapatos barefoot y los zapatos antiguos, o usar soporte de arco en Zapatos barefoot periódicamente para darse tiempo a evolucionar. También tomará bastante tiempo para que la piel en las plantas de sus pies y los tejidos entre sus huesos se endurezcan y se vuelvan menos sensibles a la presión. </p>
-<p>Puedes aprender más sobre diferentes caminos para pasar a Zapatos barefoot en mi <a href="/find-your-footing-evergreen/">Encuentre su taller de pie</a> con el entrenador de movimiento Petra Fisher.</p>
-<p class="has-text-align-center">Véase <strong><a href="/ufaq/how-do-you-transition-to-barefoot-shoes/">¿Cómo transiciones a Zapatos barefoot?</a></strong> para más información.</p>
+<p>Puedes aprender más sobre diferentes caminos para pasar a Zapatos barefoot en mi <a href="/recursos/">Encuentre su taller de pie</a> con el entrenador de movimiento Petra Fisher.</p>
+<p class="has-text-align-center">Véase <strong><a href="/preguntas/como-hacer-la-transicion-a-zapatos-barefoot/">¿Cómo transiciones a Zapatos barefoot?</a></strong> para más información.</p>
 </div>
 
 </div>

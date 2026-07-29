@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Botas de combate de barefoot – Las mejores botas de encaje ancho
+title: "Las mejores botas militares barefoot con puntera ancha"
 description: Doc Martens puede parecer fresco, pero son pesados y tienen una caja
   de dedo estrecha. Aquí hay amplias alternativas de la puntera con un ajuste natural
   y sensación.
@@ -36,9 +36,9 @@ translatedFrom: en
 <p>Las Doc Martens se ven geniales, pero son pesadas, toscas y tienen una puntera estrecha y afilada. Prefiero un zapato que se vea genial, pero que tenga un ajuste y una sensación naturales con mucho espacio para los dedos de los pies. Ahí es donde entran las botas de combate descalzas. ¡Son una combinación perfecta de moda y funcionalidad!</p>
 <p>Sentirse cómodo todo el tiempo sin parecer descuidado es una especie de superpoder secreto. ¡Es por eso que tengo un amor tan profundo por las botas descalzas con puntera amplia! Puedo vivir la vida más plenamente cuando me siento bien y puedo moverme libremente. </p>
 
-<p>Pero no es sólo por hoy –<em> Cuidar la salud de mis pies ahora puede ayudarme a mantenerme móvil y fuerte durante las próximas décadas.</em> Y si quieres espacio para los dedos pero no la suela delgada, aquí también he incluido opciones acolchadas. tu también puedes <a href="/barefoot-insoles-review/">usar plantillas</a> en los demás!</p>
+<p>Pero no es sólo por hoy –<em> Cuidar la salud de mis pies ahora puede ayudarme a mantenerme móvil y fuerte durante las próximas décadas.</em> Y si quieres espacio para los dedos pero no la suela delgada, aquí también he incluido opciones acolchadas. tu también puedes <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">usar plantillas</a> en los demás!</p>
 <p class="has-text-align-center" style="font-size:19px"><strong>Ahora echemos un vistazo a algunas alternativas de botas militares descalzas que cumplen con todos los criterios de comodidad, pero no comprometen el estilo.</strong></p>
-<p style="font-size:16px"><em>Si buscas verdaderas botas de combate para el ejército, <a href="/ufaq/are-there-barefoot-shoes-for-the-military/">dirígete aquí en su lugar.</a></em></p>
+<p style="font-size:16px"><em>Si buscas verdaderas botas de combate para el ejército, <a href="/preguntas/hay-zapatos-barefoot-para-los-militares/">dirígete aquí en su lugar.</a></em></p>
 <h2 class="wp-block-heading">Mis botas de combate descalzas favoritas</h2>
 
 <h3 class="wp-block-heading">Peerko barefoot</h3>
@@ -93,7 +93,7 @@ translatedFrom: en
 <li>Volumen medio a alto</li>
 </ul>
 <p>Las botas Mukishoes Igneous son muy suaves y tolerantes, pero mi talla es 38 para tener un poco más de espacio para los dedos y así poder calzar.  (porque es invierno). Un 37 me hubiera quedado un poco ajustado.</p>
-<p>Puedes leer mi reseña completa del <a href="/mukishoes-brand-review/">Marca Mukishoes aquí.</a>.</p>
+<p>Puedes leer mi reseña completa del <a href="/revision-de-mukishoes-una-marca-de-calzado-barefoot-sostenible/">Marca Mukishoes aquí.</a>.</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
@@ -120,7 +120,7 @@ translatedFrom: en
 <p class="has-text-align-center">Si estás en el Reino Unido, . Si usted está en la UE o el resto del mundo, .</p>
 <p>La bota Vivobarefoot Gobi es un modelo de temporada que vuelve cada otoño e invierno. Viene en una opción con forro de cuero y forro polar según sus necesidades de calidez. Dos cosas que me gustan de las botas Vivobarefoot: tienen una forma oblicua para que tengas mucho espacio para los dedos gordos y son muy duraderas y de alta calidad.</p>
 <p>Aunque las Gobi tienen el estilo de una bota de estilo de vida, tienen una suela con agarre para una tracción decente para uso en exteriores. El cuero es muy suave y flexible, y se han mantenido como un sueño. Tienen una estética urbana moderna que se siente fresca después de tantas botas con cordones que lucen iguales.</p>
-<p>Si las usas cuando hace frío, ten en cuenta que la plantilla que viene con ellas no abriga en mi opinión. Mira esta publicación para <a href="/barefoot-insoles-review/">opciones de plantillas cálidas </a>puedes usar en su lugar.</p>
+<p>Si las usas cuando hace frío, ten en cuenta que la plantilla que viene con ellas no abriga en mi opinión. Mira esta publicación para <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">opciones de plantillas cálidas </a>puedes usar en su lugar.</p>
 <h4 class="wp-block-heading">Sizing &amp;amp; Fit</h4>
 <ul>
 <li>Es un poco largo, pero no reduzco el tamaño.</li>
@@ -134,8 +134,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Groundies</h3>
 
 <p class="has-text-align-center"><strong>Cuero | Tallas UE 36-47</strong><br/>Sin plantilla extraíble | Cremallera lateral (según modelo)</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-226 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.groundies.com/williamsburg/">Groundies EU</a></div>
+
 
 </div>
 
@@ -148,7 +147,7 @@ translatedFrom: en
 <li>Volumen medio</li>
 </ul>
 <p>Uso mi talla habitual 37 en la mayoría de los zapatos Groundies, pero a veces uso una talla hasta 38 para tener espacio para los calcetines. Tienen forma de montaña y son de ancho medio; un poco más ancho que Vivobarefoot.</p>
-<p>Algunos modelos Groundies vienen en un ancho extra ancho, como el <a href="https://www.groundies.com/barefoot-shoes-women/groundies-salzburg-barefoot-women-black.html?listtype=search&amp;searchparam=salzburg">Modelo de Salzburgo aquí</a>. tu puedes <a href="/groundies-spring-2023-beautiful-barefoot-shoes-two-widths/#groundies-now-in-wide">Obtenga más información sobre su ajuste barefoot+ aquí.</a></p>
+<p>Algunos modelos Groundies vienen en un ancho extra ancho, como el <a href="https://www.groundies.com/barefoot-shoes-women/groundies-salzburg-barefoot-women-black.html?listtype=search&amp;searchparam=salzburg">Modelo de Salzburgo aquí</a>. tu puedes <a href="/groundies-primavera-2023-hermosos-zapatos-barefoot-en-dos-anchos/#groundies-now-in-wide">Obtenga más información sobre su ajuste barefoot+ aquí.</a></p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
@@ -168,7 +167,7 @@ translatedFrom: en
 <li>Puntera de ancha a extra ancha</li>
 <li>Volumen medio a alto </li>
 </ul>
-<p>Las botas moldeadas se ajustan al<em> </em>lado más grande y espacioso en general. Entro en mayor detalle sobre el ajuste y el tamaño de <a href="/new-shapen-barefoot-boots-for-fall-2023/">Botas descalzas moldeadas en esta revisión</a>.</p>
+<p>Las botas moldeadas se ajustan al<em> </em>lado más grande y espacioso en general. Entro en mayor detalle sobre el ajuste y el tamaño de <a href="/nuevas-botas-descalzas-shapen-para-el-otono-de-2023/">Botas descalzas moldeadas en esta revisión</a>.</p>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
@@ -209,8 +208,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Ahinsa Jaya</h3>
 
 <p class="has-text-align-center"><strong>Vegano | Impermeable | Forro polar | Tallas UE 37-46</strong><br/>Plantilla extraíble | Cremallera lateral</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-230 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ahinsashoes.com/r?id=ubbsv2">Ahinsa Jaya</a></div>
+
 </div>
 
 <p class="has-text-align-center">Puedes usar el código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento.</p>
@@ -230,8 +228,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Bota Lems Boulder</h3>
 
 <p class="has-text-align-center"><strong>Opciones de cuero y veganas | Opción impermeable | Tallas EE. UU. 5W – 15M </strong><br/>Plantilla extraíble | Sin cremallera lateral</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-231 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Fwaterproof-boulder-boot">Botas de roca Lems</a></div>
+
 </div>
 
 <p class="has-text-align-center"><em>Si estás fuera de EE. UU.,</em></p>
@@ -267,8 +264,7 @@ translatedFrom: en
 
 <p class="has-text-align-center"><strong>Microfibra | Forro de piel sintética | Tallas UE 36-48</strong><br/>Plantilla extraíble | Cremallera lateral</p>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-233 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.saguaro.com/?ref=Nafs6yLHHkYzpP">Saguaro</a></div>
+
 </div>
 <p>La Ambition II de Saguaro es una excelente opción asequible que aún conserva todas las cualidades de estar barefoot que queremos en una bota. Tiene una bonita puntera ancha y una suela exterior flexible de zero drop de 4 mm. Los cordones son de baja calidad y un poco difíciles de ajustar, pero una vez que los tienes colocados, hay una práctica cremallera lateral para ponerlos y quitarlos fácilmente. </p>
 <p>El forro es de piel sintética de grosor medio que es suave pero hará que te suden los pies, por lo que planearía usar una talla más grande para usar calcetines.</p>
@@ -284,21 +280,21 @@ translatedFrom: en
 <h2 class="wp-block-heading">Un poco más</h2>
 <p>¿Quieres ver aún más opciones? ¡He compilado una lista completa de opciones de botas descalzas organizadas por estilo! Haga clic en el enlace a continuación y diríjase a la sección de botas con cordones.</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-234 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/barefoot-minimalist-womens-boots-full-list/">Lista completa de botas descalzas</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/lista-completa-de-botas-barefoot-para-hombres-y-mujeres/">Lista completa de botas descalzas</a></div>
 </div>
 
 <p>Mientras tanto, aquí hay algunas otras opciones elegantes que me gustan.</p>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
 <p> (Estados Unidos y Europa) – Otra de mis marcas favoritas. Sus opciones cambian según la temporada, pero el North Wolf que se muestra aquí y el Atmo Black son parte de la colección esencial. Usar código <strong></strong> con 5€/$10 de descuento en tu compra. Si vive fuera de EE. UU./Canadá, compre</p>
-<p><a href="/brand/wildling-shoes/">Lea mis comentarios de Wildling aquí</a></p>
+<p><a href="/marca/wildling-shoes/">Lea mis comentarios de Wildling aquí</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
 <p> – Una variación divertida del clásico estilo de bota con cordones. El hermoso detalle brogue les da un toque extra y tienen una cremallera lateral. Estos son de muy alto volumen.</p>
-<p><a href="https://www.zaqq.com/search?q=quintic&amp;options%5Bprefix%5D=last?sPartner=aj22122020">Puede encontrarlos disponibles directamente desde Zaqq aquí.</a></p>
+<p><a href="https://www.zaqq.com/search?q=quintic&amp;options%5Bprefix%5D=last">Puede encontrarlos disponibles directamente desde Zaqq aquí.</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
@@ -318,12 +314,12 @@ translatedFrom: en
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-alpha-channel-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://nonsbarefoot.com/en/">No(N)s</a> (Europa) – Lea mi <a href="/nons-review-charming-barefoot-shoe-brand/">No(N)s Revisar aquí</a></p>
+<p><a href="https://nonsbarefoot.com/en/">No(N)s</a> (Europa) – Lea mi <a href="/no-n-s-resena-por-que-nosotros-nos-encanta-esta-atractiva-barefoot-zapato-marca/">No(N)s Revisar aquí</a></p>
 </div></div>
 
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-wide"/>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:25% auto"><div class="wp-block-media-text__content">
-<p><a href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a> (Reino Unido) – Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
+<p><a href="https://gaucho.ninja/">Gaucho Ninja</a> (Reino Unido) – Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 

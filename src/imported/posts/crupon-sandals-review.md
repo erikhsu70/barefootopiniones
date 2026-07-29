@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de sandalias Crupon
+title: "Mi opinión sobre sandalias Crupon"
 description: Lea mi reseña de las sandalias Crupon descalzas aquí. Uno de mis hallazgos
   favoritos de este año son las sandalias Crupon. Los encontré mientras buscaba en
   Etsy zapatos minimalistas, y cuando les envié un mensaje preguntándoles si se podían
@@ -20,7 +20,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p><a href="/crupon-barefoot-sandals-for-the-perfect-vintage-look/"><em>Lea mi reseña de las sandalias Crupon descalzas aquí</em></a></p>
+<p><a href="/sandalias-crupon-la-mirada-perfecta-sin-tiempo-en-zapatos-barefoot/"><em>Lea mi reseña de las sandalias Crupon descalzas aquí</em></a></p>
 <figure class="wp-block-image"><figcaption><a href="http://www.cruponsandals.com">Sandalias Trevi en Grigio</a></figcaption></figure>
 <figure class="wp-block-image"><figcaption><a href="http://www.cruponsandals.com">Sandalias Trevi en Grigio</a></figcaption></figure>
 <p>Uno de mis hallazgos favoritos de este año es <a href="http://www.cruponsandals.com">Sandalias Crupón</a>. Los encontré mientras buscaba en Etsy zapatos minimalistas, y cuando les envié un mensaje preguntándoles si se podían hacer sin tacón, ¡respondieron que sí! </p>
@@ -33,7 +33,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Políticas</h2>
 <p>Lo más importante que los lectores deben saber sobre las sandalias Crupon es que si solicita que sus zapatos se fabriquen sin tacón, no habrá cambios ni devoluciones. Según ellos, sólo “a veces” aceptan pedidos personalizados y no les gusta desviarse de sus diseños probados y verdaderos. Así que asegúrese de tomarse su tiempo con su pedido y comprenda cómo deciden administrar su negocio. ¡Queremos asegurarnos de que sigan dispuestos a hacer zapatos completamente planos!</p>
 <p>Los zapatos se fabrican y envían en unos pocos días, lo cual es toda una hazaña. Recibí el mío de principio a fin en menos de dos semanas.</p>
-<p>encendido <a href="http://tidd.ly/bf6c741">Etsy</a>, el envío cuesta $16 por un par de zapatos, pero gratis si pides dos o más. De hecho, me enviaron un código de envío gratuito después de marcar un artículo como favorito en Etsy, por lo que pude pedir un par con envío gratuito.</p>
+<p>encendido Etsy, el envío cuesta $16 por un par de zapatos, pero gratis si pides dos o más. De hecho, me enviaron un código de envío gratuito después de marcar un artículo como favorito en Etsy, por lo que pude pedir un par con envío gratuito.</p>
 
 <h2 class="wp-block-heading">Proceso de pedido</h2>
 <p>Cada anuncio en Etsy tiene una tabla que muestra la longitud interior de cada zapato. Esto se mide desde la costura del talón hasta la costura de la punta. Entonces, en los zapatos planos, esto sería lo mismo que la longitud de una plantilla. En las sandalias, el largo se mide de la misma manera, aunque hay espacio para que los pies sobrepasen las costuras. En el zapato plano Trevi que pedí (que tiene la puntera y el talón cerrados), compré mi talla 6 habitual y el ajuste es excelente, con suficiente espacio para los dedos de los pies. Pedí algunos tamaños de sandalias diferentes más adelante en la primavera y pude usar una talla 5, porque mi talón o mis dedos podían extenderse más allá de las costuras de la suela.</p>

@@ -47,7 +47,7 @@ translatedFrom: en
 <p>Botas tácticas:</p>
 <ul><li><a href="https://www.bellevilleboot.com/index.php?l=product_detail&amp;p=98">Belleville Mini Mil</a></li><li><a href="https://reebokwork.com/search.php?search_query=nano">Reebok Nano</a></li><li><a href="https://www.rockyboots.com/s2v/">Rocky SV2</a> – Opción de dedo compuesto</li></ul>
 <p>Botas marítimas:</p>
-<ul><li><a href="https://amzn.to/3B0qGt6">Altama Maritime Mid</a></li></ul>
+<ul><li>Altama Maritime Mid</li></ul>
 </div>
 
 </div>

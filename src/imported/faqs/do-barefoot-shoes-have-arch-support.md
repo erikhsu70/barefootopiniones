@@ -46,9 +46,9 @@ translatedFrom: en
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Zapatos barefoot empujan hacia atrás contra la idea de que todos los pies necesitan ser soportados. No tienen soporte de arco porque están diseñados para permitir que sus pies se muevan libremente y naturalmente. De hecho, el soporte de arco elimina la oportunidad para que sus pies se apoyen, lo que en realidad puede debilitar los músculos del pie intrínseco. De la misma manera que usar un sujetador o fundir en otras partes del cuerpo durante demasiado tiempo debilita esas áreas.</p>
 <p>Si bien puede tomar tiempo, incluso las personas que han sido apoyadas en arcos pueden ser capaces de fortalecer y rehabilitar sus pies para que ya no lo necesiten. Si usted tiene condiciones de pie preexistentes es mejor consultar a un médico – algunos pies necesitan ser apoyados al menos temporalmente. </p>
-<p>Consulte la sección sobre <strong><a href="/ufaq/who-shouldnt-wear-barefoot-shoes/">¿Quién no debería usar zapatos de barefoot?</a></strong> para más información.</p>
+<p>Consulte la sección sobre <strong><a href="/preguntas/quien-no-deberia-usar-zapatos-de-barefoot/">¿Quién no debería usar zapatos de barefoot?</a></strong> para más información.</p>
 <p><strong>Lectura adicional:</strong></p>
-<ul><li><a href="/benefits-barefoot-minimalist-shoes/#foot-support">¿Pero qué hay de apoyo a los pies?</a></li><li><a href="/why-birkenstocks-arent-long-term-solution-foot-pain/#arch-support-makes-your-feet-weak">Arch Support hace su botín</a></li></ul>
+<ul><li><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/#foot-support">¿Pero qué hay de apoyo a los pies?</a></li><li><a href="/por-que-birkenstocks-no-son-una-solucion-a-largo-plazo-para-el-dolor-de-pie/#arch-support-makes-your-feet-weak">Arch Support hace su botín</a></li></ul>
 </div>
 
 </div>

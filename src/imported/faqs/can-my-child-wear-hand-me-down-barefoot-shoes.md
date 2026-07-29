@@ -46,7 +46,7 @@ translatedFrom: en
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>Algunas personas han oído que es malo usar zapatos usados porque la suela puede ser usada desigualmente. Pero cuando se trata de Zapatos barefoot, ese consejo no debe aplicarse. Los Zapatos barefoot ya son delgados, planos y flexibles, por lo que el uso no resulta en la deformación de la suela.</p>
 <p>¡Eso significa que puedes pasar Zapatos barefoot a varios niños hasta que se desmoronen completamente! </p>
-<p>Si usted está preocupado por hongos o bacterias, simplemente lavar los zapatos con vinagre y / o hornear soda que secarlos a fondo (Uso un <a href="https://amzn.to/3jbODHH">secador de ventilación</a>).</p>
+<p>Si usted está preocupado por hongos o bacterias, simplemente lavar los zapatos con vinagre y / o hornear soda que secarlos a fondo (Uso un secador de ventilación).</p>
 </div>
 
 </div>

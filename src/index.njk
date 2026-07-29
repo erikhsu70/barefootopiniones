@@ -1,8 +1,8 @@
 ---
 layout: layouts/base.njk
 title: Barefoot Opiniones
-description: Guias, resenas y comparativas de Isabel para elegir zapatos barefoot bonitos, comodos y con forma de pie.
-image: /assets/generated/featured/homepage.jpg
+description: Guias, opiniones y comparativas de Isabel para elegir zapatos barefoot bonitos, comodos y con forma de pie.
+image: /assets/generated/featured/homepage-original.png
 ---
 {% set featured = collections.importedPosts | featuredPosts %}
 {% set quickTopics = blogTopics.categories.slice(0, 6) %}
@@ -13,12 +13,11 @@ image: /assets/generated/featured/homepage.jpg
 <section class="home-hero home-hero--magazine">
   <div class="home-hero__content">
     <div>
-      <p class="eyebrow">Diario barefoot · {{ collections.importedPosts.length }}+ articulos</p>
-      <h1>Camina descalza, <span>con criterio.</span></h1>
-      <p class="home-hero__intro">Guías, reseñas y comparativas de calzado barefoot escritas por Isabel. Una loca por las barefoot, pero con el radar puesto en ajuste, estética y comodidad real.</p>
+      <h1>Barefoot Opiniones</h1>
+      <p class="home-hero__intro">Guías, opiniones y comparativas de calzado barefoot escritas por Isabel. Una loca por las barefoot, pero con el radar puesto en ajuste, estética y comodidad real.</p>
       <div class="button-row">
         <a class="button" href="/articulos/">Explorar articulos</a>
-        <a class="button secondary" href="/barefoot-shoes-faq/">Empezar desde cero</a>
+        <a class="button secondary" href="/preguntas-frecuentes-barefoot/">Empezar desde cero</a>
       </div>
     </div>
     {% if heroPost %}
@@ -45,24 +44,24 @@ image: /assets/generated/featured/homepage.jpg
     <strong>Indice completo ordenado por temas</strong>
     <small>297 articulos con imagen y acceso directo por categoria.</small>
   </a>
-  <a class="home-route" href="/shoe-lists/">
+  <a class="home-route" href="/mejores-zapatos-barefoot/">
     <span>Comparativas</span>
     <strong>Listas para decidir rapido</strong>
     <small>Los mejores modelos por uso, estacion y tipo de pie.</small>
   </a>
-  <a class="home-route" href="/reviews/">
-    <span>Resenas</span>
+  <a class="home-route" href="/opiniones/1/">
+    <span>Opiniones</span>
     <strong>Opiniones de marcas y modelos</strong>
     <small>Ajuste, materiales, anchura, flexibilidad y sensaciones.</small>
   </a>
-  <a class="home-route" href="/womens/">
+  <a class="home-route" href="/mujeres/">
     <span>Mujer</span>
     <strong>Zapatos bonitos con forma de pie</strong>
     <small>Bailarinas, botas, Mary Janes, sandalias y looks.</small>
   </a>
-  <a class="home-route" href="/kids/">
-    <span>Ninos</span>
-    <strong>Opciones para pies pequenos</strong>
+  <a class="home-route" href="/ninos/">
+    <span>Niños</span>
+    <strong>Opciones para pies pequeños</strong>
     <small>Colegio, lluvia, verano, invierno y tallas infantiles.</small>
   </a>
 </section>
@@ -70,10 +69,10 @@ image: /assets/generated/featured/homepage.jpg
 <section class="section home-topic-section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">Topics fuertes</p>
+      <p class="eyebrow">Temas principales</p>
       <h2>Organiza la lectura por necesidad.</h2>
     </div>
-    <p>Estos enlaces ayudan a repartir autoridad desde la home hacia las paginas que mas sentido tienen para SEO.</p>
+    <p>Accesos directos a las páginas más útiles para elegir por necesidad, uso o tipo de pie.</p>
   </div>
   <div class="home-topic-grid">
     {% for topic in quickTopics %}
@@ -101,7 +100,7 @@ image: /assets/generated/featured/homepage.jpg
     {% for post in secondaryPosts %}
       <article class="post-card">
         <a href="{{ post.url }}">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+          <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
           <div class="post-card-content">
             <div class="post-meta">
               <span>Selección</span>
@@ -120,8 +119,8 @@ image: /assets/generated/featured/homepage.jpg
 <section class="section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">Guias destacadas</p>
-      <h2>Lecturas con mucho enlazado interno.</h2>
+      <p class="eyebrow">Guías destacadas</p>
+      <h2>Lecturas para elegir con criterio.</h2>
     </div>
     <p>Una seleccion variada para empujar articulos importantes desde portada sin saturar la primera pantalla.</p>
   </div>
@@ -129,7 +128,7 @@ image: /assets/generated/featured/homepage.jpg
     {% for post in featured %}
       <article class="post-card">
         <a href="{{ post.url }}">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+          <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
           <div class="post-card-content">
             <div class="post-meta">
               <span>{{ post.data.contentType or "Guia" }}</span>
@@ -155,8 +154,8 @@ image: /assets/generated/featured/homepage.jpg
   <div class="section-inner latest-list">
     {% for post in latestPosts %}
       <a class="latest-item" href="{{ post.url }}">
-        {% if post.data.image %}
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        {% if (post | featuredImage) %}
+          <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
         {% endif %}
         <span>
           <small>{{ post.date | readableDate }}</small>
@@ -174,11 +173,10 @@ image: /assets/generated/featured/homepage.jpg
     <p>Si tienes pies anchos, quieres sandalias, buscas botas de invierno o te abruma la transicion, estas entradas te llevan al grano.</p>
   </div>
   <div class="home-link-list">
-    <a href="/best-barefoot-shoes-foot-type/"><span>Mejores marcas segun tipo de pie</span></a>
-    <a href="/best-barefoot-shoes-foot-type/"><span>Zapatos segun tu tipo de pie</span></a>
-    <a href="/how-do-i-know-if-my-shoes-fit/"><span>Como saber si un zapato te queda bien</span></a>
-    <a href="/the-best-barefoot-chelsea-boots-wear-this-not-that/"><span>Botas Chelsea barefoot</span></a>
-    <a href="/10-best-barefoot-sandals-hiking-running-walking/"><span>Sandalias barefoot para verano</span></a>
+    <a href="/mejores-marcas-barefoot-segun-tipo-pie/"><span>Mejores marcas según tu tipo de pie</span></a>
+    <a href="/como-si-zapatos-ajustan/"><span>Cómo saber si un zapato te queda bien</span></a>
+    <a href="/mejores-botas-chelsea-barefoot-no-aplastan/"><span>Botas Chelsea barefoot</span></a>
+    <a href="/mejores-sandalias-barefoot-aventura-2026/"><span>Sandalias barefoot para verano</span></a>
   </div>
 </section>
 
@@ -187,10 +185,10 @@ image: /assets/generated/featured/homepage.jpg
     <p class="eyebrow">Dudas frecuentes</p>
     <h2>Antes de comprar, resuelve lo basico.</h2>
     <div class="home-faq-links">
-      <a href="/why-barefoot/">Por que barefoot</a>
-      <a href="/what-is-a-barefoot-minimalist-shoe/">Que es un zapato barefoot</a>
-      <a href="/how-do-you-transition-to-barefoot-shoes/">Como hacer la transicion</a>
-      <a href="/barefoot-shoes-faq/">Ver FAQ completa</a>
+      <a href="/puede-barefoot-ayudar-con-dolor-pies/">Por qué barefoot</a>
+      <a href="/preguntas/diferencia-barefoot-minimalistas-natural/">Qué es un zapato barefoot</a>
+      <a href="/preguntas/como-hacer-transicion-barefoot/">Cómo hacer la transición</a>
+      <a href="/preguntas-frecuentes-barefoot/">Ver todas las preguntas</a>
     </div>
   </div>
 </section>

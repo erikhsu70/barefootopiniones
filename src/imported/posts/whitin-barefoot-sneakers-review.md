@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Whitin: zapatillas de deporte descalzas baratas'
+title: "Mi opinión sobre Whitin: zapatillas de deporte barefoot baratas"
 description: Los zapatos blancos descalzos son algunos de los más baratos disponibles,
   pero ¿cómo se comparan? Echa un vistazo a esta reseña de las zapatillas de deporte
   de Whitin por valor de 40 dólares para saber si considero que están aprobadas por
@@ -20,8 +20,8 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p class="has-text-align-center"><em>Desde que escribí esta reseña, Whitin ha realizado algunos cambios importantes y ahora ofrece dos anchos. Lee esto <a href="/the-10-best-affordable-barefoot-shoes-for-adults/#whitin-barefoot-shoes">Revisión de Whitin actualizada</a> para la verdad</em>.</p>
-<p> Los Zapatos barefoot son algunos de los más baratos disponibles, pero ¿cómo se comparan? Echa un vistazo a esta reseña de las zapatillas de deporte de 40 dólares de Whitin para saber si las considero unas zapatillas de deporte de 40 dólares de Whitin. <a href="/benefits-barefoot-minimalist-shoes/">Opción de calzado natural.</a></p>
+<p class="has-text-align-center"><em>Desde que escribí esta reseña, Whitin ha realizado algunos cambios importantes y ahora ofrece dos anchos. Lee esto <a href="/los-10-mejores-zapatos-barefoot-asequibles-para-adultos/#whitin-barefoot-shoes">Revisión de Whitin actualizada</a> para la verdad</em>.</p>
+<p> Los Zapatos barefoot son algunos de los más baratos disponibles, pero ¿cómo se comparan? Echa un vistazo a esta reseña de las zapatillas de deporte de 40 dólares de Whitin para saber si las considero unas zapatillas de deporte de 40 dólares de Whitin. <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Opción de calzado natural.</a></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-967d2932" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -36,11 +36,11 @@ translatedFrom: en
 <p> es una marca de Amazon que fabrica muchos tipos diferentes de zapatos. Solo dos modelos son aptos para pies descalzos, así que asegúrese de revisar los títulos para ver las palabras barefoot o minimalista. Cada uno cuesta alrededor de 40 dólares, vienen en tallas EU 36-46, o 6 para mujeres de EE. UU. y 13 para hombres, y están disponibles en los sitios web de Amazon en todo el mundo. Sin las plantillas tienen un grosor de unos 5 mm.</p>
 <h2 class="wp-block-heading">Zapatillas Whitin</h2>
 
-<p>Comencemos con el modelo al que le fue mejor. el  (Encontrar tallas de mujer ) es una zapatilla totalmente aprobada para caminar barefoot que es sorprendentemente suave y flexible una vez que se quita la plantilla. No son zero drop (completamente planas) a menos que saques la plantilla, por lo que recomiendo quitarla o sustituirla por unas. <a href="/barefoot-insoles-review/">plantilla descalza</a>.</p>
-<p>Tienen una parte superior de neopreno, cordones elásticos ajustables y una tira de velcro. Los materiales parecen algo baratos, pero debo admitir que el zapato es mejor de lo que esperaba. Creo que la pregunta más importante es cuánto tiempo pasará antes de que el zapato se agote, ya que cumple con todos mis demás requisitos para <a href="/benefits-barefoot-minimalist-shoes/">calzado saludable</a>.</p>
+<p>Comencemos con el modelo al que le fue mejor. el  (Encontrar tallas de mujer ) es una zapatilla totalmente aprobada para caminar barefoot que es sorprendentemente suave y flexible una vez que se quita la plantilla. No son zero drop (completamente planas) a menos que saques la plantilla, por lo que recomiendo quitarla o sustituirla por unas. <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla descalza</a>.</p>
+<p>Tienen una parte superior de neopreno, cordones elásticos ajustables y una tira de velcro. Los materiales parecen algo baratos, pero debo admitir que el zapato es mejor de lo que esperaba. Creo que la pregunta más importante es cuánto tiempo pasará antes de que el zapato se agote, ya que cumple con todos mis demás requisitos para <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">calzado saludable</a>.</p>
 
 <h3 class="wp-block-heading">Tipo de ajuste</h3>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Consulta esta publicación para comprender tus pies y tu tipo de forma.</a>. <br/>¡Puede ser de gran ayuda para ayudarte a encontrar los zapatos adecuados para ti sin la molestia de las devoluciones!</p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Consulta esta publicación para comprender tus pies y tu tipo de forma.</a>. <br/>¡Puede ser de gran ayuda para ayudarte a encontrar los zapatos adecuados para ti sin la molestia de las devoluciones!</p>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p>Las zapatillas Whitin tienen forma de montaña, por lo que son buenas para personas cuyo primer o segundo dedo del pie es más largo. Las personas con pies cuadrados pueden encontrar que los dedos exteriores se topan con la punta del zapato.</p>
 </div></div>
@@ -60,15 +60,15 @@ translatedFrom: en
 <p>Puedes ver a continuación que la forma de la puntera corta tanto el dedo gordo como el meñique. ¡Pero son súper ligeros y flexibles sin plantilla!</p>
 
 <p>Usar zapatos con una forma como esta puede impedir que los dedos de los pies alcancen su máximo potencial. Por lo tanto, podrían ser un buen punto de entrada al mundo del calzado barefoot, pero no es algo con lo que me quedaría por mucho tiempo (a menos que tengas los pies muy estrechos).</p>
-<p class="has-text-align-center"><a href="/correct-toes-review/">Lea este artículo para obtener más información sobre por qué la extensión de los dedos de los pies es importante para su cuerpo.</a></p>
+<p class="has-text-align-center"><a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">Lea este artículo para obtener más información sobre por qué la extensión de los dedos de los pies es importante para su cuerpo.</a></p>
 
 <p>Este zapato se adapta a un pie de mucho mayor volumen que el de los corredores. Hay mucho espacio encima de los dedos, en el arco y el tobillo. Tuve que ponerme una plantilla descalza y aún así tenía bastante espacio encima de mi pie. Esta debería ser una buena noticia para las personas que necesitan punteras más altas.</p>
-<p>A continuación puede ver una comparación de ancho y largo de algunos otros <a href="/best-barefoot-minimalist-sneakers/">zapatillas casuales descalzas </a>que llevo. Esto está tomado de la <em>afuera</em> del zapato por lo que no es útil para elegir una talla, sólo para comparar una marca con otra. Las zapatillas casuales Whitin están en el extremo derecho y se puede ver que, además de tener una forma cónica, también son más estrechas que todas las demás marcas importantes de calzado barefoot.</p>
+<p>A continuación puede ver una comparación de ancho y largo de algunos otros <a href="/los-mejores-zapateros-casuales-que-parecen-guay/">zapatillas casuales descalzas </a>que llevo. Esto está tomado de la <em>afuera</em> del zapato por lo que no es útil para elegir una talla, sólo para comparar una marca con otra. Las zapatillas casuales Whitin están en el extremo derecho y se puede ver que, además de tener una forma cónica, también son más estrechas que todas las demás marcas importantes de calzado barefoot.</p>
 <figure class="wp-block-image size-large"><figcaption class="wp-element-caption">De izquierda a derecha: Bohempia, Mukishoes, Feelgrounds, Groundies, Be Lenka, Vivobarefoot y Whitin.</figcaption></figure>
 <p>Cogí tantas zapatillas descalzas de mi colección personal como pude encontrar y las ordené todas según el ancho de la puntera. Consulte a continuación la lista de marcas de Zapatos barefoot, desde las más estrechas hasta las más anchas.</p>
 
-<p>Un par de marcas que accidentalmente dejé fuera de esta lista: <br/>– Atletismo (Irían justo en el medio)<br/>– <a href="https://www.wildling.shoes?ref=annamariejensen&amp;utm_source=affiliate&amp;utm_medium=website&amp;utm_campaign=Ongoing&amp;utm_term=Isabel%27s+Reviews&amp;utm_content=generic">Zapatos salvajes</a> (Estarían entre Vivobarefoot y Groundies)</p>
-<p class="has-text-align-center"><a href="/zero-drop-barefoot-running-shoes/">¡Puedes encontrar una lista completa de zapatillas deportivas aptas para caminar barefoot en esta publicación!</a></p>
+<p>Un par de marcas que accidentalmente dejé fuera de esta lista: <br/>– Atletismo (Irían justo en el medio)<br/>– <a href="https://www.wildling.shoes/">Zapatos salvajes</a> (Estarían entre Vivobarefoot y Groundies)</p>
+<p class="has-text-align-center"><a href="/zapatos-correderas-de-barefoot-una-lista-completa-de-zapatillas-atleticas-zero-drop/">¡Puedes encontrar una lista completa de zapatillas deportivas aptas para caminar barefoot en esta publicación!</a></p>
 <h2 class="wp-block-heading">Comentarios de la comunidad</h2>
 <p>30 miembros de la comunidad descalza que poseen Zapatos barefoot Whitin compartieron sus comentarios conmigo.</p>
 <h4 class="wp-block-heading">Corredores de senderos Whitin</h4>
@@ -101,7 +101,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Al fin y al cabo, este movimiento barefoot debe ser accesible para todos. Si bien prefiero comprar en cantidades pequeñas siempre que sea posible, ¡no debemos ignorar las opciones más baratas!  son asequibles, accesibles y cumplen con los requisitos del calzado natural. Tu cuerpo te lo agradecerá. Para opciones más asequibles que siguen siendo de zero drop, flexibles y con forma de pie, consulte los enlaces a continuación.</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-50 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/affordable-barefoot-minimalist-shoes/">Zapatos barefoot asequibles para adultos</a></div>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/affordable-barefoot-shoes-for-kids/">Zapatos barefoot asequibles para niños</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/lista-completa-de-zapatos-asequibles-de-pie-y-minimalista/">Zapatos barefoot asequibles para adultos</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/zapatos-para-ninos-descalzos-asequibles-para-todos-los-presupuestos/">Zapatos barefoot asequibles para niños</a></div>
 </div>
 

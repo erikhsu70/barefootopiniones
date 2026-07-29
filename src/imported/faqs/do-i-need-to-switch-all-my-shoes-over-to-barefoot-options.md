@@ -44,7 +44,7 @@ translatedFrom: en
 <div class="ewd-ufaq-faq-body">
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 <p>No es necesario cambiar todos tus zapatos, pero cuanto más estás barefoot o en Zapatos barefoot, más oportunidad tienes para fortalecer, alinear y estabilizar tus pies. Y con las opciones de zapato barefoot disponibles hoy, <strong>Tú <em>puede</em> estar en calzado natural 100% del tiempo.</strong> Pero se necesita tiempo para cambiar tu cuerpo y tu armario. Una manera fácil de hacer el interruptor es comprar Zapatos barefoot cada vez que necesite reemplazar a un viejo par – naturalmente creará sus opciones con el tiempo sin agotar su presupuesto. Si guardas algunos zapatos “hurty” en tu armario para ciertas ocasiones, seguirás haciendo un gran servicio usando zapatos saludables el resto del tiempo.</p>
-<p>Si estás listo para empezar, aquí está mi <a href="/ufaq/how-do-i-pick-my-first-pair-of-barefoot-shoes/">guía para recoger tu primer par de Zapatos barefoot!</a></p>
+<p>Si estás listo para empezar, aquí está mi <a href="/preguntas/como-escojo-mi-primer-par-de-zapatos-barefoot/">guía para recoger tu primer par de Zapatos barefoot!</a></p>
 </div>
 
 </div>

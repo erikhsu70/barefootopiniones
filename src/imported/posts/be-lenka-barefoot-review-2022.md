@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Be Lenka barefoot: ¡nuevos modelos para 2022!'
+title: "Mi opinión sobre Be Lenka barefoot: nuevos modelos para 2022"
 description: Be Lenka barefoot es una de las marcas de calzado barefoot más diversas.
   ¡Conozca todos los detalles sobre los nuevos modelos y cambios para 2022 en esta
   revisión!
@@ -53,8 +53,8 @@ translatedFrom: en
 
 <p><strong>Suela plana de ballet.</strong> – Be Lenka ha añadido 3 estilos planos esta primavera, todos ellos confeccionados con una suela similar a la forma cuadrada de arriba, pero un poco más estrecha. Aún así, es un molde de ajuste moderadamente ancho. Todos vienen con una plantilla que agrega una buena cantidad de amortiguación y permite un mejor ajuste si tienes pies de poco volumen. De lo contrario, puedes eliminarlo. Son más pesados ​​para unas bailarinas descalzas.</p>
 <p><strong>Suela de sandalia</strong> – Y por último, la suela de la sandalia. Estas son las suelas más estrechas que ofrece Be Lenka, pero con sandalias abiertas no necesitas tanta anchura. Son flexibles pero un poco pesadas en comparación con otras sandalias descalzas como Zeazoo o Tikki. El material aguanta bien el uso y lucen elegantes. La forma es inclinada, similar a la forma del frijol.</p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">¿Quieres profundizar en las formas de los pies y en los zapatos que mejor se adaptan a ellos? Consulte esta guía para <strong>Los mejores Zapatos barefoot para tu tipo de pie.</strong>!</a></p>
-<p>Ahora que hemos cubierto las diferentes suelas disponibles en Be Lenka, analicemos los nuevos modelos de primavera de 2022. Y si tienes preguntas sobre un estilo antiguo, consulta mi anterior. <a href="/brand/belenka/">Opiniones de Be Lenka</a>.</p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¿Quieres profundizar en las formas de los pies y en los zapatos que mejor se adaptan a ellos? Consulte esta guía para <strong>Los mejores Zapatos barefoot para tu tipo de pie.</strong>!</a></p>
+<p>Ahora que hemos cubierto las diferentes suelas disponibles en Be Lenka, analicemos los nuevos modelos de primavera de 2022. Y si tienes preguntas sobre un estilo antiguo, consulta mi anterior. <a href="/marca/belenka/">Opiniones de Be Lenka</a>.</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-dots"/>
 
@@ -63,14 +63,14 @@ translatedFrom: en
 <p class="has-text-align-center">Cuero | $129 | Tallas UE 36-46</p>
 <p>El Brooklyn, confeccionado con una suela cuadrada, es el modelo perfecto de Adidas para los dedos de los pies anchos. Son unas sencillas zapatillas de cuero blanco con detalles negros: clásicas, informales y versátiles. He estado usando el mío en un clima primaveral asqueroso y se limpian muy fácilmente (en mi opinión, imprescindible para un zapato blanco). También me ha complacido lo suave que se ha vuelto la suela, ¡son mucho más flexibles ahora que las he usado durante varios kilómetros!</p>
 <p>La suela me ha funcionado bien en suelos resbaladizos y definitivamente tiene más agarre que la suela con forma de frijol. Creo que son excelentes zapatillas para caminar mucho por la ciudad, pero después de un tiempo extraño mis opciones ultrafinas.</p>
-<p><strong>Sizing &amp;amp; Fit</strong>: Llevo una talla 37 en mis Brooklyns, mi talla habitual de zapatillas Be Lenka. Se ajustan perfectamente, no es necesario aumentar ni reducir la talla. Estoy usando la plantilla que viene con ellos y se ajustan bien a mis pies de bajo volumen sin ajustes (los pies de alto volumen deberán quitarse la plantilla). En comparación con una zapatilla Be Lenka como <a href="/belenka-barefoot-prime-review/">el primo</a>, que tiene mucho volumen y es ancho en el talón y el tobillo, el Brooklyn es significativamente mejor para pies delgados y tacones estrechos. Y, por supuesto, tienen una puntera extra ancha.</p>
+<p><strong>Sizing &amp;amp; Fit</strong>: Llevo una talla 37 en mis Brooklyns, mi talla habitual de zapatillas Be Lenka. Se ajustan perfectamente, no es necesario aumentar ni reducir la talla. Estoy usando la plantilla que viene con ellos y se ajustan bien a mis pies de bajo volumen sin ajustes (los pies de alto volumen deberán quitarse la plantilla). En comparación con una zapatilla Be Lenka como <a href="/revision-de-be-lenka-prime-una-zapatilla-para-pies-anchos/">el primo</a>, que tiene mucho volumen y es ancho en el talón y el tobillo, el Brooklyn es significativamente mejor para pies delgados y tacones estrechos. Y, por supuesto, tienen una puntera extra ancha.</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <h2 class="wp-block-heading">estilo</h2>
 
 <p class="has-text-align-center">Cuero | $129 | Tallas UE 36-43</p>
-<p>La Flair es una zapatilla sencilla, similar a la City, pero confeccionada con una suela cuadrada. La parte superior es el nubuck más suave (¡en serio, tan suave!) y tienen un estilo femenino. También vienen en color melocotón y rosa. Raspé los míos la primera vez que los usé y me preocupaba que estuvieran manchados, pero se cepillaron bien y luego los traté con <a href="https://amzn.to/3LHoKZA">Carbon Pro</a> antes de volver a usarlos. Definitivamente recomendaría hacerlo para mantener el cuero bonito.</p>
+<p>La Flair es una zapatilla sencilla, similar a la City, pero confeccionada con una suela cuadrada. La parte superior es el nubuck más suave (¡en serio, tan suave!) y tienen un estilo femenino. También vienen en color melocotón y rosa. Raspé los míos la primera vez que los usé y me preocupaba que estuvieran manchados, pero se cepillaron bien y luego los traté con Carbon Pro antes de volver a usarlos. Definitivamente recomendaría hacerlo para mantener el cuero bonito.</p>
 <p><strong>Sizing &amp;amp; Fit</strong>: El Flair es fiel al tamaño y extra ancho, pero se ajusta a un volumen un poquito más alto que el Brooklyn. Con la plantilla puesta y los cordones apretados funcionan bien para mis pies poco profundos, pero tienen un poco más de espacio por encima de los dedos. Los pies de volumen medio y alto (sin plantilla) también deberían ir bien con ellas.</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
@@ -98,7 +98,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuero | $129 | Tallas UE 36-43</p>
 <p>La Sophie es un estilo de bailarina más clásico sin correas ni adornos. Son simples y elegantes, pero aun así se sienten duraderos. Me gustan como calzado de transición o para personas que están mucho de pie y quieren algo de amortiguación. Una cosa que no me gusta es que el logo de la plantilla se me pega al pie... </p>
-<p><strong>Sizing &amp;gt; Fit:</strong> El Sophie se ajusta como el Bellissima, pero encontré que el cuero dorado es un poco más rígido. Esto ayuda a mantenerlos en mi talón mejor que los Bellissima, pero los sentí apretados en los dedos de los pies durante las primeras horas de uso. No parece que vayan a aflojarse mucho, pero si lo hacen, podrían terminar siendo demasiado grandes. ¡Los zapatos planos son tan difíciles cuando tienes tacones estrechos! No olvides revisar<a href="/ufaq/fit-hacks-for-narrow-heels/"> estos trucos de ajuste</a> si además te resbala el talón.</p>
+<p><strong>Sizing &amp;gt; Fit:</strong> El Sophie se ajusta como el Bellissima, pero encontré que el cuero dorado es un poco más rígido. Esto ayuda a mantenerlos en mi talón mejor que los Bellissima, pero los sentí apretados en los dedos de los pies durante las primeras horas de uso. No parece que vayan a aflojarse mucho, pero si lo hacen, podrían terminar siendo demasiado grandes. ¡Los zapatos planos son tan difíciles cuando tienes tacones estrechos! No olvides revisar<a href="/preguntas/trucos-de-ajuste-para-talones-estrechos/"> estos trucos de ajuste</a> si además te resbala el talón.</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
@@ -115,7 +115,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuero | $129 | Tallas UE 36-47</p>
 <p>El Icon es un zapato de caña alta que cruza entre una zapatilla y un zapato de vestir. Este es el estilo más antiguo de Be Lenka, ¡y con razón! Son básicos, pero en el buen sentido. Vienen en varios colores neutros y Cappuccino es novedad para la primavera. Me encanta el gris pardo, es un color neutro tan fantástico que le queda bien a la mayoría de las personas. Otra cosa buena del Icon es que puede ir en ambos sentidos: elegante o informal, femenino o masculino. Tengo 3 pares de Icons y todos necesitaban un poco de adaptación: el cuero me rozó el tobillo y el talón durante los primeros usos. Después de eso, encajan como un sueño y parecen realmente duraderos.</p>
-<p><strong>Sizing &amp;gt; Fit:</strong> Los Icons tienen un volumen medio a alto, pero puedo apretar los cordones lo suficiente para mis pies. Prefiero usarlos con plantilla (este modelo no viene con) o con <a href="https://amzn.to/3kKqG80">almohadilla para la lengua</a>. Fiel al tamaño, confeccionado sobre la suela en forma de frijol.</p>
+<p><strong>Sizing &amp;gt; Fit:</strong> Los Icons tienen un volumen medio a alto, pero puedo apretar los cordones lo suficiente para mis pies. Prefiero usarlos con plantilla (este modelo no viene con) o con almohadilla para la lengua. Fiel al tamaño, confeccionado sobre la suela en forma de frijol.</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
@@ -123,16 +123,16 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuero o Textil | $99 | Tallas UE 36-43</p>
 
-<p>Si bien no hay nuevos modelos de sandalias de Be Lenka (hasta ahora) este año, están agregando algunos colores nuevos y divertidos. Me encantan mis sandalias Be Lenka porque lucen muy bien, incluso después de mucho uso. Si quieres saber más sobre cómo quedan, consulta mi <a href="/10-best-stylish-barefoot-sandals-for-women/">Revisión de sandalias de verano con estilo</a>!</p>
+<p>Si bien no hay nuevos modelos de sandalias de Be Lenka (hasta ahora) este año, están agregando algunos colores nuevos y divertidos. Me encantan mis sandalias Be Lenka porque lucen muy bien, incluso después de mucho uso. Si quieres saber más sobre cómo quedan, consulta mi <a href="/las-mejores-sandalias-de-pie-de-barefoot-para-mujeres/">Revisión de sandalias de verano con estilo</a>!</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
 <h2 class="wp-block-heading">Barebarics</h2>
 
 <p class="has-text-align-center">Vegano | $149-$179 | Tallas UE 36-47</p>
-<p>Barebarics es en realidad una marca independiente, pero es propiedad de Be Lenka y puedes pedir Barebarics en el sitio web de Be Lenka si ya estás comprando otras cosas. Están diseñados para habitantes urbanos con una suela altamente resistente a la abrasión, un poco más de amortiguación que los zapatos Be Lenka y una línea completamente vegana. Realmente suben de nivel el juego de estilo Y el juego de calidad. Debido a que tienen una suela más gruesa y una plantilla más acolchada, considero que son una buena opción. <a href="/best-barefoot-minimalist-shoe-brands-beginners/">zapato de transición barefoot</a>. </p>
+<p>Barebarics es en realidad una marca independiente, pero es propiedad de Be Lenka y puedes pedir Barebarics en el sitio web de Be Lenka si ya estás comprando otras cosas. Están diseñados para habitantes urbanos con una suela altamente resistente a la abrasión, un poco más de amortiguación que los zapatos Be Lenka y una línea completamente vegana. Realmente suben de nivel el juego de estilo Y el juego de calidad. Debido a que tienen una suela más gruesa y una plantilla más acolchada, considero que son una buena opción. <a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">zapato de transición barefoot</a>. </p>
 <p><strong>Sizing &amp;gt; Fit:</strong> Primero probé una talla 38 porque es la que tenían en stock, pero realmente necesito una 37 (mi talla habitual de Be Lenka). Se ajustan de manera similar a los modelos de forma cuadrada de Be Lenka, pero están construidos sobre un molde único, por lo que tienen una forma ligeramente diferente. Son fieles al tamaño y anchos en la puntera. Yo uso el mío con la plantilla porque tengo los pies de poco volumen, pero podrías quitármelo si necesitas más espacio vertical.</p>
-<p class="has-text-align-center"><a href="/barebarics-review-best-chunky-barefoot-sneakers/">Lea mi reseña detallada de Barebarics aquí.</a></p>
+<p class="has-text-align-center"><a href="/revision-de-barebarics-las-mejores-zapatillas-gruesas-con-forma-de-pie/">Lea mi reseña detallada de Barebarics aquí.</a></p>
 
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 

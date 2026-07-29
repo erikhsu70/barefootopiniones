@@ -50,6 +50,14 @@ translatedFrom: en
   }
 ] %}
 
+{% set hubPosts = kidsPosts %}
+{% set hubEyebrow = "Niños barefoot" %}
+{% set hubTitle = "Zapatos infantiles con espacio para crecer y moverse" %}
+{% set hubDescription = "Guías, listas y opiniones para elegir calzado flexible, cómodo y con forma de pie para bebés, peques y niños mayores." %}
+{% set hubListTitle = "Todos los artículos de niños" %}
+{% include "components/lovable-hub.njk" %}
+{% if false %}
+
 <section class="page-content blog-page kids-hub">
   <section class="blog-dashboard kids-dashboard">
     <div class="blog-dashboard__copy">
@@ -87,22 +95,22 @@ translatedFrom: en
   </section>
 
   <section class="home-route-grid kids-route-grid" aria-label="Atajos principales de niños">
-    <a class="home-route home-route--large" href="/best-barefoot-minimalist-kids-shoes/">
+    <a class="home-route home-route--large" href="/los-mejores-zapatos-barefoot-para-ninos-presupuesto-de-cada-temporada/">
       <span>Guía principal</span>
       <strong>Mejores zapatos barefoot para niños</strong>
       <small>El punto de partida para comparar marcas, usos y temporadas.</small>
     </a>
-    <a class="home-route" href="/kids-faq/">
+    <a class="home-route" href="/preguntas-frecuentes-barefoot/">
       <span>Dudas</span>
       <strong>Preguntas frecuentes sobre niños</strong>
       <small>Tallas, transición, colegios, lluvia y problemas comunes.</small>
     </a>
-    <a class="home-route" href="/barefoot-minimalist-kids-boots/">
+    <a class="home-route" href="/las-mejores-botas-de-invierno-barefoot-para-ninos-que-juegan/">
       <span>Invierno</span>
       <strong>Botas infantiles barefoot</strong>
       <small>Opciones para frío, barro y días largos fuera de casa.</small>
     </a>
-    <a class="home-route" href="/the-best-barefoot-sandals-for-kids/">
+    <a class="home-route" href="/las-mejores-sandalias-de-barefoot-para-ninos/">
       <span>Verano</span>
       <strong>Sandalias barefoot para niños</strong>
       <small>Modelos frescos con suela flexible y dedos libres.</small>
@@ -180,3 +188,4 @@ translatedFrom: en
     </div>
   </section>
 </section>
+{% endif %}

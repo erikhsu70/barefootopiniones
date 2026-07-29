@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Wildling: los Zapatos barefoot más flexibles'
+title: "Mi opinión sobre Wildling: los zapatos barefoot más flexibles"
 description: Wildling Shoes es una marca que me hace pensar en animales del bosque
   y espacios salvajes. Tal vez sea la marca caprichosa o el ajuste tipo guante, pero
   cuando me los pongo quiero dar vueltas en un campo abierto con Sound of Music sonando
@@ -20,7 +20,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p class="has-text-align-center"><a href="/wildling-shoes-winter-review-honeybear-nessie/">*¡Vea mi reseña de los modelos de invierno de Wildling Shoes para adultos y niños aquí!</a></p>
+<p class="has-text-align-center"><a href="/revision-de-zapatos-de-invierno-wildling-honeybear-nessie/">*¡Vea mi reseña de los modelos de invierno de Wildling Shoes para adultos y niños aquí!</a></p>
 <p>es una marca que me hace pensar en animales del bosque y espacios salvajes. Tal vez sea la marca caprichosa o el ajuste como de guante, pero cuando me los pongo quiero dar vueltas en un campo abierto con la música de fondo.</p>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Grúa de zapatos salvajes</figcaption></figure>
 <p>La marca Wildling comenzó en  cuando Anna y Ran se mudaron a un clima más frío. Tuvieron que comprar zapatos para sus hijos, que antes pasaban la mayor parte del tiempo descalzos. Los dos se propusieron diseñar un zapato con el movimiento como máxima prioridad y Wildling Shoes se fundó oficialmente en 2015. Vertieron toda su inteligencia e investigación en un calzado que no inhibiera la función en absoluto, con el que se podía correr, saltar, bailar y trepar a los árboles.</p>

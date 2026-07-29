@@ -49,13 +49,13 @@ translatedFrom: en
 <ul>
 <li><strong>Zapatos</strong> – Algunos estudios te dejarán ir totalmente barefoot por clases así que vale la pena preguntar! De lo contrario, hay marcas de zapatos de ballet que vienen en múltiples anchos como Bloch lista abajo. A pesar de que la puntera se graba, los anchos más anchos te dan más material alrededor de la parte exterior de los zapatos que dan más espacio para que el pie se disemine. Las opciones de Oma King tienen una caja de dedo mucho más amplia, pero no son zapatos de ballet tradicionales así que compruebe con su instructor primero.
 <ul>
-<li><a href="https://amzn.to/3RtAjt0">Zapatos para niños Bloch</a></li>
-<li><a href="https://amzn.to/48j5MnE">Zapatos Bloch Youth/Women</a></li>
+<li>Zapatos para niños Bloch</li>
+<li>Zapatos Bloch Youth/Women</li>
 <li><a href="https://omaking.ee/en/product-category/gymnastics-shoes/">Zapatos de baile Oma King</a> – Tamaños UE 25-43</li>
 <li><a href="https://us.blochworld.com/products/mens-performa-stretch-canvas-ballet-shoes-sand-canvas">Bloch Hombres Performa Stretch Canvas</a> – La favorita de Samantha, estos tienen un ligero lienzo estirado para la parte superior y están disponibles en 3 anchos. The men’s are reportedly broad/squarer, but you can also<a href="https://us.blochworld.com/collections/adults-dance-shoes-ballet/products/ladies-performa-stretch-canvas-ballet-shoes-theatrical-pink-canvas"> encontrar la versión de las mujeres aquí. </a></li>
 </ul>
 </li>
-<li><strong>Tights </strong>– Si tu estudio permite, opta por <a href="https://amzn.to/3PHo0YG">sin pies o apretones de agitación</a> que no restringe los pies.</li>
+<li><strong>Tights </strong>– Si tu estudio permite, opta por sin pies o apretones de agitación que no restringe los pies.</li>
 <li><strong>Stretching los zapatos</strong> – Wearing  dentro de sus zapatos en casa puede ayudar a estirarlos a una mejor forma!</li>
 </ul>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Bloch Hombres Performa Canvas Stretch en Samantha</figcaption></figure>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: No(n)s Review – Why We Love This Charming barefoot Shoe Brand
+title: "Mi opinión sobre No(N)s: una marca barefoot con mucho encanto"
 description: No(N)s hace que los Zapatos barefoot de alta calidad estén exquisitamente
   elaborados a mano. ¡Nos encanta esta marca única por sus zapatos buenos para ti!
 date: '2022-08-12T16:12:48'
@@ -42,16 +42,16 @@ translatedFrom: en
 <p>Según nuestra experiencia, los zapatos de No(N) se ajustan a:</p>
 <ul>
 <li>Fiel al tamaño</li>
-<li>extraancho,<a href="/best-shoes-for-wide-feet/#where-do-you-need-your-width"> En forma de abanico</a></li>
+<li>extraancho,<a href="/zapatos-barefoot-para-pies-anchos-guia-completa/#where-do-you-need-your-width"> En forma de abanico</a></li>
 <li>Volumen medio</li>
-<li>Lo mejor para <a href="/best-barefoot-shoes-foot-type/#understanding-foot-type">Pendiente y meseta</a> pies en forma</li>
+<li>Lo mejor para <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#understanding-foot-type">Pendiente y meseta</a> pies en forma</li>
 </ul>
-<p>Actualmente ofrecen tallas EU 37-44, pero planean expandirlas en ambas direcciones pronto.  La guía de tallas en línea enumera la longitud de la plantilla que considero precisa y que definitivamente deberías utilizar para asegurarte de elegir la talla correcta (usa <a href="/best-barefoot-shoes-foot-type/#measuring-your-feet">esta guía para medir</a> si tienes preguntas).  </p>
+<p>Actualmente ofrecen tallas EU 37-44, pero planean expandirlas en ambas direcciones pronto.  La guía de tallas en línea enumera la longitud de la plantilla que considero precisa y que definitivamente deberías utilizar para asegurarte de elegir la talla correcta (usa <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">esta guía para medir</a> si tienes preguntas).  </p>
 <p>La tabla de tallas también incluye el ancho, pero en mi experiencia los zapatos quedan mucho más anchos de lo que indican los números. Debido a que las medidas son desde la plantilla que cabe en la parte inferior del zapato, en realidad tienes <em>más</em> ancho funcional.  Tengo un pie de 24,6 cm x 9,8 cm y uso un EU 39 en mis zapatos.  La guía de tallas indicaría que mi pie es 0,5 cm más ancho que el zapato, pero en realidad tengo suficiente espacio para abrir y mover bien los dedos.  </p>
 <p>Lo que más aprecio de la tabla de tallas es que también enumeran las <em>circunferencia</em> de la parte delantera del zapato en su punto más ancho, lo cual es muy útil para determinar si el zapato se ajustará a tu volumen. ¡Ojalá más empresas hicieran esto! Cuando se toman estas tres medidas, realmente se obtiene una representación precisa de cómo se ajustará el zapato a su pie en particular.  </p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/#measuring-your-feet">Lea este artículo para obtener más información sobre cómo medir su pie y determinar su volumen.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">Lea este artículo para obtener más información sobre cómo medir su pie y determinar su volumen.</a></p>
 
-<p>Estos zapatos son extra anchos en la puntera, pero más estrechos en la parte media del pie y el tobillo, por lo que son buenos para <a href="/best-shoes-for-wide-feet/">pies en forma de abanico</a>.  Si tienes el pie más recto, los No(n) también pueden funcionar para ti, pero es posible que tengas exceso de espacio en el antepié.  Todos sus modelos de zapatos están construidos sobre una suela Vibram flexible y con agarre de 5 mm.</p>
+<p>Estos zapatos son extra anchos en la puntera, pero más estrechos en la parte media del pie y el tobillo, por lo que son buenos para <a href="/zapatos-barefoot-para-pies-anchos-guia-completa/">pies en forma de abanico</a>.  Si tienes el pie más recto, los No(n) también pueden funcionar para ti, pero es posible que tengas exceso de espacio en el antepié.  Todos sus modelos de zapatos están construidos sobre una suela Vibram flexible y con agarre de 5 mm.</p>
 <h2 class="wp-block-heading"><strong>Revisión de Oxford</strong></h2>
 
 <p>Mi primera compra con No(N)s fue su <a href="https://nonsbarefoot.com/en/">modelo SL</a>, un oxford de piel lisa.  Se ajustan perfectamente a mi pie de volumen bajo a medio sin necesidad de plantilla.  No puedo expresar lo feliz que estaba de encontrar finalmente un Oxford que me quedaba perfecto desde el primer momento, ¡sin necesidad de trucos!   El corte del tobillo también es lo suficientemente bajo como para que no se clave en mi tendón de Aquiles, pero lo suficientemente alto como para que no se resbale.  El cuero se ablandó tan rápido que no experimenté ningún roce ni ampollas.  Después de usarlos toda la semana, estaba tan enamorada que inmediatamente contacté a Katrin y le pregunté si podía conseguir un par hecho a medida.</p>

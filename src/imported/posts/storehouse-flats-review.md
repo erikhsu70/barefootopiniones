@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'The Storehouse Flats Review: asequible y bueno para los pies'
+title: "Mi opinión sobre The Storehouse Flats: asequible y bueno para los pies"
 description: ¡A todos les gustan los pisos! Las bailarinas pueden ser la categoría
   de calzado más difícil de conseguir para un ajuste cómodo, por lo que tiene sentido
   que haya habido mucho revuelo sobre The Storehouse Flats, que son minimalistas,
@@ -47,7 +47,7 @@ translatedFrom: en
 <p>Estos zapatos planos también son geniales si buscas un toque de color divertido para darle vida a tu atuendo. Las Ediciones Especiales siempre incluyen algo brillante y divertido.</p>
 
 <p>Estéticamente esta construcción de pisos es algo holgada. Personalmente, prefiero una puntera más estructurada para una apariencia más suave, pero ese tipo de zapatos planos deben ajustarse perfectamente a tu pie para permanecer en su lugar, por lo que son mucho más difíciles de clavar. El borde elástico y el cuero no estructurado de The Storehouse Flats permiten un mejor ajuste para una gama más amplia de personas. Y están 100% de moda.</p>
-<p>Una forma de conseguir un aspecto más suave en estos zapatos planos es aplicar un trozo de <a href="https://amzn.to/2ublAdH">piel de topo </a>en el interior, justo encima de los dedos de los pies. ¡No he hecho esto todavía en el mío, pero planeo hacerlo en breve y lo actualizaré!</p>
+<p>Una forma de conseguir un aspecto más suave en estos zapatos planos es aplicar un trozo de piel de topo en el interior, justo encima de los dedos de los pies. ¡No he hecho esto todavía en el mío, pero planeo hacerlo en breve y lo actualizaré!</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Sé que muchos de ustedes han querido sumarse a la moda de los zapatos planos divertidos, pero no han podido hacerlo sin comprometer su presupuesto o la salud de sus pies. ¡Así que The Storehouse Flats está entrando en la escena del calzado en el momento justo!</p>
 

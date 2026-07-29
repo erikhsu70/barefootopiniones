@@ -19,7 +19,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p><a href="https://lonowear.com/?ref=r99wnzmr">El flujo solitario</a> Es un zapato barefoot versátil y liviano que compite con marcas más caras. Me encanta el ajuste, la sensación y la calidad, tanto para el día a día como para el ejercicio.</p>
+<p><a href="https://lonowear.com/">El flujo solitario</a> Es un zapato barefoot versátil y liviano que compite con marcas más caras. Me encanta el ajuste, la sensación y la calidad, tanto para el día a día como para el ejercicio.</p>
 <h2 class="wp-block-heading">Conclusiones clave</h2>
 <ul>
 <li>El Lono Flow tiene una auténtica sensación de estar barefoot con una suela exterior de 6 mm, una parte superior de punto transpirable y mucho espacio para los dedos.</li>
@@ -40,14 +40,13 @@ translatedFrom: en
 </div>
 <h2 class="wp-block-heading">Conoce a Lono</h2>
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-293 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://lonowear.com/?ref=r99wnzmr">Tienda Lono</a></div>
+
 </div>
 <p class="has-text-align-center">Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento.</p>
 <p>Lono es una nueva marca en el sector del calzado barefoot, con solo dos modelos. La misión de Lono es ofrecer zapatos buenos para la salud del planeta y para la salud de nuestro cuerpo. Se centran en la sostenibilidad con materiales naturales biodegradables y precios razonables.</p>
 <h2 class="wp-block-heading">Revisión de flujo de Lono</h2>
 
-<p>Realmente he disfrutado de Lono Flow y considero que tienen un gran impacto por su precio. yo tengo <a href="/style/sneakers/">probado y revisado tantas zapatillas de deporte descalzas</a>, y estos se destacan por su calidad y sensación sin costar más de $150 (el flujo era de $98 antes de mi código <strong>CUALQUIER EXAMEN</strong> con un 10% de descuento). Si busca esa sensación flexible, suave, liviana como el aire pero aún funcional, Lono Flow es la indicada.</p>
+<p>Realmente he disfrutado de Lono Flow y considero que tienen un gran impacto por su precio. yo tengo <a href="/estilo/sneakers/">probado y revisado tantas zapatillas de deporte descalzas</a>, y estos se destacan por su calidad y sensación sin costar más de $150 (el flujo era de $98 antes de mi código <strong>CUALQUIER EXAMEN</strong> con un 10% de descuento). Si busca esa sensación flexible, suave, liviana como el aire pero aún funcional, Lono Flow es la indicada.</p>
 <p>Tienen una suela exterior flexible de 6 mm con plantilla extraíble y una parte superior de punto súper transpirable con bordes reforzados. También son veganos. Me he estado poniendo y quitando el mío sin atar los cordones (la parte superior es elástica, los cordones no, por lo que significa que no puedo atarlos muy apretados) y hasta ahora no he visto ninguna deformación o estiramiento en los materiales.</p>
 <p>Lono ofrece opciones básicas de colores neutros, así como algunos toques de color brillantes.  En cuanto al estilo, definitivamente lucen deportivos, pero soy fanático de los colores divertidos. </p>
 <p>Los cordones van completamente de lado a lado en la parte superior del zapato, lo que ofrece buena capacidad de ajuste y ajuste seguro. Si planeas utilizarlos en el gimnasio o para hacer deporte, esta es una característica importante. La estabilidad lateral de los cordones mantendrá tu pie seguro y sin deslizarse.</p>
@@ -101,3 +100,30 @@ La anchura es solo una parte de la historia. Dos personas pueden tener la misma 
 Si tienes pie ancho, mira la plantilla desde arriba y no te fies solo de la palabra "wide". Si tienes bajo volumen, busca buen ajuste con cordones o velcros. Si tu empeine es alto, evita modelos con lengueta corta o materiales rigidos. Y si estas entre tallas, prioriza que los dedos tengan espacio delante sin que el talon pierda estabilidad.
 
 La mejor senal es simple: puedes mover los dedos, el pie no se desplaza dentro y no tienes que "domar" el zapato durante semanas.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Lono Wear: nueva marca de calzado barefoot con excelente ajuste es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

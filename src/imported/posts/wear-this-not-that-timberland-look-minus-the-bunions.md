@@ -21,12 +21,12 @@ language: es
 translatedFrom: en
 ---
 <p>Soy un fanático del estilo. Tengo mis bloggers favoritos, un tablero de Pinterest con inspo de vestimenta, incluso he tomado esos cursos de estilo gratuitos. ¿Qué puedo decir? ¡Me encantan los lindos trajes! y especialmente los zapatos. </p>
-<p>Pero durante la mayor parte de mi vida me resultó difícil usarlos, porque esos lindos zapatos que amaba eran MUY MALDITOS. Las cosas sólo empeoraron después de que desarrollé un <a href="/being-me-a-journey-to-barefoot/">problema crónico del pie</a>, hasta que no pude usar nada más que un par de zapatillas feas. ¡No puedo trabajar con eso! El estilo no lo es todo, lo sabemos, pero estaba deprimido. ¿Por qué los zapatos que son buenos para tus pies tienen que ser tan feos?</p>
+<p>Pero durante la mayor parte de mi vida me resultó difícil usarlos, porque esos lindos zapatos que amaba eran MUY MALDITOS. Las cosas sólo empeoraron después de que desarrollé un <a href="/articulos/">problema crónico del pie</a>, hasta que no pude usar nada más que un par de zapatillas feas. ¡No puedo trabajar con eso! El estilo no lo es todo, lo sabemos, pero estaba deprimido. ¿Por qué los zapatos que son buenos para tus pies tienen que ser tan feos?</p>
 <p>No sabía que existía todo un mercado de calzado saludable que no aplastaba los dedos de los pies, y aun así <em>parecían zapatos normales</em>. Zapatos bonitos, incluso zapatos de moda. Mente. Estropeado. Resulta que la belleza NO ES dolor. De hecho, me siento más reina que nunca, a pesar de no llevar nada más que <em>plano</em>, <em>espacioso</em>, y <em>cómodo</em> zapatos. Desde entonces he tenido la misión de reunir ideas que podríamos pensar que son diametralmente opuestas.</p>
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p><strong><span class="has-inline-color" style="color:#268ebb">Sexy + Cómodo. </span></strong><br/><span class="has-inline-color" style="color:#268ebb"><strong>Moderno + Saludable.</strong></span><br/><strong><span class="has-inline-color" style="color:#268ebb">Guapo + Bueno para ti.</span></strong></p>
 </blockquote>
-<p>En esta nueva serie, tomaremos un estilo de zapato popular (pero dañino) y encontraremos una alternativa que no hará llorar a tus dedos de los pies NI a tu sentido del estilo. Así que sin más preámbulos, bienvenidos a <strong>Episodio 1 de <a href="/tag/wear-this-not-that/">¡Usa esto, no aquello!</a></strong></p>
+<p>En esta nueva serie, tomaremos un estilo de zapato popular (pero dañino) y encontraremos una alternativa que no hará llorar a tus dedos de los pies NI a tu sentido del estilo. Así que sin más preámbulos, bienvenidos a <strong>Episodio 1 de <a href="/tema/alternativas-barefoot/">¡Usa esto, no aquello!</a></strong></p>
 
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-220c4fe9" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
@@ -42,7 +42,7 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Botas Timberland</figcaption></figure>
 <p>En el episodio 1 de “Use esto, no aquello”, echamos un vistazo a la resistente bota de trabajo. Nada lo captura como el clásico. Timberland, que ha sido un estilo icónico para hombres y mujeres desde hace décadas. En una vida anterior habría sufrido el inevitable dolor de pies para poder usarlos, maldiciendo mis pies por ser tan difíciles. ¡Pero hoy sé que nunca fueron mis pies el problema! Hoy en día busco zapatos bastante diferentes a los que ves normalmente, porque <span style="text-decoration: underline;">la mayoría de los zapatos no están hechos pensando en los pies</span>. estoy hablando de <em><strong>barefoot</strong></em> o <em><strong>minimalista</strong></em> zapatos que imitan el efecto de estar barefoot pero que aún brindan protección para sus pies. </p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-14 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-background wp-element-button" href="/benefits-barefoot-minimalist-shoes/" style="background-color:#367e9d">¿Quieres saber más? Consulte esta publicación sobre los beneficios de los Zapatos barefoot</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-background wp-element-button" href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/" style="background-color:#367e9d">¿Quieres saber más? Consulte esta publicación sobre los beneficios de los Zapatos barefoot</a></div>
 </div>
 
 <p>Así que echemos un vistazo más de cerca al Timberland junto a un <em>barefoot</em> alternativa para descubrir por qué tus pies podrían estar gritándote al final del día. Introduzca el <a href="https://www.groundies.com/">Liverpool</a>.</p>
@@ -106,19 +106,19 @@ translatedFrom: en
 <ul>
 <li><a href="https://www.groundies.com/">Liverpool</a></li>
 <li> – Usar código <strong>CUALQUIER EXAMEN</strong> con un 5% de descuento en Be Lenka. Esta bota también se puede encontrar en ! Estoy obsesionada, son perfectas para pies extra anchos.</li>
-<li> – Otra opción realmente genial. Son veganos, impermeables y con forro polar. Lee mi contenido completo.<a href="/feelgrounds-patrol-review-vegan-barefoot-winter-boots/"> Revisión de la patrulla Feelgrounds </a>aquí. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
+<li> – Otra opción realmente genial. Son veganos, impermeables y con forro polar. Lee mi contenido completo.<a href="/revision-de-feelgrounds-patrol-botas-de-invierno-veganas-descalzas/"> Revisión de la patrulla Feelgrounds </a>aquí. Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
 <li><a href="https://www.blifestyle.de/search?search=streetstyle">Bota estilo urbano bLifestyle</a> (No se realizan envíos fuera de la UE) – Me encantan mis zapatos de bLifestyle, ¡son de muy alta calidad y elegantes y, al mismo tiempo, se ajustan a una amplia separación de los dedos!</li>
 </ul>
 <p>Ahora sigue leyendo si quieres conocer un poco más la marca de calzado barefoot Groundies.</p>
 <h2 class="wp-block-heading">Conozca a los Groundies</h2>
 
-<p><a href="https://www.groundies.com/">Calzados descalzos Groundies</a> está en mi <a href="/best-barefoot-minimalist-shoe-brands/">Las mejores marcas de zapatos minimalistas de todos los tiempos</a> lista porque tienen alta calidad, excelente estilo y realmente son buenos para tus pies. Son una marca alemana, con opciones para hombre y mujer, en estilos vegano, de cuero, elegante y casual. Nos gusta tanto esta marca que empezamos a vender algunas en , ubicado en los EE. UU.!</p>
+<p><a href="https://www.groundies.com/">Calzados descalzos Groundies</a> está en mi <a href="/las-mejores-marcas-de-zapatos-de-pie-y-minimalista/">Las mejores marcas de zapatos minimalistas de todos los tiempos</a> lista porque tienen alta calidad, excelente estilo y realmente son buenos para tus pies. Son una marca alemana, con opciones para hombre y mujer, en estilos vegano, de cuero, elegante y casual. Nos gusta tanto esta marca que empezamos a vender algunas en , ubicado en los EE. UU.!</p>
 <h3 class="wp-block-heading">Realizar pedidos</h3>
 <p>Los clientes europeos obtendrán sus zapatos rápidamente a un coste mínimo. Si vive en los EE. UU., puede comprar una selección limitada en , o encuentre otros estilos en !</p>
 <h4 class="wp-block-heading">Especificaciones</h4>
 <p>El Liverpool cuesta 155 euros (182 dólares). Tiene una parte superior de cuero e interior de microfibra. Todo el zapato es liviano y flexible, pero obviamente está bien hecho y es resistente. Me encanta que tiene todos los componentes necesarios para el funcionamiento óptimo del pie, pero aún mantiene un gran estilo. No se ven flojos ni desaliñados, y pueden vestirse formalmente o informalmente según su apariencia.</p>
 <h4 class="wp-block-heading">Dimensionamiento</h4>
-<p>El tamaño ha sido consistente para mí en los 3 estilos de Groundies que he probado. Uso una talla US 6.5 o EU 37 en zapatillas y botas, y eso es lo que uso en mis Groundies. Son un poco más anchos que marcas como Vivobarefoot y Xero Shoes, y tienen aproximadamente el mismo ancho que Feelgrounds (todas las marcas que tengo <a href="/reviews/">revisado</a>).</p>
+<p>El tamaño ha sido consistente para mí en los 3 estilos de Groundies que he probado. Uso una talla US 6.5 o EU 37 en zapatillas y botas, y eso es lo que uso en mis Groundies. Son un poco más anchos que marcas como Vivobarefoot y Xero Shoes, y tienen aproximadamente el mismo ancho que Feelgrounds (todas las marcas que tengo <a href="/resenas/">revisado</a>).</p>
 <p>¡Estén atentos para una revisión completa y en profundidad de la marca Groundies!</p>
 <div aria-label="Control deslizante" class="n2-section-smartslider fitvidsignore n2_clear" data-ssid="7" role="region" tabindex="0"><div class="n2-ss-align" id="n2-ss-7-align" style="margin: 0 auto; max-width: 550px;"><div class="n2-padding"><div class="n2-ss-slider n2-ow n2-has-hover n2notransition" data-creator="Smart Slider 3" data-responsive="auto" id="n2-ss-7">
 <div class="n2-ss-slider-wrapper-inside">

@@ -1,8 +1,8 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Revisión de sandalias Vivobarefoot Kids Ababa
-description: Las sandalias Vivobarefoot Kids Ababa son unas sandalias clásicas de
+title: "Mi opinión sobre las sandalias infantiles Vivobarefoot Ababa"
+description: Las sandalias infantiles Vivobarefoot Ababa son unas sandalias clásicas de
   cuero con una misión. Como parte de la gama Soul of Africa, cada par está hecho
   a mano en Etiopía utilizando materiales locales por fabricantes locales.
 date: '2021-06-25T15:01:57'
@@ -46,7 +46,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Sandalias Vivobarefoot Ababa Ajuste y talla</h2>
 
-<p>La talla de estas sandalias fue una sorpresa. Son talla EU 31 (US 13) y tienen el mismo largo que la talla EU 33 de mi hija. <a href="https://www.unshoesusa.com/collections/sandals/products/kids-keota?aff=3">Sandalias Keota Unshoes</a>! Los Ababas tienen un poco menos de longitud utilizable debido a las costuras en la parte delantera, pero definitivamente son al menos una talla más grande. Los Ababa estaban originalmente destinados a mi hijo (foto de arriba a la derecha), pero puedes ver que son demasiado largos a pesar de que se ha quedado sin espacio en su otro Vivo de tamaño 31. Básicamente, las sandalias Vivobarefoot Ababa son GRANDES.</p>
+<p>La talla de estas sandalias fue una sorpresa. Son talla EU 31 (US 13) y tienen el mismo largo que la talla EU 33 de mi hija. <a href="https://www.unshoesusa.com/collections/sandals/products/kids-keota">Sandalias Keota Unshoes</a>! Los Ababas tienen un poco menos de longitud utilizable debido a las costuras en la parte delantera, pero definitivamente son al menos una talla más grande. Los Ababa estaban originalmente destinados a mi hijo (foto de arriba a la derecha), pero puedes ver que son demasiado largos a pesar de que se ha quedado sin espacio en su otro Vivo de tamaño 31. Básicamente, las sandalias Vivobarefoot Ababa son GRANDES.</p>
 <p>Las correas delanteras del Ababa original se ajustan a un pie de muy poco volumen, incluso después de mis esfuerzos de estiramiento. Pero tienen algo de flexibilidad, por lo que si solo están un poco ajustados, definitivamente vale la pena trabajar un poco para estirarlos. ¡Me alegra que Vivo ya haya actualizado el diseño para incluir una correa frontal de velcro en el Ababa II! Actualmente solo está disponible en gris niebla (que parece casi blanco) con costuras rosas, pero espero que incluyan más colores en el futuro.</p>
 
 <p>¡Quiero hacer una nota especial sobre el área del tobillo porque serán PERFECTOS para pies de poco volumen con tobillos estrechos! Mira cuánto se puede ajustar esa correa en el tobillo sin verse extraña ni arrastrarse por el suelo: ¡es ideal! La pieza del talón también envuelve el talón estrechamente y será ideal para pies delgados.  A la izquierda puedes ver el rango de ajuste que obtienes con la correa del tobillo. A la derecha, mi hija de 4 años con pies flacos muestra lo segura que puede ser esa zona, incluso para ella. A menudo tiene problemas con el área del tobillo porque los zapatos le quedan demasiado sueltos. Mi hija mayor tampoco tuvo problemas con el área del tobillo para sus tobillos de ancho normal, ya que el cuero se mueve fácilmente hacia los lados para adaptarse. Pero los tobillos muy anchos pueden tener problemas.</p>
@@ -57,7 +57,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Conclusión de la revisión de las sandalias Vivobarefoot Ababa</h2>
 <p>Las sandalias Vivobarefoot Ababa Kids ofrecen mucho: ¡el cuero es encantador y el proyecto Soul of Africa está haciendo cosas buenas! Puedes conseguir calzado saludable para tus hijos y al mismo tiempo apoyar a la comunidad local donde se fabrican las sandalias. ¿Qué tan bueno es eso? Solo asegúrese de planear reducir el tamaño y considere el Ababa II para la correa frontal ajustable.</p>
-<p class="has-text-align-center">Mira el otro de Isabel <a href="/brand/vivobarefoot/">Vivo Barefoot Opiniones</a> ¡aquí!</p>
+<p class="has-text-align-center">Mira el otro de Isabel <a href="/marca/vivobarefoot/">Vivo Barefoot Opiniones</a> ¡aquí!</p>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
 <p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
@@ -76,3 +76,30 @@ Antes de valorar Revisión de sandalias Vivobarefoot Kids Ababa, siempre pienso 
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de sandalias Vivobarefoot Kids Ababa es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para pies infantiles
+
+En calzado infantil miro tres cosas antes que el diseno: espacio delante, sujecion y facilidad para ponerlo. Un zapato infantil barefoot no deberia comprimir los dedos, pero tampoco debe quedar tan grande que el nino compense agarrando con los dedos o arrastrando el pie. Lo ideal es que pueda correr, saltar y cambiar de direccion sin que el zapato se desplace.
+
+Tambien recomiendo revisar el ajuste cada pocas semanas, porque los ninos pueden crecer de golpe y no siempre avisan de que algo les aprieta. Si el upper marca los dedos, si aparecen rozaduras o si empiezan a quitarse el calzado en cuanto pueden, suele haber una pista clara. Mejor comprobarlo pronto que esperar a que el zapato se quede pequeno del todo.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

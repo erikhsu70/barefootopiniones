@@ -1,0 +1,22 @@
+---
+pagination:
+  data: legacyRedirects
+  size: 1
+  alias: redirect
+permalink: "{{ redirect.from }}"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, follow">
+    <meta http-equiv="refresh" content="0; url={{ redirect.to }}">
+    <link rel="canonical" href="{{ site.url }}{{ redirect.to }}">
+    <title>Página trasladada | {{ site.name }}</title>
+  </head>
+  <body>
+    <p>Esta página se ha trasladado. <a href="{{ redirect.to }}">Continuar a la nueva dirección</a>.</p>
+    <script>window.location.replace("{{ redirect.to }}");</script>
+  </body>
+</html>

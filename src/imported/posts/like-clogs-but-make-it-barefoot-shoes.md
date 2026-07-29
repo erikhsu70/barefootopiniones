@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Como Clogs, pero hazlo Zapatos barefoot
+title: "Los mejores zuecos barefoot con puntera amplia"
 description: Los Clogs son toda la rabia ahora mismo. Pero busco específicamente coágulos
   descalzos. Aquí está su guía para el por qué detrás de los coágulos descalzos y
   cuáles son mis favoritos.
@@ -33,22 +33,22 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Por qué ya no uso Birkenstocks (ya)</h2>
 
-<p>Los Birkenstocks son un tema candente y <a href="/why-birkenstocks-arent-long-term-solution-foot-pain/">mi opinión sobre ellos</a> ha iluminado y enfurecido a más de unas pocas personas. He aquí por qué ya no uso Birkenstocks, incluido el popular zueco Boston.</p>
-<p>Los Birkenstock son fantásticos como calzado para aliviar el dolor; de hecho, me alegro mucho de que se hayan vuelto tan populares porque son mucho más naturales que los zapatos típicos. Pero son TAN rígidos y brindan apoyo que inmovilizan el pie, algo así como un yeso. y <a href="/about-me/">aprendí de la experiencia</a> que inmovilizar el pie de forma constante provoca atrofia muscular. </p>
+<p>Los Birkenstocks son un tema candente y <a href="/por-que-birkenstocks-no-son-una-solucion-a-largo-plazo-para-el-dolor-de-pie/">mi opinión sobre ellos</a> ha iluminado y enfurecido a más de unas pocas personas. He aquí por qué ya no uso Birkenstocks, incluido el popular zueco Boston.</p>
+<p>Los Birkenstock son fantásticos como calzado para aliviar el dolor; de hecho, me alegro mucho de que se hayan vuelto tan populares porque son mucho más naturales que los zapatos típicos. Pero son TAN rígidos y brindan apoyo que inmovilizan el pie, algo así como un yeso. y <a href="/articulos/">aprendí de la experiencia</a> que inmovilizar el pie de forma constante provoca atrofia muscular. </p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Zueco barefoot (izquierda), Birkenstock Boston (derecha)</figcaption></figure>
 <p>Lo ideal es que todos trabajemos para lograr unos pies que funcionen bien. <em>sin</em> ¡Cuánto apoyo! Especialmente si actualmente no siente dolor ni se está recuperando de una lesión, no tiene sentido poner un pie sano en un zapato tan rígido. </p>
-<p>Por el contrario, un zueco barefoot se dobla y se mueve con el pie, lo que ayuda a mantener los tejidos flexibles y fuertes. Ah, y tienen <a href="/10-best-stylish-barefoot-sandals-for-women/#what-about-slides-flip-flops">una correa trasera para mayor seguridad</a>!</p>
+<p>Por el contrario, un zueco barefoot se dobla y se mueve con el pie, lo que ayuda a mantener los tejidos flexibles y fuertes. Ah, y tienen <a href="/las-mejores-sandalias-de-pie-de-barefoot-para-mujeres/#what-about-slides-flip-flops">una correa trasera para mayor seguridad</a>!</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Zueco barefoot (izquierda), Birkenstock Boston (derecha)</figcaption></figure>
 <p>Y es por eso que dejé mis Birkenstocks y ahora adopto los zapatos minimalistas como una estrategia a largo plazo para la salud de mis pies.</p>
 <h2 class="wp-block-heading">Zuecos descalzos para usar en su lugar</h2>
 <p>Pero me encantan los momentos de moda, ¡así que me hace gracia que ahora haya zuecos descalzos de moda! Aquí hay 5 opciones que capturan la estética (y le brindan mucho espacio para los dedos de los pies), pero que son livianas, cómodas y liberadoras para sus pies.</p>
-<p class="has-text-align-center">(y nota al margen, es posible que desee utilizar un <a href="https://amzn.to/3Tv6xlg">protector en aerosol como este </a>en tus zuecos para mantener la gamuza con un aspecto fresco).</p>
+<p class="has-text-align-center">(y nota al margen, es posible que desee utilizar un protector en aerosol como este en tus zuecos para mantener la gamuza con un aspecto fresco).</p>
 <h3 class="wp-block-heading">Zueco Mariposa Tu Mundo</h3>
 
 <p class="has-text-align-center">Cuero | ¡Múltiples anchos! | Tallas EE. UU., 5 para mujer y 11,5 para hombre | Se envía desde EE. UU.</p>
 <p class="has-text-align-center">Puedes usar el código <strong></strong> para obtener un 10 % de descuento en tu compra de Butterfly Your World.</p>
 <p class="has-text-align-center" style="font-size:16px"><em>Butterfly Your World es una operación de una sola persona, y durante las horas pico de pedidos, el cumplimiento puede ser largo y, a veces, los pedidos se suspenden por completo para que Irina pueda asegurarse de que todos los clientes estén contentos.</em></p>
-<p>Primero es <a href="https://butterflyyourworld.com/products/women-s-taupe-suede-clogs/?ref=msbe30l6">el Zueco de Butterfly Your World</a> – una pequeña tienda ubicada en Florida, EE. UU. Nos encanta apoyar las operaciones hechas a mano, donde sabes que tu pedido fue hecho solo para ti con amor. Significa que el tiempo de cumplimiento puede tardar varias semanas y que las ventas son definitivas. Pero si estás buscando un zueco barefoot para reemplazar el Birkenstock Boston, ¡creemos que esta es la mejor opción!</p>
+<p>Primero es <a href="https://butterflyyourworld.com/products/women-s-taupe-suede-clogs/">el Zueco de Butterfly Your World</a> – una pequeña tienda ubicada en Florida, EE. UU. Nos encanta apoyar las operaciones hechas a mano, donde sabes que tu pedido fue hecho solo para ti con amor. Significa que el tiempo de cumplimiento puede tardar varias semanas y que las ventas son definitivas. Pero si estás buscando un zueco barefoot para reemplazar el Birkenstock Boston, ¡creemos que esta es la mejor opción!</p>
 <p>Los zuecos Butterfly Your World vienen en 3 anchos (!) y puedes personalizar el color del cuero y la suela. El cuero es suave y cómodo, y las hebillas permiten un ajuste personalizado, lo cual es importante en los zapatos sin cordones. Samantha lleva más de un año usando su par: la gamuza se ha moldeado a su pie y el ajuste es excelente.</p>
 <p><strong>Sizing &amp;amp; Fit Type:</strong></p>
 <ul>
@@ -87,17 +87,17 @@ translatedFrom: en
 
 <p class="has-text-align-center">Cuero o Vegano | Tallas UE 35-46 | Se envía desde la UE</p>
 <p><a href="https://www.barebound.pt/collections/ikaros">El Ikaros desnudo</a> es nuevo en la escena de los Zapatos barefoot y estoy muy entusiasmado con ellos. Tienen una suela flexible, pero con más amortiguación que las otras opciones aquí. También tienen una bonita puntera alta para que los dedos de los pies no se aplasten desde arriba. Y el acabado y la sensación de ellos son realmente perfectos: puedo usarlos con sudaderas o con un atuendo más bonito y sentirme genial en ambos sentidos.</p>
-<p class="has-text-align-center"><a href="/the-newest-barefoot-clog-on-the-block-barebound/">¡Lea mi reseña completa de Barebound Ikaros aquí!</a></p>
+<p class="has-text-align-center"><a href="/el-clog-mas-reciente-de-pie-de-barefoot-en-el-bloque-barebound/">¡Lea mi reseña completa de Barebound Ikaros aquí!</a></p>
 <p><strong>Sizing &amp;amp; Fit Type:</strong></p>
 <ul>
 <li>Fiel al tamaño: reduje el tamaño a 36 porque tengo tacones estrechos y de bajo volumen (¡normalmente hago eso con este estilo de zapato!)</li>
 <li>Ancho medio: estos están en el lado más ancho del ancho medio, similar a los zapatos Peerko si está familiarizado.</li>
-<li>Volumen medio, pero puedes ajustarlo aflojando la correa o <a href="/barefoot-insoles-review/">añadiendo una plantilla.</a></li>
+<li>Volumen medio, pero puedes ajustarlo aflojando la correa o <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">añadiendo una plantilla.</a></li>
 </ul>
 <h3 class="wp-block-heading">Birkenstock Lutry</h3>
 
 <p class="has-text-align-center">Ante | Tallas UE 35-48 | Envíos a todo el mundo desde su dominio Birkenstock local</p>
-<p>el <a href="https://www.birkenstock.com/us/search?lang=en_US&amp;q=lutry">Birkenstock Lutry</a> es único del Birkenstock Boston porque tiene una plantilla extraíble que, una vez extraída, convertirá este zapato normalmente rígido y de apoyo en un zapato barefoot. Debido a que fueron diseñados para usarse con la plantilla, probablemente querrás <a href="/barefoot-insoles-review/">añade tu propia plantilla</a>. De lo contrario, el zapato podría parecer demasiado espacioso y desagradable porque el interior no está acabado.</p>
+<p>el <a href="https://www.birkenstock.com/us/search?lang=en_US&amp;q=lutry">Birkenstock Lutry</a> es único del Birkenstock Boston porque tiene una plantilla extraíble que, una vez extraída, convertirá este zapato normalmente rígido y de apoyo en un zapato barefoot. Debido a que fueron diseñados para usarse con la plantilla, probablemente querrás <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">añade tu propia plantilla</a>. De lo contrario, el zapato podría parecer demasiado espacioso y desagradable porque el interior no está acabado.</p>
 <p>¡Pero tienen un gran estilo y la calidad Birkenstocks! Lo cual es realmente excelente: tómelo de una chica de California que usó Arizona Birks durante unos 20 años antes de cambiarse a Zapatos barefoot 🙂</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">¡Mira qué flexibles son las Birkenstock Lutry sin plantilla!</figcaption></figure>
 <p><strong>Sizing &amp;amp; Fit Type:</strong></p>
@@ -135,10 +135,10 @@ translatedFrom: en
 <h2 class="wp-block-heading">¿Y si necesito algún cojín?</h2>
 <p>Todos los zuecos flexibles descalzos que compartimos aquí tienen una suela delgada (a excepción de El Naturalista que mide alrededor de 8 mm). Si quieres experimentar la libertad de los pies que ofrecen los zuecos descalzos con un poco más de amortiguación, te recomiendo explorar algunas de las opciones de plantillas a continuación que puedes agregar a cualquiera de los zuecos que he compartido:</p>
 <ul>
-<li><a href="https://amzn.to/4auqlPZ">Cortar para dar forma</a> – 5 mm de espesor</li>
-<li><a href="https://amzn.to/46BUcF0">Cojín transpirable</a> – 3 mm de espesor</li>
-<li><a href="https://amzn.to/3SJWOsD">Calcetines planos</a> – 5 mm de espesor</li>
-<li><a href="https://amzn.to/3wkoo8h">Cojín de plantilla 3/4</a> – 3 mm de espesor</li>
+<li>Cortar para dar forma – 5 mm de espesor</li>
+<li>Cojín transpirable – 3 mm de espesor</li>
+<li>Calcetines planos – 5 mm de espesor</li>
+<li>Cojín de plantilla 3/4 – 3 mm de espesor</li>
 </ul>
 <p>Al usar plantillas como estas, recomiendo elegir el tamaño más grande disponible y recortarlas para que se ajusten a sus zapatos. </p>
 <p>Y también hay que tener en cuenta el espacio que ocupan estas plantillas dentro del zapato. Si tienes pies de gran volumen, puedes considerar aumentar el tamaño de tus zuecos para que las plantillas te queden cómodamente.</p>
@@ -146,17 +146,17 @@ translatedFrom: en
 <p>Los zuecos a veces pueden sentirse flojos porque no hay ajustes de cordones. Un buen calce es muy importante para mí, así que utilizo los siguientes trucos para que mis zuecos me queden perfectos:</p>
 <ul>
 <li> – esto se pega dentro de la parte superior de su zapato para llenar espacio adicional y hacer que se ajusten de manera más segura</li>
-<li><a href="https://amzn.to/4ag371d">Moleskin</a> – Esto se puede usar en la correa del talón o en cualquier lugar donde haya un poco de espacio adicional o roce.</li>
+<li>Moleskin – Esto se puede usar en la correa del talón o en cualquier lugar donde haya un poco de espacio adicional o roce.</li>
 <li>Cualquiera de las plantillas vinculadas anteriormente también puede ayudar si tienes pies de poco volumen.</li>
 </ul>
 
 <h2 class="wp-block-heading">Algunas opciones más aquí</h2>
 <p>Además de las opciones de zuecos descalzos anteriores, aquí hay algunas más:</p>
 <ul>
-<li><a href="https://www.saguaro.com/products/serene-1?ref=Nafs6yLHHkYzpP&amp;variant=46364851503324">Saguaro sereno</a> – Usar código <strong>CUALQUIER EXAMEN</strong> con un 15% de descuento. Bueno como opción asequible, pero está hecho de materiales sintéticos, por lo que no tendrá la misma longevidad o sensación de calidad que los demás. Mido más en mis zapatos Saguaro.</li>
+<li><a href="https://www.saguaro.com/products/serene-1?variant=46364851503324">Saguaro sereno</a> – Usar código <strong>CUALQUIER EXAMEN</strong> con un 15% de descuento. Bueno como opción asequible, pero está hecho de materiales sintéticos, por lo que no tendrá la misma longevidad o sensación de calidad que los demás. Mido más en mis zapatos Saguaro.</li>
 <li> – estos son anchos y de volumen bastante alto</li>
 <li><a href="https://www.thedrifterleather.com/products?search=solis">Solís de cuero vagabundo</a></li>
-<li><a href="https://bedrocksandals.com/?rfsn=7845604.38d257&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=7845604.38d257">Zuecos de montaña Bedrock</a> – ¡Estos tienen bastante amortiguación! Pero no lucen tan elegantes como los otros que he mencionado.</li>
+<li><a href="https://bedrocksandals.com/">Zuecos de montaña Bedrock</a> – ¡Estos tienen bastante amortiguación! Pero no lucen tan elegantes como los otros que he mencionado.</li>
 <li> – un poco más como una zapatilla</li>
 <li> (diapositiva sin respaldo) – Usar código <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
 <li><a href="https://www.aylla.cz/en/barefoot-slippers-tinku-brown/">Aylla Tinku</a> (diapositiva sin respaldo)</li>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de zapatos Softstar: The Primal Merry Jane'
+title: "Mi opinión sobre Softstar Primal Merry Jane"
 description: 'Softstar Shoes es una de mis pequeñas empresas favoritas. Este otoño,
   atraerán a sus fanáticos de los pies con una nueva incorporación a su línea primaria:
   The Primal Merry Jane. ¡Sigue leyendo para conocer mi reseña completa!'
@@ -19,8 +19,8 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves </a>es una de mis pequeñas empresas favoritas. Fabrican todos los zapatos a mano en su taller de Oregón, combinando una excelente artesanía con las características del calzado funcional. En Softstar puedes encontrar estilos de zapatos clásicos que atraerán al público general, así como algunos de los más absolutos. <strong>más ancho</strong> y la mayoría <strong>amigable para los pies</strong> zapatos por ahí.</p>
-<p class="has-text-align-center"><strong>Este otoño, jugarán con sus fanáticos del foot con una nueva incorporación a su línea principal: <a href="https://shrsl.com/2tw21">La alegre Jane primigenia</a>. ¡Sigue leyendo para conocer mi reseña completa!</strong></p>
+<p>Zapatos de estrellas suaves es una de mis pequeñas empresas favoritas. Fabrican todos los zapatos a mano en su taller de Oregón, combinando una excelente artesanía con las características del calzado funcional. En Softstar puedes encontrar estilos de zapatos clásicos que atraerán al público general, así como algunos de los más absolutos. <strong>más ancho</strong> y la mayoría <strong>amigable para los pies</strong> zapatos por ahí.</p>
+<p class="has-text-align-center"><strong>Este otoño, jugarán con sus fanáticos del foot con una nueva incorporación a su línea principal: La alegre Jane primigenia. ¡Sigue leyendo para conocer mi reseña completa!</strong></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-7d10acf7" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -32,7 +32,7 @@ translatedFrom: en
 
 <h2 class="wp-block-heading">Conoce a la primitiva Merry Jane</h2>
 
-<p><a href="https://shrsl.com/2tw21">La alegre Jane primigenia</a> Es un estilo plano clásico hecho para adaptarse a los dedos más anchos para que no comprometa la función del pie. Tiene la misma forma de suela que el resto de modelos de la línea Primal, pero diseñado para ser un zapato de vestir de mujer.</p>
+<p>La alegre Jane primigenia Es un estilo plano clásico hecho para adaptarse a los dedos más anchos para que no comprometa la función del pie. Tiene la misma forma de suela que el resto de modelos de la línea Primal, pero diseñado para ser un zapato de vestir de mujer.</p>
 <h2 class="wp-block-heading">Materiales</h2>
 
 <p>Se utiliza un cuero suave y flexible en la parte superior e interior del zapato (doble forro, para que no quede cuero crudo en la piel). La suela exterior es Vibram flexible y todo el zapato es suave y rodante. Un detalle de tira único agrega interés al zapato y las costuras internas permiten mucho ancho pero un borde suave. La plantilla es de cuero y se asienta sobre una almohadilla acolchada (la misma que se usa en las populares Softstar Ballerine).</p>
@@ -51,17 +51,17 @@ translatedFrom: en
 <p>Elegí el color profundo Elderberry, pero actualmente puedes elegir entre 3 colores diferentes: Elderberry (púrpura), Blaze (rojo brillante) y Aged Acorn (marrón). Softstar es conocido por tener hermosos colores de cuero brillantes que son suaves y no se desgastan con el uso, a diferencia de otros cueros pegajosos baratos. No fue necesario adaptarlos y los zapatos resultaron cómodos inmediatamente desde el principio.</p>
 <h2 class="wp-block-heading">Cualidades de estar barefoot</h2>
 
-<p>Todos los zapatos Softstar son zero drop (completamente planos) y flexibles. Además de eso, el PMJ cuenta con una forma de puntera que no solo sigue la forma natural del pie humano, sino que también brinda espacio adicional para que los dedos se abran cuando te mueves. Eso significa que puedes estirar, ejercitar los dedos de los pies e incluso usar <a href="/correct-toes-review/">toe spacers </a>¡Con estos zapatos puestos!</p>
+<p>Todos los zapatos Softstar son zero drop (completamente planos) y flexibles. Además de eso, el PMJ cuenta con una forma de puntera que no solo sigue la forma natural del pie humano, sino que también brinda espacio adicional para que los dedos se abran cuando te mueves. Eso significa que puedes estirar, ejercitar los dedos de los pies e incluso usar <a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">toe spacers </a>¡Con estos zapatos puestos!</p>
 <p>La altura total de la pila del PMJ es de entre 5 y 6 mm, por lo que hay un poco de amortiguación, pero aún se pueden sentir rocas y golpes debajo.</p>
 <h2 class="wp-block-heading">Dimensionamiento</h2>
 
-<p>Tengo 4 estilos diferentes de Softstar y normalmente uso una talla 5U (6 para mujer). Tienen una mano <a href="https://shrsl.com/2tw21">tabla de tallas</a> y videos para ayudarte a determinar tu talla, y recomiendo encarecidamente usarlo antes de comprar.  Tengo un 5u tanto en Primal Sawyer como en Primal Merry Jane y ambos encajan bien con mucho espacio para la separación completa de los dedos, incluyendo <a href="/correct-toes-review/">Tonos correctos</a>.</p>
+<p>Tengo 4 estilos diferentes de Softstar y normalmente uso una talla 5U (6 para mujer). Tienen una mano tabla de tallas y videos para ayudarte a determinar tu talla, y recomiendo encarecidamente usarlo antes de comprar.  Tengo un 5u tanto en Primal Sawyer como en Primal Merry Jane y ambos encajan bien con mucho espacio para la separación completa de los dedos, incluyendo <a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">Tonos correctos</a>.</p>
 <p>El Primal Merry Jane viene en un <strong>regular</strong> (anteriormente llamado estrecho) y <strong>ancho</strong> ancho (anteriormente llamado regular). Los zapatos que ves en mí son <em>regular</em>. Sí, es cierto, el ancho es aún más ancho en la puntera que los que ves aquí. La bloguera de Zapatos barefoot Mel revisó estos zapatos en el ancho más ancho, puedes verla <a href="https://baresteps.co.uk/2020/10/06/review-softstar-primal-merry-jane/">Revisión primaria de Mary Jane</a> para ver la diferencia. A continuación se muestra una imagen que ilustra las diferentes suelas (nombres antiguos: el verde ahora es normal, el azul es ancho).</p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Fuente de la imagen: Zapatos Softstar</figcaption></figure>
 <p>Mi pie derecho mide 23,1 cm de largo y 9,3 cm de ancho según un calco del pie. Me quedan bien la mayoría de las marcas descalzas, pero en general soy estrecho en los talones y ancho en el antepié. En algunas de las marcas descalzas más estrechas (como Vivobarefoot y Mukishoes) debo usarlos sin calcetines para tener suficiente espacio alrededor de los dedos de los pies. Todavía me va perfectamente bien en el ancho estrecho de los Primals.</p>
 <h2 class="wp-block-heading">Comparaciones</h2>
 
-<p>Softstar tiene una amplia variedad de estilos y algunos de ellos se ajustan de manera muy diferente entre sí. Echemos un vistazo a otros zapatos Softstar junto al Primal MJ. Primero el, el <a href="/softstar-shoes-sawyer-review/">Aserrador primigenio</a>.</p>
+<p>Softstar tiene una amplia variedad de estilos y algunos de ellos se ajustan de manera muy diferente entre sí. Echemos un vistazo a otros zapatos Softstar junto al Primal MJ. Primero el, el <a href="/revision-de-sawyer-de-zapatos-softstar/">Aserrador primigenio</a>.</p>
 
 <p>El Primal Sawyer es un zapato unisex que sigue la misma forma que el PMJ. En este zapato tengo un ancho regular de 5u y tengo mucho espacio extra en la puntera. Puedo usar cómodamente un ancho regular en ambos, aunque puedes ver que el Sawyer está construido de manera diferente. Entonces, si has probado el Sawyer antes, el tamaño es consistente entre estos dos estilos y probablemente usarás el mismo tamaño y ancho.</p>
 
@@ -72,7 +72,7 @@ translatedFrom: en
 <p>Los zapatos ultraanchos que sean elegantes y femeninos son bastante difíciles de conseguir. Si bien ciertamente no es la norma ver zapatos con forma de pie en una mujer en situaciones elegantes, creo firmemente que la confianza es lo más atractivo que puedes usar. Use estos PMJ con su ropa normal como cualquier zapato plano, pero a diferencia de cualquier zapato plano, sus pies podrán moverse como lo harían si estuvieran descalzos.</p>
 
 <h2 class="wp-block-heading">Conclusión</h2>
-<p>Si eres fanático de Primal, esta nueva <a href="https://shrsl.com/2tw21">feliz jane</a> es para ti! Softstar ha entregado el zapato de vestir para mujer más ancho y con mayor forma de pie que he visto, y además está bien hecho con materiales de alta calidad. ¿Quién está emocionado?</p>
+<p>Si eres fanático de Primal, esta nueva feliz jane es para ti! Softstar ha entregado el zapato de vestir para mujer más ancho y con mayor forma de pie que he visto, y además está bien hecho con materiales de alta calidad. ¿Quién está emocionado?</p>
 <p class="has-text-align-center"><strong>Si te gustan los Zapatos barefoot, ¡asegúrate de suscribirte a continuación para recibir actualizaciones por correo electrónico!</strong></p>
 
 
@@ -88,3 +88,30 @@ Antes de valorar Revisión de zapatos Softstar: The Primal Merry Jane, siempre p
 Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
 
 Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar Revisión de zapatos Softstar: The Primal Merry Jane es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

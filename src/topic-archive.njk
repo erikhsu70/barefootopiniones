@@ -1,0 +1,68 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.topicArchivePages
+  size: 1
+  alias: topicPage
+permalink: "{{ topicPage.url }}"
+eleventyComputed:
+  title: "{{ topicPage.topic.label }}{% if topicPage.pageNumber > 1 %} · Página {{ topicPage.pageNumber }}{% endif %}"
+  description: "{{ topicPage.topic.description }}"
+pageClass: lovable-archive
+---
+{% set topic = topicPage.topic %}
+{% set topicItems = topicPage.posts %}
+
+<section class="lov-page-hero">
+  <div class="lov-page-hero__inner">
+    <p class="lov-article-kicker">{{ topic.eyebrow }} · {{ topicPage.total }} artículos{% if topicPage.pageNumber > 1 %} · Página {{ topicPage.pageNumber }}{% endif %}</p>
+    <h1>{{ topic.label }}</h1>
+    <p>{{ topic.description }}</p>
+  </div>
+</section>
+
+<section class="lov-archive">
+  {% if topicItems.length %}
+    <ul class="lov-archive-list">
+      {% for post in topicItems %}
+        <li class="lov-archive-row">
+          <a href="{{ post.url }}">
+            <div class="lov-archive-row__image">
+              {% if (post | featuredImage) %}
+                <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
+              {% endif %}
+            </div>
+            <div>
+              <h2>{{ post.data.title }}</h2>
+              {% if post.data.description %}<p>{{ post.data.description | cleanSummary }}</p>{% endif %}
+            </div>
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+    {% if topicPage.totalPages > 1 %}
+      <nav class="pagination-nav" aria-label="Paginación de {{ topic.label }}">
+        {% if topicPage.previousUrl %}
+          <a href="{{ topicPage.previousUrl }}">Anterior</a>
+        {% else %}
+          <span class="pagination-nav__disabled">Anterior</span>
+        {% endif %}
+        {% for pageLink in topicPage.pageLinks %}
+          <a href="{{ pageLink.url }}"{% if pageLink.number == topicPage.pageNumber %} aria-current="page"{% endif %}>{{ pageLink.number }}</a>
+        {% endfor %}
+        {% if topicPage.nextUrl %}
+          <a href="{{ topicPage.nextUrl }}">Siguiente</a>
+        {% else %}
+          <span class="pagination-nav__disabled">Siguiente</span>
+        {% endif %}
+      </nav>
+    {% endif %}
+  {% else %}
+    <section class="taxonomy-empty">
+      <p class="eyebrow">Sin artículos</p>
+      <h2>Esta temática todavía no tiene contenido suficiente.</h2>
+      <a class="button" href="/articulos/">Ver todos los artículos</a>
+    </section>
+  {% endif %}
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Sandalias de puesta a tierra Earth Runners: una revisión'
+title: "Sandalias de puesta a tierra Earth Runners: mi opinión"
 description: He probado y revisado MUCHAS sandalias minimalistas diferentes a lo largo
   de los años, pero las que busco una y otra vez son mis simples Earth Runners. Todas
   las sandalias Earth Runners son veganas y hechas a mano con un solo estilo de tira,
@@ -20,9 +20,9 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p class="has-text-align-center"><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> | Vegano | $75 | Hecho en EE.UU.</p>
+<p class="has-text-align-center"><a href="https://earthrunners.com/">Corredores de la Tierra</a> | Vegano | $75 | Hecho en EE.UU.</p>
 <p class="has-text-align-center">*Obtén un 10 % de descuento en cualquier compra de Earth Runners con el código <strong></strong></p>
-<p><strong><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> fabrica sandalias minimalistas con materiales veganos. ellos son <em>Flexibles</em>, <em>Seguro</em>, <em>impermeable</em>, y una de mis sandalias favoritas de todos los tiempos.</strong>.<strong> Siga leyendo para conocer mi reseña completa de las sandalias Earth Runners.</strong></p>
+<p><strong><a href="https://earthrunners.com/">Corredores de la Tierra</a> fabrica sandalias minimalistas con materiales veganos. ellos son <em>Flexibles</em>, <em>Seguro</em>, <em>impermeable</em>, y una de mis sandalias favoritas de todos los tiempos.</strong>.<strong> Siga leyendo para conocer mi reseña completa de las sandalias Earth Runners.</strong></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-05b0c508 wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-undefined uagb-block-c1c507bb" data-offset="0" data-scroll="" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -33,11 +33,11 @@ translatedFrom: en
 </div>
 
 <h2 class="wp-block-heading"><span id="earth-runners"></span>Corredores de la Tierra</h2>
-<p>He probado y revisado <strong>MUCHOS</strong> diferentes sandalias minimalistas a lo largo de los años, pero las que busco una y otra vez son mis simples <a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a>. Todas las sandalias Earth Runners son veganas y están hechas a mano con un solo estilo de tira, pero con diferentes grosores de suela y opciones de color. Se destacan entre la multitud porque parecen un lindo par de sandalias, pero funcionan lo suficientemente bien para practicar senderismo, rafting y viajar. </p>
+<p>He probado y revisado <strong>MUCHOS</strong> diferentes sandalias minimalistas a lo largo de los años, pero las que busco una y otra vez son mis simples <a href="https://earthrunners.com/">Corredores de la Tierra</a>. Todas las sandalias Earth Runners son veganas y están hechas a mano con un solo estilo de tira, pero con diferentes grosores de suela y opciones de color. Se destacan entre la multitud porque parecen un lindo par de sandalias, pero funcionan lo suficientemente bien para practicar senderismo, rafting y viajar. </p>
 
 <h2 class="wp-block-heading"><span id="materials"></span>Materiales</h2>
 <h3 class="wp-block-heading">lenguado</h3>
-<p>Todas las sandalias Earth Runners están hechas con suelas Vibram y se pueden mojar y ensuciar bien (lo cual me encanta de ellas). el <a href="https://www.earthrunners.com/products/elemental?rfsn=3201806.600dc2">Sandalias Primal Lifestyle</a> (suela de 8 mm) son ultra flexibles y minimalistas y están fabricados con una sola capa de Vibram. Esto los hace muy fáciles de mantener limpios, pero son un poco más resbaladizos que las otras opciones. Son la mejor opción si buscas sentirte realmente barefoot. Uso mi Primal Lifestyles para caminar todos los días y siempre que espero ensuciarme.</p>
+<p>Todas las sandalias Earth Runners están hechas con suelas Vibram y se pueden mojar y ensuciar bien (lo cual me encanta de ellas). el <a href="https://www.earthrunners.com/products/elemental">Sandalias Primal Lifestyle</a> (suela de 8 mm) son ultra flexibles y minimalistas y están fabricados con una sola capa de Vibram. Esto los hace muy fáciles de mantener limpios, pero son un poco más resbaladizos que las otras opciones. Son la mejor opción si buscas sentirte realmente barefoot. Uso mi Primal Lifestyles para caminar todos los días y siempre que espero ensuciarme.</p>
 <div aria-label="Control deslizante" class="n2-section-smartslider fitvidsignore n2_clear" data-ssid="3" role="region" style="height:720px;" tabindex="0"><div class="n2-ss-align" id="n2-ss-3-align" style="margin: 0 auto; max-width: 720px;"><div class="n2-padding"><template data-loading-type="afterOnLoad" id="n2-ss-3_t"><div class="n2-ss-slider n2-ow n2-has-hover n2notransition" data-creator="Smart Slider 3" data-responsive="auto" id="n2-ss-3">
 <div class="n2-ss-slider-wrapper-inside">
 <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
@@ -49,7 +49,7 @@ translatedFrom: en
 </div>
 </div>
 <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-center-bottom"></div></div></div></template><ss3-loader></ss3-loader></div></div></div>
-<p>el <a href="https://www.earthrunners.com/products/chronos?rfsn=3201806.600dc2">Cronos</a> (9 milímetros) y <a href="https://www.earthrunners.com/products/alpha?rfsn=3201806.600dc2">Alfa</a> (12 mm) están fabricados con una plantilla de algodón encima de la suela Vibram. Esto los hace muy seguros sin posibilidad de resbalar incluso en condiciones de humedad. La desventaja es que es más difícil mantenerlo limpio y es necesario secarlo al aire libre. Cuando los míos se ensucian, tengo que frotarlos con un cepillo (como <a href="https://amzn.to/38O12s1">este</a>) para refrescarlos. Algunas personas también encuentran la textura del algodón áspera en sus pies, pero yo nunca he tenido ningún problema con eso.</p>
+<p>el <a href="https://www.earthrunners.com/products/chronos">Cronos</a> (9 milímetros) y <a href="https://www.earthrunners.com/products/alpha">Alfa</a> (12 mm) están fabricados con una plantilla de algodón encima de la suela Vibram. Esto los hace muy seguros sin posibilidad de resbalar incluso en condiciones de humedad. La desventaja es que es más difícil mantenerlo limpio y es necesario secarlo al aire libre. Cuando los míos se ensucian, tengo que frotarlos con un cepillo (como este) para refrescarlos. Algunas personas también encuentran la textura del algodón áspera en sus pies, pero yo nunca he tenido ningún problema con eso.</p>
 <p>La suela más gruesa del Alpha es ideal para caminatas intensas o largas caminatas sobre terreno duro, pero es menos flexible que las demás. Prefiero mis Alpha para una caminata cuesta arriba en las montañas; de lo contrario, me gustan más mis sandalias Primal Lifestyle.</p>
 <div aria-label="Control deslizante" class="n2-section-smartslider fitvidsignore n2_clear" data-ssid="4" role="region" style="height:720px;" tabindex="0"><div class="n2-ss-align" id="n2-ss-4-align" style="margin: 0 auto; max-width: 720px;"><div class="n2-padding"><template data-loading-type="afterOnLoad" id="n2-ss-4_t"><div class="n2-ss-slider n2-ow n2-has-hover n2notransition" data-creator="Smart Slider 3" data-responsive="auto" id="n2-ss-4">
 <div class="n2-ss-slider-wrapper-inside">
@@ -99,7 +99,7 @@ translatedFrom: en
 
 <p>ME ENCANTA el aspecto de mis Earth Runners. Son simples y lindos, quedan bien en hombres y mujeres y se pueden disfrazar. Nuff dijo.</p>
 <h2 class="wp-block-heading"><span id="conclusion"></span>Conclusión</h2>
-<p><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> son algunas de las mejores sandalias de aventura que existen. Como alguien que quiere verse y sentirse genial todo el tiempo, me encanta algo que pueda llevar a hacer caminatas, paseos en kayak, paseos familiares y luego salir a una cita nocturna. Combinado con el hecho de que cuestan menos de $100 (y un 10% de descuento con el código <strong></strong>), tienen garantía de por vida y están hechos a mano en los EE. UU., no hay forma de equivocarse.</p>
+<p><a href="https://earthrunners.com/">Corredores de la Tierra</a> son algunas de las mejores sandalias de aventura que existen. Como alguien que quiere verse y sentirse genial todo el tiempo, me encanta algo que pueda llevar a hacer caminatas, paseos en kayak, paseos familiares y luego salir a una cita nocturna. Combinado con el hecho de que cuestan menos de $100 (y un 10% de descuento con el código <strong></strong>), tienen garantía de por vida y están hechos a mano en los EE. UU., no hay forma de equivocarse.</p>
 <p class="has-text-align-center"><em><strong>¡Suscríbete a continuación para leer todas mis nuevas reseñas sobre Zapatos barefoot!</strong></em></p>
 <h4 class="wp-block-heading" id="video">Vídeo</h4>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">

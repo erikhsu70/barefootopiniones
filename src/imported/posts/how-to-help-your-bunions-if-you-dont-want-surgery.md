@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Cómo ayudar a sus Bunions Si no desea cirugía
+title: "Cómo aliviar los juanetes sin recurrir a la cirugía"
 description: Los Bunions pueden ser una molestia real. Pero hay mucho que se puede
   hacer sobre ellos! Ya sea el dolor, la disfunción o el aspecto del bunión que le
   está molestando, hay pasos prácticos para mejorar la condición sin la ayuda de la
@@ -65,7 +65,7 @@ translatedFrom: en
 
 <p>y porque <span style="text-decoration: underline;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102914/">rara vez vemos juanetes en poblaciones que no usan zapatos</a></span>, tiene sentido considerar nuestro calzado. Los zapatos de moda puntiagudos podrían ser otra razón por la que vemos juanetes con más frecuencia en mujeres que en hombres.</p>
 <h3 class="wp-block-heading"><strong>¿Los Zapatos barefoot arreglarán mis Bunions?</strong></h3>
-<p>Entonces, si dejo de usar zapatos puntiagudos y empiezo a usar zapatos con forma de pie, ¿mis juanetes desaparecerán? ¡No exactamente! <a href="/benefits-barefoot-minimalist-shoes/#what">Zapatos barefoot </a>Tienen una forma natural del pie que no aplasta los dedos, y Andy ha visto numerosos casos de juanetes que mejoran con el tiempo simplemente cambiando a este tipo de calzado. Pero, lamentablemente, “arreglar” un juanete no suele ser tan sencillo. </p>
+<p>Entonces, si dejo de usar zapatos puntiagudos y empiezo a usar zapatos con forma de pie, ¿mis juanetes desaparecerán? ¡No exactamente! <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/#what">Zapatos barefoot </a>Tienen una forma natural del pie que no aplasta los dedos, y Andy ha visto numerosos casos de juanetes que mejoran con el tiempo simplemente cambiando a este tipo de calzado. Pero, lamentablemente, “arreglar” un juanete no suele ser tan sencillo. </p>
 <p>Cuando la articulación del dedo gordo o meñique cambia de posición para formar un juanete, los músculos, tendones y ligamentos de la zona también cambian.  Podrían volverse más tensos, más débiles, más fuertes o más flojos. Por lo tanto, abordar estos cambios en los tejidos blandos junto con mejores opciones de calzado y estilo de vida es un enfoque más holístico para mejorar los juanetes.</p>
 <h2 class="wp-block-heading"><strong>Qué hacer con tu juanete</strong></h2>
 <p>Como podólogo, Andy trabaja todos los días con personas afectadas por juanetes. Y ha visto a muchos de ellos reducir su dolor, restaurar la función e incluso, a veces, revertir completamente el juanete (tanto en el dedo gordo como en el meñique) mediante los pasos que se detallan a continuación. El grado en que puedes mejorar tu juanete varía de persona a persona, pero si deseas evitar la cirugía <em>aquí es donde empiezas</em> (y recomendamos comenzar lo antes posible).</p>
@@ -77,25 +77,25 @@ translatedFrom: en
 <h3 class="wp-block-heading">Calzado con forma de pie</h3>
 
 <p>Si bien ya hemos establecido que el calzado no es la solución definitiva para los juanetes, no se puede subestimar que <strong>Los zapatos deben ser parte de la discusión.</strong> Si desea darle a su pie la oportunidad de realinearse (y usa zapatos durante largos períodos de tiempo), esos zapatos deben tener espacio para el dedo gordo. <em>estar derecho</em>.  </p>
-<p>Todos los ejercicios y el apoyo del mundo no serán suficientes si volvemos a poner un pie con juanete en un zapato puntiagudo y cónico todo el día, todos los días. Entonces el paso 1 es usar <a href="/shoe-lists/">zapatos con forma anatómica</a>.</p>
+<p>Todos los ejercicios y el apoyo del mundo no serán suficientes si volvemos a poner un pie con juanete en un zapato puntiagudo y cónico todo el día, todos los días. Entonces el paso 1 es usar <a href="/mejores-zapatos-barefoot/">zapatos con forma anatómica</a>.</p>
 <p>Pero es común que las personas con juanetes tengan un rango de movimiento limitado en el dedo gordo (o meñique) del pie, lo que puede dificultar el uso de Zapatos barefoot flexibles. No desea agravar sus pies que ya le duelen, por lo que es posible que desee comenzar con un zapato con puntera amplia que tenga algo de amortiguación y soporte mientras trabaja en la función del pie (como se describe en este artículo). </p>
 <p>Con el tiempo, es posible que puedas usar zapatos más minimalistas a medida que recuperes la función de tus pies. Aquí hay algunas guías para comprar zapatos que lo ayudarán a comenzar:</p>
 <ul>
-<li><a href="/the-best-wide-toe-box-shoes-that-arent-barefoot/">Zapatos con forma de pie, pero no descalzos.</a></li>
-<li><a href="/best-barefoot-minimalist-shoe-brands-beginners/">Zapatos barefoot para principiantes (con cojín)</a></li>
-<li><a href="/barefoot-insoles-review/">Plantillas para usar con Zapatos barefoot.</a></li>
-<li><a href="/best-barefoot-shoes-foot-type/">Encontrar zapatos para tu tipo de pie</a></li>
+<li><a href="/los-zapatos-de-la-puntera-mas-anchos-que-no-son-descalzos/">Zapatos con forma de pie, pero no descalzos.</a></li>
+<li><a href="/las-mejores-marcas-de-zapatos-barefoot-y-minimalistas-para-principiantes/">Zapatos barefoot para principiantes (con cojín)</a></li>
+<li><a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">Plantillas para usar con Zapatos barefoot.</a></li>
+<li><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Encontrar zapatos para tu tipo de pie</a></li>
 </ul>
 
-<figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Más información sobre <a href="/ufaq/how-to-find-shoes-when-you-have-bunions/">¡Nuestros consejos para comprar zapatos con juanetes aquí!</a></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">Más información sobre <a href="/preguntas/como-encontrar-zapatos-cuando-usted-tiene-bunions/">¡Nuestros consejos para comprar zapatos con juanetes aquí!</a></figcaption></figure>
 <p>Vale la pena señalar que al principio los zapatos con forma de pie pueden tener más espacio del que puedes llenar, porque los juanetes hacen que los dedos se compriman entre sí. Así que considere su nuevo par de zapatos como una aspiración: debe dejar de aplastar sus pies y brindar una oportunidad para que sus dedos se extiendan. Con el tiempo, es probable que los dedos de tus pies comiencen a llenar el zapato, especialmente si usas espaciadores de dedos con ellos.</p>
 <h3 class="wp-block-heading">Espaciadores de dedos</h3>
 <p>Otra fruta madura cuando se trata de mejorar los juanetes son los espaciadores de dedos. Los espaciadores de dedos pueden ayudar a realinear el pie y son fáciles de agregar a su vida. Son lo opuesto al calzado blando: en lugar de comprimir los dedos de los pies, los espaciadores los separan.</p>
 
-<p>Hay muchos tipos diferentes de espaciadores de dedos. nos gusta <a href="https://shrsl.com/3sh4t">Tonos correctos</a> Lo mejor es que son ajustables, vienen en 4 tamaños para diferentes formas de pies y puedes usarlos todo el día, incluso dentro de los zapatos y mientras haces ejercicio.</p>
-<p>También hay muchos espaciadores de talla única disponibles, como estos de <a href="https://thetoespacer.com/?aff=64">El espaciador de dedos</a>. Pero estos tienden a extender los dedos de los pies de manera más agresiva y no se usan tan fácilmente durante todo el día como los Correct Toes. Funcionan mejor para pies de tamaño medio y durante períodos de tiempo más cortos. La ventaja es que estos espaciadores son bastante baratos, por lo que podrían ser un punto de partida más accesible.</p>
-<p>Si sus juanetes son lo suficientemente graves como para que estos espaciadores de pie completos sean difíciles de tolerar, un <a href="https://amzn.to/3h9azlH">espaciador único</a> Se puede utilizar entre el primer y segundo dedo del pie. También puede modificar los espaciadores anteriores para que se ajusten a su pie cortando porciones.</p>
-<p class="has-text-align-center"><a href="/correct-toes-review/">Lea más sobre los beneficios de los espaciadores de dedos en este artículo.</a></p>
+<p>Hay muchos tipos diferentes de espaciadores de dedos. nos gusta Tonos correctos Lo mejor es que son ajustables, vienen en 4 tamaños para diferentes formas de pies y puedes usarlos todo el día, incluso dentro de los zapatos y mientras haces ejercicio.</p>
+<p>También hay muchos espaciadores de talla única disponibles, como estos de <a href="https://thetoespacer.com/">El espaciador de dedos</a>. Pero estos tienden a extender los dedos de los pies de manera más agresiva y no se usan tan fácilmente durante todo el día como los Correct Toes. Funcionan mejor para pies de tamaño medio y durante períodos de tiempo más cortos. La ventaja es que estos espaciadores son bastante baratos, por lo que podrían ser un punto de partida más accesible.</p>
+<p>Si sus juanetes son lo suficientemente graves como para que estos espaciadores de pie completos sean difíciles de tolerar, un espaciador único Se puede utilizar entre el primer y segundo dedo del pie. También puede modificar los espaciadores anteriores para que se ajusten a su pie cortando porciones.</p>
+<p class="has-text-align-center"><a href="/revision-correcta-de-los-dedos-de-los-pies-valen-la-pena/">Lea más sobre los beneficios de los espaciadores de dedos en este artículo.</a></p>
 <h3 class="wp-block-heading">Movilizar los dedos de los pies y el pie</h3>
 <p>Ahora es donde hay que esforzarse un poco, porque <em>movilidad</em> en las articulaciones es necesario si desea ver un cambio en la alineación de su pie. No solo mejorará el juanete, sino que también es necesario que tu pie haga su trabajo de absorber el impacto e impulsarte hacia adelante (y mejorar esta función te ayudará a estar más cómodo barefoot o con Zapatos barefoot). </p>
 <p>En particular, la articulación del dedo gordo necesita entre 60 y 70 grados de curvatura para funcionar correctamente. Los juanetes suelen ser rígidos y esa cantidad de flexión puede resultar realmente difícil. A continuación se muestran algunas formas en las que puede mejorar la movilidad de su pie.</p>
@@ -104,7 +104,7 @@ translatedFrom: en
 <li><a href="https://www.youtube.com/watch?v=q5Ov6LMISvU">auto masaje</a> – Esta sencilla técnica es sorprendentemente eficaz. </li>
 <li>Rodar sobre una pelota: puede aplicar presión debajo del juanete y en todo el pie.</li>
 <li>Usar zapatos flexibles: para que tu pie tenga un movimiento natural durante todo el día (¡los Zapatos barefoot son flexibles!).</li>
-<li><a href="/how-to-strengthen-your-feet-with-floor-texture/">Caminar barefoot sobre superficies irregulares</a>.</li>
+<li><a href="/como-fortalecer-tus-pies-con-textura-de-suelo/">Caminar barefoot sobre superficies irregulares</a>.</li>
 </ul>
 <h3 class="wp-block-heading">Fortalecer los dedos de los pies y los pies</h3>
 <p>Al igual que con cualquier otro músculo del cuerpo, los músculos de nuestros pies se pueden fortalecer cargándolos.</p>
@@ -125,7 +125,7 @@ translatedFrom: en
 <p>A continuación se muestran algunas formas sencillas de fortalecer los tobillos:</p>
 
 <ul>
-<li>Equilibrio: caminar sobre una <a href="https://tfchardgoods.com/collections/tfc-beam-1?sca_ref=1404785.TaUKi6oRr9&amp;sca_source=https://tfchardgoods.com/collections/tfc-beam-1">barra de equilibrio</a> u otras superficies irregulares</li>
+<li>Equilibrio: caminar sobre una <a href="https://tfchardgoods.com/collections/tfc-beam-1">barra de equilibrio</a> u otras superficies irregulares</li>
 <li><a href="https://www.youtube.com/channel/UCZxjO_cFveikTK2txqAiUKA/search?query=calf%20raises">Elevaciones de pantorrillas</a></li>
 <li>Saltar la cuerda barefoot</li>
 <li><a href="https://www.youtube.com/watch?v=5rgL1h65bps">Peso muerto con una sola pierna</a></li>

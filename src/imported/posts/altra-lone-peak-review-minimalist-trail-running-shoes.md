@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Altra Lone Peak 5: zapatillas minimalistas para correr por senderos'
+title: "Mi opinión sobre Altra Lone Peak 5: zapatillas minimalistas para correr por senderos"
 description: 'Los zapatos para correr Altra son un excelente primer paso en el mundo
   del calzado barefoot: tienen una puntera con forma de pie, suela de zero drop y
   suela exterior duradera que lo protege de los elementos. Lone Peak es la línea más
@@ -38,15 +38,15 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">Altra Torin junto a las tradicionales zapatillas para correr (marca Avia)</figcaption></figure>
 <p class="has-background" style="background-color:#d3d6d7;font-size:15px"><strong><span style="text-decoration: underline;">Términos de referencia rápida</span></strong><br/>*<strong>zapato barefoot</strong> – Una cubierta para el pie que no interfiera con el movimiento del pie: la menor cantidad de calzado posible, con una puntera ancha y una suela fina. Te sientes barefoot con ellos.<br/>*<strong>Zapato minimalista</strong> – Un zapato sin la “tecnología” de soporte para el arco, estabilizadores del talón y otros soportes artificiales. A veces se usa como sinónimo de zapato barefoot, pero no necesariamente tan delgado y flexible. <em>(<strong>como altra</strong></em>).<br/>*<strong>Calzado Natural</strong> – Otro término para zapato minimalista: calzado que apoya el movimiento natural y la fuerza de los pies.<br/>*<strong>Gota cero</strong> – Suela completamente plana desde la punta hasta el talón. Si un zapato de drop cero tiene 10 mm de grosor, tendrá 10 mm de grosor tanto debajo del talón como en la punta del pie.</p>
 <p>Usé esos Altras todo el día, todos los días, durante meses, al principio con mis aparatos ortopédicos. Con el tiempo, hice la transición a suelas más delgadas y hoy (4 años después) paso la mayor parte del tiempo completamente barefoot o con zapatos ultra minimalistas. ¡Pies fuertes para la victoria!</p>
-<p class="has-text-align-center"><a href="/benefits-barefoot-minimalist-shoes/">Lea esta publicación para obtener más detalles sobre lo que hace que un zapato sea saludable.</a></p>
+<p class="has-text-align-center"><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Lea esta publicación para obtener más detalles sobre lo que hace que un zapato sea saludable.</a></p>
 <h2 class="wp-block-heading">El lugar de Altra en el mundo del calzado minimalista</h2>
 <p>Las zapatillas Altra Running promueven una <em>naturales</em> marcha porque no tienen drop (completamente planos), tienen una puntera en forma de pie y no tienen soporte para el arco. Estos son factores críticos en los zapatos que usamos. De hecho, debido a lo mucho que afecta al cuerpo, me niego a usar nada que no sea zapatos que cumplan con esos estándares. </p>
-<p>También creo que las suelas finas y flexibles son una parte importante de la salud del pie. La estimulación sensorial y la amplitud de movimiento que se obtienen con los zapatos finos y descalzos son cosas poderosas. Las suelas de Altra tienen un grosor de 22 a 30 mm (según el modelo), frente a los 5 mm que suelo usar. <em>Si eres un barefoot experimentado y estás acostumbrado a mucho movimiento y estimulación en tus pies, es probable que Altras te parezca demasiado grueso.</em> Si eres tú, mira mi <a href="/zero-drop-barefoot-running-shoes/">Zapatos para correr descalzos</a> ¡Publica para opciones más delgadas!</p>
+<p>También creo que las suelas finas y flexibles son una parte importante de la salud del pie. La estimulación sensorial y la amplitud de movimiento que se obtienen con los zapatos finos y descalzos son cosas poderosas. Las suelas de Altra tienen un grosor de 22 a 30 mm (según el modelo), frente a los 5 mm que suelo usar. <em>Si eres un barefoot experimentado y estás acostumbrado a mucho movimiento y estimulación en tus pies, es probable que Altras te parezca demasiado grueso.</em> Si eres tú, mira mi <a href="/zapatos-correderas-de-barefoot-una-lista-completa-de-zapatillas-atleticas-zero-drop/">Zapatos para correr descalzos</a> ¡Publica para opciones más delgadas!</p>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">¿Ves cuánto más se mueve mi pie cuando está barefoot? Las suelas gruesas de los Altras impiden que mi pie cubra completamente la roca.</figcaption></figure>
 <p>Pero puede llevar mucho tiempo sentirse cómodo al pisar rocas barefoot, por lo que <em>calzado natural</em> opciones como Altra Running son excelentes para las personas que son nuevas en el uso de Zapatos barefoot. Y uso el término "nuevo" de manera vaga. Podrían pasar años antes de que te sientas cómodo corriendo barefoot al aire libre. </p>
 <p>Aun así, para algunas personas las suelas acolchadas son un requisito para toda la vida. Ciertas condiciones de salud y problemas en los pies pueden hacer que sea doloroso o incluso peligroso andar sin amortiguación en los zapatos. y <strong>Los corredores de larga distancia también pueden beneficiarse del acolchado adicional.</strong>, porque a menos que tengas una marcha casi perfecta, tendrás dificultades para recorrer largas distancias barefoot (¡por no decir que sea imposible!). </p>
 <p>Por lo tanto, es un verdadero regalo poder aprovechar los beneficios del espacio para los dedos y una suela plana con algo de amortiguación entre usted y el suelo. Ahora bien, si Altra pudiera desarrollar un zapato con una suela fina, serían imparables 😉</p>
-<p class="has-text-align-center"><a href="/why-i-dont-worry-about-cushion-in-barefoot-shoes/">Lea esta publicación para conocer más de mis pensamientos sobre los zapatos acolchados.</a></p>
+<p class="has-text-align-center"><a href="/por-que-no-me-preocupo-por-la-amortiguacion-de-los-zapatos-barefoot/">Lea esta publicación para conocer más de mis pensamientos sobre los zapatos acolchados.</a></p>
 <h2 class="wp-block-heading">Revisión de Altra Lone Peak 5</h2>
 <p>Ahora que hemos puesto las zapatillas Altra Running en contexto, ¡hablemos de Lone Peak!</p>
 
@@ -61,7 +61,7 @@ translatedFrom: en
 
 <p>Si se encuentra en el Reino Unido o la UE, consulte su <a href="https://www.altrarunning.eu/eu/">tienda de la UE</a>!</p>
 
-<p>Inmediatamente quité las plantillas con las que venían los Lone Peaks y las reemplacé con , porque me encanta la estimulación sensorial que obtengo de ellos (muy importante en zapatos minimalistas en los que no puedo sentir el suelo). Y también uso mi <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=500ef46d-f4f3-4e77-8f16-a030bf6b59b8&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.injinji.com%2Fheight%2Fhidden.html">Calcetines ocultos Injinji</a> con ellos.</p>
+<p>Inmediatamente quité las plantillas con las que venían los Lone Peaks y las reemplacé con , porque me encanta la estimulación sensorial que obtengo de ellos (muy importante en zapatos minimalistas en los que no puedo sentir el suelo). Y también uso mi <a href="https://www.injinji.com/height/hidden.html">Calcetines ocultos Injinji</a> con ellos.</p>
 <p>El material superior es liviano pero no endeble y las suelas son moderadamente flexibles. <br/>Algunas otras características técnicas que tiene Lone Peaks:</p>
 <ul>
 <li>Una pestaña de velcro en la parte trasera donde puedes colocar una polaina.</li>
@@ -78,7 +78,7 @@ translatedFrom: en
 <h3 class="wp-block-heading">Forma del pie</h3>
 
 <p>Los Altras tienen una forma generosa en la puntera que debería adaptarse a la mayoría de los tipos de pies porque no se inclina mucho. ¡Eso significa que todos, excepto los pies más cuadrados, deberían tener un buen ajuste!</p>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Lea esta publicación para obtener más información sobre los diferentes tipos de pies.</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Lea esta publicación para obtener más información sobre los diferentes tipos de pies.</a></p>
 <h3 class="wp-block-heading">Volumen</h3>
 
 <p>Los altras son altos (o de gran volumen) en la puntera, lo cual es ideal para las personas a las que no les gusta que los zapatos les presionen los dedos de los pies. Pero se ajustan bien al arco y al tobillo. Esto le brinda máxima seguridad Y máxima libertad para los dedos. Gracias a los cordones, aquellos con pies arqueados altos también deberían poder conseguir un buen ajuste, pero tengan en cuenta que quedarán ajustados. </p>
@@ -90,7 +90,7 @@ translatedFrom: en
 <figcaption class="blocks-gallery-caption wp-element-caption">Becca lleva las Lone Peak 4.5 La misma forma y ancho de suela, pero algunas diferencias de diseño</figcaption></figure>
 
 <h2 class="wp-block-heading">Altra VS otras marcas de calzado barefoot</h2>
-<p>Altra es único en su clase: no hay otras marcas con suelas tan gruesas que cumplan con todos los demás requisitos del calzado barefoot. Pero aquí hay una comparación de la forma de la puntera con <a href="https://www.awin1.com/cread.php?awinmid=7789&amp;awinaffid=562941">Vivobarefoot</a>, una importante marca de calzado barefoot. Puedes ver a continuación que los Altra proporcionan mucho más espacio para los dedos de los pies (pero son 20 mm más gruesos).</p>
+<p>Altra es único en su clase: no hay otras marcas con suelas tan gruesas que cumplan con todos los demás requisitos del calzado barefoot. Pero aquí hay una comparación de la forma de la puntera con Vivobarefoot, una importante marca de calzado barefoot. Puedes ver a continuación que los Altra proporcionan mucho más espacio para los dedos de los pies (pero son 20 mm más gruesos).</p>
 
 <p>Vea a continuación algunas otras marcas de zapatillas descalzas organizadas desde las más estrechas hasta las más anchas. <em>en la puntera</em>. ¡Estas son sólo algunas de las marcas que he probado! Mira el <a href="https://barefootshoefinder.com/">barefoot Shoe Finder</a> para obtener una guía sobre cómo encajan todos. Y luego asegúrese de suscribirse para recibir actualizaciones por correo electrónico a continuación para mantenerse actualizado sobre las revisiones.</p>
 <figure class="wp-block-image size-large"><a href="https://barefootshoefinder.com/" rel="noopener" target="_blank"></a></figure>

@@ -9,7 +9,7 @@ permalink: /listas/
   {% for post in collections.listas %}
     <article class="post-card">
       <a href="{{ post.url }}">
-        <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
         <div class="post-card-content">
           <div class="post-meta"><span>{{ post.data.category }}</span></div>
           <h3>{{ post.data.title }}</h3>

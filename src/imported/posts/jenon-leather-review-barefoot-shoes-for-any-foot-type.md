@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Revisión de Jenon Leather: Zapatos barefoot personalizables para cualquier
-  tipo de pie'
+title: "Mi opinión sobre Jenon Leather: zapatos barefoot personalizables para cualquier tipo de pie"
 description: Jenon Leather es una pequeña marca de Zapatos barefoot de la República
   Checa a la que le tengo echado el ojo desde hace varios años. Se especializan en
   zapatos de cuero hechos a mano y personalizados para todas las estaciones.
@@ -46,7 +45,7 @@ translatedFrom: en
 <li>En forma de abanico</li>
 <li>Amplio espacio vertical para los dedos</li>
 </ul>
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">¡Obtenga más información sobre los diferentes tipos de pies aquí!</a></p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¡Obtenga más información sobre los diferentes tipos de pies aquí!</a></p>
 <h2 class="wp-block-heading">Realizar pedidos a Jenon Leather</h2>
 <p>Jenon Leather realiza envíos a países dentro de la UE por 6-15 €, y a un puñado de países fuera de la UE por 25 €. Para los que estamos en USA el envío es de 30€. Puedes obtener un 10% de descuento con el código <strong>JENON11</strong>.</p>
 <p>Si tienes la suerte de vivir en la República Checa cerca del <a href="https://www.jenonleather.com/CONTACT-a2_0.htm">Tienda de cuero Jenon</a>, puedes visitarlo en persona para buscar productos, ver muestras de cuero o medirte los pies para comprar zapatos personalizados.</p>
@@ -57,8 +56,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Revisión de bombas J. Joplin</h2>
 
 <p class="has-text-align-center">105€ | Cuero | Suela exterior de 4 mm + plantilla de 3,5 mm | Tallas UE 36-48</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.jenonleather.com/pumps">Bombas J. Joplin</a></div>
+
 </div>
 <p>Estos son unos zapatos HERMOSOS. Los amo muchísimo y felizmente tendría una colección completa de ellos en todos los colores y patrones posibles. El cuero floral grabado (<a href="https://www.jenonleather.com/leathercolours">opción personalizada</a>) es impresionante. </p>
 <p>El estilo de bailarinas altas con cordones lleva el nombre de la leyenda del rock Janis Joplin y agregan un elemento divertido a cualquier atuendo informal, pero también funcionan a la perfección como un zapato de vestir femenino. Los cordones elásticos en la parte superior hacen que sean realmente fáciles de poner y también más seguros que una bailarina abierta. Me preocupaba que el elástico hiciera que el Joplin pareciera demasiado informal, pero no es así (los ojales de metal ayudan). Los he utilizado cada vez que necesito vestirme elegante, e incluso en días informales.</p>
@@ -67,7 +65,7 @@ translatedFrom: en
 <li>Fiel al tamaño</li>
 <li>Volumen medio a alto</li>
 </ul>
-<p>Elegí mi talla 38 habitual para zapatos cerrados y el largo es perfecto (mis pies miden 24 cm de largo). <a href="/best-barefoot-shoes-foot-type/#measuring-your-feet">de un rastreo</a>). Tengo pies extra anchos que también tienen mucho volumen. Si bien la forma estándar se adapta sorprendentemente bien, sé que un ajuste personalizado sería mejor para mis arcos altos porque tuve que quitarme la plantilla para lograr un buen ajuste. </p>
+<p>Elegí mi talla 38 habitual para zapatos cerrados y el largo es perfecto (mis pies miden 24 cm de largo). <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">de un rastreo</a>). Tengo pies extra anchos que también tienen mucho volumen. Si bien la forma estándar se adapta sorprendentemente bien, sé que un ajuste personalizado sería mejor para mis arcos altos porque tuve que quitarme la plantilla para lograr un buen ajuste. </p>
 <p>Si bien no creo que estén destinados a usarse sin plantilla, no ha causado ningún problema. En realidad, la plantilla está hecha para ser extraíble y reemplazable.</p>
 <p>La parte del tobillo estaba bastante rígida al principio, pero después de pasar la mayor parte de un viaje de una hora (¡como pasajero!) masajeando y trabajando el cuero en esa área con mis manos, se adaptaron maravillosamente y continuaron volviéndose más suaves con el uso. Rápidamente se han convertido en uno de mis pares de zapatos favoritos.</p>
 
@@ -85,8 +83,7 @@ translatedFrom: en
 <p class="has-small-font-size">por Isabel</p>
 
 <p class="has-text-align-center">157€ | Cuero y piel de oveja | Suela exterior de 6 mm + plantilla con cubierta de piel de oveja | Tallas UE 36-48</p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.jenonleather.com/snow">Botas de invierno con copos de nieve</a></div>
+
 </div>
 <p>Aquí Isabel, he estado probando las botas Snowflake durante las últimas semanas una vez que el clima se volvió frío. ¡Tengo que decir que superaron mis expectativas! Son cálidos, acogedores y se adaptan muy bien a mi pie en forma de abanico.</p>
 <p>El forro de piel de oveja es grueso y lleno, mientras que el cuero exterior se siente fino y un poco pegajoso. Pero parece duradero y muy flexible. Ya los he raspado varias veces y tienen algunas marcas, pero el cuero en sí no está rayado. </p>
@@ -106,8 +103,7 @@ translatedFrom: en
 <p class="has-small-font-size">por Isabel</p>
 
 <p class="has-text-align-center">87€ | Cuero | Suela exterior de 4 mm + plantilla de cuero de 2 mm | Tallas UE 35-48 </p>
-<div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.jenonleather.com/sandals">Sandalias Lili</a></div>
+
 </div>
 <p>Elegí las sandalias Lilly Gold porque me encantan las sandalias bonitas que se pueden usar con cualquier cosa. Están muy bien confeccionados y tienen una suela fina y flexible. Además podrás personalizar este modelo con todo tipo de colores, grosores de suela e incluso un <a href="https://www.jenonleather.com/how-to-measure">Forma personalizada hecha a tus medidas.</a> </p>
 <p>Los míos son de tamaño estándar, que funcionarán bien para un pie promedio, pero me encantaría probar un par personalizado algún día. Son unas sandalias realmente bonitas, estoy bastante impresionada con ellas. Al igual que Snowflake, si solo pudiera tener un par de sandalias de verano para usar con todo, ya sea formal o informal, estas serían perfectas.</p>

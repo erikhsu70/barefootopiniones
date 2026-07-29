@@ -51,7 +51,7 @@ translatedFrom: en
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%"><iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/0s6Z_Mu74IM?feature=oembed&amp;enablejsapi=1" width="500"></iframe></div>
 </div></figure>
-<p class="has-text-align-left">Una vez que tenga sus medidas, lea esta FAQ sobre <a href="/ufaq/how-do-i-interpret-a-size-chart/">cómo utilizar una tabla de tamaño para seleccionar un tamaño!</a></p>
+<p class="has-text-align-left">Una vez que tenga sus medidas, lea esta FAQ sobre <a href="/preguntas/como-uso-una-tabla-de-tamano-para-elegir-un-tamano/">cómo utilizar una tabla de tamaño para seleccionar un tamaño!</a></p>
 </div>
 
 </div>

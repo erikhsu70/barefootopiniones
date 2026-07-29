@@ -50,7 +50,7 @@ translatedFrom: en
 <li>: <strong>hasta</strong> <strong>60% de descuento</strong> ReEarthRunners. Usar código <strong></strong> para un 10% de descuento adicional</li>
 <li><a href="https://www.earthingmoccasins.com/collections/starter-kits">Mocasines terrestres</a> (zapatos de bricolaje): <strong>50% de descuento</strong> tutoriales al pedir un kit de inicio</li>
 <li>: <strong>Hasta 50% de descuento</strong> estilos descontinuados</li>
-<li><a href="https://alnk.to/fHo9dmN">Estados Unidos</a>: <strong>Hasta 50% de descuento</strong> venta de fin de temporada.</li>
+<li>Estados Unidos: <strong>Hasta 50% de descuento</strong> venta de fin de temporada.</li>
 <li><a href="https://kyrgies.com/collections/bogo-shoes?utm_source=Klaviyo&amp;utm_medium=email&amp;_kx=oy29_Ng6naEMqBEuAJXv86f1To1v5uUiDBeMV0wHIvA.QtKa65">Kirguistán</a> Zapatillas: <strong>Compra uno y llévate otro con un 50% de descuento </strong>con codigo <strong>BOGO50</strong></li>
 <li> – <strong>Hasta 40% de descuento</strong></li>
 <li> – Calidad de segundos. <strong>Hasta 35% de descuento</strong>. Utilice mi enlace para obtener un 15 % de descuento adicional</li>
@@ -61,8 +61,8 @@ translatedFrom: en
 <li>: ¡Segundas rebajas! <strong>$ 59 lienzos altos</strong> más un extra <strong>10% de descuento</strong> con codigo <strong></strong></li>
 <li><a href="https://www.thedrifterleather.com/category/ready-to-ship">El cuero de Drifter</a>: <strong>20-50% de descuento </strong>Zapatos listos para enviar</li>
 <li><a href="https://www.tupsunupsu.ee/soodustusega-tooted/?v=7516fd43adaa" rel="noreferrer noopener" target="_blank">Tupsunupsu</a> (Minorista de la UE con envío a todo el mundo) – <strong>Seleccionar estilos en oferta</strong></li>
-<li><a href="https://www.zapatillas-minimalistas.com/en/79-best-deals/?affiliates=26455" rel="noreferrer noopener" target="_blank">zamí</a> (minorista de la UE):<strong> Seleccionar estilos en oferta</strong></li>
-<li><a href="https://www.zaqq.de/barfussschuhe-angebote/?sPartner=aj22122020">Zaqq</a> – <strong>Seleccionar estilos en oferta</strong></li>
+<li><a href="https://www.zapatillas-minimalistas.com/en/79-best-deals/" rel="noreferrer noopener" target="_blank">zamí</a> (minorista de la UE):<strong> Seleccionar estilos en oferta</strong></li>
+<li><a href="https://www.zaqq.de/barfussschuhe-angebote/">Zaqq</a> – <strong>Seleccionar estilos en oferta</strong></li>
 <li><a href="https://zeazoo.com/bg/49-sale">Zeazoo</a> – <strong>Hasta 60% de descuento </strong></li>
 </ul>
 <h3 class="wp-block-heading">Niños</h3>
@@ -72,7 +72,7 @@ translatedFrom: en
 <li><span style="font-size: 1rem"> – </span><strong style="font-size: 1rem">Hasta 30% de descuento</strong><span style="font-size: 1rem"> seleccionar estilos. Código <strong></strong> obtendrás un 10% de descuento en todo lo demás.</span></li>
 <li><a href="https://mugavik.ee/en/product-category/sale/" rel="noreferrer noopener" target="_blank">Outlet Mugavik barefoot</a> (minorista de la UE con envío a todo el mundo) – <strong>Seleccionar estilos en oferta</strong>. Código <strong><strong>CUALQUIER EXAMEN</strong></strong> obtenga un 5% de descuento en artículos no rebajados</li>
 <li><a href="https://www.tupsunupsu.ee/soodustusega-tooted/?v=7516fd43adaa" rel="noreferrer noopener" target="_blank">Tupsunupsu</a> (Minorista de la UE con envío a todo el mundo) – <strong>Seleccionar estilos en oferta</strong></li>
-<li><a href="https://www.zapatillas-minimalistas.com/en/79-best-deals/?affiliates=26455" rel="noreferrer noopener" target="_blank">zamí</a> (minorista de la UE):<strong> Seleccionar estilos en oferta</strong></li>
+<li><a href="https://www.zapatillas-minimalistas.com/en/79-best-deals/" rel="noreferrer noopener" target="_blank">zamí</a> (minorista de la UE):<strong> Seleccionar estilos en oferta</strong></li>
 </ul>
 <h2 class="wp-block-heading">Códigos de cupón que no caducan</h2>
 <p>Aquí están todos los códigos de descuento para Zapatos barefoot disponibles que se pueden utilizar en cualquier momento.</p>
@@ -112,11 +112,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://butterflyyourworld.com/?ref=msbe30l6">Butterfly Tu Mundo</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://butterflyyourworld.com/">Butterfly Tu Mundo</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://chala.de/?sPartner=5eba5ddf">Chala</a> – <strong>93D5B5E9</strong> para el 5% de descuento</p>
+<p><a href="https://chala.de/">Chala</a> – <strong>93D5B5E9</strong> para el 5% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -124,7 +124,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.curiousred.com/?ref=liGdUekDMceQw">rojo curioso</a> – <strong>CUALQUIER EXAMEN</strong> por $5 de descuento</p>
+<p><a href="https://www.curiousred.com/">rojo curioso</a> – <strong>CUALQUIER EXAMEN</strong> por $5 de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -158,12 +158,12 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://usa.freetbarefoot.com/?ref=X9T_QsyhrdeOL">Libertenos</a> – <strong></strong> para 10% de descuento</p>
-<p><a href="https://eur.freetbarefoot.com/?ref=X9T_QsyhrdeOL">UE libre</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://usa.freetbarefoot.com/">Libertenos</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://eur.freetbarefoot.com/">UE libre</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
+<p><a href="https://gaucho.ninja/">Gaucho Ninja</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -171,7 +171,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://groundz.com/?ref=liGdUekDMceQw&amp;utm_medium=cpa&amp;utm_source=affiliate">Tierraz</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
+<p><a href="https://groundz.com/">Tierraz</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -179,7 +179,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://icarusfootwear.com/?sca_ref=3200648.uAEn0nC7RO">Calzado Ícaro</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
+<p><a href="https://icarusfootwear.com/">Calzado Ícaro</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -187,11 +187,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://kingdomofwow.com/?ref=5160">Kingdom of Wow</a> – <strong>CUALQUIER EXAMEN</strong> con un 5 % de descuento (un uso por cliente)</p>
+<p><a href="https://kingdomofwow.com/">Kingdom of Wow</a> – <strong>CUALQUIER EXAMEN</strong> con un 5 % de descuento (un uso por cliente)</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="https://www.tikkishoes.com/?affiliate_code=Kn5kEjmj9k&amp;referring_service=link">Lang S. de Tikki Shoes</a> – <strong></strong> por 15% de descuento</p>
+<p style="font-size:18px"><a href="https://www.tikkishoes.com/">Lang S. de Tikki Shoes</a> – <strong></strong> por 15% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -199,15 +199,15 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="https://lisbethjoe.com?sca_ref=748893.jM2YPkdcCN">Lisbeth Joe</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
+<p style="font-size:18px"><a href="https://lisbethjoe.com/">Lisbeth Joe</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shareasale.com/r.cfm?b=2266529&amp;u=2692247&amp;m=137191&amp;urllink=&amp;afftrack=">Little Love Bug Company</a> – <strong>CUALQUIER EXAMEN</strong> con 10% de descuento en la primera compra</p>
+<p>Little Love Bug Company – <strong>CUALQUIER EXAMEN</strong> con 10% de descuento en la primera compra</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://lonowear.com/?ref=r99wnzmr">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
+<p><a href="https://lonowear.com/">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -244,7 +244,7 @@ translatedFrom: en
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
 <p> – <strong></strong> para 10% de descuento</p>
-<p><a href="https://origoshoes.mx/?rs_ref=KIW46kkA">Origo Shoes México</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://origoshoes.mx/">Origo Shoes México</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -272,7 +272,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.saguaro.com/?ref=Nafs6yLHHkYzpP">Saguaro</a> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
+<p><a href="https://www.saguaro.com/">Saguaro</a> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</p>
 <p><a href="https://www.saguarobarefoot.cl/">SaguaroChile</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</p>
 </div></div>
 
@@ -281,7 +281,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.tkqlhce.com/click-9040624-15751900?url=https%3A%2F%2Fwww.shapenbarefoot.com%2Fen">Shapen barefoot</a> – <strong></strong> para 10% de los artículos de precio completo, o código <strong></strong> para obtener un 5 % de descuento adicional en artículos en oferta.</p>
+<p><a href="https://www.shapenbarefoot.com/en">Shapen barefoot</a> – <strong></strong> para 10% de los artículos de precio completo, o código <strong></strong> para obtener un 5 % de descuento adicional en artículos en oferta.</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -305,11 +305,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://weartolos.com/?ref=">Tolos</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://weartolos.com/">Tolos</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="http://www.unshoesusa.com/?aff=3">Unshoes</a> – <strong></strong> para 10% de descuento</p>
+<p style="font-size:18px"><a href="http://www.unshoesusa.com/">Unshoes</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -340,7 +340,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zuzubarefoot.com/?ref=anya&amp;utm_campaign=affiliate&amp;utm_medium=referral&amp;utm_source=anya">Sandalias Zuzu</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://zuzubarefoot.com/">Sandalias Zuzu</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <h3 class="wp-block-heading">Minoristas de Zapatos barefoot</h3>
@@ -379,7 +379,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455">Tecnología Naboso</a> – <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</p>
+<p style="font-size:18px"><a href="https://naboso-technology.myshopify.com/">Tecnología Naboso</a> – <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -395,7 +395,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://thetoespacer.com/?aff=64">El espaciador de dedos</a> – <strong></strong> para 10% de descuento</p>
+<p><a href="https://thetoespacer.com/">El espaciador de dedos</a> – <strong></strong> para 10% de descuento</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -403,17 +403,17 @@ translatedFrom: en
 </div></div>
 
 <h2 class="wp-block-heading">Otros enlaces de afiliados</h2>
-<p>si mi <a href="/reviews/">zapato barefoot comentarios</a> Te he ayudado, ¡considera usar mis enlaces para tus compras! Recibiré una pequeña comisión, pero a ti no te cuesta nada.</p>
+<p>si mi <a href="/resenas/">zapato barefoot comentarios</a> Te he ayudado, ¡considera usar mis enlaces para tus compras! Recibiré una pequeña comisión, pero a ti no te cuesta nada.</p>
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
 <p></p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://bedrocksandals.com/?rfsn=7845604.38d257&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=7845604.38d257">Sandalias Bedrock</a></p>
+<p><a href="https://bedrocksandals.com/">Sandalias Bedrock</a></p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://birchbury.com/?ref=jfNy1td1V2L3f4">Birchbury</a></p>
+<p><a href="https://birchbury.com/">Birchbury</a></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -421,7 +421,7 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shrsl.com/3sh4t">Tonos correctos</a></p>
+<p>Tonos correctos</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -437,28 +437,28 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=500ef46d-f4f3-4e77-8f16-a030bf6b59b8&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.injinji.com">Calcetines Injinji</a><br/></p>
+<p><a href="https://www.injinji.com/">Calcetines Injinji</a><br/></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://janandjul.com/?ref=liGdUekDMceQw">Jan &amp;apos; Jul</a> – Botas de invierno Lite y botines Toasty Dry</p>
+<p><a href="https://janandjul.com/">Jan &amp;apos; Jul</a> – Botas de invierno Lite y botines Toasty Dry</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=66cd7281-3b94-450a-a78b-0da115ae4b42&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Flems-minimalist-shoes">Lems</a></p>
+<p><a href="https://www.lemsshoes.com/collections/lems-minimalist-shoes">Lems</a></p>
 <p></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://poshpanda.ca/?ref=">Posh Panda</a></p>
+<p><a href="https://poshpanda.ca/">Posh Panda</a></p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a></p>
+<p style="font-size:18px">Zapatos de estrellas suaves</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://shareasale.com/r.cfm?b=1588544&amp;u=2692247&amp;m=99832&amp;urllink=&amp;afftrack=">Ten Little</a></p>
+<p>Ten Little</p>
 </div></div>
 
 <div class="wp-block-media-text" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
@@ -470,11 +470,11 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://www.zapatillas-minimalistas.com/en/?affiliates=26455">zamí</a> (Minorista de la UE)</p>
+<p><a href="https://www.zapatillas-minimalistas.com/en/">zamí</a> (Minorista de la UE)</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p style="font-size:18px"><a href="http://zaqq.com/?sPartner=aj22122020">Zaqq</a></p>
+<p style="font-size:18px"><a href="http://zaqq.com/">Zaqq</a></p>
 </div></div>
 
 <p>¿Conoce más códigos de rebajas o descuentos que faltan en esta lista? ¡Envíame un comentario y lo actualizaré! Y luego asegúrese de suscribirse a continuación para enterarse de todas las publicaciones futuras en el blog.</p>

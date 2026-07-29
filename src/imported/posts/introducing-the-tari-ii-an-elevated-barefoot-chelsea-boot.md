@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Presentamos Tari II: una bota Chelsea descalza elevada'
+title: "Presentamos Tari II: una bota Chelsea barefoot elevada"
 description: 'Es un placer para mí presentarles mi diseño colaborativo más reciente,
   el Xero Tari II: ¡una sofisticada bota Chelsea descalza que es a la vez elegante
   y agradable para tus pies!'
@@ -43,7 +43,7 @@ translatedFrom: en
 
 <p>Supe desde el principio que quería hacer una bota color topo. Hay algo en el color topo que capta la luz y aporta una sutil sofisticación. Especialmente con detalles dorados. Es el toque extra que anhelo en mis Zapatos barefoot.</p>
 <p>Además de las imágenes, Doeskin también se diferencia de los otros colores por su forro de microfibra más transpirable que es adecuado para climas de transición (piense en principios de otoño e incluso en primavera) y no le hace sudar. Luego, cuando bajen las temperaturas, agregue unos calcetines de lana para seguir usándolos durante toda la temporada.</p>
-<p>Yo recomendaría rociarlos con <a href="https://amzn.to/2Scvbtv">un protector</a> antes de usarlo (y de vez en cuando durante la temporada) para que cualquier desgaste o mancha sea fácil de pulir. ¡Los zapatos bonitos no están hechos para quedarse en el armario!</p>
+<p>Yo recomendaría rociarlos con un protector antes de usarlo (y de vez en cuando durante la temporada) para que cualquier desgaste o mancha sea fácil de pulir. ¡Los zapatos bonitos no están hechos para quedarse en el armario!</p>
 <h2 class="wp-block-heading">Ajuste y talla</h2>
 
 <p>El Tari II se adaptará mejor a pies que:</p>
@@ -58,13 +58,13 @@ translatedFrom: en
 
 <p class="has-text-align-center">Vea aquí una comparación del Tari II actualizado (izquierda) con la bota Tari original (derecha). Refinamos la forma original para que se ajuste mejor en la parte media del pie y el talón, y para tener más espacio para los dedos.</p>
 <p>Una última cosa a tener en cuenta si tienes piel sensible: el borde superior de la bota puede sentirse duro cuando son nuevas si usas calcetines escotados o sin calcetines. Descubrí que se ablandó después de un par de usos y también puedes usar calcetines que vayan por encima de la parte superior de la bota (mi preferencia).</p>
-<p>Si necesita un poco más de ayuda para lograr el ajuste perfecto, tengo <a href="/ufaq/fit-hacks-for-low-volume-feet/">algunos trucos de ajuste aquí para ayudar</a>.</p>
+<p>Si necesita un poco más de ayuda para lograr el ajuste perfecto, tengo <a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">algunos trucos de ajuste aquí para ayudar</a>.</p>
 <h2 class="wp-block-heading">Realizar pedidos</h2>
 <p>Tari II está disponible en los principales EE. UU.  sitio web, así como en . La combinación de colores My Doeskin solo está disponible en el sitio web de EE. UU., pero los clientes internacionales pueden recibirlo desde el sitio de EE. UU. Puedes devolver o cambiar tus Xero Shoes nuevos y sin usar dentro de los 45 días si te equivocas de talla o cambias de opinión.</p>
 <p>¡Y Xero también ofrece una garantía única de 5000 millas! Si las suelas de tus zapatos Xero se desgastan hasta tener menos de 1 mm de grosor, te ofrecerán un descuento del 60 % en un nuevo par del mismo estilo al precio minorista completo. </p>
 <h2 class="wp-block-heading">Estilo</h2>
 <p>Diseñé el Tari II como lo haría con cualquier bota Chelsea. Se pueden usar de manera informal o disfrazada. Debido a que el cuero de los 3 colores tiene un acabado mate, combinan bien con casi cualquier estilo.</p>
-<p>La altura está diseñada para ser versátil con muchos cortes diferentes de jeans y faldas/vestidos. Ni demasiado alto ni demasiado bajo. Mi combinación favorita son los pantalones cortos de pierna ancha con lindos calcetines asomando por arriba (<a href="/best-foot-friendly-socks-dont-squish-your-toes/">Soy una chica con calcetines</a>). ¡Mira la galería a continuación para inspirarte en tu outfit!</p>
+<p>La altura está diseñada para ser versátil con muchos cortes diferentes de jeans y faldas/vestidos. Ni demasiado alto ni demasiado bajo. Mi combinación favorita son los pantalones cortos de pierna ancha con lindos calcetines asomando por arriba (<a href="/los-mejores-calcetines-amistosos-del-pie-que-no-squish-your-toes/">Soy una chica con calcetines</a>). ¡Mira la galería a continuación para inspirarte en tu outfit!</p>
 
 
 <!-- editorial-expansion:v1 -->

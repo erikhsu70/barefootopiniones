@@ -142,7 +142,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-7d351cf elementor-widget elementor-widget-html" data-element_type="widget" data-id="7d351cf" data-widget_type="html.default">
 <div class="elementor-widget-container">
-<style> 
+<style>
 @font-face {
    font-family: Awesome-header;
    src: url('https://creativedummy.com/fonts/Awesome_Serif_VAR-VF.woff');
@@ -159,7 +159,7 @@ translatedFrom: en
 
 .Awesome_font_italic {
    font-family: Awesome-header-italic;
-   
+
 }
 
 .expo-hero-h1 { font-size: .8em;}
@@ -238,8 +238,8 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-b907ae7 elementor-widget elementor-widget-image" data-element_type="widget" data-id="b907ae7" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://www.pntra.com/t/TUJGR0hFR0JHSExKSEhCRk5ITUZI" target="_blank">
- </a>
+
+
 </div>
 </div>
 </div>
@@ -253,7 +253,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-e349da8 elementor-widget elementor-widget-image" data-element_type="widget" data-id="e349da8" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://www.anrdoezrs.net/links/9040624/type/dlg/https://www.belenka.com/" target="_blank">
+<a href="https://www.belenka.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -282,8 +282,8 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-5c5931a elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c5931a" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://shrsl.com/3sh4t" target="_blank">
- </a>
+
+
 </div>
 </div>
 </div>
@@ -292,8 +292,8 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-27d4105 elementor-widget elementor-widget-image" data-element_type="widget" data-id="27d4105" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://shrsl.com/3sh4t" target="_blank">
- </a>
+
+
 </div>
 </div>
 </div>
@@ -306,7 +306,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-12f61eb elementor-widget elementor-widget-image" data-element_type="widget" data-id="12f61eb" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://earthrunners.com/?rfsn=3201806.600dc2" target="_blank">
+<a href="https://earthrunners.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -316,7 +316,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-af01114 elementor-widget elementor-widget-image" data-element_type="widget" data-id="af01114" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://freetbarefoot.com/?ref=X9T_QsyhrdeOL" target="_blank">
+<a href="https://freetbarefoot.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -336,7 +336,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-a3e6a0f elementor-widget elementor-widget-image" data-element_type="widget" data-id="a3e6a0f" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://icarusfootwear.com/?sca_ref=3200648.uAEn0nC7RO" target="_blank">
+<a href="https://icarusfootwear.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -350,7 +350,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-3c9395d elementor-widget elementor-widget-image" data-element_type="widget" data-id="3c9395d" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=66cd7281-3b94-450a-a78b-0da115ae4b42&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2Fcollections%2Flems-minimalist-shoes" target="_blank">
+<a href="https://www.lemsshoes.com/collections/lems-minimalist-shoes" target="_blank">
  </a>
 </div>
 </div>
@@ -380,7 +380,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-b6afa80 elementor-widget elementor-widget-image" data-element_type="widget" data-id="b6afa80" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://naboso-technology.myshopify.com/?rfsn=3435045.95a455&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=3435045.95a455" target="_blank">
+<a href="https://naboso-technology.myshopify.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -404,7 +404,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-41b6afc elementor-widget elementor-widget-image" data-element_type="widget" data-id="41b6afc" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://www.nutritiousmovement.com/store/?ref=42791" target="_blank">
+<a href="https://www.nutritiousmovement.com/store/" target="_blank">
  </a>
 </div>
 </div>
@@ -414,7 +414,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-b87dfec elementor-widget elementor-widget-image" data-element_type="widget" data-id="b87dfec" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://origoshoes.com/?rfsn=6918316.ffe4a4&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=6918316.ffe4a4" target="_blank">
+<a href="https://origoshoes.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -450,8 +450,8 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-fc2d064 elementor-widget elementor-widget-image" data-element_type="widget" data-id="fc2d064" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=" target="_blank">
- </a>
+
+
 </div>
 </div>
 </div>
@@ -491,7 +491,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-32a894b elementor-widget elementor-widget-image" data-element_type="widget" data-id="32a894b" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://weartolos.com/?ref=" target="_blank">
+<a href="https://weartolos.com/" target="_blank">
  </a>
 </div>
 </div>
@@ -501,8 +501,8 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-81df4de elementor-widget elementor-widget-image" data-element_type="widget" data-id="81df4de" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="http://tidd.ly/a70215e9" target="_blank">
- </a>
+
+
 </div>
 </div>
 </div>
@@ -525,7 +525,7 @@ translatedFrom: en
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-ee7e597 elementor-widget elementor-widget-image" data-element_type="widget" data-id="ee7e597" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<a href="https://us.wildling.shoes/?ref=annamariejensenp&amp;utm_source=affiliate&amp;utm_medium=website&amp;utm_campaign=Ongoing&amp;utm_term=Isabel%27s+Reviews&amp;utm_content=generic" target="_blank">
+<a href="https://us.wildling.shoes/" target="_blank">
  </a>
 </div>
 </div>

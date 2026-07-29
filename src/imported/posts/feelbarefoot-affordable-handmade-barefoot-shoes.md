@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: 'Aintap Feelbarefoot: Zapatos barefoot asequibles y hechos a mano'
+title: "Aintap Feelbarefoot: zapatos barefoot asequibles y hechos a mano"
 description: Feelbarefoot es una tienda de Etsy que vende Zapatos barefoot únicos
   y asequibles, todos hechos a mano utilizando técnicas del viejo mundo.
 date: '2022-06-29T20:11:43'
@@ -36,7 +36,7 @@ translatedFrom: en
 <p class="has-text-align-center">Cuero | Tallas EE. UU. Mujer 3.5 – Hombre 15 | $80-$120 | Envíos desde Turquía</p>
 
 <p>Turquía cuenta con una larga historia en la fabricación de calzado, pero hasta hace poco no se podía conseguir este estilo de zapato con la forma natural del pie. Feelbarefoot, de Aintap Shoes, utiliza las mejores técnicas tradicionales de fabricación de calzado y las combina con una puntera más ancha que permite que los dedos se abran. Todos los zapatos de Feelbarefoot también tienen zero drop y se pueden reparar y cambiar las suelas según sea necesario.</p>
-<p class="has-text-align-center"><a href="/benefits-barefoot-minimalist-shoes/">Para obtener más información sobre los beneficios de los Zapatos barefoot y por qué los usamos, lea esta publicación.</a></p>
+<p class="has-text-align-center"><a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Para obtener más información sobre los beneficios de los Zapatos barefoot y por qué los usamos, lea esta publicación.</a></p>
 <h2 class="wp-block-heading">Suela y materiales</h2>
 <p>El cuero de búfalo se utiliza como material principal de la suela en todos los zapatos Feelbarefoot (excepto las zapatillas de deporte, más sobre las siguientes). Es extremadamente duradero y tiene el beneficio adicional de adaptarse al pie con el tiempo. </p>
 <p>Con aproximadamente 7 mm de grosor, al principio se siente un poco rígido y resbaladizo. Pasé unos minutos doblando y flexionando el mío antes de usarlo y marcó una gran diferencia. Para solucionar la resbaladiza suela de cuero, apliqué un poco de cemento para rasparlas y eso también ayudó considerablemente. </p>
@@ -47,8 +47,8 @@ translatedFrom: en
 <p><strong>Los productos hechos a mano son únicos:</strong> Cuando los zapatos se cortan y confeccionan a mano, inevitablemente habrá ligeras variaciones e “imperfecciones” entre los zapatos, como pequeñas diferencias de color o puntadas que no son perfectamente uniformes. ¡Esto es parte de la belleza del oficio! Podemos ayudar a reducir los residuos en el mundo no tratando como basura nada que no sea perfecto.</p>
 <h2 class="wp-block-heading">Sizing &amp;amp; Fit</h2>
 
-<p class="has-text-align-center"><a href="/best-barefoot-shoes-foot-type/">Para obtener una explicación de los diferentes tipos de pies, lea este artículo.</a></p>
-<p>Los zapatos Feelbarefoot se ajustan <strong>ancho a extra ancho</strong> y <strong>alto volumen</strong> pies mejor. Son anchos en todo el zapato, por lo que si tienes tacones estrechos probablemente necesitarás agregar un <a href="https://amzn.to/3I54gco">agarre del talón</a>. Tengo un antepié extra ancho, con un arco alto y talones/tobillos de ancho medio. Los míos están un poco sueltos alrededor del área del talón, pero lleno todo el ancho y volumen del zapato para que no se resbale.</p>
+<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Para obtener una explicación de los diferentes tipos de pies, lea este artículo.</a></p>
+<p>Los zapatos Feelbarefoot se ajustan <strong>ancho a extra ancho</strong> y <strong>alto volumen</strong> pies mejor. Son anchos en todo el zapato, por lo que si tienes tacones estrechos probablemente necesitarás agregar un agarre del talón. Tengo un antepié extra ancho, con un arco alto y talones/tobillos de ancho medio. Los míos están un poco sueltos alrededor del área del talón, pero lleno todo el ancho y volumen del zapato para que no se resbale.</p>
 <p>La puntera tiene una ligera inclinación en el dedo gordo, lo que los hace mejores para <strong>pies en forma de montaña</strong>. Si tienes pies inclinados o con forma de meseta, podrías considerar aumentar el tamaño para obtener algo de espacio adicional para el dedo gordo. El cuero también se amolda a la forma del pie con el tiempo.</p>
 <p>Se incluye una tabla de tallas detallada como foto en cada producto; elegí mi talla normal para zapatos cerrados. <strong>No hay diferencia de ancho o forma entre mujeres y hombres.</strong> – simplemente están etiquetados de manera diferente. Por ejemplo, talla W38 = M37. Así que elige el largo interno que prefieras y no habrá sorpresas. Se puede fabricar cualquier estilo en la gama de tallas completa W 34-45, M 36-50.</p>
 <h3 class="wp-block-heading">Mocasines</h3>

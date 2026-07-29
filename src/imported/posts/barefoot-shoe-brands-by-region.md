@@ -1,7 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: Marcas de Zapatos barefoot en su región del mundo
+title: "Marcas de calzado barefoot por regiones del mundo"
 description: ¡El estilo de vida barefoot es un movimiento global con marcas en todo
   el mundo! Y la mayoría de las marcas de Zapatos barefoot realizan envíos internacionales,
   lo que significa muchas opciones. Pero si desea realizar un pedido en una tienda
@@ -23,7 +23,7 @@ translatedFrom: en
 ---
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">¡Encuentra aquí Zapatos barefoot cerca de ti!</figcaption></figure>
 <p>¡El estilo de vida barefoot es un movimiento global con marcas en todo el mundo! Y la mayoría de las marcas de Zapatos barefoot realizan envíos internacionales, lo que significa muchas opciones. Pero si desea realizar un pedido en una tienda cercana a casa, consulte esta lista de <strong>Marcas de calzado barefoot por región.</strong> Y si quieres hacer todas tus compras de zapatos en un solo lugar, entonces puede que valga la pena un viaje a <a href="https://barefootshoeexpo.com">¡La exposición del calzado barefoot!</a></p>
-<p>Para obtener muchas más listas de Zapatos barefoot por categoría, asegúrese de consultar mi<a href="/shoe-lists/"> Listas de Zapatos barefoot</a> página! Y luego dirígete a la sección Reseñas para <a href="/reviews/">revisiones en profundidad de Zapatos barefoot</a> de más de 100 modelos y marcas diferentes.</p>
+<p>Para obtener muchas más listas de Zapatos barefoot por categoría, asegúrese de consultar mi<a href="/mejores-zapatos-barefoot/"> Listas de Zapatos barefoot</a> página! Y luego dirígete a la sección Reseñas para <a href="/resenas/">revisiones en profundidad de Zapatos barefoot</a> de más de 100 modelos y marcas diferentes.</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-572c6c27" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -43,24 +43,24 @@ translatedFrom: en
 <li>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
 <li> – <strong></strong> para 10% de descuento</li>
-<li><a href="https://bedrocksandals.com/?rfsn=7845604.38d257&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=7845604.38d257">Sandalias Bedrock</a></li>
-<li><a href="https://birchbury.com/?ref=jfNy1td1V2L3f4">Birchbury</a>* – Debe quitarse la plantilla para tener zero drop.</li>
+<li><a href="https://bedrocksandals.com/">Sandalias Bedrock</a></li>
+<li><a href="https://birchbury.com/">Birchbury</a>* – Debe quitarse la plantilla para tener zero drop.</li>
 <li><a href="https://www.boarlordllc.com/">Botas de señor del tablero</a></li>
-<li><a href="https://butterflyyourworld.com/?ref=msbe30l6">Butterfly Tu Mundo</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://butterflyyourworld.com/">Butterfly Tu Mundo</a> – <strong></strong> para 10% de descuento</li>
 <li>*</li>
 <li>– <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://www.deliberatelifedesigns.com/">Diseños de vida deliberados</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li>*</li>
-<li><a href="https://earthrunners.com/?rfsn=3201806.600dc2">Corredores de la Tierra</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://earthrunners.com/">Corredores de la Tierra</a> – <strong></strong> para 10% de descuento</li>
 <li><a href="https://fitkicks.com/">patadas</a></li>
-<li><a href="https://shareasale.com/r.cfm?b=2365705&amp;u=2692247&amp;m=143423&amp;urllink=&amp;afftrack=">Calzado Flux</a></li>
+<li>Calzado Flux</li>
 <li><a href="https://freeformshoes.com/">Zapatos de forma libre</a></li>
-<li><a href="https://usa.freetbarefoot.com/?ref=X9T_QsyhrdeOL">Libertenos</a> – Usar código <strong></strong> para 10% de descuento</li>
+<li><a href="https://usa.freetbarefoot.com/">Libertenos</a> – Usar código <strong></strong> para 10% de descuento</li>
 <li></li>
-<li><a href="https://icarusfootwear.com/?sca_ref=3200648.uAEn0nC7RO">Icarus</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://icarusfootwear.com/">Icarus</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li> (zapatillas) – <strong>CUALQUIER EXAMEN</strong> con un 5% de descuento (uso único por cliente)</li>
-<li><a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=e8df0da8-a847-4269-8316-5d9656836fea&amp;website_id=1e25de0e-6cc2-4afd-b953-78f634c3b148&amp;url=https%3A%2F%2Fwww.lemsshoes.com%2F">Lems</a>*</li>
-<li><a href="https://lisbethjoe.com?sca_ref=748893.jM2YPkdcCN">Lisbeth Joe</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://www.lemsshoes.com/">Lems</a>*</li>
+<li><a href="https://lisbethjoe.com/">Lisbeth Joe</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li>* – Utilice este enlace para obtener un 15% de descuento</li>
 <li>Calcetines Maro – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
@@ -74,22 +74,22 @@ translatedFrom: en
 <li><a href="https://www.pikolinos.com/us-en/barefoot.html">Pikolinos</a></li>
 <li><a href="https://plae.co/">Plae</a>* (niños): se debe quitar la plantilla para que no tenga caída</li>
 <li> (niños) – <strong></strong> con un 15% de descuento en tu primera compra</li>
-<li><a href="https://www.tkqlhce.com/click-9040624-15238199?url=https%3A%2F%2Fwww.robeez.com%2Fshoes%2Fsoft-soles%2F">Robeez</a>* (bebé/niño pequeño)</li>
+<li><a href="https://www.robeez.com/shoes/soft-soles/">Robeez</a>* (bebé/niño pequeño)</li>
 <li> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
-<li><a href="https://amzn.to/4g9kjqp">Saguaro</a> (en Amazon)</li>
+<li>Saguaro (en Amazon)</li>
 <li> (en zapatos Softstar)</li>
 <li>Shamma Sandals* – <strong>OPINIONES 2023</strong> para 10% de descuento</li>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a>*</li>
+<li>Zapatos de estrellas suaves*</li>
 <li><a href="https://www.softwalkershoes.com/">Zapatos suaves para caminar</a> (bebé)</li>
 <li> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://starryknightdesign.com/">Starry Knight Design</a> (bebé)</li>
 <li><a href="https://www.mukluks.com/">Steger Mukluks</a> – La suela exterior tiene un tacón bajo, pero botas de invierno increíbles.</li>
 <li> (niños)</li>
 <li>Toetem Sandals – <strong>CUALQUIER EXAMEN</strong> por un 7% de descuento</li>
-<li><a href="https://weartolos.com/?ref=">Tolos</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://weartolos.com/">Tolos</a> – <strong></strong> para 10% de descuento</li>
 <li><a href="https://sullivent.com/">Tomás Sullivan</a></li>
 <li><a href="https://toughlittlepiggies.com/">Cerditos duros</a> –  con un 10% de descuento</li>
-<li><a href="http://www.unshoesusa.com/?aff=3">Unshoes</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="http://www.unshoesusa.com/">Unshoes</a> – <strong></strong> para 10% de descuento</li>
 <li></li>
 <li>– Los pedidos de EE. UU. se envían desde un almacén de EE. UU.</li>
 <li> (en Amazon)</li>
@@ -97,7 +97,7 @@ translatedFrom: en
 <li><a href="https://humanwild.co/sandal/">Zapatos de amapola salvaje</a></li>
 <li> – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
 <li>Zapatos Xero</li>
-<li><a href="https://zuzubarefoot.com/?ref=anya&amp;utm_campaign=affiliate&amp;utm_medium=referral&amp;utm_source=anya">Sandalias Zuzu</a>* – <strong></strong> para 10% de descuento</li>
+<li><a href="https://zuzubarefoot.com/">Sandalias Zuzu</a>* – <strong></strong> para 10% de descuento</li>
 </ul>
 <h3 class="wp-block-heading">Minoristas</h3>
 <p>A continuación se muestran minoristas con sede en EE. UU. que venden muchas marcas diferentes de Zapatos barefoot.</p>
@@ -105,7 +105,7 @@ translatedFrom: en
 <li>– <strong></strong> para 10% de descuento</li>
 <li>Amazonas* – Saguaro, Vibram, Whitin, Xero Shoes, Vivobarefoot</li>
 <li></li>
-<li><a href="https://shrsl.com/4fu89">Tonos correctos</a></li>
+<li>Tonos correctos</li>
 <li><a href="https://www.legend-footwear.com/collections/vivobarefoot">Calzado Leyenda </a>– No todas las marcas son descalzas, solo Vivobarefoot</li>
 <li>PedTerra* – <strong>CUALQUIER EXAMEN</strong> 10% de descuento en el primer pedido</li>
 <li><a href="https://tiptopshoes.com/">Zapatos de punta</a> – Lems, Vivobarefoot, Altra, No(N)s, Vibram FiveFingers</li>
@@ -121,11 +121,11 @@ translatedFrom: en
 <li><a href="https://www.happyhiker.com/">feliz caminante </a>(Albuquerque, Nuevo México)</li>
 <li><a href="https://www.nwfootankle.com/">Pie y tobillo del noroeste</a> (Portland, Oregón)</li>
 <li><a href="http://www.piefootwear.net/">calzado pastel</a> (Portland, Oregón)</li>
-<li><a href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Zapatos de estrellas suaves</a> (Pfilomata, Oregón)</li>
+<li>Zapatos de estrellas suaves (Pfilomata, Oregón)</li>
 <li><a href="https://stridelab.us/pages/store">Laboratorio de zancada</a> (Boulder, Colorado)</li>
 <li><a href="https://tiptopshoes.com/">Zapatos de punta</a> – (Nueva York, NY) – Lems, Vivobarefoot, Altra, No(N)s, Vibram FiveFingers</li>
 <li><a href="https://tworiverstreads.com/">Pisadas de dos ríos</a> (Ranson, Virginia Occidental)</li>
-<li><a href="http://www.unshoesusa.com/?aff=3">Unshoes </a>(Cedar City, UT – Solo con cita previa)</li>
+<li><a href="http://www.unshoesusa.com/">Unshoes </a>(Cedar City, UT – Solo con cita previa)</li>
 <li>Zapatos Xero (Denver, Colorado)</li>
 <li>Seleccionar <a href="https://www.rei.com/">REI</a> las tiendas venden zapatos Lems y zapatos Xero</li>
 </ul>
@@ -136,7 +136,7 @@ translatedFrom: en
 <li><a href="https://www.alphabarefootshoes.com/">Zapatos barefoot alfa</a></li>
 <li><a href="https://janandjul.com/footwear/">enero y julio</a> (Niños pequeños/niños): solo los botines Toast Dry son de zero drop</li>
 <li><a href="https://www.manitobah.com/">Manitoba</a>*</li>
-<li><a href="https://poshpanda.ca/?ref=">Posh Panda</a></li>
+<li><a href="https://poshpanda.ca/">Posh Panda</a></li>
 <li><a href="http://www.robeez.ca/">Robeez CA</a>* (bebé)</li>
 <li><a href="https://shoeszoo.com/">Zoológico de zapatos</a>*</li>
 <li><a href="https://stonz.com/">Stonz</a> (Niños) – Solo los botines para niños pequeños, botas West y Urban. Usar código <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</li>
@@ -179,16 +179,16 @@ translatedFrom: en
 <h3 class="wp-block-heading">Marcas de Zapatos barefoot</h3>
 <ul>
 <li><a href="https://www.altrarunning.eu/uk/">Altra Reino Unido</a>*</li>
-<li><a href="https://bahe.co/?sca_ref=4079638.1tpEM7ApW5">bahé</a> – <strong></strong> para 10% de descuento</li>
-<li><a href="https://barefootpals.shoes/en-us/collections/all?ref=sLSDNTO7">Paletas barefoot</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://bahe.co/">bahé</a> – <strong></strong> para 10% de descuento</li>
+<li><a href="https://barefootpals.shoes/en-us/collections/all">Paletas barefoot</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://www.bgreatershoes.com/">BGreater</a> (niños)</li>
 <li><a href="https://conkershoes.com/">Zapatos de conker</a></li>
 <li><a href="https://www.greenshoes.co.uk/">Zapateros de Dartmoor</a></li>
 <li><a href="https://www.dottyfish.com/">Pez manchado</a>*</li>
-<li><a href="https://freetbarefoot.com/?ref=X9T_QsyhrdeOL">Freet</a> – Usar código <strong></strong> para 10% de descuento</li>
-<li><a href="https://gaucho.ninja/?sca_ref=1590756.RvKfloLbRH">Gaucho Ninja</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://freetbarefoot.com/">Freet</a> – Usar código <strong></strong> para 10% de descuento</li>
+<li><a href="https://gaucho.ninja/">Gaucho Ninja</a>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://www.goral-shoes.co.uk/collections/barefoot">goral</a></li>
-<li><a href="https://tidd.ly/4f87M4h">Kingdom of Wow</a> (Etsy)</li>
+<li>Kingdom of Wow (Etsy)</li>
 <li><a href="https://www.leguano.ie/#/">Leguano Reino Unido</a></li>
 <li><a href="https://nacktshoes.com/">Zapatos desnudos</a>*</li>
 <li></li>
@@ -240,17 +240,17 @@ translatedFrom: en
 <li><a href="https://annika-barefoot.com/">Annika descalza</a> –  con un 5 % de descuento</li>
 <li><a href="https://www.antalshoes.sk/">Zapatos Antal</a></li>
 <li><a href="https://www.babybareshoes.sk/">bebe desnudo</a></li>
-<li><a href="https://www.anrdoezrs.net/click-9040624-15232475?url=https%3A%2F%2Fwww.barebarics.com%2F">Barebarics</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
+<li><a href="https://www.barebarics.com/">Barebarics</a> – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
 <li><a href="https://www.bazabouille.com/">Bazabouille</a></li>
 <li><a href="https://www.bedabarefoot.cz/">Beda Boty</a></li>
 <li>* – <strong>CUALQUIER EXAMEN</strong> para el 5% de descuento</li>
-<li><a href="https://tidd.ly/46g058D">Biomundo</a>* (Etsy)</li>
+<li>Biomundo* (Etsy)</li>
 <li><a href="https://www.blandy-shoes.com/en/">Zapatos Blandos</a></li>
 <li><a href="https://www.blifestyle.de/">Bestilo de vida</a>*</li>
 <li> – <strong>AR10</strong> para 10% de descuento</li>
 <li>* – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://bosi.store/">bosi</a></li>
-<li><a href="https://chala.de/?sPartner=5eba5ddf">Chala</a> – <strong>93D5B5E9</strong> para el 5% de descuento</li>
+<li><a href="https://chala.de/">Chala</a> – <strong>93D5B5E9</strong> para el 5% de descuento</li>
 <li><a href="https://en.collegien-shop.com/">colegial</a></li>
 <li><a href="https://www.craveshoes.eu/en/">anhelar</a></li>
 <li><a href="https://cruponsandals.com/collections/barefoot">Sandalias Crupón</a>* – <strong></strong> para 10% de descuento</li>
@@ -271,7 +271,7 @@ translatedFrom: en
 <li><a href="https://www.groundies.com/">Groundies</a>*</li>
 <li><a href="https://jancarikshoes.com/">Jancarik</a> – Sólo modelos descalzos</li>
 <li><a href="https://www.jenonleather.com/">Jenon Leather</a> – <strong>JENON11</strong> para 10% de descuento</li>
-<li><a href="https://www.awin1.com/cread.php?awinmid=11321&amp;awinaffid=562941&amp;ued=https%3A%2F%2Fwww.joe-nimble.com%2Fint%2F">Joe Nimble Internacional</a></li>
+<li>Joe Nimble Internacional</li>
 <li> (zapatillas) – <strong>CUALQUIER EXAMEN</strong> con un 5% de descuento (uso único por cliente)</li>
 <li><a href="https://koel.shoes/en-us/pages/barefoot">Koel</a></li>
 <li></li>
@@ -294,7 +294,7 @@ translatedFrom: en
 <li><a href="https://www.peerko.cz/">Peerko</a> – <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</li>
 <li><a href="https://piessucios.es/">Pies Sucios</a>*</li>
 <li><a href="https://www.proalp.si/kategorija-izdelka/barefoot-shoes/">Proalp</a></li>
-<li><a href="https://www.anrdoezrs.net/click-9040624-15487459?url=https%3A%2F%2Fwww.realfoot.cz%2Fen%2Fbarefoot-shoes%2F">Pie real</a> – <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</li>
+<li><a href="https://www.realfoot.cz/en/barefoot-shoes/">Pie real</a> – <strong>CUALQUIER EXAMEN 10</strong> para 10% de descuento</li>
 <li><a href="https://www.robeez.eu/en/">Robeez UE</a> (bebé/niño pequeño)</li>
 <li><a href="https://rubeas.pt/">rubeas</a> – Sólo modelos descalzos</li>
 <li><a href="https://fullsoul.de/">Almohadilla para correr Fullsoul</a></li>
@@ -318,7 +318,7 @@ translatedFrom: en
 <li>* – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
 <li>Xero Zapatos UE</li>
 <li><a href="https://zapatoferoz.es/">Zapato Feroz</a></li>
-<li><a href="http://zaqq.com/?sPartner=aj22122020">Zaqq</a></li>
+<li><a href="http://zaqq.com/">Zaqq</a></li>
 <li><a href="https://zeazoo.com/en/">Zeazoo</a> – <strong>CUALQUIER EXAMEN</strong></li>
 <li><a href="https://zkama.cz/en/">Zapatos Zkama</a></li>
 <li><a href="https://www.zlatush.sk/en/about-me/">Zlatush</a></li>
@@ -353,7 +353,7 @@ translatedFrom: en
 <li><a href="https://sepuke.ee/">sepuke</a></li>
 <li><a href="https://shuz.pt/">Shuz para los amantes descalzos</a></li>
 <li><a href="https://www.tupsunupsu.ee/">Tupsunupsu</a></li>
-<li><a href="https://www.zapatillas-minimalistas.com/en/?affiliates=26455">ZAMI</a>*</li>
+<li><a href="https://www.zapatillas-minimalistas.com/en/">ZAMI</a>*</li>
 </ul>
 <h3 class="wp-block-heading">Tiendas físicas y de mortero</h3>
 <p>Puedes comprar personalmente en estas tiendas físicas de Europa.</p>
@@ -384,7 +384,7 @@ translatedFrom: en
 <li><a href="https://shuz.pt/">Shuz para los amantes descalzos </a>(Lisboa, Portugal)</li>
 <li><a href="https://www.trekbarefoot.nl/">Caminata descalza</a> (Ámsterdam, Países Bajos)</li>
 <li><a href="https://www.vivobarefoot.com/us/store-finder"> </a>Concept Store (Copenhague, Dinamarca)</li>
-<li><a href="https://www.wildling.shoes/?ref=annamariejensen&amp;utm_source=affiliate&amp;utm_medium=website&amp;utm_campaign=Ongoing&amp;utm_term=Isabel%27s+Reviews&amp;utm_content=generic">Salvaje</a> (Salas de exposición en Berlín y Colonia, almacén en Engelskirchen)<strong><a href="https://www.naboso.cz/Stranky/Prodejny#Brno" rel="noreferrer noopener" target="_blank"></a></strong></li>
+<li><a href="https://www.wildling.shoes/">Salvaje</a> (Salas de exposición en Berlín y Colonia, almacén en Engelskirchen)<strong><a href="https://www.naboso.cz/Stranky/Prodejny#Brno" rel="noreferrer noopener" target="_blank"></a></strong></li>
 </ul>
 <h2 class="wp-block-heading"><strong>Australia/Nueva Zelanda</strong></h2>
 <p>Envío gratuito dentro de Australia marcado con un *</p>
@@ -427,9 +427,9 @@ translatedFrom: en
 <p>A continuación se muestran marcas y minoristas de calzado ubicados en Asia. Envío gratuito dentro del país anfitrión marcado con un *</p>
 <h3 class="wp-block-heading">Marcas de Zapatos barefoot</h3>
 <ul>
-<li><a href="https://www.curiousred.com/?ref=liGdUekDMceQw">rojo curioso</a> – <strong>CUALQUIER EXAMEN</strong> por $5 de descuento</li>
+<li><a href="https://www.curiousred.com/">rojo curioso</a> – <strong>CUALQUIER EXAMEN</strong> por $5 de descuento</li>
 <li><a href="https://komarijp.com/">Zapatos Komari Tabi</a></li>
-<li><a href="https://lonowear.com/?ref=r99wnzmr">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://lonowear.com/">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://lemsshoes.theshop.jp/">Zapatos Lems – Japón</a></li>
 <li><a href="https://www.pyopp.id/">piopp</a> (bebé/niño)</li>
 <li><a href="https://pyoppfledge.id/">Emplume de Pyopp</a></li>
@@ -493,7 +493,7 @@ translatedFrom: en
 <li><a href="https://www.feetoftomorrow.com.br/">Pies del mañana</a>*</li>
 <li><a href="https://freevo.com.ar/">Freevo</a></li>
 <li><a href="https://www.huarachas.com.ar/">huarachas</a></li>
-<li><a href="https://origoshoes.mx/?rs_ref=KIW46kkA">Origo Shoes México</a> – Código <strong></strong> para 10% de descuento</li>
+<li><a href="https://origoshoes.mx/">Origo Shoes México</a> – Código <strong></strong> para 10% de descuento</li>
 <li><a href="https://www.lamexabarefoot.com/">La Mexa Descalza</a>*</li>
 <li><a href="https://lulishuu.mx/">Lulishuu</a></li>
 <li><a href="https://luacalzados.com/">Lua Calzados</a></li>
@@ -517,14 +517,14 @@ translatedFrom: en
 </ul>
 <h2 class="wp-block-heading"><strong>Marcas con envío global gratuito</strong></h2>
 <ul>
-<li><a href="https://tidd.ly/46g058D">Biomundo</a> (Etsy)</li>
+<li>Biomundo (Etsy)</li>
 <li><a href="https://www.etsy.com/shop/ebooba">Ebooba</a></li>
 <li><a href="https://www.etsy.com/shop/GrecianSandals">Sandalias griegas</a></li>
-<li><a href="https://icarusfootwear.com/?sca_ref=3200648.uAEn0nC7RO">Icarus</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
-<li><a href="https://lonowear.com/?ref=r99wnzmr">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://icarusfootwear.com/">Icarus</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
+<li><a href="https://lonowear.com/">Lono Wear</a> – <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
 <li><a href="https://www.planabarefoot.com/">Plana Descalza</a></li>
 <li><a href="https://shoeszoo.com/">Zoológico de zapatos</a></li>
 <li><a href="https://www.etsy.com/shop/SpartaSandals">Sandalias Esparta</a></li>
-<li><a href="https://www.wildling.shoes?ref=annamariejensen&amp;utm_source=affiliate&amp;utm_medium=website&amp;utm_campaign=Ongoing&amp;utm_term=Isabel%27s+Reviews&amp;utm_content=generic">Salvaje</a> – Solo primer pedido</li>
+<li><a href="https://www.wildling.shoes/">Salvaje</a> – Solo primer pedido</li>
 </ul>
 

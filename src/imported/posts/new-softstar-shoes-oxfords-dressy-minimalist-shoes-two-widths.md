@@ -1,8 +1,7 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: ¡Nuevos zapatos Oxford Softstar! – Zapatos elegantes y minimalistas en dos
-  anchos
+title: "Nuevos zapatos Oxford Softstar: Zapatos elegantes y minimalistas en dos anchos"
 description: ¡Softstar Shoes acaba de lanzar un nuevo y elegante Oxford que viene
   en dos anchos! Estos zapatos de vestir descalzos con zero drop tienen detalles de
   alta gama.
@@ -23,14 +22,14 @@ translatedFrom: en
 <p class="has-text-align-center"><strong><em>Este estilo ha sido descontinuado a partir de junio de 2025.</em></strong></p>
 <p>¡Softstar Shoes acaba de lanzar un nuevo y elegante Oxford que viene en dos anchos! Una variación es la Taylor, con detalles brogue, y la otra es la Hamilton, que es completamente negra con puntera.</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-127 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Comprar zapatos Oxford Softstar</a></div>
+
 </div>
 <p>Pude probar algunos de los primeros prototipos hace varios meses y ¡fue divertido ver cómo evolucionaba el zapato! Las versiones finales que aquí se muestran son el resultado de un largo proceso de diseño. Personalmente, adoro más el Taylor, la punta del ala brogue es perfecta y los detalles metálicos de Orion son únicos. Si eres fanático de Softstar pero necesitas algo más elegante, estarás entusiasmado con este nuevo lanzamiento.</p>
 <h2 class="wp-block-heading">Las especificaciones</h2>
 
 <p>¡Todos estos zapatos Oxford están hechos a mano en Oregón y se pueden cambiar las suelas y reparar según sea necesario! La suela exterior es Vibram gruesa, para un poco de amortiguación y mayor durabilidad. La parte superior es de piel austriaca y la plantilla es de ante suave. </p>
 <p>El tamaño es unisex y vienen en talla 5 para mujer de EE. UU. y 15 para hombre de EE. UU. Por $ 190, no son los zapatos de vestir más baratos, pero el hecho de que puedas reemplazar la suela si se desgasta significa que deberías poder sacarles el valor a tu dinero.</p>
-<p>Prefiero usar mis Zapatos barefoot, por eso aprecio el cuero no tóxico de alta calidad que se usa en los Oxford. Pero si te gusta usar calcetines, echa un vistazo <a href="/best-foot-friendly-socks-dont-squish-your-toes/">esta guía de calcetines aptos para los pies</a> para opciones!</p>
+<p>Prefiero usar mis Zapatos barefoot, por eso aprecio el cuero no tóxico de alta calidad que se usa en los Oxford. Pero si te gusta usar calcetines, echa un vistazo <a href="/los-mejores-calcetines-amistosos-del-pie-que-no-squish-your-toes/">esta guía de calcetines aptos para los pies</a> para opciones!</p>
 <h2 class="wp-block-heading">¿Debería ser regular o ancho?</h2>
 
 <p>Los Softstar Oxfords vienen en dos anchos: Regular y Ancho. </p>
@@ -38,8 +37,8 @@ translatedFrom: en
 <li>El ancho normal es un poco más ancho que el de un zapato estándar, pero se estrecha un poco en los dedos.</li>
 <li>Wide (también conocido como Primal Friendly) es muy ancho en los dedos de los pies y se adapta a pies y espaciadores de dedos extra anchos.</li>
 </ul>
-<p>Ambos se ajustan a volúmenes altos, pero el ancho se adapta a volúmenes extra altos. Eso significa que si tienes un pie de poco volumen querrás comprobarlo.<a href="/ufaq/fit-hacks-for-low-volume-feet/">Estos trucos de ajuste de bajo volumen</a> para encontrar maneras de hacer que se ajusten bien. </p>
-<p class="has-text-align-center"><a href="/ufaq/what-is-foot-volume/">¿No estás seguro de lo que significa el volumen del pie? Aprende aquí.</a></p>
+<p>Ambos se ajustan a volúmenes altos, pero el ancho se adapta a volúmenes extra altos. Eso significa que si tienes un pie de poco volumen querrás comprobarlo.<a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">Estos trucos de ajuste de bajo volumen</a> para encontrar maneras de hacer que se ajusten bien. </p>
+<p class="has-text-align-center"><a href="/preguntas/que-es-el-volumen-del-pie/">¿No estás seguro de lo que significa el volumen del pie? Aprende aquí.</a></p>
 
 <p>Justin se adapta bien al ancho Regular, lo cual tiene sentido ya que le va muy bien con zapatos con un corte Wide Straight similar (ancho hasta la mitad del pie, pero no muy ancho en los dedos). </p>
 <p>Estoy entre los dos anchos: cuando me probé el Regular por primera vez, me parecieron demasiado estrechos en los dedos de los pies. Pero Wide era espacio más que suficiente y el volumen adicional los hacía parecer demasiado grandes. Así que volví a lo normal y estiré un poco el área del dedo gordo para tener más espacio allí. Afortunadamente, al ser un zapato de cuero hecho a mano, pude obtener suficiente espacio extra para sentirme más cómodo también en el ancho Regular.</p>
@@ -58,12 +57,12 @@ translatedFrom: en
 <p>¡Estos zapatos están bellamente hechos! Creo que para algunos pies delgados tendrán un volumen demasiado alto y se abrirán alrededor del tobillo, así que tenlo en cuenta si estás considerando estos. Mi único otro comentario es que no me encanta la pieza de color amarillo brillante en la parte inferior de la suela; para un zapato elegante parece fuera de lugar, ya que la parte inferior será visible a veces al caminar o sentarse.</p>
 <p>Si quieres ver más zapatos de vestir descalzos, consulta estos artículos:</p>
 <ul>
-<li><a href="/the-10-best-stylish-barefoot-dress-shoes-for-women/">Los mejores zapatos de vestir descalzos para mujer</a></li>
-<li><a href="/barefoot-minimalist-dress-shoes-men/">Los mejores zapatos de vestir descalzos para hombres</a></li>
+<li><a href="/los-10-mejores-zapatos-de-vestir-descalzos-con-estilo-para-mujer/">Los mejores zapatos de vestir descalzos para mujer</a></li>
+<li><a href="/los-mejores-zapatos-de-vestido-de-barefoot-de-los-hombres-que-no-aplastar-sus-pies/">Los mejores zapatos de vestir descalzos para hombres</a></li>
 </ul>
 <p>¡Softstar fabrica Zapatos barefoot muy divertidos para toda la familia! echa un vistazo <a href="/?s=softstar">mis reseñas anteriores de Softstar Shoe</a> para más detalles!</p>
 <div class="wp-block-buttons is-horizontal is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-128 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://shareasale.com/r.cfm?b=1721104&amp;u=2692247&amp;m=107180&amp;urllink=&amp;afftrack=">Comprar Softstar</a></div>
+
 </div>
 <p>Y si quieres ver a estos cachorros en acción, mira mi <a href="https://youtube.com/shorts/96TyZls8OPU?feature=share">Vídeo breve de YouTube de los Softstar Oxfords.</a></p>
 
@@ -96,3 +95,30 @@ No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la 
 Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
 
 Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+
+
+<!-- editorial-expansion:v2 -->
+
+## Como convertir esta recomendacion en una compra acertada
+
+Antes de decidir, conviene separar lo que llama la atencion en una foto de lo que realmente vas a notar caminando. En barefoot, una horma bonita no sirve de mucho si aprieta los dedos, si el talon baila o si la suela te obliga a cambiar la pisada de golpe. Mi forma de filtrar ¡Nuevos zapatos Oxford Softstar! – Zapatos elegantes y minimalistas en dos es sencilla: primero miro si respeta la forma del pie, despues si tiene sentido para mi rutina y, por ultimo, si encaja con la ropa que ya uso. Ese orden evita compras impulsivas y ayuda a elegir pares que no acaban olvidados en el armario.
+
+Tambien merece la pena probar cada modelo en casa durante varios minutos, no solo de pie delante del espejo. Camina, sube escaleras, agachate, ponte de puntillas y comprueba si el upper acompana el movimiento. Si notas presion constante en el dedo gordo, si el borde roza el tobillo o si el pie se va hacia delante, no lo ignores pensando que se arreglara solo. Algunos materiales ceden, pero una mala forma de base rara vez se convierte en comoda con el tiempo.
+
+## Detalles que suelo revisar dos veces
+
+Un detalle importante es la plantilla. Muchas marcas anaden una plantilla gruesa para que el zapato parezca mas amable al principio, pero eso puede cambiar el volumen interior y hacer que el ajuste sea menos barefoot. Si tienes el empeine alto, prueba el calzado con y sin plantilla para ver cual de las dos configuraciones te da mejor sensacion. Si tienes el pie fino, revisa que puedas ajustar cordones, velcros o correas sin deformar el zapato.
+
+La flexibilidad tambien debe tener sentido. No busco que todo se doble como una zapatilla de ballet, especialmente en botas o calzado de invierno, pero si que permita que el pie trabaje de forma natural. Una suela demasiado rigida puede ser util en terrenos concretos, aunque para diario normalmente prefiero algo que no bloquee la flexion del antepie. En cambio, una suela extremadamente fina puede cansar si vienes de calzado convencional y pasas muchas horas sobre asfalto.
+
+## Para quien tiene mas sentido
+
+Este tipo de articulo tiene mas valor cuando lo usas como punto de partida, no como una receta cerrada. Si tu prioridad es vestir mejor sin renunciar a espacio para los dedos, fijate en colores faciles, siluetas limpias y materiales que envejezcan bien. Si buscas caminar mas, prioriza agarre, peso y ajuste. Si estas comprando para ninos, deja margen real de crecimiento, pero sin convertir el zapato en una barca que les haga tropezar.
+
+La mejor compra suele ser la que encaja con tu vida concreta. No es lo mismo necesitar un par para oficina, para viajar, para colegio, para lluvia o para entrenar suave. Cuando una recomendacion parece buena en general pero no responde a tu escenario, es mejor seguir mirando. En barefoot hay suficientes opciones como para no conformarse con un zapato que solo cumple una parte de la lista.
+
+## Mi criterio final
+
+Para mi, un buen par barefoot tiene que desaparecer durante el dia. No deberia obligarte a pensar en el roce, en el dedo pequeno, en si combina o en si la suela se siente rara a cada paso. Cuando el ajuste es correcto, el calzado acompana sin robar protagonismo. Por eso prefiero recomendar menos modelos pero mejor escogidos, explicar sus limites y dejar claro en que casos los descartaria.
+
+Si dudas entre dos tallas, dos anchos o dos estilos, normalmente gana el que puedas usar mas dias seguidos. El calzado barefoot funciona mejor cuando se integra en la rutina, no cuando queda reservado para ocasiones muy concretas. Esa es la diferencia entre una compra curiosa y una compra que realmente cambia la relacion con tus pies.

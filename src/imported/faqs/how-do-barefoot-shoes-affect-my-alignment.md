@@ -46,7 +46,7 @@ translatedFrom: en
 <div class="ewd-ufaq-post-margin ewd-ufaq-faq-post">
 
 <p>Los Zapatos barefoot son cero gota, lo que hace posible que usted permanezca recto con su cuerpo alineado. Por el contrario, la mayoría de los zapatos que encuentras en la tienda tienen un tacón. Incluso la mayoría de las zapatillas y los “flats” de ballet no están totalmente planos de tacón a dedo, lo que te empuja hacia adelante y requiere compensaciones en algún lugar de la cadena. Por eso una suela totalmente plana es una característica no negociable de Zapatos barefoot, y puede mejorar su alineación espinal y aliviar el dolor de espalda y cuello.</p>
-<p>Para saber más sobre las características de los Zapatos barefoot y por qué importan, lea el artículo sobre <a href="/benefits-barefoot-minimalist-shoes/">Los beneficios de los Zapatos barefoot.</a></p>
+<p>Para saber más sobre las características de los Zapatos barefoot y por qué importan, lea el artículo sobre <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">Los beneficios de los Zapatos barefoot.</a></p>
 </div>
 
 </div>
