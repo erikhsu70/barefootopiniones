@@ -122,23 +122,23 @@
       "title": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
       "url": "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/",
       "slug": "mejores-zapatillas-barefoot-bonitas-diario",
-      "status": "pushed_unverified",
+      "status": "Published",
       "commit": "9e7dc2e",
       "type": "extra_campaign",
-      "lastChecked": "2026-07-22T11:28:28+02:00",
+      "lastChecked": "2026-07-29T11:03:16+02:00",
       "verification": {
         "httpStatus": 200,
-        "observedH1": "Barefoot Opiniones",
+        "observedH1": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
         "expectedH1": "Las 10 mejores zapatillas barefoot bonitas para vestir a diario",
-        "canonical": "https://barefootopiniones.com/",
-        "imageStatus": "not present on live article response",
-        "indexEntry": false,
-        "sitemapEntry": false,
-        "deploymentChecks": 3,
-        "localBuild": "passed",
-        "localValidation": "featured images, schema, site links, generated H1/canonical/image/listing/sitemap passed",
-        "blocker": "The pushed article was not live after three custom-domain checks; the URL served the homepage fallback. Direct Cloudflare Pages upload from dirty local dist was blocked by approval review because it could publish unrelated pre-existing workspace changes.",
-        "note": "Extra campaign article is committed and pushed without consuming the normal editorial queue. Deploy from an explicitly approved production artifact or from a clean main build that includes the broader committed site state."
+        "canonical": "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "deploymentChecks": 1,
+        "localBuild": "clean committed main build passed from origin/main at bb86431",
+        "localValidation": "focused generated-output check passed for H1, canonical, featured image, listing, sitemap, Lejan anchor, BlogPosting/Article, Breadcrumb and FAQ schema",
+        "schema": "BlogPosting/Article, Breadcrumb and FAQ",
+        "note": "Verified live on the custom domain after the production site caught up. Extra campaign article remains recorded under extraCampaigns and did not consume or alter the normal topics queue."
       }
     }
   ]
