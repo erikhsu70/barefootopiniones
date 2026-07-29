@@ -12,8 +12,8 @@ contentType: Artículo
 sourceId: 28410
 sourceSlug: toetem-barefoot-adventure-sandals-review
 sourceModified: '2026-05-26T23:34:58'
-image: ""
-imageAlt: ""
+image: "/assets/generated/featured/posts/toetem-barefoot-adventure-sandals-review.jpg"
+imageAlt: "Sandalias barefoot Toetem para aventura"
 tags:
 - traducido
 language: es
@@ -111,4 +111,3 @@ translatedFrom: en
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:30% auto"><div class="wp-block-media-text__content">
 <p>Heidi es administradora de <a href="https://www.facebook.com/groups/677722582951840">Grupo de Facebook estilo barefoot</a> y es un científico de automatización de profesión. Descubrió los beneficios para la salud de los Zapatos barefoot mientras entrenaba en levantamiento de pesas y fitness funcional. Es madre de 2 niños y 2 perros rescatados, y dedica su tiempo libre a vestirse, coser y hacer manualidades.  Síguela en <a href="https://www.instagram.com/hellabarefootheidi/">@hellabarefootheidi</a> en Instagram.</p>
 </div></div>
-

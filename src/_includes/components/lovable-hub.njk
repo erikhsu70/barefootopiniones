@@ -17,7 +17,7 @@
   <div class="lov-category-grid">
     {% for post in hubPosts %}
       <a class="lov-category-card" href="{{ post.url }}">
-        <div class="lov-category-card__image">
+        <div class="lov-category-card__image editorial-cover editorial-cover--card">
           {% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="{% if loop.index <= 3 %}eager{% else %}lazy{% endif %}">{% endif %}
         </div>
         <div class="lov-category-card__body">

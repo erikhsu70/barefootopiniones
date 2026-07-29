@@ -1,0 +1,215 @@
+/*
+ * Sistema de carátulas de Barefoot Opiniones.
+ * Mantiene las fotos reales de producto, pero unifica formato y dirección de arte.
+ */
+.editorial-cover,
+.lov-article-image,
+.lov-category-card__image,
+.lov-archive-row__image,
+.resource-card__image {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  isolation: isolate;
+  background: #eeebe4;
+}
+
+.editorial-cover::before,
+.lov-article-image::before,
+.lov-category-card__image::before,
+.lov-archive-row__image::before,
+.resource-card__image::before {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  inset: 10px;
+  border: 1px solid rgba(251, 248, 243, 0.72);
+  pointer-events: none;
+}
+
+.editorial-cover::after,
+.lov-article-image::after,
+.lov-category-card__image::after,
+.lov-archive-row__image::after,
+.resource-card__image::after {
+  content: "Barefoot Opiniones";
+  position: absolute;
+  z-index: 3;
+  left: 16px;
+  bottom: 14px;
+  padding: 0.45rem 0.65rem 0.42rem;
+  color: #1f2421;
+  background: rgba(251, 248, 243, 0.94);
+  border-left: 3px solid #c96d4b;
+  box-shadow: 0 8px 22px rgba(31, 36, 33, 0.12);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.editorial-cover img,
+.lov-article-image img,
+.lov-category-card__image img,
+.lov-archive-row__image img,
+.resource-card__image img,
+.post-card > a > img,
+.latest-item > img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  filter: saturate(0.88) contrast(1.03);
+  transition: transform 350ms ease, filter 350ms ease;
+}
+
+.editorial-cover img[src*="/images/models/"],
+.editorial-cover img[src*="/images/brands/"],
+.lov-article-image img[src*="/images/models/"],
+.lov-article-image img[src*="/images/brands/"],
+.lov-category-card__image img[src*="/images/models/"],
+.lov-category-card__image img[src*="/images/brands/"],
+.lov-archive-row__image img[src*="/images/models/"],
+.lov-archive-row__image img[src*="/images/brands/"],
+.resource-card__image img[src*="/images/models/"],
+.resource-card__image img[src*="/images/brands/"],
+.post-card > a > img[src*="/images/models/"],
+.post-card > a > img[src*="/images/brands/"],
+.latest-item > img[src*="/images/models/"],
+.latest-item > img[src*="/images/brands/"] {
+  padding: clamp(1rem, 5%, 2.25rem);
+  object-fit: contain;
+  background: #f2efe8;
+  filter: saturate(0.92) contrast(1.01);
+}
+
+a:hover .editorial-cover img,
+a:hover .lov-category-card__image img,
+a:hover .lov-archive-row__image img,
+a:hover .resource-card__image img,
+.post-card > a:hover > img,
+.latest-item:hover > img {
+  transform: scale(1.025);
+  filter: saturate(0.98) contrast(1.04);
+}
+
+.editorial-cover--hero,
+.lov-article-image {
+  min-height: 0;
+  border-radius: 6px;
+  box-shadow: 0 18px 45px rgba(31, 36, 33, 0.14);
+}
+
+.editorial-cover--hero::before,
+.lov-article-image::before {
+  inset: 14px;
+}
+
+.editorial-cover--hero::after,
+.lov-article-image::after {
+  left: 22px;
+  bottom: 20px;
+  font-size: 0.74rem;
+}
+
+.editorial-cover--card,
+.lov-category-card__image,
+.lov-archive-row__image,
+.resource-card__image {
+  border-radius: 0;
+}
+
+.post-card .editorial-cover,
+.lov-category-card .editorial-cover,
+.resource-card .editorial-cover,
+.post-card > a > img,
+.lov-category-card__image,
+.resource-card__image {
+  border-bottom: 1px solid rgba(31, 36, 33, 0.1);
+}
+
+.lov-archive-row .editorial-cover,
+.lov-archive-row__image {
+  min-width: 0;
+  height: 100%;
+  aspect-ratio: 4 / 3;
+}
+
+.lov-archive-row__image::after {
+  content: "";
+  left: 12px;
+  bottom: 11px;
+  width: 3px;
+  height: 28px;
+  padding: 0;
+  background: #c96d4b;
+  border: 0;
+  box-shadow: none;
+}
+
+.latest-item .editorial-cover,
+.latest-item > img {
+  aspect-ratio: 16 / 10;
+}
+
+@media (max-width: 640px) {
+  .editorial-cover::before,
+  .lov-article-image::before,
+  .lov-category-card__image::before,
+  .lov-archive-row__image::before,
+  .resource-card__image::before {
+    inset: 7px;
+  }
+
+  .editorial-cover::after,
+  .lov-article-image::after,
+  .lov-category-card__image::after,
+  .lov-archive-row__image::after,
+  .resource-card__image::after {
+    left: 11px;
+    bottom: 10px;
+    padding: 0.38rem 0.5rem 0.35rem;
+    font-size: 0.6rem;
+  }
+
+  .editorial-cover--hero,
+  .lov-article-image {
+    aspect-ratio: 16 / 10;
+  }
+
+  .editorial-cover--hero::before,
+  .lov-article-image::before {
+    inset: 9px;
+  }
+
+  .editorial-cover--hero::after,
+  .lov-article-image::after {
+    left: 14px;
+    bottom: 13px;
+    font-size: 0.64rem;
+  }
+
+  .latest-item .editorial-cover,
+  .latest-item > img {
+    min-height: 6.5rem;
+    height: 100%;
+    aspect-ratio: 1;
+  }
+
+  .lov-archive-row__image::after {
+    left: 9px;
+    bottom: 8px;
+    height: 22px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .editorial-cover img {
+    transition: none;
+  }
+}

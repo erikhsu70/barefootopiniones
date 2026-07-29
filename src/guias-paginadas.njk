@@ -34,7 +34,7 @@ pageClass: resource-index
     {% for post in pagedGuides %}
       <article class="resource-card">
         <a href="{{ post.url }}">
-          <div class="resource-card__image">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy" width="720" height="450">{% endif %}</div>
+          <div class="resource-card__image editorial-cover editorial-cover--card">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy" width="720" height="450">{% endif %}</div>
           <div class="resource-card__body">
             <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
             <h3>{{ post.data.title }}</h3>

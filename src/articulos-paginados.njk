@@ -18,7 +18,7 @@ pageClass: lovable-archive
   <ul class="lov-archive-list">
     {% for post in pagedPosts %}
       <li class="lov-archive-row"><a href="{{ post.url }}">
-        <div class="lov-archive-row__image">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">{% endif %}</div>
+        <div class="lov-archive-row__image editorial-cover editorial-cover--card">{% if (post | featuredImage) %}<img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">{% endif %}</div>
         <div><h2>{{ post.data.title }}</h2>{% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}</div>
         <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
       </a></li>

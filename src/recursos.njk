@@ -9,7 +9,9 @@ permalink: /recursos/
   {% for post in collections.recursos %}
     <article class="post-card">
       <a href="{{ post.url }}">
-        <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
+        <div class="editorial-cover editorial-cover--card">
+          <img src="{{ (post | featuredImage) }}" alt="{{ (post | featuredImageAlt) or post.data.title }}" loading="lazy">
+        </div>
         <div class="post-card-content">
           <div class="post-meta"><span>{{ post.data.category }}</span></div>
           <h3>{{ post.data.title }}</h3>

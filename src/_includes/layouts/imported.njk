@@ -23,7 +23,7 @@ layout: layouts/base.njk
     </div>
     {% set articleImage = modelMedia.featured.src if modelMedia and modelMedia.featured else image %}
     {% if articleImage %}
-    <div class="lov-article-image">
+    <div class="lov-article-image editorial-cover editorial-cover--hero">
       <img src="{{ articleImage }}" alt="{{ modelMedia.featured.alt if modelMedia and modelMedia.featured else imageAlt or title }}" loading="eager" width="1600" height="900">
     </div>
     {% endif %}
