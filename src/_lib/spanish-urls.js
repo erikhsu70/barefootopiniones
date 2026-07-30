@@ -542,7 +542,7 @@ const faqLegacyPaths = Object.fromEntries(
     ])
 );
 const customLegacyPaths = {
-  "/lems-shoes-opinion-tallas-modelos/": "/lems-opinion-tallas-modelos/",
+  "/lems-opinion-tallas-modelos/": "/lems-shoes-opinion-tallas-modelos/",
   "/origo-shoes-opinion-tallas/": "/origo-opinion-tallas/",
   "/opiniones/": "/opiniones/1/",
   "/resenas/": "/opiniones/1/",

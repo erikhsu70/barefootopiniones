@@ -6,7 +6,7 @@ date: 2026-07-27
 category: "Opinión"
 tags: ["resenas", "guia", "botas", "senderismo", "puntera-ancha", "deporte"]
 contentType: "Artículo"
-permalink: /lems-opinion-tallas-modelos/
+permalink: /lems-shoes-opinion-tallas-modelos/
 image: "/assets/images/models/lems__primal-3.png"
 imageAlt: "Zapatillas Lems Primal 3 con puntera ancha sobre fondo claro"
 faqItems:
