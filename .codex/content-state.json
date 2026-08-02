@@ -115,6 +115,30 @@
         "deployment": "production caught up before this run; no new direct deployment triggered",
         "note": "Verified live on the custom domain after retrying the pending pushed-unverified Lems URL. /articulos/, /opiniones/1/, /marca/lems/ and current-sitemap.xml include the URL."
       }
+    },
+    {
+      "topic": "Barebarics: guía de tallas y mejores modelos",
+      "title": "Guía de Barebarics: tallas, ajuste y mejores modelos",
+      "url": "https://barefootopiniones.com/barebarics-guia-tallas-mejores-modelos/",
+      "slug": "barebarics-guia-tallas-mejores-modelos",
+      "status": "pushed_unverified",
+      "commit": "3c9a3ee",
+      "type": "new",
+      "lastChecked": "2026-08-02T21:45:00+02:00",
+      "verification": {
+        "localSourceValidation": "New transparent Barebarics hub drafted from current official sources and Spanish SERP research; uses existing repository Barebarics image and links to the older Barebarics review without replacing its canonical.",
+        "deploymentChecks": 0,
+        "httpStatus": null,
+        "observedH1": null,
+        "expectedH1": "Guía de Barebarics: tallas, ajuste y mejores modelos",
+        "canonical": null,
+        "imageStatus": null,
+        "indexEntry": false,
+        "sitemapEntry": false,
+        "schema": "BlogPosting, Breadcrumb and FAQ expected after build",
+        "render": "not yet verified live",
+        "note": "Do not mark Published until the pushed URL passes H1, canonical, image, index, sitemap, schema and desktop/mobile render checks."
+      }
     }
   ],
   "extraCampaigns": [
