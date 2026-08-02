@@ -124,10 +124,10 @@
       "status": "pushed_unverified",
       "commit": "3c9a3ee",
       "type": "new",
-      "lastChecked": "2026-08-02T21:56:00+02:00",
+      "lastChecked": "2026-08-02T22:00:00+02:00",
       "verification": {
         "localSourceValidation": "New transparent Barebarics hub drafted from current official sources and Spanish SERP research; uses existing repository Barebarics image and links to the older Barebarics review without replacing its canonical.",
-        "deploymentChecks": 1,
+        "deploymentChecks": 2,
         "httpStatus": 200,
         "observedH1": "Barefoot Opiniones",
         "expectedH1": "Guía de Barebarics: tallas, ajuste y mejores modelos",
