@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **300 artículos únicos**.
+Generado desde la web estática publicada. Total: **301 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -12,7 +12,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 |---|---:|---:|
 | Primeros pasos | 14 | 14 |
 | Listas y comparativas | 49 | 50 |
-| Opiniones de marcas | 140 | 150 |
+| Opiniones de marcas | 141 | 151 |
 | Mujer y estilo | 39 | 72 |
 | Niños | 4 | 23 |
 | Botas e invierno | 5 | 41 |
@@ -25,7 +25,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 
 | Formato | Artículos |
 |---|---:|
-| Opinión | 152 |
+| Opinión | 153 |
 | Artículo | 84 |
 | Lista o comparativa | 55 |
 | Guía | 9 |
@@ -101,7 +101,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Wildling Ranidae: botas de lluvia barefoot con puntera ancha](https://barefootopiniones.com/wildling-ranidae-botas-lluvia-barefoot-con/) (1906 palabras)
 - [zapatos barefoot para pies anchos: guía completa](https://barefootopiniones.com/barefoot-pies-anchos-guia-completa/) (2460 palabras)
 
-### Opiniones de marcas (140)
+### Opiniones de marcas (141)
 
 - [Altra Torin 9: mi opinión honesta tras 27 km](https://barefootopiniones.com/altra-torin-9-opinion-honesta/) (3442 palabras)
 - [barefoot Pals: los zapatos más ligeros y flexibles que he revisado](https://barefootopiniones.com/barefoot-pals-zapatos-mas-ligeros-flexibles/) (1733 palabras)
@@ -110,6 +110,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Cómo encargar zapatos personalizados a The Drifter Leather](https://barefootopiniones.com/como-encargar-zapatos-personalizados-the/) (1963 palabras)
 - [Feelgrounds barefoot: opinión y guía de tallas](https://barefootopiniones.com/feelgrounds-barefoot-opinion-guia-tallas/) (1904 palabras)
 - [Groundies Primavera 2023: Hermosos zapatos barefoot en dos anchos](https://barefootopiniones.com/groundies-primavera-2023-hermosos-barefoot-dos/) (1969 palabras)
+- [Guía de Barebarics: tallas, ajuste y mejores modelos](https://barefootopiniones.com/barebarics-guia-tallas-mejores-modelos/) (3201 palabras)
 - [Guia de Merrell barefoot: modelos, tallas y tipo de pie](https://barefootopiniones.com/merrell-barefoot-guia-modelos-tallas/) (2516 palabras)
 - [Las mejores plantillas para usar con zapatos barefoot](https://barefootopiniones.com/mejores-plantillas-usar-con-barefoot/) (1628 palabras)
 - [Lems Primal 3: una zapatilla ancha para todo uso](https://barefootopiniones.com/lems-primal-3-zapatilla-ancha-todo-uso/) (1883 palabras)
