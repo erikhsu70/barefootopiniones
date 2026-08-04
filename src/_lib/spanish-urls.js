@@ -79,7 +79,8 @@ const postSlugOverrides = {
   "holiday-party-looks-but-make-it-barefoot-shoes": "looks-fiesta-barefoot",
   "warmest-barefoot-winter-boots-zero-drop": "botas-barefoot-invierno-nieve",
   "barefoot-minimalist-kids-boots": "mejores-botas-barefoot-ninos",
-  "the-foot-shaped-woven-ballerina": "bailarinas-tejidas-puntera-ancha"
+  "the-foot-shaped-woven-ballerina": "bailarinas-tejidas-puntera-ancha",
+  "saguaro-barefoot-shoes-review-affordable-sneakers-whole-family": "opinion-barefoot-saguaro-zapatillas-deportivas"
 };
 
 const segmentTranslations = {
