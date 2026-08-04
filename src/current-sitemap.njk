@@ -4,19 +4,11 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for item in collections.all %}
-{% if item.url and not (item.url | isDiscountUrl) and item.url != page.url %}
+{% set sitemapUrls = collections.all | unifiedSitemapUrls(anyasSitemap.groups, collections.topicArchivePages) %}
+{% for item in sitemapUrls %}
   <url>
-    <loc>{{ site.url }}{{ item.url }}</loc>
-    {% if item.date %}<lastmod>{{ item.date | htmlDateString }}</lastmod>{% endif %}
+    <loc>{{ site.url }}{{ item.path }}</loc>
+    {% if item.lastmod %}<lastmod>{{ item.lastmod }}</lastmod>{% endif %}
   </url>
-{% endif %}
-{% endfor %}
-{% for topicPage in collections.topicArchivePages %}
-{% if topicPage.topic.key == "opiniones" and topicPage.pageNumber > 1 %}
-  <url>
-    <loc>{{ site.url }}{{ topicPage.url }}</loc>
-  </url>
-{% endif %}
 {% endfor %}
 </urlset>

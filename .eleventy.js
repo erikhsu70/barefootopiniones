@@ -506,6 +506,36 @@ function localizeUrl(url = "") {
   return localizeSpanishUrl(url);
 }
 
+function sitemapDate(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? "" : date.toISOString().split("T")[0];
+}
+
+function unifiedSitemapUrls(collectionItems = [], sitemapGroups = [], topicPages = []) {
+  const entries = new Map();
+
+  const addEntry = (rawPath, rawDate = "") => {
+    if (!rawPath) return;
+    const localizedPath = localizeSpanishUrl(rawPath);
+    if (!localizedPath.startsWith("/") || isDiscountUrl(localizedPath)) return;
+
+    const lastmod = sitemapDate(rawDate);
+    const existing = entries.get(localizedPath);
+    if (!existing || (lastmod && lastmod > existing.lastmod)) {
+      entries.set(localizedPath, { path: localizedPath, lastmod });
+    }
+  };
+
+  for (const item of collectionItems) addEntry(item?.url, item?.date);
+  for (const group of sitemapGroups) {
+    for (const item of group?.urls || []) addEntry(item?.path, item?.lastmod);
+  }
+  for (const topicPage of topicPages) addEntry(topicPage?.url);
+
+  return [...entries.values()].sort((a, b) => a.path.localeCompare(b.path, "es"));
+}
+
 function schemaText(value = "") {
   return decodeHtmlEntities(String(value || ""))
     .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, " ")
@@ -810,6 +840,7 @@ module.exports = function (eleventyConfig) {
       return true;
     });
   });
+  eleventyConfig.addFilter("unifiedSitemapUrls", unifiedSitemapUrls);
   eleventyConfig.addFilter("localizeUrl", localizeUrl);
   eleventyConfig.addFilter("pageNumbers", (total, size = 24) => {
     return Array.from({ length: Math.ceil(Number(total || 0) / Number(size || 24)) }, (_, index) => index + 1);

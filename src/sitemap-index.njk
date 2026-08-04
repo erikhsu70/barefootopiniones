@@ -7,9 +7,4 @@ eleventyExcludeFromCollections: true
   <sitemap>
     <loc>{{ site.url }}/current-sitemap.xml</loc>
   </sitemap>
-{% for sitemapGroup in anyasSitemap.groups %}
-  <sitemap>
-    <loc>{{ site.url }}/{{ sitemapGroup.file }}</loc>
-  </sitemap>
-{% endfor %}
 </sitemapindex>
