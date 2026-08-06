@@ -56,12 +56,17 @@ const retiredPageDestinations = {
 };
 
 const postSlugOverrides = {
+  "be-lenka-barefoot-review-2022": "opinion-be-lenka-barefoot-modelos-2022",
   "boat-shoes-but-with-a-wide-toe-box": "zapatos-nauticos-puntera-ancha",
   "cycling-shoes-but-foot-shaped-strong-feet-athletics-review": "opinion-strong-feet-athletics",
   "the-best-wide-toe-box-court-shoes": "mejores-zapatillas-pista-puntera-ancha",
   "the-best-barefoot-sandals-for-kids": "mejores-sandalias-barefoot-ninos",
   "spring-2026-favorites-but-make-it-barefoot-shoes": "favoritos-barefoot-primavera-2026",
   "xero-shoes-spring-2026-collection-review": "opinion-xero-primavera-2026",
+  "freet-barefoot-shoes-review": "opinion-barefoot-freet-todo-necesita-saber",
+  "groundies-review-the-best-barefoot-shoe-brand-for-fashionistas": "opinion-groundies-mejor-marca-barefoot-amantes",
+  "mukishoes-brand-review": "opinion-mukishoes-marca-barefoot-sostenible",
+  "wildling-shoes-spring-summer-2022-review": "opinion-zapatos-wildling-primavera-verano-2022",
   "the-best-wide-toe-box-shoes-that-arent-barefoot": "mejores-zapatos-puntera-ancha-no-barefoot",
   "replace-your-high-heels-with-these-fancy-barefoot-shoes": "alternativas-barefoot-tacones-altos",
   "complete-list-waterproof-barefoot-shoes-rain": "mejor-calzado-barefoot-impermeable",
