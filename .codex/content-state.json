@@ -645,6 +645,136 @@
         "deployment": "pending direct Cloudflare Pages batch deployment",
         "note": "New transparent kids guide using official Origo kids collection, product and FAQ sources; links to existing kids barefoot hub to avoid cannibalization."
       }
+    },
+    {
+      "topic": "Lems Primal Zen vs Primal 3",
+      "title": "Lems Primal Zen vs Primal 3: diferencias y cuál elegir",
+      "url": "https://barefootopiniones.com/lems-primal-zen-vs-primal-3/",
+      "slug": "lems-primal-zen-vs-primal-3",
+      "note": "New transparent comparison using Isabel's real Primal Zen evidence plus official/current Primal 3 sources; no invented Primal 3 hands-on experience.",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-11",
+      "type": "new",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean clone",
+        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
+        "httpStatus": 200,
+        "observedH1": "Lems Primal Zen vs Primal 3: diferencias y cuál elegir",
+        "expectedH1": "Lems Primal Zen vs Primal 3: diferencias y cuál elegir",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live custom-domain HTML checked with viewport, canonical, image, schema, sitemap, article archive and brand archive; table-scroll wrappers verified where tables exist; browser screenshot unavailable because no Chromium/Chrome/Playwright executable or browser-control connector was available",
+        "deployment": "1aba9158",
+        "note": "New transparent comparison using Isabel's real Primal Zen evidence plus official/current Primal 3 sources; no invented Primal 3 hands-on experience. Live verification passed after deployment 1aba9158.",
+        "canonical": "https://barefootopiniones.com/lems-primal-zen-vs-primal-3/"
+      }
+    },
+    {
+      "topic": "Lems Boulder Boot vs Boulder Summit vs Outlander",
+      "title": "Lems Boulder Boot vs Boulder Summit vs Outlander: cuál elegir",
+      "url": "https://barefootopiniones.com/lems-boulder-boot-vs-boulder-summit-outlander/",
+      "slug": "lems-boulder-boot-vs-boulder-summit-outlander",
+      "note": "New transparent boot comparison using official Lems boot specs and waterproof-boot comparison; no invented rain, snow, mileage or durability testing.",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-11",
+      "type": "new",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean clone",
+        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
+        "httpStatus": 200,
+        "observedH1": "Lems Boulder Boot vs Boulder Summit vs Outlander: cuál elegir",
+        "expectedH1": "Lems Boulder Boot vs Boulder Summit vs Outlander: cuál elegir",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live custom-domain HTML checked with viewport, canonical, image, schema, sitemap, article archive and brand archive; table-scroll wrappers verified where tables exist; browser screenshot unavailable because no Chromium/Chrome/Playwright executable or browser-control connector was available",
+        "deployment": "1aba9158",
+        "note": "New transparent boot comparison using official Lems boot specs and waterproof-boot comparison; no invented rain, snow, mileage or durability testing. Live verification passed after deployment 1aba9158.",
+        "canonical": "https://barefootopiniones.com/lems-boulder-boot-vs-boulder-summit-outlander/"
+      }
+    },
+    {
+      "topic": "Lems Switchback Sandal",
+      "title": "Guía de Lems Switchback: sandalias, tallas y cuándo elegirlas",
+      "url": "https://barefootopiniones.com/lems-switchback-sandalias-guia/",
+      "slug": "lems-switchback-sandalias-guia",
+      "note": "New transparent sandal guide using official Switchback specs, sizing, shipping and returns sources; clearly notes 3 mm drop and lack of personal test.",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-11",
+      "type": "new",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean clone",
+        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
+        "httpStatus": 200,
+        "observedH1": "Guía de Lems Switchback: sandalias, tallas y cuándo elegirlas",
+        "expectedH1": "Guía de Lems Switchback: sandalias, tallas y cuándo elegirlas",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live custom-domain HTML checked with viewport, canonical, image, schema, sitemap, article archive and brand archive; table-scroll wrappers verified where tables exist; browser screenshot unavailable because no Chromium/Chrome/Playwright executable or browser-control connector was available",
+        "deployment": "1aba9158",
+        "note": "New transparent sandal guide using official Switchback specs, sizing, shipping and returns sources; clearly notes 3 mm drop and lack of personal test. Live verification passed after deployment 1aba9158.",
+        "canonical": "https://barefootopiniones.com/lems-switchback-sandalias-guia/"
+      }
+    },
+    {
+      "topic": "Barebarics Zing",
+      "title": "Guía de Barebarics Zing: tallas, ajuste y alternativas",
+      "url": "https://barefootopiniones.com/barebarics-zing-guia-tallas/",
+      "slug": "barebarics-zing-guia-tallas",
+      "note": "New transparent model guide using official Barebarics product/returns snippets plus Barefoot Review SERP context; no invented personal wear.",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-11",
+      "type": "new",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean clone",
+        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
+        "httpStatus": 200,
+        "observedH1": "Guía de Barebarics Zing: tallas, ajuste y alternativas",
+        "expectedH1": "Guía de Barebarics Zing: tallas, ajuste y alternativas",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live custom-domain HTML checked with viewport, canonical, image, schema, sitemap, article archive and brand archive; table-scroll wrappers verified where tables exist; browser screenshot unavailable because no Chromium/Chrome/Playwright executable or browser-control connector was available",
+        "deployment": "1aba9158",
+        "note": "New transparent model guide using official Barebarics product/returns snippets plus Barefoot Review SERP context; no invented personal wear. Live verification passed after deployment 1aba9158.",
+        "canonical": "https://barefootopiniones.com/barebarics-zing-guia-tallas/"
+      }
+    },
+    {
+      "topic": "Barebarics Zing vs Wave vs Dropsta",
+      "title": "Barebarics Zing vs Wave vs Dropsta: cuál elegir",
+      "url": "https://barefootopiniones.com/barebarics-zing-vs-wave-vs-dropsta/",
+      "slug": "barebarics-zing-vs-wave-vs-dropsta",
+      "note": "New transparent Barebarics comparison using official Zing, Wave and Dropsta source data plus external review context; avoids duplicate brand-hub intent.",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-11",
+      "type": "new",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean clone",
+        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
+        "httpStatus": 200,
+        "observedH1": "Barebarics Zing vs Wave vs Dropsta: cuál elegir",
+        "expectedH1": "Barebarics Zing vs Wave vs Dropsta: cuál elegir",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live custom-domain HTML checked with viewport, canonical, image, schema, sitemap, article archive and brand archive; table-scroll wrappers verified where tables exist; browser screenshot unavailable because no Chromium/Chrome/Playwright executable or browser-control connector was available",
+        "deployment": "1aba9158",
+        "note": "New transparent Barebarics comparison using official Zing, Wave and Dropsta source data plus external review context; avoids duplicate brand-hub intent. Live verification passed after deployment 1aba9158.",
+        "canonical": "https://barefootopiniones.com/barebarics-zing-vs-wave-vs-dropsta/"
+      }
     }
   ],
   "extraCampaigns": [
@@ -672,6 +802,15 @@
         "schema": "BlogPosting/Article, Breadcrumb and FAQ",
         "note": "Verified live on the custom domain after the production site caught up. Extra campaign article remains recorded under extraCampaigns and did not consume or alter the normal topics queue."
       }
+    }
+  ],
+  "blockedTopics": [
+    {
+      "topic": "Lems ZenSpeed",
+      "status": "blocked",
+      "lastChecked": "2026-08-11T18:36:00+02:00",
+      "reason": "Skipped during 2026-08-11 batch because official Lems source describes ZenSpeed as coming Fall 2026; availability is uncertain as of the run date, so a recommendation guide would risk speculative buying advice.",
+      "nextAction": "Recheck official product availability and full specs after launch before selecting this topic."
     }
   ]
 }
