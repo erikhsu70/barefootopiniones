@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Mejores zapatillas barefoot para la salud del pie"
+title: "8 mejores zapatillas barefoot para la salud del pie"
 description: "Comparo 8 zapatillas barefoot para cuidar la salud del pie según anchura, flexibilidad, drop, transición y uso real, sin promesas milagrosas."
 date: 2026-08-12
 category: "Guías"
@@ -20,6 +20,10 @@ faqItems:
     answer: "No existe un plazo universal. La respuesta depende del calzado anterior, la actividad, la fuerza del pie y los síntomas. Conviene aumentar el uso poco a poco y valorar la reacción durante las 24 horas siguientes."
   - question: "¿Más fina significa más saludable?"
     answer: "No necesariamente. Una suela fina aumenta la información del suelo y el trabajo del pie, pero también la carga. La mejor suela es la más fina que puedas tolerar con buena técnica y sin dolor, no la más extrema disponible."
+  - question: "¿Quién debería consultar antes de usar zapatillas barefoot?"
+    answer: "Conviene pedir valoración profesional si existe pérdida de sensibilidad, una lesión reciente, dolor persistente, una fractura previa por estrés o una enfermedad que afecte a la circulación o al control del pie."
+  - question: "¿Cómo sé si estoy haciendo la transición demasiado rápido?"
+    answer: "El cansancio muscular leve puede ser normal, pero el dolor localizado, la cojera, la sensibilidad ósea o unas molestias que empeoran de un día para otro indican que debes reducir la carga y revisar el proceso."
 ---
 
 1. Lems Primal Zen
@@ -221,6 +225,8 @@ El espacio para los dedos se puede buscar desde el primer día. La tolerancia a 
 
 ## Preguntas frecuentes
 
+<p class="article-faq-intro">Las dudas que más se repiten antes de cambiar de calzado, respondidas sin promesas milagrosas.</p>
+
 <div class="article-faq-accordion">
   <details>
     <summary>¿Las zapatillas barefoot son siempre mejores para la salud del pie?</summary>
@@ -241,5 +247,13 @@ El espacio para los dedos se puede buscar desde el primer día. La tolerancia a 
   <details>
     <summary>¿Más fina significa más saludable?</summary>
     <div><p>No necesariamente. Una suela fina aumenta la información del suelo y el trabajo del pie, pero también la carga. La mejor suela es la más fina que puedas tolerar con buena técnica y sin dolor, no la más extrema disponible.</p></div>
+  </details>
+  <details>
+    <summary>¿Quién debería consultar antes de usar zapatillas barefoot?</summary>
+    <div><p>Conviene pedir valoración profesional si existe pérdida de sensibilidad, una lesión reciente, dolor persistente, una fractura previa por estrés o una enfermedad que afecte a la circulación o al control del pie.</p></div>
+  </details>
+  <details>
+    <summary>¿Cómo sé si estoy haciendo la transición demasiado rápido?</summary>
+    <div><p>El cansancio muscular leve puede ser normal, pero el dolor localizado, la cojera, la sensibilidad ósea o unas molestias que empeoran de un día para otro indican que debes reducir la carga y revisar el proceso.</p></div>
   </details>
 </div>
