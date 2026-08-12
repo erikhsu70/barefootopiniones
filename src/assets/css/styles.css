@@ -1017,6 +1017,65 @@ h3 {
   color: rgba(21, 18, 15, 0.82);
 }
 
+.article-faq-accordion {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.article-faq-accordion details {
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  box-shadow: var(--soft-shadow);
+}
+
+.article-faq-accordion summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  color: var(--ink);
+  background: linear-gradient(90deg, rgba(244, 201, 93, 0.2), rgba(255, 254, 253, 0));
+  font-weight: 750;
+  line-height: 1.35;
+  cursor: pointer;
+  list-style: none;
+}
+
+.article-faq-accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.article-faq-accordion summary::after {
+  content: "+";
+  flex: 0 0 2rem;
+  display: grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  color: #fff;
+  background: var(--clay);
+  border-radius: 999px;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.article-faq-accordion details[open] summary::after {
+  content: "−";
+}
+
+.article-faq-accordion details > div {
+  padding: 0 1.1rem 1rem;
+  color: rgba(21, 18, 15, 0.82);
+}
+
+.article-faq-accordion details > div p:last-child {
+  margin-bottom: 0;
+}
+
 .imported-content .ewd-ufaq-hidden {
   display: block;
 }
