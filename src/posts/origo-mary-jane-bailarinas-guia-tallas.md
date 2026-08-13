@@ -29,17 +29,17 @@ Esta guía separa bien las cosas. Hay evidencia real en el archivo con Origo, es
 
 ## Índice
 
-- [Modelos de la colección](#modelos-de-la-coleccion)
-- [Tabla de decisión](#tabla-de-decision)
-- [Tallas y tipo de pie](#tallas-y-tipo-de-pie)
-- [Materiales y suela](#materiales-y-suela)
+- [Modelos Origo Mary Jane y Woven Ballerina](#modelos-origo-mary-jane-y-woven-ballerina)
+- [Tabla de decisión Origo Mary Jane y Woven Ballerina](#tabla-de-decision-origo-mary-jane-y-woven-ballerina)
+- [Tallas y tipo de pie en Origo Mary Jane y Woven Ballerina](#tallas-y-tipo-de-pie-en-origo-mary-jane-y-woven-ballerina)
+- [Materiales y suela de Origo Mary Jane y Woven Ballerina](#materiales-y-suela-de-origo-mary-jane-y-woven-ballerina)
 - [Cómo combinarlas](#como-combinarlas)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Modelos de la colección
+## Modelos Origo Mary Jane y Woven Ballerina
 
 Classic Mary Jane es la versión más limpia: piel natural, hebilla, suela de goma de 3 mm con textura, puntera amplia y cero drop. La ficha oficial revisada lista tallas US 6 a 11, equivalentes EU 35.5 a 42, y la presenta como zapato para vestir o diario.
 
@@ -50,7 +50,7 @@ T-Strap añade una correa central que puede dar más sensación visual de sujeci
   <figcaption>Imagen oficial de Origo Classic Mary Jane. La clave es conservar una silueta clásica sin volver a una puntera estrecha.</figcaption>
 </figure>
 
-## Tabla de decisión
+## Tabla de decisión Origo Mary Jane y Woven Ballerina
 
 <div class="table-scroll" role="region" aria-label="Tabla Origo Mary Jane y Woven Ballerina" tabindex="0">
 
@@ -64,7 +64,7 @@ T-Strap añade una correa central que puede dar más sensación visual de sujeci
 
 </div>
 
-## Tallas y tipo de pie
+## Tallas y tipo de pie en Origo Mary Jane y Woven Ballerina
 
 Origo suele funcionar mejor en pies de volumen bajo a medio y anchura media a medio-ancha. Eso no es malo: mucha gente necesita exactamente eso. Pero si tu pie es extra ancho, cuadrado de dedos o alto de empeine, no asumiría que todas las Origo de vestir te van a salvar.
 
@@ -79,7 +79,7 @@ Para talla:
 5. Prueba en interior con la ropa real.
 6. No confundas ancho de dedos con volumen de empeine.
 
-## Materiales y suela
+## Materiales y suela de Origo Mary Jane y Woven Ballerina
 
 Classic Mary Jane usa piel natural certificada por Leather Working Group y suela de goma de 3 mm con textura. Es muy fina comparada con una bailarina convencional acolchada, así que si vienes de mucha amortiguación, úsala por ratos.
 
@@ -95,7 +95,7 @@ Si solo vas a comprar una, elegiría por ajuste antes que por color. Una Mary Ja
 
 Para comparar fuera de Origo, mira [bailarinas y Mary Jane barefoot para 2026](/bailarinas-mary-jane-barefoot-2026/), [zapatillas barefoot bonitas para vestir a diario](/mejores-zapatillas-barefoot-bonitas-diario/) y [zapatos barefoot con estilo](/zapatillas-barefoot-con-estilo/). Si quieres una guía de marca completa, vuelve a [Origo Shoes](/origo-opinion-tallas/). Si necesitas mucho ancho, Be Lenka, Shapen o Softstar pueden tener más margen.
 
-## Ajuste fino: talón, empeine y correa
+## Ajuste fino en Origo Mary Jane y Woven Ballerina
 
 En zapatos tipo Mary Jane, el problema no suele ser solo la puntera. El talón y el empeine deciden si el zapato se queda contigo o si vas arrastrándolo con los dedos. Si tienes talón estrecho, una correa ayuda, pero no siempre basta. Double Strap o T-Strap pueden dar más estabilidad que una bailarina sin sujeción.
 

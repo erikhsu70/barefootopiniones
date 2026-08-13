@@ -29,17 +29,17 @@ Esta guía no es una reseña personal de Isabel con Adventurer Boot. Barefoot Op
 
 ## Índice
 
-- [Qué es Adventurer Boot](#que-es-adventurer-boot)
-- [Materiales y suela](#materiales-y-suela)
-- [Tallas y tipo de pie](#tallas-y-tipo-de-pie)
-- [Tabla de decisión](#tabla-de-decision)
+- [Qué es Origo Adventurer Boot](#que-es-origo-adventurer-boot)
+- [Materiales y suela de Origo Adventurer Boot](#materiales-y-suela-de-origo-adventurer-boot)
+- [Tallas y tipo de pie en Origo Adventurer Boot](#tallas-y-tipo-de-pie-en-origo-adventurer-boot)
+- [Tabla de decisión Origo Adventurer Boot](#tabla-de-decision-origo-adventurer-boot)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Qué es Adventurer Boot
+## Qué es Origo Adventurer Boot
 
 Adventurer Boot forma parte de la serie Origo Nomad, calzado cosido artesanalmente en León, México. La ficha oficial la presenta para hombre y mujer, con piel natural certificada por Leather Working Group, cordones de algodón encerado, puntera amplia y cero drop. Es una bota más seria que una sneaker, pero no intenta ser una bota militar o de montaña rígida.
 
@@ -50,13 +50,13 @@ Adventurer Boot forma parte de la serie Origo Nomad, calzado cosido artesanalmen
 
 En la SERP aparece como alternativa para quien quiere reemplazar botas heritage o de trabajo que aprietan dedos. Origo incluso la comunica como barefoot work boot, pero aquí conviene matizar: "work boot" no equivale a bota de seguridad certificada. Si necesitas puntera reforzada, resistencia eléctrica, antiperforación o normativa laboral, busca certificación explícita.
 
-## Materiales y suela
+## Materiales y suela de Origo Adventurer Boot
 
 La ficha oficial indica 100% piel natural exterior certificada, interior de piel y malla textil, cordones encerados y una suela con stack total de 10,5 mm. Ese stack se reparte en plantilla Cellfit de 3 mm, plantilla strobel de 2 mm, suela de piel natural de 2,5 mm y outsole de goma con fibra de agave de 3 mm.
 
 Eso la coloca en un punto interesante: más protegida que un huarache o una bailarina fina, pero mucho más flexible y plana que una bota clásica. El cuero debería adaptarse con uso, pero no conviene comprar una talla mala esperando que el milagro lo haga todo.
 
-## Tallas y tipo de pie
+## Tallas y tipo de pie en Origo Adventurer Boot
 
 Origo marca Adventurer Boot como mejor para pies de volumen bajo a medio. Esa frase es clave. Si tienes empeine alto, pie muy grueso o necesitas mucho volumen con calcetín de invierno, prueba con cuidado. La bota puede tener puntera amplia y aun así quedarse justa en empeine.
 
@@ -71,7 +71,7 @@ Para talla:
 
 La versión de mujer revisada lista tallas US 6 a 11, con equivalencias EU 35.5 a 42. La versión de hombre revisada llega de US 8 a 13, EU 40 a 47. Las medias tallas pueden ayudar, pero no reemplazan medir.
 
-## Tabla de decisión
+## Tabla de decisión Origo Adventurer Boot
 
 <div class="table-scroll" role="region" aria-label="Tabla para decidir Origo Adventurer Boot" tabindex="0">
 
@@ -112,7 +112,7 @@ Si quieres algo más outdoor, mira [Merrell Wrapt](/merrell-wrapt-guia-senderism
 
 Si tu prioridad es bota para pies muy anchos, revisa [zapatos de puntera ancha](/zapatos-puntera-ancha-no-barefoot/) y marcas como Softstar o Realfoot.
 
-## Cuidado de la piel y expectativas
+## Cuidado de la piel en Origo Adventurer Boot
 
 La piel natural es una ventaja si te gusta que una bota envejezca con carácter, pero también exige algo de responsabilidad. Origo recomienda acondicionar la piel de forma regular y aplicar un protector si la bota va a exponerse a lluvia o nieve. Eso no significa que debas convertirla en una bota impermeable; significa que la piel puede resistir mejor el uso cotidiano si la cuidas.
 
