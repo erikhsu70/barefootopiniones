@@ -483,7 +483,7 @@ function limitSeoDescription(text) {
   return `${shortened || cleaned.slice(0, maxLength - 3).trim()}...`;
 }
 
-const ASSET_CACHE_VERSION = "hsts-20260813";
+const ASSET_CACHE_VERSION = "homepage-20260813";
 
 function addAssetCacheVersion(url) {
   if (!url || !url.includes("/assets/") || /[?&]hsts=/.test(url)) return url;
