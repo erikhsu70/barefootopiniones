@@ -469,6 +469,33 @@ function cleanSummaryText(text) {
   return `${shortened}...`;
 }
 
+function limitSeoDescription(text) {
+  const cleaned = String(text || "").replace(/\s+/g, " ").trim();
+  const maxLength = 145;
+
+  if (cleaned.length <= maxLength) return cleaned;
+
+  const shortened = cleaned
+    .slice(0, maxLength - 3)
+    .replace(/\s+\S*$/, "")
+    .replace(/[.,;:!?¿¡]+$/, "");
+
+  return `${shortened || cleaned.slice(0, maxLength - 3).trim()}...`;
+}
+
+const ASSET_CACHE_VERSION = "hsts-20260813";
+
+function addAssetCacheVersion(url) {
+  if (!url || !url.includes("/assets/") || /[?&]hsts=/.test(url)) return url;
+
+  const hashIndex = url.indexOf("#");
+  const beforeHash = hashIndex === -1 ? url : url.slice(0, hashIndex);
+  const hash = hashIndex === -1 ? "" : url.slice(hashIndex);
+  const separator = beforeHash.includes("?") ? "&" : "?";
+
+  return `${beforeHash}${separator}hsts=${ASSET_CACHE_VERSION}${hash}`;
+}
+
 function decodeHtmlEntities(text) {
   return String(text || "")
     .replace(/&amp;/g, "&")
@@ -825,9 +852,9 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("seoTitle", seoTitle);
   eleventyConfig.addFilter("seoDescription", (description, fallback) => {
-    const cleaned = cleanSummaryText(description);
+    const cleaned = limitSeoDescription(cleanSummaryText(description));
     if (cleaned && cleaned.length >= 45) return cleaned;
-    return cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie.");
+    return limitSeoDescription(cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie."));
   });
   eleventyConfig.addFilter("schemaJson", (value) => JSON.stringify(value, null, 2).replace(/</g, "\\u003c"));
   eleventyConfig.addFilter("isDiscountUrl", isDiscountUrl);
@@ -1014,6 +1041,39 @@ module.exports = function (eleventyConfig) {
     return content.replace(/href=(["'])(\/[^"']*)\1/gi, (match, quote, href) => {
       return `href=${quote}${localizeSpanishUrl(href)}${quote}`;
     });
+  });
+
+  eleventyConfig.addTransform("disableCloudflareEmailObfuscation", function (content) {
+    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
+
+    return content.replace(
+      /([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,})/gi,
+      "<!--email_off-->$1<!--/email_off-->"
+    );
+  });
+
+  eleventyConfig.addTransform("versionAssetUrls", function (content) {
+    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
+
+    return content
+      .replace(/\b(href|src|poster|content)=(["'])(\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
+        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
+      })
+      .replace(/\b(content)=(["'])(https:\/\/barefootopiniones\.com\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
+        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
+      })
+      .replace(/\b(srcset)=(["'])([^"']*\/assets\/[^"']*)\2/gi, (match, attribute, quote, value) => {
+        const versioned = value
+          .split(",")
+          .map((candidate) => {
+            const trimmed = candidate.trim();
+            const [url, descriptor] = trimmed.split(/\s+/, 2);
+            return [addAssetCacheVersion(url), descriptor].filter(Boolean).join(" ");
+          })
+          .join(", ");
+
+        return `${attribute}=${quote}${versioned}${quote}`;
+      });
   });
 
   return {

@@ -29,9 +29,9 @@ Esta comparativa no es una reseña personal de Isabel con estos dos modelos actu
 
 ## Índice
 
-- [Diferencia rápida](#diferencia-rapida)
-- [Tabla comparativa](#tabla-comparativa)
-- [Ajuste y tallas](#ajuste-y-tallas)
+- [Diferencia rápida entre Vibram V-Trail 2.0 y V-Run](#diferencia-rapida-entre-vibram-v-trail-20-y-v-run)
+- [Tabla comparativa Vibram V-Trail 2.0 vs V-Run](#tabla-comparativa-vibram-v-trail-20-vs-v-run)
+- [Ajuste y tallas de Vibram V-Trail 2.0 y V-Run](#ajuste-y-tallas-de-vibram-v-trail-20-y-v-run)
 - [Cuándo elegir V-Trail 2.0](#cuando-elegir-v-trail-20)
 - [Cuándo elegir V-Run](#cuando-elegir-v-run)
 - [Alternativas](#alternativas)
@@ -39,7 +39,7 @@ Esta comparativa no es una reseña personal de Isabel con estos dos modelos actu
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Diferencia rápida
+## Diferencia rápida entre Vibram V-Trail 2.0 y V-Run
 
 V-Trail 2.0 es la FiveFingers de montaña clásica de Vibram. La ficha española revisada la presenta para correr en naturaleza, pistas de trail y carreras de obstáculos. Añade laminación alrededor de los dedos para proteger costuras, upper que repele mejor el agua que la versión anterior, tecnología 3D Cocoon en la suela para repartir impactos de rocas o raíces, y compuesto Megagrip para agarre en seco y mojado.
 
@@ -50,7 +50,7 @@ V-Run es otra historia. La guía ya publicada la sitúa como FiveFingers de runn
   <figcaption>Imagen oficial de Vibram V-Trail 2.0. Su ventaja frente a V-Run está en agarre y protección para terreno irregular.</figcaption>
 </figure>
 
-## Tabla comparativa
+## Tabla comparativa Vibram V-Trail 2.0 vs V-Run
 
 <div class="table-scroll" role="region" aria-label="Comparativa Vibram V-Trail 2.0 y V-Run" tabindex="0">
 
@@ -66,7 +66,7 @@ V-Run es otra historia. La guía ya publicada la sitúa como FiveFingers de runn
 
 </div>
 
-## Ajuste y tallas
+## Ajuste y tallas de Vibram V-Trail 2.0 y V-Run
 
 En FiveFingers la talla no se decide como en una sneaker. Cada dedo entra en su bolsillo, y eso hace que pequeñas diferencias importen. Vibram recomienda medir ambos pies en centímetros, usar el pie más largo y revisar la guía oficial. También conviene pensar en calcetines de dedos: añaden volumen y pueden cambiar la talla útil.
 
@@ -99,7 +99,7 @@ Si quieres dedos separados pero menos especialización, [KSO EVO](/vibram-kso-ev
 
 Si todavía estás decidiendo si FiveFingers tiene sentido, empieza por [cómo elegir la talla de Vibram FiveFingers](/vibram-fivefingers-elegir-talla/) y por [ejercicios de transición barefoot](/ejercicios-pies-transicion-barefoot/).
 
-## Qué revisaría antes de comprar
+## Qué revisaría antes de comprar Vibram V-Trail 2.0 o V-Run
 
 Antes de comprar cualquiera de las dos, miraría tres cosas que no salen en una foto bonita. La primera es el terreno real, no el terreno aspiracional. Si corres el 90% en acera y solo pisas tierra compacta un domingo al mes, V-Run tiene más sentido. Si el suelo habitual incluye piedra suelta, raíz, bajadas y barro ocasional, V-Trail 2.0 responde mejor a la realidad.
 
