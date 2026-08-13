@@ -1043,6 +1043,15 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addTransform("disableCloudflareEmailObfuscation", function (content) {
+    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
+
+    return content.replace(
+      /([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,})/gi,
+      "<!--email_off-->$1<!--/email_off-->"
+    );
+  });
+
   eleventyConfig.addTransform("versionAssetUrls", function (content) {
     if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
 
