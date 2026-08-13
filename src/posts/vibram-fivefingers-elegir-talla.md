@@ -29,17 +29,17 @@ Esta guía acompaña a la [guía principal de Vibram FiveFingers](/vibram-fivefi
 
 ## Índice
 
-- [Paso a paso para medir](#paso-a-paso-para-medir)
-- [Cómo debe sentirse](#como-debe-sentirse)
+- [Paso a paso para elegir talla Vibram FiveFingers](#paso-a-paso-para-elegir-talla-vibram-fivefingers)
+- [Cómo debe sentirse la talla Vibram FiveFingers](#como-debe-sentirse-la-talla-vibram-fivefingers)
 - [Calcetines de dedos](#calcetines-de-dedos)
-- [Errores comunes](#errores-comunes)
-- [Tabla por modelo](#tabla-por-modelo)
+- [Errores comunes con la talla Vibram FiveFingers](#errores-comunes-con-la-talla-vibram-fivefingers)
+- [Tabla de talla Vibram FiveFingers por modelo](#tabla-de-talla-vibram-fivefingers-por-modelo)
 - [Alternativas si no encajas](#alternativas-si-no-encajas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Paso a paso para medir
+## Paso a paso para elegir talla Vibram FiveFingers
 
 Vibram recomienda medir desde el talón hasta el dedo más largo. Hazlo con ambos pies, porque casi nadie es perfectamente simétrico. Usa la medida mayor. Si mides solo el pie pequeño, el grande pagará la factura.
 
@@ -60,7 +60,7 @@ No redondees con alegría. En FiveFingers, 3 o 4 mm pueden cambiar el ajuste. Si
   <figcaption>Imagen oficial de KSO EVO. En FiveFingers el largo de cada dedo importa más que en una zapatilla de puntera amplia convencional.</figcaption>
 </figure>
 
-## Cómo debe sentirse
+## Cómo debe sentirse la talla Vibram FiveFingers
 
 Una FiveFingers no debería sentirse como una zapatilla con espacio libre delante. Debería sentirse cercana al pie, como un guante. Pero guante no significa tortura. Los dedos deben entrar rectos, sin doblarse ni presionar con insistencia el frontal.
 
@@ -88,7 +88,7 @@ Los calcetines de dedos pueden ser una gran idea. Reducen roce, absorben sudor, 
 
 Si vas a usar calcetines, prueba talla con calcetines. Si compras muy justa sin calcetines, luego puede no entrar bien. Si compras pensando en calcetín grueso y luego corres sin él, quizá notes exceso.
 
-## Errores comunes
+## Errores comunes con la talla Vibram FiveFingers
 
 El primer error es elegir tu talla habitual de zapatilla de running. Muchas zapatillas convencionales tienen margen, espuma y una puntera genérica. FiveFingers no.
 
@@ -96,7 +96,7 @@ El segundo error es querer que sirva para todo. KSO EVO, V-Run y V-Trail 2.0 com
 
 El tercer error es correr demasiado pronto. Aunque aciertes talla, el pie, gemelo y sóleo necesitan adaptación. En salud, lo honesto es decirlo sin drama: si hay dolor persistente, lesión, neuropatía, diabetes o dudas clínicas, consulta a un profesional.
 
-## Tabla por modelo
+## Tabla de talla Vibram FiveFingers por modelo
 
 <div class="table-scroll" role="region" aria-label="Tabla de talla y uso Vibram FiveFingers" tabindex="0">
 
@@ -116,7 +116,7 @@ Si FiveFingers no encaja con tu forma de dedos, no significa que el barefoot no 
 
 Si todavía estás aprendiendo conceptos, empieza por [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y [cómo elegir tu primer par barefoot](/ufaq/how-do-i-pick-my-first-pair-of-barefoot-shoes/).
 
-## Prueba en casa: cinco minutos bien usados
+## Prueba en casa de la talla Vibram FiveFingers
 
 Cuando llegue el par, haz una prueba corta y metódica. Primero coloca cada dedo sin tirar fuerte de la tela. Si tienes que pelearte con un dedo para que entre, mala señal. Después camina despacio por casa, sube y baja un escalón y ponte de puntillas. El zapato debe acompañar, no recolocar tus dedos a la fuerza.
 

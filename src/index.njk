@@ -96,6 +96,21 @@ image: /assets/generated/featured/homepage-original.png
   </div>
 </section>
 
+<section class="section home-brand-directory" aria-labelledby="marcas-home">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Directorio de marcas</p>
+      <h2 id="marcas-home">Todas las marcas barefoot.</h2>
+    </div>
+    <p>Accede a todas las opiniones, guías y artículos agrupados por marca.</p>
+  </div>
+  <nav class="section-inner home-faq-links" aria-label="Todas las marcas barefoot">
+    {% for brand in brandLinks %}
+      <a href="{{ brand.url }}">{{ brand.name }}</a>
+    {% endfor %}
+  </nav>
+</section>
+
 {% if secondaryPosts.length %}
 <section class="section home-editor-picks">
   <div class="section-head">
