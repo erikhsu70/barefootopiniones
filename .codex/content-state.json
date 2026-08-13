@@ -783,9 +783,9 @@
       "slug": "be-lenka-vs-barebarics-ajuste-suela-estilo",
       "note": "New transparent comparison using official Be Lenka/Barebarics suelas, sizing and SERP sources; no invented full-range hands-on testing.",
       "status": "Published",
-      "commit": "daily-batch-2026-08-12",
+      "commit": "4996ad6",
       "type": "new",
-      "lastChecked": "2026-08-12T18:20:00+02:00",
+      "lastChecked": "2026-08-13T13:21:33+02:00",
       "verification": {
         "localBuild": "npm run build passed from clean clone",
         "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
@@ -797,9 +797,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "local generated HTML inspected; viewport, canonical, image, schema, sitemap, article archive and brand archive checked; table-scroll wrappers verified where tables exist; browser screenshot unavailable in this runtime",
-        "deployment": "pending direct Cloudflare Pages batch deployment",
-        "note": "New transparent comparison using official Be Lenka/Barebarics suelas, sizing and SERP sources; no invented full-range hands-on testing. Live verification to be recorded in automation memory after deployment."
+        "render": "clean desktop at 1440x1000 and mobile at 390x844; no horizontal overflow, featured image loaded, comparison table contained and no console errors",
+        "deployment": "bfa6848d",
+        "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Barebarics brand archive and current sitemap all verified."
       }
     },
     {
@@ -809,9 +809,9 @@
       "slug": "freet-tundra-guia-senderismo-impermeable",
       "note": "New transparent Freet Tundra guide using official current Freet specs, sizing and EU return sources; no invented trail, rain or durability testing.",
       "status": "Published",
-      "commit": "daily-batch-2026-08-12",
+      "commit": "4996ad6",
       "type": "new",
-      "lastChecked": "2026-08-12T18:20:00+02:00",
+      "lastChecked": "2026-08-13T13:21:33+02:00",
       "verification": {
         "localBuild": "npm run build passed from clean clone",
         "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
@@ -823,9 +823,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "local generated HTML inspected; viewport, canonical, image, schema, sitemap, article archive and brand archive checked; table-scroll wrappers verified where tables exist; browser screenshot unavailable in this runtime",
-        "deployment": "pending direct Cloudflare Pages batch deployment",
-        "note": "New transparent Freet Tundra guide using official current Freet specs, sizing and EU return sources; no invented trail, rain or durability testing. Live verification to be recorded in automation memory after deployment."
+        "render": "live responsive safeguards verified; representative desktop and mobile render clean with no horizontal overflow or console errors",
+        "deployment": "bfa6848d",
+        "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Freet brand archive and current sitemap all verified."
       }
     },
     {
@@ -835,9 +835,9 @@
       "slug": "mejores-freet-correr-gimnasio-caminar",
       "note": "New Freet by-use guide based on official Pace, Vibe 2, Flex 2 and comparison-table data; running guidance kept conservative.",
       "status": "Published",
-      "commit": "daily-batch-2026-08-12",
+      "commit": "4996ad6",
       "type": "new",
-      "lastChecked": "2026-08-12T18:20:00+02:00",
+      "lastChecked": "2026-08-13T13:21:33+02:00",
       "verification": {
         "localBuild": "npm run build passed from clean clone",
         "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
@@ -849,9 +849,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "local generated HTML inspected; viewport, canonical, image, schema, sitemap, article archive and brand archive checked; table-scroll wrappers verified where tables exist; browser screenshot unavailable in this runtime",
-        "deployment": "pending direct Cloudflare Pages batch deployment",
-        "note": "New Freet by-use guide based on official Pace, Vibe 2, Flex 2 and comparison-table data; running guidance kept conservative. Live verification to be recorded in automation memory after deployment."
+        "render": "live responsive safeguards verified; representative desktop and mobile render clean with no horizontal overflow or console errors",
+        "deployment": "bfa6848d",
+        "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Freet brand archive and current sitemap all verified."
       }
     },
     {
@@ -861,9 +861,9 @@
       "slug": "saguaro-ninos-smart-vigor-alternativas",
       "note": "New transparent kids guide using official Saguaro Smart I, current collection, sizing and returns sources plus conservative pediatric footwear evidence.",
       "status": "Published",
-      "commit": "daily-batch-2026-08-12",
+      "commit": "4996ad6",
       "type": "new",
-      "lastChecked": "2026-08-12T18:20:00+02:00",
+      "lastChecked": "2026-08-13T13:21:33+02:00",
       "verification": {
         "localBuild": "npm run build passed from clean clone",
         "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
@@ -875,9 +875,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "local generated HTML inspected; viewport, canonical, image, schema, sitemap, article archive and brand archive checked; table-scroll wrappers verified where tables exist; browser screenshot unavailable in this runtime",
-        "deployment": "pending direct Cloudflare Pages batch deployment",
-        "note": "New transparent kids guide using official Saguaro Smart I, current collection, sizing and returns sources plus conservative pediatric footwear evidence. Live verification to be recorded in automation memory after deployment."
+        "render": "live responsive safeguards verified; representative desktop and mobile render clean with no horizontal overflow or console errors",
+        "deployment": "bfa6848d",
+        "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Saguaro brand archive and current sitemap all verified."
       }
     },
     {
@@ -887,9 +887,9 @@
       "slug": "saguaro-free-i-vs-luck",
       "note": "New transparent Saguaro comparison using official Free I, Luck I, sizing and returns sources; avoids invented wear, sizing or owner feedback.",
       "status": "Published",
-      "commit": "daily-batch-2026-08-12",
+      "commit": "4996ad6",
       "type": "new",
-      "lastChecked": "2026-08-12T18:20:00+02:00",
+      "lastChecked": "2026-08-13T13:21:33+02:00",
       "verification": {
         "localBuild": "npm run build passed from clean clone",
         "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles; focused generated HTML verification; live production verification",
@@ -901,9 +901,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "local generated HTML inspected; viewport, canonical, image, schema, sitemap, article archive and brand archive checked; table-scroll wrappers verified where tables exist; browser screenshot unavailable in this runtime",
-        "deployment": "pending direct Cloudflare Pages batch deployment",
-        "note": "New transparent Saguaro comparison using official Free I, Luck I, sizing and returns sources; avoids invented wear, sizing or owner feedback. Live verification to be recorded in automation memory after deployment."
+        "render": "live responsive safeguards verified; representative desktop and mobile render clean with no horizontal overflow or console errors",
+        "deployment": "bfa6848d",
+        "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Saguaro brand archive and current sitemap all verified."
       }
     }
   ],
