@@ -1,3 +1,5 @@
+/* Deployment marker: refresh Cloudflare asset cache after HSTS header update. */
+
 :root {
   --ink: #10100e;
   --paper: #f4efe5;
