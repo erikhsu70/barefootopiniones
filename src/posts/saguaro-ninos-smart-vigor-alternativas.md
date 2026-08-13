@@ -29,19 +29,19 @@ Esta guía no es una reseña personal de Isabel con los modelos infantiles actua
 
 ## Índice
 
-- [Qué ofrece Saguaro en niños](#que-ofrece-saguaro-en-ninos)
-- [Smart I](#smart-i)
-- [Vigor I Pro](#vigor-i-pro)
-- [Free I infantil y alternativas](#free-i-infantil-y-alternativas)
-- [Tallas infantiles](#tallas-infantiles)
-- [Pros y límites](#pros-y-limites)
-- [Cuándo no elegir Saguaro](#cuando-no-elegir-saguaro)
-- [Alternativas](#alternativas)
+- [Qué ofrece Saguaro barefoot para niños](#que-ofrece-saguaro-barefoot-para-ninos)
+- [Saguaro Smart I para niños](#saguaro-smart-i-para-ninos)
+- [Saguaro Vigor I Pro infantil](#saguaro-vigor-i-pro-infantil)
+- [Saguaro Free I infantil y alternativas](#saguaro-free-i-infantil-y-alternativas)
+- [Tallas Saguaro barefoot para niños](#tallas-saguaro-barefoot-para-ninos)
+- [Pros y límites de Saguaro barefoot infantil](#pros-y-limites-de-saguaro-barefoot-infantil)
+- [Cuándo no elegir Saguaro barefoot para niños](#cuando-no-elegir-saguaro-barefoot-para-ninos)
+- [Alternativas a Saguaro barefoot para niños](#alternativas-a-saguaro-barefoot-para-ninos)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Qué ofrece Saguaro en niños
+## Qué ofrece Saguaro barefoot para niños
 
 La colección oficial de Saguaro muestra modelos infantiles como Smart I, Free I, Vigor I Pro, Brisk II y versiones de vestir como Form I Air Kids. La marca insiste en rasgos típicos barefoot: puntera amplia, cero drop, flexibilidad y suelas finas. También compite fuerte en precio frente a marcas europeas de calzado respetuoso.
 
@@ -52,7 +52,7 @@ Eso puede ser una ventaja enorme cuando el pie infantil crece rápido. Una famil
   <figcaption>Imagen oficial de Saguaro Smart I infantil. La prioridad en niños es talla, anchura y libertad de movimiento, no solo precio.</figcaption>
 </figure>
 
-## Smart I
+## Saguaro Smart I para niños
 
 Smart I es el modelo infantil más fácil de entender. La ficha oficial lo presenta como zapatilla para niños activos, con barefoot freedom, tracción y suela de 4 mm. Aparece en tallas EU 24 a EU 36 en la página consultada, con varios colores.
 
@@ -60,7 +60,7 @@ La elegiría para juego diario, parque, viajes, recambio económico y familias q
 
 Lo que revisaría: disponibilidad de la talla exacta, anchura útil, facilidad para poner y quitar, plantilla, transpirabilidad y si la suela aguanta el tipo de patio del niño. Una suela fina puede ser cómoda, pero si el niño arrastra mucho la puntera o juega en cemento abrasivo, la durabilidad real manda.
 
-## Vigor I Pro
+## Saguaro Vigor I Pro infantil
 
 Vigor I Pro aparece como opción infantil de la colección actual, con orientación más activa. No conviene presentarla como "mejor" sin ver la ficha exacta y la talla disponible. El nombre sugiere más deporte, pero la compra buena depende de tabla, cierre, material y uso.
 
@@ -68,7 +68,7 @@ La miraría si Smart I se queda demasiado básica o si necesitas algo para activ
 
 Si el niño practica deporte reglado, revisa normas del club o colegio. Barefoot para juego y movimiento no siempre equivale a calzado homologado para fútbol sala, pista o educación física concreta.
 
-## Free I infantil y alternativas
+## Saguaro Free I infantil y alternativas
 
 Kid's Free I aparece en la colección barefoot de Saguaro con tallas infantiles que llegan más arriba que Smart I en algunas fichas. Puede ser útil para niños mayores o preadolescentes que quieren más colores y una estética menos "infantil". La propia colección la describe como espaciosa, transpirable y ligera.
 
@@ -76,7 +76,7 @@ También existen modelos como Brisk II para lluvia y Form I Air Kids para vestir
 
 Si necesitas un solo par para todo, prioriza ajuste y uso más frecuente. Si el 80% del tiempo es patio seco y caminar, Smart I o Free I tienen más sentido que una bota de lluvia.
 
-## Tallas infantiles
+## Tallas Saguaro barefoot para niños
 
 Saguaro recomienda medir el largo del pie y consultar la tabla específica de cada producto. Esto es importante porque los niños crecen rápido y porque una talla EU no garantiza el mismo largo interno entre marcas. La página de talla oficial pide medir de pie, con el talón contra la pared, marcar el dedo más largo y comparar centímetros en la ficha.
 
@@ -84,7 +84,7 @@ En niños añadiría una revisión mensual si el calzado se usa mucho. Señales 
 
 No recomiendo comprar dos tallas grandes para "que dure". Un zapato barefoot demasiado largo puede hacer que el niño agarre con los dedos, tropiece o se mueva dentro del zapato. El margen debe permitir crecimiento y movimiento, no convertir el zapato en una barca.
 
-## Pros y límites
+## Pros y límites de Saguaro barefoot infantil
 
 Pros:
 
@@ -103,13 +103,13 @@ Límites:
 - tallas por modelo, no universales;
 - devoluciones pueden tener coste salvo condiciones/seguro.
 
-## Cuándo no elegir Saguaro
+## Cuándo no elegir Saguaro barefoot para niños
 
 No elegiría Saguaro si necesitas asesoría de tienda especializada, ajuste para pie muy difícil, uniforme estricto o una marca con historial de durabilidad muy documentado en uso infantil concreto. Tampoco si no puedes asumir una devolución internacional o si la talla está al límite.
 
 En pies muy estrechos, algunos Saguaro pueden sobrar. En pies muy anchos, no basta con "wide toe box": hay que comprobar ancho real. En empeines altos, el cierre importa más que el largo.
 
-## Alternativas
+## Alternativas a Saguaro barefoot para niños
 
 Para una visión más amplia, empieza por [el mejor calzado barefoot para niños](/mejor-barefoot-ninos-segun-temporada/) y [mis favoritos barefoot/minimalistas para niños](/barefoot-minimalistas-favoritos-ninos/). Si buscas algo más formal, mira [zapatos barefoot de vestir para niños](/barefoot-vestir-ninos/). Si quieres marcas europeas infantiles, compara con Be Lenka Kids, Froddo, PaperKrane, Bobux o Ten Little según disponibilidad.
 

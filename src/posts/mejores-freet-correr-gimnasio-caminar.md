@@ -29,19 +29,19 @@ Esta guía no es una reseña personal de todos los modelos. En Barefoot Opinione
 
 ## Índice
 
-- [Tabla rápida](#tabla-rapida)
-- [Pace para correr y transición](#pace-para-correr-y-transicion)
-- [Flex 2 para gimnasio y diario](#flex-2-para-gimnasio-y-diario)
-- [Vibe 2 para entrenamiento ligero](#vibe-2-para-entrenamiento-ligero)
+- [Mejores Freet por uso en tabla rápida](#mejores-freet-por-uso-en-tabla-rapida)
+- [Freet Pace para correr y transición](#freet-pace-para-correr-y-transicion)
+- [Freet Flex 2 para gimnasio y diario](#freet-flex-2-para-gimnasio-y-diario)
+- [Freet Vibe 2 para entrenamiento ligero](#freet-vibe-2-para-entrenamiento-ligero)
 - [Otros Freet que considerar](#otros-freet-que-considerar)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Pros y límites](#pros-y-limites)
+- [Tallas Freet y ajuste por modelo](#tallas-freet-y-ajuste-por-modelo)
+- [Pros y límites de Freet](#pros-y-limites-de-freet)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Tabla rápida
+## Mejores Freet por uso en tabla rápida
 
 <div class="table-scroll" role="region" aria-label="Mejores Freet por uso" tabindex="0">
 
@@ -61,7 +61,7 @@ Esta guía no es una reseña personal de todos los modelos. En Barefoot Opinione
   <figcaption>Imagen oficial de Freet Pace. Es la opción Freet que más sentido tiene cuando buscas más protección para superficies duras.</figcaption>
 </figure>
 
-## Pace para correr y transición
+## Freet Pace para correr y transición
 
 Pace es la que miraría primero si alguien quiere correr o caminar mucho sobre superficies duras con Freet. La ficha oficial la define como zapatilla deportiva multiactividad con plantilla Ortholite de 6 mm para más absorción en superficies duras, mixed surfaces y distancias más largas. Su stack declarado es 11,5 mm con plantilla y 5,5 mm sin plantilla, siempre cero drop.
 
@@ -69,7 +69,7 @@ Eso no la convierte en una zapatilla maximalista. Sigue siendo flexible y de pun
 
 La elegiría para runners que ya saben que toleran cero drop o para caminantes que quieren Freet con más margen bajo el pie. No la compraría si buscas máxima sensación de suelo o si quieres una zapatilla muy fresca para verano.
 
-## Flex 2 para gimnasio y diario
+## Freet Flex 2 para gimnasio y diario
 
 Flex 2 es la opción más simple para gimnasio, pavimento y uso casual. La ficha oficial habla de UrbanGrip, midsole SoftFlex, plantilla Flexile de 3 mm y upper BottleYarn reciclado. El stack es 9,5 mm con plantilla y 6,5 mm sin plantilla. Freet la marca como true to size.
 
@@ -77,7 +77,7 @@ En gimnasio, esa combinación tiene sentido para fuerza, máquinas, movilidad, c
 
 También es una buena Freet para quien no quiere pensar demasiado. No es la más técnica, no es impermeable, no es la más vistosa, pero cubre mucho.
 
-## Vibe 2 para entrenamiento ligero
+## Freet Vibe 2 para entrenamiento ligero
 
 Vibe 2 se mueve entre zapatilla diaria y entrenamiento ligero. La ficha de Freet la describe como trainer transpirable para gym, sport y urban wear, con ReBound de 4 mm, UrbanGrip y stack 10,5 mm con plantilla, 6,5 mm sin plantilla. En la tabla oficial aparece como "lightweight, stylish trainer for everyday wear and exercise".
 
@@ -93,7 +93,7 @@ Keld 3 y Skeeby entran en viaje, calor y secado rápido. Si caminas mucho en ver
 
 Para barro, lluvia o senderismo ligero, la conversación cambia a [Freet Tundra](/freet-tundra-guia-senderismo-impermeable/) o modelos de trail/bota. No compraría una zapatilla de gimnasio esperando que resuelva invierno.
 
-## Tallas y ajuste
+## Tallas Freet y ajuste por modelo
 
 Freet insiste en empezar por tu talla habitual, pero revisar la guía específica del modelo. También recomienda trabajar desde talla EU si la conoces porque UK y US son conversiones. En sus tablas, el largo mostrado suele ser de plantilla; la longitud real interna puede ser 2-3 mm mayor.
 
@@ -101,7 +101,7 @@ Para Vibe 2, la ficha indica true to size y al menos 5 mm de margen delante. Fle
 
 Si dudas entre dos tallas, piensa en el uso. Para gimnasio técnico quizá no quieres demasiada longitud. Para caminar largo o correr, un poco más de espacio delante puede evitar golpes de uñas. Para pies de bajo volumen, una plantilla distinta puede cambiar mucho.
 
-## Pros y límites
+## Pros y límites de Freet
 
 Pros de Freet:
 

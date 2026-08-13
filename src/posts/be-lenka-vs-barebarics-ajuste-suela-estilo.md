@@ -29,19 +29,19 @@ Esta comparativa no es una prueba nueva de Isabel con todos los modelos actuales
 
 ## Índice
 
-- [Diferencia principal](#diferencia-principal)
+- [Diferencia principal entre Be Lenka y Barebarics](#diferencia-principal-entre-be-lenka-y-barebarics)
 - [Tabla de decisión](#tabla-de-decision)
-- [Ajuste y forma de pie](#ajuste-y-forma-de-pie)
-- [Suelas y sensación](#suelas-y-sensacion)
+- [Ajuste y forma de pie en Be Lenka vs Barebarics](#ajuste-y-forma-de-pie-en-be-lenka-vs-barebarics)
+- [Suelas Be Lenka vs Barebarics y sensación](#suelas-be-lenka-vs-barebarics-y-sensacion)
 - [Estilo y armario](#estilo-y-armario)
-- [Tallas y devoluciones](#tallas-y-devoluciones)
-- [Pros y límites](#pros-y-limites)
+- [Tallas Be Lenka y Barebarics para comparar](#tallas-be-lenka-y-barebarics-para-comparar)
+- [Pros y límites de Be Lenka vs Barebarics](#pros-y-limites-de-be-lenka-vs-barebarics)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Diferencia principal
+## Diferencia principal entre Be Lenka y Barebarics
 
 Be Lenka es una marca barefoot completa. Si buscas una bailarina, una bota de invierno, una sandalia fina, un zapato de vestir, algo infantil o una zapatilla casual discreta, lo más probable es que empieces por Be Lenka. Sus suelas oficiales cambian mucho por temporada y uso: AlldayComfort en bailarinas, EverydayComfort en modelos de diario, DeepGrip o ThermoGrip en invierno y suelas infantiles específicas.
 
@@ -69,7 +69,7 @@ Eso explica por qué alguien puede amar Be Lenka y no querer Barebarics, o al re
 
 </div>
 
-## Ajuste y forma de pie
+## Ajuste y forma de pie en Be Lenka vs Barebarics
 
 La pregunta "¿cuál es más ancho?" no tiene una sola respuesta honesta. Be Lenka y Barebarics publican tablas por modelo, con largo y ancho internos. En Barebarics Zing Fresh, por ejemplo, la tabla oficial muestra EU 42 con 27,2 cm de largo y 10,1 cm de ancho. En otras líneas Barebarics o Be Lenka, esos números cambian.
 
@@ -77,7 +77,7 @@ Be Lenka recomienda medir ambos pies de pie, sobre superficie dura, y añadir un
 
 En pies con empeine alto, las zapatillas con cordones suelen dar más margen que bailarinas. En pies de bajo volumen, algunas Barebarics pueden sentirse amplias si la plantilla no compensa. En pies muy anchos, el ancho de la tabla importa, pero también la forma de la puntera: no basta con mirar centímetros.
 
-## Suelas y sensación
+## Suelas Be Lenka vs Barebarics y sensación
 
 La página oficial de suelas Be Lenka X Barebarics ayuda a ordenar el catálogo. Be Lenka usa suelas más variadas según uso: AlldayComfort en bailarinas, EverydayComfort en diario, TrailproGrip en outdoor, PebbleComfort o KidsUltraGrip en niños, DeepGrip y ThermoGrip para más agarre o frío.
 
@@ -93,7 +93,7 @@ Barebarics gana cuando quieres que la zapatilla sea el centro. Zing, Wave, Drops
 
 La elección buena no es "la más barefoot" en abstracto. Es la que vas a usar sin volver a una puntera estrecha. Un modelo algo más grueso que llevas todos los días puede aportar más valor real que una sandalia perfecta que se queda en el armario.
 
-## Tallas y devoluciones
+## Tallas Be Lenka y Barebarics para comparar
 
 Para comprar desde España, el punto práctico es medir antes. En Be Lenka/Barebarics, la recomendación oficial es no usar tallas universales de otras marcas y revisar la tabla específica. También hay 14 días para probar tras recibir el pedido, pero eso no elimina la molestia logística de devolver.
 
@@ -108,7 +108,7 @@ Mi protocolo editorial sería:
 
 Si compras una Barebarics por estética pero buscas sensación de suelo, revisa antes la suela. Si compras Be Lenka por discreción pero necesitas mucho volumen, revisa empeine, cordones y material.
 
-## Pros y límites
+## Pros y límites de Be Lenka vs Barebarics
 
 Pros de Be Lenka:
 
