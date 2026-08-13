@@ -71,7 +71,7 @@ for (const postPath of posts) {
       problems.push({ postPath, permalink, image, problem: "No existe HTML en dist" });
     } else {
       const html = fs.readFileSync(htmlPath, "utf8");
-      if (!html.includes(`src="${image}"`)) {
+      if (!html.includes(`src="${image}"`) && !html.includes(`src="${image}?`)) {
         problems.push({ postPath, permalink, image, problem: "La imagen no aparece en el HTML" });
       }
     }

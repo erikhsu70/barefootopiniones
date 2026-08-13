@@ -29,7 +29,9 @@ for (const [sourceSlug, media] of Object.entries(assignments)) {
     const builtFile = path.join(outputRoot, modelImage.src.replace(/^\//, ""));
     if (!fs.existsSync(sourceFile)) failures.push(`${sourceSlug}: falta ${sourceFile}`);
     if (!fs.existsSync(builtFile)) failures.push(`${sourceSlug}: falta ${builtFile}`);
-    if (!html.includes(`src="${modelImage.src}"`)) failures.push(`${sourceSlug}: la página no usa ${modelImage.src}`);
+    if (!html.includes(`src="${modelImage.src}"`) && !html.includes(`src="${modelImage.src}?`)) {
+      failures.push(`${sourceSlug}: la página no usa ${modelImage.src}`);
+    }
     if (!html.includes(`alt="${modelImage.alt}"`)) failures.push(`${sourceSlug}: falta el alt de ${modelImage.src}`);
   }
 }
