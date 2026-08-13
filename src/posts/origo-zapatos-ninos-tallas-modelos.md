@@ -29,17 +29,17 @@ Esta guía no es una reseña personal de Isabel con los modelos infantiles actua
 
 ## Índice
 
-- [Modelos infantiles Origo](#modelos-infantiles-origo)
-- [Tabla de decisión](#tabla-de-decision)
-- [Tallas y margen de crecimiento](#tallas-y-margen-de-crecimiento)
+- [Modelos de Origo Shoes para niños](#modelos-de-origo-shoes-para-ninos)
+- [Tabla de decisión Origo Shoes para niños](#tabla-de-decision-origo-shoes-para-ninos)
+- [Tallas y margen de crecimiento en Origo Shoes para niños](#tallas-y-margen-de-crecimiento-en-origo-shoes-para-ninos)
 - [Materiales](#materiales)
-- [Pros y límites](#pros-y-limites)
+- [Pros y límites de Origo Shoes para niños](#pros-y-limites-de-origo-shoes-para-ninos)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Modelos infantiles Origo
+## Modelos de Origo Shoes para niños
 
 La colección infantil oficial se centra en dos familias: Kid's Hook & Loop y Kids High-Top Sneakers. Hook & Loop aparece en piel natural y lona de algodón. La versión de piel revisada lista tallas 8K US / 24 EU hasta 4Y US / 36 EU, dos cierres de velcro, upper de piel natural certificada Leather Working Group, puntera amplia, cero drop y suela fina flexible.
 
@@ -50,7 +50,7 @@ Kids High-Top Sneakers añade caña más alta y piel vegana. La ficha revisada h
   <figcaption>Imagen oficial de Origo Kid's Hook & Loop. El velcro es práctico para autonomía y rutinas de colegio.</figcaption>
 </figure>
 
-## Tabla de decisión
+## Tabla de decisión Origo Shoes para niños
 
 <div class="table-scroll" role="region" aria-label="Tabla Origo niños" tabindex="0">
 
@@ -63,7 +63,7 @@ Kids High-Top Sneakers añade caña más alta y piel vegana. La ficha revisada h
 
 </div>
 
-## Tallas y margen de crecimiento
+## Tallas y margen de crecimiento en Origo Shoes para niños
 
 El error típico en niños es comprar demasiado grande para amortizar. Lo entiendo, pero no conviene pasarse. En calzado barefoot, el pie necesita espacio delante y en dedos, sí, pero el zapato debe flexar donde flexa el pie. Si sobra demasiado largo, el niño puede tropezar o agarrar con los dedos para estabilizarse.
 
@@ -85,7 +85,7 @@ La versión de piel usa cuero certificado Leather Working Group, pensado para se
 
 High-Top usa piel vegana de poliuretano y poliéster con porcentaje de biopolímeros renovables. Puede ser más fácil de limpiar que lona, pero también puede respirar distinto. Para colegio, yo priorizaría facilidad de limpieza, sujeción y talla antes que el color más bonito.
 
-## Pros y límites
+## Pros y límites de Origo Shoes para niños
 
 Pros:
 
@@ -110,7 +110,7 @@ Para panorama completo, lee [zapatos barefoot para niños](/zapatos-barefoot-nin
 
 Para adultos de Origo, la [guía de Origo Shoes](/origo-opinion-tallas/) y la comparativa [Everyday vs Modern Retro](/origo-everyday-vs-modern-retro-sneaker/) ayudan a entender la horma general de la marca.
 
-## Señales de que ya toca cambiar de talla
+## Señales de cambio de talla en Origo Shoes para niños
 
 En niños, el ajuste no se revisa una vez y se olvida. Hay etapas en las que el pie cambia rápido y el zapato que iba perfecto en septiembre puede estar justo antes de que llegue el frío. Una señal evidente es que el niño empiece a quitarse el zapato en cuanto puede. Otra es que aparezcan marcas en dedos, laterales o empeine después de usarlo.
 

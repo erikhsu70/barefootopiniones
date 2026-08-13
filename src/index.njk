@@ -12,21 +12,30 @@ image: /assets/generated/featured/homepage-original.png
 
 <section class="home-hero home-hero--magazine">
   <div class="home-hero__content">
-    <div>
+    <div class="home-hero__copy">
+      <p class="eyebrow">Caminar libre, elegir bien</p>
       <h1>Barefoot Opiniones</h1>
       <p class="home-hero__intro">Guías, opiniones y comparativas de calzado barefoot escritas por Isabel. Una loca por las barefoot, pero con el radar puesto en ajuste, estética y comodidad real.</p>
       <div class="button-row">
-        <a class="button" href="/articulos/">Explorar articulos</a>
+        <a class="button" href="/articulos/">Explorar artículos</a>
         <a class="button secondary" href="/preguntas-frecuentes-barefoot/">Empezar desde cero</a>
       </div>
-    </div>
-    {% if heroPost %}
-      <a class="home-hero-card" href="{{ heroPost.url }}">
-        <img src="{{ heroPost.data.image or '/assets/generated/featured/homepage.jpg' }}" alt="{{ heroPost.data.imageAlt or heroPost.data.title }}" fetchpriority="high">
-        <span>Destacado</span>
-        <strong>{{ heroPost.data.title }}</strong>
+      <a class="home-author" href="/sobre-mi/">
+        <img src="/assets/images/isabel-author-home.webp" alt="Isabel, editora de Barefoot Opiniones" width="64" height="64">
+        <span><strong>Hola, soy Isabel.</strong><small>Te ayudo a elegir sin esconder lo bueno ni lo mejorable.</small></span>
+        <b aria-hidden="true">→</b>
       </a>
-    {% endif %}
+    </div>
+    <figure class="home-hero-visual">
+      <img src="/assets/images/home/hero-home.webp" alt="Mujer caminando descalza por un sendero natural junto al mar" width="1200" height="1504" fetchpriority="high">
+      {% if heroPost %}
+        <a class="home-hero-feature" href="{{ heroPost.url }}">
+          <span>Ahora en portada</span>
+          <strong>{{ heroPost.data.title }}</strong>
+          <b aria-hidden="true">→</b>
+        </a>
+      {% endif %}
+    </figure>
   </div>
 </section>
 
@@ -39,27 +48,27 @@ image: /assets/generated/featured/homepage-original.png
 </section>
 
 <section class="home-route-grid" aria-label="Rutas principales">
-  <a class="home-route home-route--large" href="/articulos/">
+  <a class="home-route home-route--large home-route--photo home-route--library" href="/articulos/">
     <span>Todo el blog</span>
-    <strong>Indice completo ordenado por temas</strong>
-    <small>297 articulos con imagen y acceso directo por categoria.</small>
+    <strong>Índice completo ordenado por temas</strong>
+    <small>297 artículos con imagen y acceso directo por categoría.</small>
   </a>
   <a class="home-route" href="/mejores-zapatos-barefoot/">
     <span>Comparativas</span>
-    <strong>Listas para decidir rapido</strong>
-    <small>Los mejores modelos por uso, estacion y tipo de pie.</small>
+    <strong>Listas para decidir rápido</strong>
+    <small>Los mejores modelos por uso, estación y tipo de pie.</small>
   </a>
   <a class="home-route" href="/opiniones/1/">
     <span>Opiniones</span>
     <strong>Opiniones de marcas y modelos</strong>
     <small>Ajuste, materiales, anchura, flexibilidad y sensaciones.</small>
   </a>
-  <a class="home-route" href="/mujeres/">
+  <a class="home-route home-route--photo home-route--style" href="/mujeres/">
     <span>Mujer</span>
     <strong>Zapatos bonitos con forma de pie</strong>
     <small>Bailarinas, botas, Mary Janes, sandalias y looks.</small>
   </a>
-  <a class="home-route" href="/ninos/">
+  <a class="home-route home-route--photo home-route--kids" href="/ninos/">
     <span>Niños</span>
     <strong>Opciones para pies pequeños</strong>
     <small>Colegio, lluvia, verano, invierno y tallas infantiles.</small>
@@ -85,6 +94,21 @@ image: /assets/generated/featured/homepage-original.png
       </a>
     {% endfor %}
   </div>
+</section>
+
+<section class="section home-brand-directory" aria-labelledby="marcas-home">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Directorio de marcas</p>
+      <h2 id="marcas-home">Todas las marcas barefoot.</h2>
+    </div>
+    <p>Accede a todas las opiniones, guías y artículos agrupados por marca.</p>
+  </div>
+  <nav class="section-inner home-faq-links" aria-label="Todas las marcas barefoot">
+    {% for brand in brandLinks %}
+      <a href="{{ brand.url }}">{{ brand.name }}</a>
+    {% endfor %}
+  </nav>
 </section>
 
 {% if secondaryPosts.length %}
