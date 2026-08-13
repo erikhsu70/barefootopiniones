@@ -469,6 +469,20 @@ function cleanSummaryText(text) {
   return `${shortened}...`;
 }
 
+function limitSeoDescription(text) {
+  const cleaned = String(text || "").replace(/\s+/g, " ").trim();
+  const maxLength = 145;
+
+  if (cleaned.length <= maxLength) return cleaned;
+
+  const shortened = cleaned
+    .slice(0, maxLength - 3)
+    .replace(/\s+\S*$/, "")
+    .replace(/[.,;:!?¿¡]+$/, "");
+
+  return `${shortened || cleaned.slice(0, maxLength - 3).trim()}...`;
+}
+
 function decodeHtmlEntities(text) {
   return String(text || "")
     .replace(/&amp;/g, "&")
@@ -825,9 +839,9 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("seoTitle", seoTitle);
   eleventyConfig.addFilter("seoDescription", (description, fallback) => {
-    const cleaned = cleanSummaryText(description);
+    const cleaned = limitSeoDescription(cleanSummaryText(description));
     if (cleaned && cleaned.length >= 45) return cleaned;
-    return cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie.");
+    return limitSeoDescription(cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie."));
   });
   eleventyConfig.addFilter("schemaJson", (value) => JSON.stringify(value, null, 2).replace(/</g, "\\u003c"));
   eleventyConfig.addFilter("isDiscountUrl", isDiscountUrl);
