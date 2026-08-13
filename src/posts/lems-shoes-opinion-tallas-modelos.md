@@ -29,7 +29,7 @@ En Barefoot Opiniones sí hay experiencia real con Lems. Isabel publicó una res
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados o enlaces a tiendas. Las afirmaciones personales se basan en artículos y notas ya publicados por Isabel en Barefoot Opiniones; las especificaciones, disponibilidad y políticas se revisaron en fuentes oficiales en julio de 2026. No se han inventado kilómetros, tallas, durabilidad, precios ni pruebas de modelos no documentados.</p>
 
-## Índice
+<h2 id="indice">Índice</h2>
 
 - [Qué es Lems Shoes](#que-es-lems-shoes)
 - [Mi opinión sobre Lems Shoes basada en experiencia real](#mi-opinion-sobre-lems-shoes-basada-en-experiencia-real)
@@ -42,7 +42,7 @@ En Barefoot Opiniones sí hay experiencia real con Lems. Isabel publicó una res
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Qué es Lems Shoes
+<h2 id="que-es-lems-shoes">Qué es Lems Shoes</h2>
 
 Lems es una marca estadounidense de calzado minimalista con una idea muy clara: zapatos con forma más natural, puntera amplia y menos estructura que el calzado convencional, pero sin renunciar del todo a protección y amortiguación. Su hueco no es exactamente el mismo que Vivobarefoot, Wildling o Softstar. Lems suele sentirse más acolchada, más de transición y más "normal" visualmente.
 
@@ -55,7 +55,7 @@ Esto es importante: Lems no es una marca de una sola horma. La propia marca habl
   <figcaption>Imagen del repositorio de Barefoot Opiniones. Primal 3 es una de las Lems mejor documentadas en el archivo y una buena referencia de la línea diaria de la marca.</figcaption>
 </figure>
 
-## Mi opinión sobre Lems Shoes basada en experiencia real
+<h2 id="mi-opinion-sobre-lems-shoes-basada-en-experiencia-real">Mi opinión sobre Lems Shoes basada en experiencia real</h2>
 
 La experiencia más clara del archivo está en las Lems Chelsea. Isabel las comparó con Blundstone y explicó por qué prefiere Lems: puntera que no aplasta, drop cero, flexibilidad, menos peso y una estética que funciona en la vida real. También señaló que no todas las Lems sirven igual para todo: las Chelsea aportan más protección y más suela que un zapato minimalista fino, lo que puede ser una ventaja en invierno, viajes o suelos duros.
 
@@ -65,7 +65,7 @@ En botas de invierno y senderismo, Lems aparece varias veces como una opción am
 
 Con esa base, mi opinión resumida es esta: Lems destaca cuando quieres comodidad inmediata, anchura razonable y una transición suave. No destaca tanto si lo que quieres es sentir cada textura del suelo o llevar el zapato más ligero y flexible posible.
 
-## Tabla rápida para elegir modelo
+<h2 id="tabla-rapida-para-elegir-modelo">Tabla rápida para elegir modelo</h2>
 
 <div class="table-scroll" role="region" aria-label="Tabla rápida de modelos Lems" tabindex="0">
 
@@ -83,7 +83,7 @@ Con esa base, mi opinión resumida es esta: Lems destaca cuando quieres comodida
 
 </div>
 
-## Tallas de Lems Shoes: anchura y tipo de pie
+<h2 id="tallas-de-lems-shoes-anchura-y-tipo-de-pie">Tallas de Lems Shoes: anchura y tipo de pie</h2>
 
 Mi regla con Lems es no comprar por talla habitual sin leer la ficha del modelo. La marca tiene tablas con conversiones US, UK y EU, medidas interiores y notas específicas cuando recomienda subir talla. Además, muchos modelos son unisex: el mismo zapato puede venderse como hombre o mujer con conversión equivalente.
 
@@ -101,7 +101,7 @@ Cómo elegiría talla:
 
 Si todavía no sabes si tu problema es anchura, volumen o empeine, empieza por [qué es el volumen del pie](/ufaq/what-is-foot-volume/) y [cómo saber si tienes pies anchos o estrechos](/ufaq/how-do-i-know-if-i-have-wide-or-narrow-feet/). Para una visión más amplia, la guía de [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/) te ayuda a comparar Lems con marcas más amplias.
 
-## Mejores modelos de Lems Shoes
+<h2 id="mejores-modelos-de-lems-shoes">Mejores modelos de Lems Shoes</h2>
 
 ### Primal Zen
 
@@ -157,7 +157,7 @@ Lems presentó ZenSpeed en 2026 como una línea de running con horma TrueFit, op
 
 La evidencia sobre calzado minimalista y lesiones no permite prometer que una zapatilla cure o prevenga problemas. Las revisiones científicas recomiendan transición progresiva y advierten que las primeras semanas pueden concentrar molestias o lesiones si se cambia demasiado rápido. Si corres, el volumen de entrenamiento importa tanto como el zapato.
 
-## Ventajas y límites de Lems Shoes
+<h2 id="ventajas-y-limites-de-lems-shoes">Ventajas y límites de Lems Shoes</h2>
 
 Lo mejor de Lems:
 
@@ -180,7 +180,7 @@ Lo que revisaría antes de comprar:
 
 En salud del pie, mantendría el discurso sobrio. Una puntera amplia reduce compresión respecto a zapatos estrechos y una suela plana cambia la postura del pie dentro del zapato, pero eso no equivale a tratamiento médico. Si tienes dolor persistente, lesión, diabetes, neuropatía, fascitis intensa o dudas de marcha, consulta a un profesional y haz los cambios de forma gradual.
 
-## Envíos, devoluciones y compra desde España
+<h2 id="envios-devoluciones-y-compra-desde-espana">Envíos, devoluciones y compra desde España</h2>
 
 La web oficial de Lems lista España entre los países de envío internacional y habla de DHL Express con tarifa plana internacional. También existe tienda europea de Lems, donde la disponibilidad cambia por modelo y color, y la página de localizador menciona Zami como tienda online en España. En la práctica, compararía siempre tres cosas: precio final, plazo, política de devolución y disponibilidad real de talla.
 
@@ -188,7 +188,7 @@ La política oficial de EE. UU. indica 60 días para productos sin uso y en esta
 
 Si estás en España y dudas entre dos tallas, puede salir más prudente comprar en tienda europea o española aunque el precio inicial no parezca el más bajo. En barefoot, acertar talla vale dinero.
 
-## Alternativas a Lems
+<h2 id="alternativas-a-lems">Alternativas a Lems</h2>
 
 - **Freet:** miraría Freet si quieres más sensación outdoor y, en algunos modelos, más espacio de antepié.
 - **Altra:** no es barefoot, pero sirve si quieres puntera amplia y mucha más amortiguación para correr o caminar largo.
@@ -200,7 +200,7 @@ Si estás en España y dudas entre dos tallas, puede salir más prudente comprar
 
 Para comparar por uso, mira también [las mejores marcas barefoot para principiantes](/mejores-marcas-barefoot-minimalistas/), [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y [los mejores zapatos para gente al aire libre](/mejores-gente-aire-libre/). Si ya estás mirando Lems, merece la pena leer las reseñas internas de [Lems Chelsea](/lems-chelsea-botas-como-blundstones-pero-mejor/), [Lems Primal 3](/lems-primal-3-zapatilla-ancha-todo-uso/) y [Lems Chukka](/lems-chukka-review/).
 
-## Fuentes consultadas
+<h2 id="fuentes-consultadas">Fuentes consultadas</h2>
 
 - [Lems Shoes: Primal Zen vs Primal 3](https://www.lemsshoes.com/blogs/news/primal-zen-vs-primal-3-whats-the-difference)
 - [Lems Shoes: Boulder Boot, Outlander y Switchback fichas oficiales](https://www.lemsshoes.com/)
@@ -209,7 +209,7 @@ Para comparar por uso, mira también [las mejores marcas barefoot para principia
 - [RunRepeat: análisis de Lems Boulder Boot 2026](https://runrepeat.com/es/lems-boulder-boot)
 - [Warne y Gruber: revisión sobre transición a calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
 
-## Preguntas frecuentes
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 
 ### ¿Lems Shoes es barefoot?
 
@@ -235,7 +235,7 @@ Primal Zen es un poco más relajada en talón/arco, algo más flexible según la
 
 No. Ningún zapato debería venderse como cura. Una puntera amplia y una suela plana pueden reducir restricciones frente a calzado estrecho, pero el dolor depende de carga, tejidos, historial, fuerza, movilidad y salud general. Si hay dolor persistente, consulta a un profesional y cambia de calzado poco a poco.
 
-## Conclusión: mi opinión sobre Lems Shoes
+<h2 id="conclusion-mi-opinion-sobre-lems-shoes">Conclusión: mi opinión sobre Lems Shoes</h2>
 
 Lems Shoes tiene mucho sentido si quieres barefoot usable: puntera amplia, drop cero en muchos modelos, estética normal y más protección que una suela ultrafina. Es una marca especialmente buena para transición, viajes, días largos, botas ligeras y personas que quieren comodidad sin convertir cada paso en una prueba de sensibilidad.
 
