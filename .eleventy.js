@@ -483,6 +483,19 @@ function limitSeoDescription(text) {
   return `${shortened || cleaned.slice(0, maxLength - 3).trim()}...`;
 }
 
+const ASSET_CACHE_VERSION = "hsts-20260813";
+
+function addAssetCacheVersion(url) {
+  if (!url || !url.includes("/assets/") || /[?&]hsts=/.test(url)) return url;
+
+  const hashIndex = url.indexOf("#");
+  const beforeHash = hashIndex === -1 ? url : url.slice(0, hashIndex);
+  const hash = hashIndex === -1 ? "" : url.slice(hashIndex);
+  const separator = beforeHash.includes("?") ? "&" : "?";
+
+  return `${beforeHash}${separator}hsts=${ASSET_CACHE_VERSION}${hash}`;
+}
+
 function decodeHtmlEntities(text) {
   return String(text || "")
     .replace(/&amp;/g, "&")
@@ -1028,6 +1041,30 @@ module.exports = function (eleventyConfig) {
     return content.replace(/href=(["'])(\/[^"']*)\1/gi, (match, quote, href) => {
       return `href=${quote}${localizeSpanishUrl(href)}${quote}`;
     });
+  });
+
+  eleventyConfig.addTransform("versionAssetUrls", function (content) {
+    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
+
+    return content
+      .replace(/\b(href|src|poster|content)=(["'])(\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
+        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
+      })
+      .replace(/\b(content)=(["'])(https:\/\/barefootopiniones\.com\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
+        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
+      })
+      .replace(/\b(srcset)=(["'])([^"']*\/assets\/[^"']*)\2/gi, (match, attribute, quote, value) => {
+        const versioned = value
+          .split(",")
+          .map((candidate) => {
+            const trimmed = candidate.trim();
+            const [url, descriptor] = trimmed.split(/\s+/, 2);
+            return [addAssetCacheVersion(url), descriptor].filter(Boolean).join(" ");
+          })
+          .join(", ");
+
+        return `${attribute}=${quote}${versioned}${quote}`;
+      });
   });
 
   return {

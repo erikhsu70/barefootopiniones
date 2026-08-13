@@ -891,7 +891,7 @@ h3 {
   color: var(--milk);
   background:
     linear-gradient(135deg, rgba(21, 18, 15, 0.94), rgba(39, 76, 119, 0.84)),
-    url("/assets/generated/featured/pages/barefoot-shoes-faq.jpg") center / cover;
+    url("/assets/generated/featured/pages/barefoot-shoes-faq.jpg?hsts=20260813") center / cover;
   border-radius: 8px;
   box-shadow: var(--shadow);
 }
@@ -1856,7 +1856,7 @@ h3 {
   color: var(--milk);
   background:
     linear-gradient(135deg, rgba(16, 16, 14, 0.94), rgba(32, 61, 79, 0.8)),
-    url("/assets/generated/featured/homepage-original.png") center / cover;
+    url("/assets/generated/featured/homepage-original.png?hsts=20260813") center / cover;
 }
 
 .home-route span,
@@ -2006,7 +2006,7 @@ h3 {
   color: var(--milk);
   background:
     linear-gradient(135deg, rgba(16, 16, 14, 0.96), rgba(32, 61, 79, 0.86)),
-    url("/assets/generated/featured/pages/resources.jpg") center / cover;
+    url("/assets/generated/featured/pages/resources.jpg?hsts=20260813") center / cover;
   border-top: 1px solid var(--ink);
   border-bottom: 1px solid var(--ink);
 }
@@ -2614,7 +2614,7 @@ h3 {
   color: var(--milk);
   background:
     linear-gradient(135deg, rgba(31, 36, 33, 0.9), rgba(74, 93, 78, 0.72)),
-    url("/assets/generated/featured/homepage.jpg") center / cover;
+    url("/assets/generated/featured/homepage.jpg?hsts=20260813") center / cover;
 }
 
 .home-route strong,
@@ -2727,7 +2727,7 @@ h3 {
 .band {
   background:
     linear-gradient(135deg, rgba(31, 36, 33, 0.96), rgba(74, 93, 78, 0.88)),
-    url("/assets/generated/featured/pages/resources.jpg") center / cover;
+    url("/assets/generated/featured/pages/resources.jpg?hsts=20260813") center / cover;
 }
 
 .home-link-list a,
