@@ -30,11 +30,12 @@ Esta guía no es una reseña personal de Isabel con Tundra. No hay notas propias
 ## Índice
 
 - [Qué es Freet Tundra](#que-es-freet-tundra)
-- [Ficha útil](#ficha-util)
-- [Ajuste y tallas](#ajuste-y-tallas)
-- [Impermeabilidad realista](#impermeabilidad-realista)
-- [Cuándo elegirla](#cuando-elegirla)
-- [Cuándo evitarla](#cuando-evitarla)
+- [Ficha útil de Freet Tundra](#ficha-util-de-freet-tundra)
+- [Tallas de Freet Tundra y ajuste](#tallas-de-freet-tundra-y-ajuste)
+- [Impermeabilidad de Freet Tundra en uso realista](#impermeabilidad-de-freet-tundra-en-uso-realista)
+- [Cuándo elegir Freet Tundra](#cuando-elegir-freet-tundra)
+- [Cuándo evitar Freet Tundra](#cuando-evitar-freet-tundra)
+- [Pros y límites de Freet Tundra](#pros-y-limites-de-freet-tundra)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
@@ -51,13 +52,13 @@ Freet trabaja con una idea muy reconocible: puntera amplia, cero drop, suela fle
   <figcaption>Imagen oficial de Freet Tundra. La guía se basa en especificaciones actuales y no en una prueba personal de Isabel.</figcaption>
 </figure>
 
-## Ficha útil
+## Ficha útil de Freet Tundra
 
 Según la ficha oficial revisada, Tundra usa upper de microfibra resistente al agua, forro impermeable transpirable, plantilla Flexile de 3 mm, midsole SoftFlex y suela HillGrip con taco de 4 mm. Freet declara 10,5 mm de stack con plantilla, 7,5 mm sin plantilla y cero drop. El peso indicado es 670 g el par en talla 42.
 
 La combinación es coherente: no busca amortiguación alta, sino protección moderada, agarre y flexibilidad. La suela HillGrip está pensada para superficies duras y senderos embarrados. En una bota minimalista, 10,5 mm con plantilla es relativamente contenido. Si vienes de botas convencionales de trekking, se sentirá muy flexible. Si vienes de sandalias finas, se sentirá protegida.
 
-## Ajuste y tallas
+## Tallas de Freet Tundra y ajuste
 
 El punto más delicado de Tundra es la talla. La página oficial indica que el modelo ajusta pequeño y recomienda considerar subir talla. Además, Freet insiste en trabajar desde tallas EU cuando sea posible porque UK/US son conversiones aproximadas. En botas de invierno esto importa más que en zapatillas de verano: calcetín grueso, plantilla, empeine y volumen cambian el resultado.
 
@@ -65,7 +66,7 @@ La tabla oficial muestra, por ejemplo, EU 42 con insole length de 268 mm y ancho
 
 Mi protocolo sería medir ambos pies por la tarde, añadir margen para calcetín, revisar si normalmente estás entre tallas y probar en casa con la plantilla que vas a usar. Si el dedo toca delante bajando escaleras, no es tu talla. Si el talón baila aunque cierres cordones, quizá has subido demasiado.
 
-## Impermeabilidad realista
+## Impermeabilidad de Freet Tundra en uso realista
 
 Freet usa lenguaje de protección contra agua y forro impermeable, pero también recomienda cuidado con productos como Nikwax y no lavar en lavadora. Eso sugiere tratar Tundra como una bota impermeable ligera que necesita mantenimiento, no como una bota de goma cerrada ni como calzado de montaña extrema.
 
@@ -73,19 +74,19 @@ La impermeabilidad en barefoot tiene un compromiso: cuanto más impermeable, men
 
 Si tu prioridad es calor intenso o secado rápido, no es el modelo. Si tu prioridad es ciudad húmeda, paseos de perro, bosque, viajes de invierno y caminos sencillos, sí entra en la conversación.
 
-## Cuándo elegirla
+## Cuándo elegir Freet Tundra
 
 Elegiría Tundra para quien ya tolera cero drop y quiere una bota de diario para otoño-invierno. También para quien usa barefoot en ciudad y necesita más agarre y protección en terreno blando. Su microfibra fácil de limpiar puede ser práctica si no quieres cuero.
 
 La veo especialmente lógica para pies medios a anchos que necesitan volumen frontal, personas que caminan con lluvia y usuarios que prefieren flexibilidad a soporte rígido. Si vienes de botas tradicionales, introduciría Tundra progresivamente. La pantorrilla y el pie trabajan distinto cuando eliminas el tacón y reduces estructura.
 
-## Cuándo evitarla
+## Cuándo evitar Freet Tundra
 
 No la compraría como primera barefoot para hacer rutas largas desde cero. Tampoco para montaña técnica, crampones, roca agresiva, mochila pesada o invierno severo. La suela y el upper tienen su lugar, pero una bota minimalista no sustituye automáticamente a una bota de trekking rígida.
 
 También la evitaría si tienes pies muy estrechos o muy bajo volumen y no toleras usar plantillas/calcetines para ajustar. En modelos que Freet marca como pequeños, subir talla puede resolver largo y crear otro problema de volumen. La prueba en casa manda.
 
-## Pros y límites
+## Pros y límites de Freet Tundra
 
 Pros:
 

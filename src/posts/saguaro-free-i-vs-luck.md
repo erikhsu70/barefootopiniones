@@ -29,19 +29,19 @@ Esta comparativa no es una reseña personal. No hay notas propias documentadas d
 
 ## Índice
 
-- [Diferencia rápida](#diferencia-rapida)
-- [Tabla comparativa](#tabla-comparativa)
-- [Free I](#free-i)
-- [Luck I](#luck-i)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Calidad esperable](#calidad-esperable)
-- [Pros y límites](#pros-y-limites)
+- [Diferencia rápida entre Saguaro Free I y Luck I](#diferencia-rapida-entre-saguaro-free-i-y-luck-i)
+- [Tabla comparativa Saguaro Free I vs Luck I](#tabla-comparativa-saguaro-free-i-vs-luck-i)
+- [Saguaro Free I para uso activo](#saguaro-free-i-para-uso-activo)
+- [Saguaro Luck I para ciudad](#saguaro-luck-i-para-ciudad)
+- [Tallas Saguaro Free I y Luck I](#tallas-saguaro-free-i-y-luck-i)
+- [Calidad esperable en Saguaro Free I y Luck I](#calidad-esperable-en-saguaro-free-i-y-luck-i)
+- [Pros y límites de Saguaro Free I vs Luck I](#pros-y-limites-de-saguaro-free-i-vs-luck-i)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Diferencia rápida
+## Diferencia rápida entre Saguaro Free I y Luck I
 
 Free I aparece en la colección Saguaro como barefoot shoe para entrenamiento, caminar, running ligero y uso activo. Sus imágenes y textos oficiales destacan knit, malla, ligereza, puntera amplia, cero drop y suela de 4 mm. Es la Saguaro que miraría si alguien quiere algo funcional y barato.
 
@@ -54,7 +54,7 @@ La clave: Free I para moverse; Luck I para vestir más casual.
   <figcaption>Imagen oficial de Saguaro Luck I. Luck es la alternativa más casual; Free I apunta más a uso activo.</figcaption>
 </figure>
 
-## Tabla comparativa
+## Tabla comparativa Saguaro Free I vs Luck I
 
 <div class="table-scroll" role="region" aria-label="Comparativa Saguaro Free I Luck I" tabindex="0">
 
@@ -69,7 +69,7 @@ La clave: Free I para moverse; Luck I para vestir más casual.
 
 </div>
 
-## Free I
+## Saguaro Free I para uso activo
 
 Free I es la compra más lógica si vas a usar Saguaro para moverte. La ficha y los listados oficiales la asocian a fitness, running ligero, walking, trekking sencillo y training. No significa que sea una zapatilla técnica de running. Significa que su diseño está más cerca de una zapatilla deportiva blanda que de una sneaker de vestir.
 
@@ -77,7 +77,7 @@ La elegiría para gimnasio básico porque una suela plana y flexible puede funci
 
 Si tienes pie de mucho volumen, el upper blando puede perdonar más. Si tienes pie estrecho, puede sobrar material. Si sudas mucho, revisa transpirabilidad y calcetines.
 
-## Luck I
+## Saguaro Luck I para ciudad
 
 Luck I es más de ciudad. La ficha oficial la presenta como minimalista, versátil y esencial para estilo urbano. Visualmente es menos deportiva que Free I y puede combinar mejor con ropa casual, vaqueros o looks sencillos. Tiene cordones, upper textil/knit según listados y suela flexible de perfil bajo.
 
@@ -85,7 +85,7 @@ La elegiría si quieres abandonar sneakers estrechas sin parecer que vas al gimn
 
 No la elegiría para entrenamiento intenso, lluvia ni senderos. Tampoco si quieres materiales premium. Es una zapatilla económica: su valor está en el precio y la forma del pie, no en acabados de lujo.
 
-## Tallas y ajuste
+## Tallas Saguaro Free I y Luck I
 
 Saguaro recomienda medir el largo del pie y revisar la tabla específica del producto. Esa advertencia importa porque Free I y Luck I no deben comprarse solo por la misma EU. La página de Luck I lista conversiones EU/US/UK, pero la decisión debería salir de centímetros.
 
@@ -93,13 +93,13 @@ Mide de pie, con calcetín real, el pie más largo. Comprueba si el modelo tiene
 
 Si estás entre tallas, piensa en uso. Para gimnasio, demasiado largo puede molestar en zancadas, saltos o máquinas. Para caminar diario, un poco de margen delante suele ser aceptable si el talón queda sujeto.
 
-## Calidad esperable
+## Calidad esperable en Saguaro Free I y Luck I
 
 Saguaro compite en precio. Eso es atractivo, pero también exige expectativas realistas. No esperes la misma selección de materiales, asesoría, control de tallas o durabilidad documentada que en marcas premium europeas. La ventaja es que puedes probar la forma barefoot con menos inversión.
 
 La política oficial ofrece 30 días para decidir, pero las condiciones importan: producto sin usar, embalaje original y devolución iniciada correctamente. El coste de retorno puede depender del caso y el seguro de envío tiene condiciones. No contaría con devolución gratuita automática.
 
-## Cómo decidir sin probar antes
+## Saguaro Free I vs Luck I sin probar antes
 
 Si no puedes probarlos en tienda, elegiría según el error que te dolería menos cometer. Si compras Free I y resulta demasiado deportiva, todavía puede servir para gimnasio, caminar o recados. Si compras Luck I y esperabas entrenar con ella, quizá se quede corta porque su valor principal es vestir casual. Por eso Free I es la opción más funcional y Luck I la más estética.
 
@@ -107,7 +107,7 @@ También miraría el color con honestidad. Los colores claros de Luck I pueden c
 
 Por último, decidiría si necesito devolución fácil. Si estás entre tallas, tienes pies muy distintos o necesitas el zapato para una fecha concreta, comprar con margen de devolución local puede ser más sensato que perseguir el precio más bajo. El ahorro desaparece rápido si hay que pagar retorno internacional o repetir pedido.
 
-## Pros y límites
+## Pros y límites de Saguaro Free I vs Luck I
 
 Pros:
 
