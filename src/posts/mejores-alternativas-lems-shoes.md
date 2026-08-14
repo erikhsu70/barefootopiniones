@@ -37,6 +37,8 @@ Lems no ocupa un único lugar. Primal Zen parece una zapatilla ancha de transici
 
 Cuando probé Primal Zen, lo que más entendí fue su equilibrio. No intenta que sientas cada piedrecita, pero tampoco encierra los dedos ni levanta mucho el talón. Esa mezcla atrae a personas que quieren cambiar de geometría sin saltar directamente a una suela de pocos milímetros.
 
+En nuestra [opinión de Lems Shoes y sus hormas](/lems-shoes-opinion-tallas-modelos/) explico por qué no todos los modelos de la marca ajustan igual. Esta [review en vídeo de Primal Zen](https://www.youtube.com/watch?v=hs2AbdeO16A) permite además ver su volumen y flexión desde varios ángulos antes de comparar alternativas.
+
 Estas ocho alternativas cubren esa misma necesidad desde lugares distintos. Algunas aportan más amortiguación. Otras son barefoot de verdad, más flexibles y exigentes. Y varias priorizan que puedas llevarlas con ropa normal.
 
 <p class="affiliate-disclosure">Transparencia: la experiencia con Lems Primal Zen y Altra Torin 9 está documentada en la web. Para el resto comparo horma, construcción y datos actuales sin atribuirme pruebas que no he realizado.</p>
@@ -45,7 +47,7 @@ Estas ocho alternativas cubren esa misma necesidad desde lugares distintos. Algu
 
 ### 1. Altra Torin 9, si te gusta Lems pero necesitas correr sobre asfalto
 
-Torin 9 es la alternativa menos barefoot de la lista y una de las más útiles. Tiene **28 mm de plataforma, drop cero y horma FootShape Standard**. Es decir, respeta mucho mejor el antepié que una zapatilla puntiaguda, pero filtra el suelo con una mediasuela de running.
+Torin 9 es la alternativa menos barefoot de la lista y una de las más útiles. La [ficha oficial de Altra Torin 9](https://www.altrarunning.com/en-us/pages/torin-9) confirma **28 mm de plataforma, drop cero y horma FootShape Standard**. Es decir, respeta mucho mejor el antepié que una zapatilla puntiaguda, pero filtra el suelo con una mediasuela de running.
 
 La he usado durante 27 kilómetros repartidos en cuatro salidas. Mi talla habitual 43 EU me funcionó, el talón quedó sujeto y la puntera dio espacio sin hacer que el pie flotara. La sensación fue estable y amortiguada, no minimalista.
 
@@ -67,9 +69,11 @@ Tampoco asumiría que “menos amortiguación” significa automáticamente mejo
 
 La elegiría frente a Primal Zen cuando quiero una sujeción atlética más precisa. Elegiría Lems cuando quiero una zapatilla más relajada, voluminosa y fácil para todo el día.
 
+Si estás entre una deportiva anatómica y una opción más mínima, nuestra [experiencia con Altra Escalante 4](/altra-escalante-4-opiniones/) ofrece otro punto de comparación real sin mezclarlo con las sensaciones de ST-5.
+
 ### 3. Barebarics Wave, para sustituir la parte urbana del armario
 
-Wave no compite con Lems por parecer técnica. Compite por hacer que una puntera anatómica se vea como una sneaker retro. Usa piel Nappa, forro técnico y una suela cosida que aporta más presencia que una barefoot ultrafina.
+Wave no compite con Lems por parecer técnica. Compite por hacer que una puntera anatómica se vea como una sneaker retro. La [ficha oficial de Barebarics Wave](https://www.barebarics.com/barefoot-sneakers-barebarics-wave-black-blue/?variant=17227) especifica piel Nappa, forro Dermodry Coolmax y suela cosida.
 
 La pondría frente a Chillum, Kourt o incluso a quien usa Primal Zen solo con vaqueros. La silueta es más vestida, la construcción más robusta y el tacto inicial puede resultar menos blando.
 
@@ -93,7 +97,7 @@ La comparación entre [Be Lenka y Barebarics](/be-lenka-vs-barebarics-ajuste-sue
 
 ### 5. Feelgrounds Courtside Classic, para una sneaker vegana y limpia
 
-Courtside Classic utiliza una parte superior de PU vegano y forro Tencel. La ficha oficial declara una altura total de **5 mm** y unos 310 gramos en talla 43. Es mucho más fina que gran parte del catálogo de Lems.
+Según la [ficha oficial de Feelgrounds Courtside Classic](https://feelgrounds.com/en/products/courtside-classic-veganer-barfusssneaker), utiliza una parte superior de PU vegano y forro Tencel Lyocell con PET reciclado. La marca declara una altura total de **5 mm** y 310 gramos por zapatilla en talla 43. Es mucho más fina que gran parte del catálogo de Lems.
 
 La escogería para oficina informal, cenas, ciudad seca y quien quiere una zapatilla blanca sin puntera puntiaguda. Visualmente se integra con facilidad y no obliga a explicar que llevas calzado minimalista.
 
@@ -142,6 +146,8 @@ Si tu Lems te funciona bien y solo buscas ahorrar, cambiar por cambiar puede sal
 ## Cómo sustituir el catálogo de Lems sin comprar ocho pares
 
 Para reemplazar **Primal Zen**, empezaría por Topo ST-5 si el uso es deportivo o por Be Lenka Rebound si es urbano. Ambas reducen material, así que no cambiaría todas mis jornadas desde el primer día.
+
+La comparación interna entre [Primal Zen y Primal 3](/lems-primal-zen-vs-primal-3/) también ayuda a decidir si de verdad necesitas salir de Lems o simplemente cambiar a otra plataforma dentro de la propia marca.
 
 Para sustituir **Chillum o Kourt**, miraría Barebarics Wave, Feelgrounds Courtside o Groundies Nova. La elección depende más de horma, material y ropa que de una supuesta ganadora absoluta.
 
