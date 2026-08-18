@@ -99,7 +99,6 @@ translatedFrom: en
 <li> – Estas zapatillas casuales son baratas, pero tienen una forma de pie más estrecha. Lee mi <a href="/revision-de-whitin-zapatillas-de-deporte-descalzas-baratas/">Whitin reseña aquí</a>.</li>
 <li> – opciones veganas</li>
 <li></li>
-<li><a href="http://www.zapatoferoz.es">Zapato Feroz</a> – Sólo envíos a la UE. De cuero y vegano, mejor para pies más estrechos.  ¡Con envío a todo el mundo disponible!</li>
 <li><a href="https://www.zaqq-barfussschuhe.de/">Zaqq</a> – TANTAS zapatillas casuales geniales</li>
 </ul>
 <h2 class="wp-block-heading">Zapatillas descalzas totalmente blancas</h2>
@@ -121,7 +120,6 @@ translatedFrom: en
 <li> (vegano). Usar código <strong>CUALQUIER EXAMEN</strong> por 10% de descuento. <a href="/revision-de-splay-freestyle-zapatillas-descalzas-asequibles-para-toda-la-familia/">Lee mi reseña de estilo libre aquí</a></li>
 <li><a href="https://weartolos.com/">Tolos</a> – Usar código <strong></strong> para 10% de descuento</li>
 <li>– (cuero)  <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong>. Si estás en el Reino Unido, . Si usted está en la UE o el resto del mundo, .</li>
-<li><a href="http://www.zapatoferoz.es">Zapato Feroz</a> – (vegano)</li>
 <li><a href="http://zaqq.com/">Zaqq</a> – Varios diferentes todos <a href="https://www.zaqq.com/search?sSearch=white+sneaker%2F">blanco</a> Estilos, opciones veganas y de cuero.</li>
 </ul>
 <h2 class="wp-block-heading"><span id="the-all-black-sneaker-list"></span>Zapatillas descalzas totalmente negras</h2>
@@ -150,7 +148,6 @@ translatedFrom: en
 <li><a href="https://www.unshoesusa.com/collections/closed-toe/products/black-terra-vida">Zapatos Terra Vida</a> – $74 (cáñamo) Unshoes acaba de lanzar una versión completamente negra de su Terra Vida. mi codigo <strong></strong> te consigue un 10% de descuento</li>
 <li> – $96 (vegano)</li>
 <li> – $90 (vegano). Ahora disponible en cuero <a href="https://xeroshoes.com/shop/shoes/prio-all-day-men/">!</a></li>
-<li><a href="http://www.zapatoferoz.es">Zapato Feroz</a> – $135 (vegano).  ¡Con envío a todo el mundo disponible!</li>
 <li><a href="https://www.zaqq-barfussschuhe.de/">Zaqq</a> – $165 Nuevamente, varios estilos tanto en vegano como en cuero. </li>
 </ul>
 <h2 class="wp-block-heading"><span id="the-hightop-sneaker-list"></span>Zapatillas altas descalzas</h2>

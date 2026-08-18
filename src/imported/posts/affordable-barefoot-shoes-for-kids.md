@@ -313,7 +313,6 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zapatoferoz.es/">Zapato Feroz</a> (<strong>Europa</strong>) – Tallas UE 24-31.<br/>¡Súper flexible y liviano!</p>
 </div></div>
 
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
@@ -358,7 +357,6 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:23% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zapatoferoz.es/">Zapato Feroz</a> (<strong>Europa</strong>) – Tallas UE 24-31</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:24% auto"><div class="wp-block-media-text__content">
@@ -640,7 +638,6 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zapatoferoz.es/">Zapato Feroz</a> (<strong>Europa</strong>) – Tallas UE 24-31.</p>
 </div></div>
 
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
@@ -701,7 +698,6 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:22% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zapatoferoz.es/">Zapato Feroz</a> (<strong>Europa</strong>) – Tallas UE 24-31</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:24% auto"><div class="wp-block-media-text__content">
@@ -796,4 +792,3 @@ translatedFrom: en
 <p class="has-text-align-center"><a href="/lista-completa-de-zapatos-asequibles-de-pie-y-minimalista/"><strong>¿A su hijo se le ha quedado pequeña la talla de niño? Haga clic aquí para ver una publicación sobre Zapatos barefoot asequibles para adultos.</strong></a></p>
 
 <p class="has-text-align-center has-normal-font-size">¡Un agradecimiento especial a Samantha M por todo su tiempo investigando esto junto a mí! Publicaciones como esta son un trabajo de amor y reflejan HORAS de tiempo. Esperamos sinceramente que facilite el uso de calzado saludable para sus hijos.</p>
-

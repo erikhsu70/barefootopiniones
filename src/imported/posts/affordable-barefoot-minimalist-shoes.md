@@ -208,7 +208,6 @@ translatedFrom: en
 <li>Vivobarefoot – Lee todos mis <a href="/marca/vivobarefoot/">Reseñas de Vivobarefoot aquí</a>. <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong>. Si estás en el Reino Unido, . Si usted está en la UE o el resto del mundo, .</li>
 <li> – ¡Algunos de los Zapatos barefoot más ligeros y flexibles! Usar código <strong></strong> para una oferta única de envío gratis. Si vive fuera de EE. UU./Canadá, </li>
 <li><a href="https://xeroshoes.com/shop/product-category/shoes/">Zapatos Xero</a> – Lee todos mis <a href="/marca/xero-shoes/">Reseñas de Xero Shoes</a> aquí.  Si vives dentro de la UE, haga clic aquí para Xero Shoes UE</li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a> – Esta marca española no realiza envíos a EE. UU., pero tenemos estilos selectos en </li>
 <li><a href="https://zkama.cz/">Zkama</a></li>
 <li><a href="https://www.zlatush.sk/en/adults-ready-made-sizes/">Zlatush</a></li>
 </ul>
@@ -276,4 +275,3 @@ translatedFrom: en
 <li><a href="https://www.mercari.com/search/?keyword=Mercari&amp;msclkid=4e6c7502e2c91905f5602966afc84d26&amp;gclid=CLrmpsCXueACFYRigQodI1AMfQ&amp;gclsrc=ds">Mercari</a> – No hay tanta selección como los demás, pero precios más baratos y obtienes un crédito de $10 cuando usas <a href="https://www.mercari.com/invitations/?iv_code=EAYYQZ">este enlace.</a></li>
 <li>Amazonas (Puedes encontrar varias marcas de Zapatos barefoot aquí, mira mi <a href="/amazon-finds-zapatos-barefoot-con-devoluciones-gratuitas/">Amazon Zapatos barefoot encuentra</a> para ver la lista completa.</li>
 </ul>
-
