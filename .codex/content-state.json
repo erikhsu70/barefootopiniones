@@ -122,12 +122,10 @@
       "url": "https://barefootopiniones.com/barebarics-guia-tallas-mejores-modelos/",
       "slug": "barebarics-guia-tallas-mejores-modelos",
       "status": "Published",
-      "commit": "3e320c2",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
       "type": "new",
-      "lastChecked": "2026-08-04T13:13:30+02:00",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
       "verification": {
-        "localSourceValidation": "New transparent Barebarics hub drafted from current official sources and Spanish SERP research; uses existing repository Barebarics image and links to the older Barebarics review without replacing its canonical.",
-        "deploymentChecks": 3,
         "httpStatus": 200,
         "observedH1": "Guía de Barebarics: tallas, ajuste y mejores modelos",
         "expectedH1": "Guía de Barebarics: tallas, ajuste y mejores modelos",
@@ -136,9 +134,9 @@
         "indexEntry": true,
         "sitemapEntry": true,
         "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "live custom-domain HTML/CSS responsive safeguards checked; browser screenshot unavailable because no Chromium/Chrome/Playwright executable is installed in the runtime",
-        "deployment": "758d3a15",
-        "note": "Verified live on the custom domain after direct Cloudflare Pages deployment from a clean origin/main artifact at 3e320c2. /articulos/ with no-cache, /articulos/pagina/1/, /marca/barebarics/ and current-sitemap.xml include the URL. Newer remote source commit 623877a was not deployed by this run to avoid publishing unrelated new topics."
+        "render": "live HTML responsive safeguards verified; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Retried stale pushed_unverified state first; live custom-domain URL already passed H1, canonical, image, index, sitemap and schema checks."
       }
     },
     {
@@ -905,6 +903,251 @@
         "deployment": "bfa6848d",
         "note": "Live verification passed after the direct Cloudflare Pages deployment; H1, canonical, image, keyword-focused H2, schema, article index, Saguaro brand archive and current sitemap all verified."
       }
+    },
+    {
+      "topic": "Saguaro Form I Air para vestir",
+      "title": "Guía de Saguaro Form I Air: vestir, tallas y ajuste barefoot",
+      "url": "https://barefootopiniones.com/saguaro-form-i-air-guia-vestir-tallas/",
+      "slug": "saguaro-form-i-air-guia-vestir-tallas",
+      "status": "Published",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
+      "type": "new",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Guía de Saguaro Form I Air: vestir, tallas y ajuste barefoot",
+        "expectedH1": "Guía de Saguaro Form I Air: vestir, tallas y ajuste barefoot",
+        "canonical": "https://barefootopiniones.com/saguaro-form-i-air-guia-vestir-tallas/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live HTML responsive safeguards verified; table-scroll present where needed; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Published in the 2026-08-13 daily five-article batch after clean build, direct Cloudflare Pages deploy and live custom-domain verification."
+      }
+    },
+    {
+      "topic": "Saguaro vs Whitin",
+      "title": "Saguaro vs Whitin: qué barefoot barato elegir",
+      "url": "https://barefootopiniones.com/saguaro-vs-whitin-barefoot-barato/",
+      "slug": "saguaro-vs-whitin-barefoot-barato",
+      "status": "Published",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
+      "type": "new",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Saguaro vs Whitin: qué barefoot barato elegir",
+        "expectedH1": "Saguaro vs Whitin: qué barefoot barato elegir",
+        "canonical": "https://barefootopiniones.com/saguaro-vs-whitin-barefoot-barato/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live HTML responsive safeguards verified; table-scroll present where needed; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Published in the 2026-08-13 daily five-article batch after clean build, direct Cloudflare Pages deploy and live custom-domain verification."
+      }
+    },
+    {
+      "topic": "Vivobarefoot Primus Lite IV vs Motus Strength II",
+      "title": "Vivobarefoot Primus Lite IV vs Motus Strength II: gimnasio o fuerza",
+      "url": "https://barefootopiniones.com/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/",
+      "slug": "vivobarefoot-primus-lite-iv-vs-motus-strength-ii",
+      "status": "Published",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
+      "type": "new",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Vivobarefoot Primus Lite IV vs Motus Strength II: gimnasio o fuerza",
+        "expectedH1": "Vivobarefoot Primus Lite IV vs Motus Strength II: gimnasio o fuerza",
+        "canonical": "https://barefootopiniones.com/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live HTML responsive safeguards verified; table-scroll present where needed; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Published in the 2026-08-13 daily five-article batch after clean build, direct Cloudflare Pages deploy and live custom-domain verification."
+      }
+    },
+    {
+      "topic": "Vivobarefoot Primus Lite vs Primus Trail",
+      "title": "Vivobarefoot Primus Lite vs Primus Trail: gimnasio, asfalto o montaña",
+      "url": "https://barefootopiniones.com/vivobarefoot-primus-lite-vs-primus-trail/",
+      "slug": "vivobarefoot-primus-lite-vs-primus-trail",
+      "status": "Published",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
+      "type": "new",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Vivobarefoot Primus Lite vs Primus Trail: gimnasio, asfalto o montaña",
+        "expectedH1": "Vivobarefoot Primus Lite vs Primus Trail: gimnasio, asfalto o montaña",
+        "canonical": "https://barefootopiniones.com/vivobarefoot-primus-lite-vs-primus-trail/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live HTML responsive safeguards verified; table-scroll present where needed; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Published in the 2026-08-13 daily five-article batch after clean build, direct Cloudflare Pages deploy and live custom-domain verification."
+      }
+    },
+    {
+      "topic": "Xero Prio vs HFS II vs Prio Neo",
+      "title": "Xero Prio vs HFS II vs Prio Neo: correr, gimnasio o diario",
+      "url": "https://barefootopiniones.com/xero-prio-vs-hfs-ii-vs-prio-neo/",
+      "slug": "xero-prio-vs-hfs-ii-vs-prio-neo",
+      "status": "Published",
+      "commit": "c48405676a594c357fbe8b5f6b749f9761f82be9",
+      "type": "new",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Xero Prio vs HFS II vs Prio Neo: correr, gimnasio o diario",
+        "expectedH1": "Xero Prio vs HFS II vs Prio Neo: correr, gimnasio o diario",
+        "canonical": "https://barefootopiniones.com/xero-prio-vs-hfs-ii-vs-prio-neo/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "live HTML responsive safeguards verified; table-scroll present where needed; browser screenshot unavailable in runtime",
+        "deployment": "b4816ab9",
+        "note": "Published in the 2026-08-13 daily five-article batch after clean build, direct Cloudflare Pages deploy and live custom-domain verification."
+      }
+    },
+    {
+      "topic": "Feelgrounds Courtside vs Original",
+      "title": "Feelgrounds Courtside vs Original: cuál elegir",
+      "url": "https://barefootopiniones.com/feelgrounds-courtside-vs-original/",
+      "slug": "feelgrounds-courtside-vs-original",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-18",
+      "type": "new",
+      "lastChecked": "2026-08-18T19:20:00+02:00",
+      "note": "Transparent comparison using official Feelgrounds Courtside Canvas, Original Mesh, sizing and returns sources plus existing Feelgrounds archive evidence; no invented Courtside hands-on test.",
+      "verification": {
+        "localBuild": "npm run build passed after final link fixes",
+        "checks": "npm run build; npm run export:content; npm run check:featured; npm run check:affiliates; npm run check:models; npm run check:schema; npm run check:site; npm run check:urls; npm run check:titles; focused generated HTML verification",
+        "httpStatus": 200,
+        "observedH1": "Feelgrounds Courtside vs Original: cuál elegir",
+        "expectedH1": "Feelgrounds Courtside vs Original: cuál elegir",
+        "canonical": "https://barefootopiniones.com/feelgrounds-courtside-vs-original/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "focused generated HTML verified for viewport, canonical, image, FAQ/Breadcrumb/Article schema, article index, sitemap and table-scroll mobile safeguards; live production verification required after direct Cloudflare Pages deployment",
+        "deployment": "pending direct Cloudflare Pages batch deployment",
+        "note": "Transparent comparison using official Feelgrounds Courtside Canvas, Original Mesh, sizing and returns sources plus existing Feelgrounds archive evidence; no invented Courtside hands-on test."
+      }
+    },
+    {
+      "topic": "Softstar Shoes: guía de tallas, anchos y mejores modelos",
+      "title": "Guía de Softstar Shoes: tallas, anchos y mejores modelos",
+      "url": "https://barefootopiniones.com/softstar-shoes-guia-tallas-anchos-modelos/",
+      "slug": "softstar-shoes-guia-tallas-anchos-modelos",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-18",
+      "type": "new",
+      "lastChecked": "2026-08-18T19:20:00+02:00",
+      "note": "New Softstar brand hub using official sizing/model sources and existing Softstar archive context; focused on fit and extra-wide use without invented current-model testing.",
+      "verification": {
+        "localBuild": "npm run build passed after final link fixes",
+        "checks": "npm run build; npm run export:content; npm run check:featured; npm run check:affiliates; npm run check:models; npm run check:schema; npm run check:site; npm run check:urls; npm run check:titles; focused generated HTML verification",
+        "httpStatus": 200,
+        "observedH1": "Guía de Softstar Shoes: tallas, anchos y mejores modelos",
+        "expectedH1": "Guía de Softstar Shoes: tallas, anchos y mejores modelos",
+        "canonical": "https://barefootopiniones.com/softstar-shoes-guia-tallas-anchos-modelos/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "focused generated HTML verified for viewport, canonical, image, FAQ/Breadcrumb/Article schema, article index, sitemap and table-scroll mobile safeguards; live production verification required after direct Cloudflare Pages deployment",
+        "deployment": "pending direct Cloudflare Pages batch deployment",
+        "note": "New Softstar brand hub using official sizing/model sources and existing Softstar archive context; focused on fit and extra-wide use without invented current-model testing."
+      }
+    },
+    {
+      "topic": "Unshoes: guía para elegir sandalias y talla",
+      "title": "Unshoes: guía para elegir sandalias y talla",
+      "url": "https://barefootopiniones.com/unshoes-guia-sandalias-talla/",
+      "slug": "unshoes-guia-sandalias-talla",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-18",
+      "type": "new",
+      "lastChecked": "2026-08-18T19:20:00+02:00",
+      "note": "New Unshoes sandal sizing hub using official templates, Pah Tempe, Uinta, FAQ and returns sources plus repository sandal context.",
+      "verification": {
+        "localBuild": "npm run build passed after final link fixes",
+        "checks": "npm run build; npm run export:content; npm run check:featured; npm run check:affiliates; npm run check:models; npm run check:schema; npm run check:site; npm run check:urls; npm run check:titles; focused generated HTML verification",
+        "httpStatus": 200,
+        "observedH1": "Unshoes: guía para elegir sandalias y talla",
+        "expectedH1": "Unshoes: guía para elegir sandalias y talla",
+        "canonical": "https://barefootopiniones.com/unshoes-guia-sandalias-talla/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "focused generated HTML verified for viewport, canonical, image, FAQ/Breadcrumb/Article schema, article index, sitemap and table-scroll mobile safeguards; live production verification required after direct Cloudflare Pages deployment",
+        "deployment": "pending direct Cloudflare Pages batch deployment",
+        "note": "New Unshoes sandal sizing hub using official templates, Pah Tempe, Uinta, FAQ and returns sources plus repository sandal context."
+      }
+    },
+    {
+      "topic": "Unshoes Pah Tempe vs Uinta vs Wokova Feather",
+      "title": "Unshoes Pah Tempe vs Uinta vs Wokova Feather: cuál elegir",
+      "url": "https://barefootopiniones.com/unshoes-pah-tempe-vs-uinta-vs-wokova-feather/",
+      "slug": "unshoes-pah-tempe-vs-uinta-vs-wokova-feather",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-18",
+      "type": "new",
+      "lastChecked": "2026-08-18T19:20:00+02:00",
+      "note": "New transparent Unshoes comparison using official Pah Tempe, Uinta, Wokova Feather and sizing sources; no invented route, water or durability testing.",
+      "verification": {
+        "localBuild": "npm run build passed after final link fixes",
+        "checks": "npm run build; npm run export:content; npm run check:featured; npm run check:affiliates; npm run check:models; npm run check:schema; npm run check:site; npm run check:urls; npm run check:titles; focused generated HTML verification",
+        "httpStatus": 200,
+        "observedH1": "Unshoes Pah Tempe vs Uinta vs Wokova Feather: cuál elegir",
+        "expectedH1": "Unshoes Pah Tempe vs Uinta vs Wokova Feather: cuál elegir",
+        "canonical": "https://barefootopiniones.com/unshoes-pah-tempe-vs-uinta-vs-wokova-feather/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "focused generated HTML verified for viewport, canonical, image, FAQ/Breadcrumb/Article schema, article index, sitemap and table-scroll mobile safeguards; live production verification required after direct Cloudflare Pages deployment",
+        "deployment": "pending direct Cloudflare Pages batch deployment",
+        "note": "New transparent Unshoes comparison using official Pah Tempe, Uinta, Wokova Feather and sizing sources; no invented route, water or durability testing."
+      }
+    },
+    {
+      "topic": "Groundies Nova GS1 vs Nova GO1",
+      "title": "Groundies Nova GS1 vs Nova GO1: cuál elegir",
+      "url": "https://barefootopiniones.com/groundies-nova-gs1-vs-nova-go1/",
+      "slug": "groundies-nova-gs1-vs-nova-go1",
+      "status": "Published",
+      "commit": "daily-batch-2026-08-18",
+      "type": "new",
+      "lastChecked": "2026-08-18T19:20:00+02:00",
+      "note": "New Groundies Nova comparison using official GS1, GO1 and fit sources; distinguishes Barefoot Fit and Barefoot+ without invented side-by-side wear.",
+      "verification": {
+        "localBuild": "npm run build passed after final link fixes",
+        "checks": "npm run build; npm run export:content; npm run check:featured; npm run check:affiliates; npm run check:models; npm run check:schema; npm run check:site; npm run check:urls; npm run check:titles; focused generated HTML verification",
+        "httpStatus": 200,
+        "observedH1": "Groundies Nova GS1 vs Nova GO1: cuál elegir",
+        "expectedH1": "Groundies Nova GS1 vs Nova GO1: cuál elegir",
+        "canonical": "https://barefootopiniones.com/groundies-nova-gs1-vs-nova-go1/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "focused generated HTML verified for viewport, canonical, image, FAQ/Breadcrumb/Article schema, article index, sitemap and table-scroll mobile safeguards; live production verification required after direct Cloudflare Pages deployment",
+        "deployment": "pending direct Cloudflare Pages batch deployment",
+        "note": "New Groundies Nova comparison using official GS1, GO1 and fit sources; distinguishes Barefoot Fit and Barefoot+ without invented side-by-side wear."
+      }
     }
   ],
   "extraCampaigns": [
@@ -941,6 +1184,27 @@
       "lastChecked": "2026-08-11T18:36:00+02:00",
       "reason": "Skipped during 2026-08-11 batch because official Lems source describes ZenSpeed as coming Fall 2026; availability is uncertain as of the run date, so a recommendation guide would risk speculative buying advice.",
       "nextAction": "Recheck official product availability and full specs after launch before selecting this topic."
+    },
+    {
+      "topic": "Mukishoes UNA Cloud",
+      "status": "blocked",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "reason": "Mukishoes official site returned an offline maintenance page on 2026-08-13, so current availability, model names, size guidance and return evidence were too weak to publish without speculation.",
+      "nextAction": "Retry official Mukishoes sources before drafting; do not invent current availability."
+    },
+    {
+      "topic": "Mukishoes Nómada Terra y casual flats",
+      "status": "blocked",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "reason": "Mukishoes official site returned an offline maintenance page on 2026-08-13, so current availability, model names, size guidance and return evidence were too weak to publish without speculation.",
+      "nextAction": "Retry official Mukishoes sources before drafting; do not invent current availability."
+    },
+    {
+      "topic": "Mukishoes para niños",
+      "status": "blocked",
+      "lastChecked": "2026-08-13T18:10:00+02:00",
+      "reason": "Mukishoes official site returned an offline maintenance page on 2026-08-13, so current availability, model names, size guidance and return evidence were too weak to publish without speculation.",
+      "nextAction": "Retry official Mukishoes sources before drafting; do not invent current availability."
     }
   ]
 }

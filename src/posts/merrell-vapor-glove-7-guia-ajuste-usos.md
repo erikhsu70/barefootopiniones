@@ -35,7 +35,6 @@ Esta guía no es una reseña de uso personal. En Barefoot Opiniones hay fotos pr
 - [Tabla de decisión](#tabla-de-decision)
 - [Ventajas y límites](#ventajas-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -121,11 +120,6 @@ La alternativa más directa dentro de Merrell es [Trail Glove 8](/merrell-trail-
 
 Si buscas más anchura, miraría [Lems Shoes](/lems-shoes-opinion-tallas-modelos/), Freet o Be Lenka. Si quieres una experiencia todavía más específica y no te importa la estética, [Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/) ofrece dedos separados y muchísimo contacto con el suelo. Si aún estás entendiendo qué significa barefoot, empieza por [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y por [ejercicios de transición](/ejercicios-pies-transicion-barefoot/).
 
-## Segunda revisión editorial
-
-La intención de búsqueda mezcla compra, opiniones y tallas. Por eso el artículo evita duplicar la guía general de Merrell y se centra en Vapor Glove 7: uso, ajuste, límites, comparación con Trail Glove y alternativas por tipo de pie.
-
-No se usa "mi opinión honesta" porque no hay prueba documentada de Vapor Glove 7. La imagen está etiquetada como Trail Glove 8 para no confundir. Las fuentes principales son oficiales y actuales; OutdoorGearLab y Deporvillage aportan contraste externo sobre rendimiento y comentarios de usuarios. Las afirmaciones de salud se mantienen como transición, carga y prudencia, no como promesas clínicas.
 
 ## Fuentes consultadas
 

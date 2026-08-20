@@ -191,7 +191,6 @@ translatedFrom: en
 <li> – Usar código <strong></strong> para 10% de los artículos de precio completo, o código <strong></strong> para obtener un 5 % de descuento adicional en artículos en oferta</li>
 <li><a href="https://bedrocksandals.com/">Sandalias Bedrock</a></li>
 <li><a href="https://ahinsashoes.com/collections/womens-barefoot-shoes/narrow/r?id=4j0f77">Ahinsa</a> – Seleccione bailarinas para pies estrechos. Usar código <strong>CUALQUIER EXAMEN</strong> para 10% de descuento</li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a> – seleccione estilos disponibles en </li>
 <li><a href="https://zeazoo.com/en/">Sandalias Zeazoo</a> – Usar código <strong>CUALQUIER EXAMEN</strong> con un 5% de descuento. Seleccione estilos disponibles en </li>
 <li><a href="https://freeformshoes.com/">Zapatos de forma libre</a> – Zapatos de vestir de hombre.</li>
 </ul>
@@ -273,4 +272,3 @@ translatedFrom: en
 <li><a href="/la-lista-completa-de-zapatos-de-pie-vegano-actualizado-2026/">Zapatos veganos descalzos</a></li>
 </ul>
 <p class="has-text-align-center has-medium-font-size">¿Aún tienes preguntas sobre Zapatos barefoot? Mira el<a href="/preguntas-frecuentes-barefoot/"> Últimos zapatos de pie Preguntas frecuentes</a></p>
-

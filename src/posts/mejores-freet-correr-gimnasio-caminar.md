@@ -37,7 +37,6 @@ Esta guía no es una reseña personal de todos los modelos. En Barefoot Opinione
 - [Tallas Freet y ajuste por modelo](#tallas-freet-y-ajuste-por-modelo)
 - [Pros y límites de Freet](#pros-y-limites-de-freet)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -126,9 +125,6 @@ Si quieres más estilo urbano, compara con [Barebarics](/barebarics-guia-tallas-
 
 Para niños, esta guía no aplica: revisa [el mejor calzado barefoot para niños](/mejor-barefoot-ninos-segun-temporada/) y [Saguaro para niños](/saguaro-ninos-smart-vigor-alternativas/).
 
-## Segunda revisión editorial
-
-La intención de búsqueda pide una lista práctica por uso. Se evitó convertirla en review personal porque no hay evidencia de prueba de todos los Freet actuales. Se verificaron fichas oficiales de Pace, Vibe 2, Flex 2, la tabla de fitness/training, tallas, devoluciones EU y literatura de transición minimalista. Las recomendaciones de correr se mantienen conservadoras y no prometen prevención de lesiones.
 
 ## Fuentes consultadas
 

@@ -36,7 +36,6 @@ Esta guía no es una reseña personal de Isabel con Switchback. En el sitio hay 
 - [Cuándo evitarla](#cuando-evitarla)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -130,9 +129,6 @@ Lems envía internacionalmente desde su web y lista España entre los países ad
 
 Por eso no compraría Switchback sin medir bien o sin aceptar ese riesgo logístico. En una sandalia de talla entera, estar entre tallas añade incertidumbre. Si tienes acceso a una tienda europea con devolución local clara, puede compensar aunque el precio base sea menos atractivo.
 
-## Segunda revisión editorial
-
-La guía evita llamarla "mi opinión" porque no existe prueba propia documentada. También deja claro el drop de 3 mm para no presentar Switchback como cero drop. La imagen es oficial y se declara. Las afirmaciones de senderismo se mantienen moderadas: sendero sencillo no significa montaña técnica. La página enlaza al hub de Lems y a guías de sandalias para evitar canibalización.
 
 ## Fuentes consultadas
 

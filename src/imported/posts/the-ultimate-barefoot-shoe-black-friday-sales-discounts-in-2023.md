@@ -289,7 +289,5 @@ translatedFrom: en
 <li><a href="https://www.mukluks.com/">Steger Mukluks</a></li>
 <li>Vivobarefoot – Usar código <strong><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong> </strong>para 10% de descuento</li>
 <li><a href="https://www.zapatillas-minimalistas.com/en/">zamí</a></li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a> – Puedes comprar una selección muy limitada de </li>
 <li><a href="https://www.zaqq.com/">Zaqq barefoot</a> – Puedes encontrar los populares.  a la venta en .</li>
 </ul>
-

@@ -35,7 +35,6 @@ Esta guía acompaña a la [guía principal de Vibram FiveFingers](/vibram-fivefi
 - [Errores comunes con la talla Vibram FiveFingers](#errores-comunes-con-la-talla-vibram-fivefingers)
 - [Tabla de talla Vibram FiveFingers por modelo](#tabla-de-talla-vibram-fivefingers-por-modelo)
 - [Alternativas si no encajas](#alternativas-si-no-encajas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -124,9 +123,6 @@ Luego prueba el gesto para el que lo compraste. Si es KSO EVO, haz unas sentadil
 
 Por último, espera unos minutos antes de decidir. A veces el primer contacto sorprende porque nunca has llevado dedos separados; eso puede ser normal. Lo que no es normal es dolor, entumecimiento, presión clara o una costura que ya molesta sin haber salido a la calle.
 
-## Segunda revisión editorial
-
-Este artículo responde a una intención muy concreta: talla y ajuste. No compite con el hub Vibram ni con las guías de modelo, porque enlaza hacia ellas y se centra en medición. La imagen oficial está declarada. Las recomendaciones son conservadoras y no prometen beneficios médicos.
 
 ## Fuentes consultadas
 

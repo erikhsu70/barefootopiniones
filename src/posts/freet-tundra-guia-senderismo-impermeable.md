@@ -37,7 +37,6 @@ Esta guía no es una reseña personal de Isabel con Tundra. No hay notas propias
 - [Cuándo evitar Freet Tundra](#cuando-evitar-freet-tundra)
 - [Pros y límites de Freet Tundra](#pros-y-limites-de-freet-tundra)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -111,9 +110,6 @@ Si quieres Freet para gimnasio o asfalto, mira la guía de [los mejores Freet po
 
 Para senderismo barefoot general, la guía de [botas barefoot de montaña](/botas-zapatos-barefoot-senderismo/) ofrece más marcas. Si quieres algo mucho más fino, [Merrell Wrapt](/merrell-wrapt-guia-senderismo-ligero/) y [Merrell Trail Glove](/merrell-vapor-glove-vs-trail-glove/) cubren otro perfil.
 
-## Segunda revisión editorial
-
-La intención de búsqueda pide "opinión" y "review", pero no hay evidencia propia para titularlo así. Por eso se usa "Guía" y se declara la fuente oficial de la imagen. Se verificaron especificaciones, talla, stack, impermeabilidad y devoluciones. Las afirmaciones de salud son conservadoras: cero drop y flexibilidad cambian cargas y deben introducirse poco a poco, especialmente en rutas largas o con peso.
 
 ## Fuentes consultadas
 

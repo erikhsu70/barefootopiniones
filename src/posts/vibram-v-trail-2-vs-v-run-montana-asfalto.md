@@ -35,7 +35,6 @@ Esta comparativa no es una reseña personal de Isabel con estos dos modelos actu
 - [Cuándo elegir V-Trail 2.0](#cuando-elegir-v-trail-2-0)
 - [Cuándo elegir V-Run](#cuando-elegir-v-run)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -107,11 +106,6 @@ La segunda es tu historial de transición. Si vienes de Altra, Topo o zapatillas
 
 La tercera es la logística de devolución. En FiveFingers, equivocarte de talla es más probable que en una sneaker normal, así que comprar en una tienda con devolución clara puede valer más que ahorrar unos euros. Revisa si el producto está en liquidación, porque las condiciones pueden cambiar.
 
-## Segunda revisión editorial
-
-La intención es comparativa, no una reseña duplicada de V-Run ni una guía general de Vibram. Por eso se enlaza al hub y a las guías específicas, y la tabla reduce la decisión a terreno, protección, ajuste y transición. Las afirmaciones de salud se mantienen conservadoras: no se promete curar lesiones ni mejorar técnica por comprar un modelo.
-
-La imagen oficial está declarada. Las fuentes externas y oficiales cubren especificaciones, uso, talla y SERP española. No se usa feedback de tienda como experiencia propia.
 
 ## Fuentes consultadas
 

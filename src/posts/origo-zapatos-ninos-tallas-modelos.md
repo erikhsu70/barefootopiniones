@@ -35,7 +35,6 @@ Esta guía no es una reseña personal de Isabel con los modelos infantiles actua
 - [Materiales](#materiales)
 - [Pros y límites de Origo Shoes para niños](#pros-y-limites-de-origo-shoes-para-ninos)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -120,9 +119,6 @@ Mi hábito preferido es sacar la plantilla, apoyar el pie encima y comprobar lar
 
 Y una última comprobación sencilla: pregunta al niño después de jugar, no justo al probárselo. El pie caliente, sudado y cansado cuenta más la verdad que una prueba de treinta segundos junto a la puerta.
 
-## Segunda revisión editorial
-
-Este artículo no canibaliza el hub Origo ni la guía general de niños: responde a una búsqueda de marca + niños. Se evita "mi opinión" porque no hay prueba documentada de los modelos infantiles actuales. La imagen oficial está declarada, las reseñas de compradores no se transforman en experiencia propia y las afirmaciones de desarrollo infantil se mantienen prudentes.
 
 ## Fuentes consultadas
 

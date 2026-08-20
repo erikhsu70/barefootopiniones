@@ -281,7 +281,5 @@ translatedFrom: en
 <li><a href="https://nonsbarefoot.com/en/">No(N)s</a> </li>
 <li><a href="https://www.mukluks.com/">Steger Mukluks</a></li>
 <li><a href="https://www.zapatillas-minimalistas.com/en/">zamí</a></li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a></li>
 <li><a href="https://www.zaqq.com/">Zaqq barefoot</a> – Puedes encontrar una selección de modelos Zaqq en .</li>
 </ul>
-

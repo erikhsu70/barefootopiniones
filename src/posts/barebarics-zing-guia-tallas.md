@@ -35,7 +35,6 @@ Esta guía no es una opinión personal de Isabel con Barebarics Zing. El sitio t
 - [Tabla de decisión](#tabla-de-decision)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -125,9 +124,6 @@ También miraría el largo con el pie cargado. De pie, los dedos necesitan marge
 
 Por último, guardaría embalaje y documentación hasta decidir. En la UE hay ventana de devolución, pero el producto debe seguir en estado original. Estrenar en la calle antes de estar segura puede convertir una duda de talla en una compra definitiva.
 
-## Segunda revisión editorial
-
-La guía resuelve una intención de modelo y no reemplaza el hub Barebarics. Se evita "mi opinión" porque no hay prueba propia de Zing. La imagen oficial se declara como referencia visual. Las afirmaciones de salud no prometen correcciones posturales ni fortalecimiento automático; se mantiene la recomendación de transición progresiva.
 
 ## Fuentes consultadas
 

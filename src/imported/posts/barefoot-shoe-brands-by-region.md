@@ -317,7 +317,6 @@ translatedFrom: en
 <li>* – <strong></strong> para envío gratuito por única vez</li>
 <li>* – <strong>CUALQUIER EXAMEN</strong> por 15% de descuento</li>
 <li>Xero Zapatos UE</li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a></li>
 <li><a href="http://zaqq.com/">Zaqq</a></li>
 <li><a href="https://zeazoo.com/en/">Zeazoo</a> – <strong>CUALQUIER EXAMEN</strong></li>
 <li><a href="https://zkama.cz/en/">Zapatos Zkama</a></li>
@@ -527,4 +526,3 @@ translatedFrom: en
 <li><a href="https://www.etsy.com/shop/SpartaSandals">Sandalias Esparta</a></li>
 <li><a href="https://www.wildling.shoes/">Salvaje</a> – Solo primer pedido</li>
 </ul>
-

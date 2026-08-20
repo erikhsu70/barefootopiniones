@@ -25,6 +25,7 @@ const brokenLinks = new Map();
 const brokenFragments = new Map();
 const duplicateArticleIndexes = [];
 const shortArticles = [];
+const editorialLeaks = [];
 
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8");
@@ -81,6 +82,9 @@ for (const file of htmlFiles) {
 
   if (!html.includes("Contenido editado / Artículo")) continue;
   const body = html.match(/<div class="article-body imported-content"[^>]*>([\s\S]*?)<aside class="article-author-card"/i)?.[1] || "";
+  if (/segunda revisi[oó]n editorial/i.test(stripHtml(body))) {
+    editorialLeaks.push(path.relative(DIST_ROOT, file));
+  }
   const words = stripHtml(body).split(/\s+/).filter(Boolean).length;
   if (words < 1200) shortArticles.push({ file: path.relative(DIST_ROOT, file), words });
 }
@@ -90,6 +94,7 @@ console.log(`Enlaces internos rotos: ${brokenLinks.size}`);
 console.log(`Anclas internas rotas: ${brokenFragments.size}`);
 console.log(`Artículos con índice manual y automático: ${duplicateArticleIndexes.length}`);
 console.log(`Artículos publicados por debajo de 1200 palabras: ${shortArticles.length}`);
+console.log(`Artículos con instrucciones editoriales filtradas: ${editorialLeaks.length}`);
 
 for (const [href, sources] of [...brokenLinks].slice(0, 25)) {
   console.error(`- ${href} <- ${sources.join(", ")}`);
@@ -103,5 +108,14 @@ for (const [fragment, sources] of [...brokenFragments].slice(0, 25)) {
 for (const article of duplicateArticleIndexes.slice(0, 25)) {
   console.error(`- Índice duplicado: ${article}`);
 }
+for (const file of editorialLeaks.slice(0, 25)) {
+  console.error(`- ${file}: contiene "Segunda revisión editorial"`);
+}
 
-if (brokenLinks.size || brokenFragments.size || duplicateArticleIndexes.length || shortArticles.length) process.exit(1);
+if (
+  brokenLinks.size
+  || brokenFragments.size
+  || duplicateArticleIndexes.length
+  || shortArticles.length
+  || editorialLeaks.length
+) process.exit(1);

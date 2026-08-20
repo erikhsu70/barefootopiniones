@@ -37,7 +37,6 @@ Esta comparativa no es una reseña personal. No hay notas propias documentadas d
 - [Calidad esperable en Saguaro Free I y Luck I](#calidad-esperable-en-saguaro-free-i-y-luck-i)
 - [Pros y límites de Saguaro Free I vs Luck I](#pros-y-limites-de-saguaro-free-i-vs-luck-i)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -133,9 +132,6 @@ Si quieres Saguaro de forma más global, lee [la guía de Saguaro barefoot](/opi
 
 Si quieres más calidad urbana, compara con [Be Lenka vs Barebarics](/be-lenka-vs-barebarics-ajuste-suela-estilo/) o [Barebarics Zing](/barebarics-zing-guia-tallas/).
 
-## Segunda revisión editorial
-
-La intención de búsqueda es comparativa y precio. Se evita competir con el hub general de Saguaro porque esta página se centra solo en Free I vs Luck I. Se verificaron fichas oficiales, tallas, política de devolución y listados SERP. Las afirmaciones sobre postura o dolor se mantienen neutras: un zapato ancho y flexible puede permitir más movimiento, pero no corrige por sí solo una lesión.
 
 ## Fuentes consultadas
 
