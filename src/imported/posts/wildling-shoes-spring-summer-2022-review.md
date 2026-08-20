@@ -32,17 +32,6 @@ Wildling Shoes es una marca muy distinta dentro del barefoot europeo. Donde otra
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. Barefoot Opiniones conserva experiencia real de archivo con varios Wildling, incluidos modelos Tanuki, Feather, Flying Fox y colecciones de temporada. La disponibilidad actual, tallas y devoluciones se han revisado con fuentes oficiales en agosto de 2026. No se inventan pruebas de todos los modelos actuales.</p>
 
-## Índice
-
-- [Qué hace diferente a Wildling](#que-hace-diferente-a-wildling)
-- [Tabla rápida de modelos](#tabla-rapida-de-modelos)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Modelos actuales](#modelos-actuales)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Qué hace diferente a Wildling
 
 La SERP de Wildling suele girar alrededor de tallas, Tanuki, colecciones de temporada y si esos zapatos tan blandos sirven para la vida real. La clave es entender que Wildling no busca ser una sneaker robusta. Busca acompañar el movimiento con la mínima interferencia posible.

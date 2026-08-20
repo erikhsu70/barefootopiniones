@@ -22,10 +22,50 @@ function stripHtml(value) {
 
 const htmlFiles = walk(DIST_ROOT).filter((file) => file.endsWith(".html"));
 const brokenLinks = new Map();
+const brokenFragments = new Map();
+const duplicateArticleIndexes = [];
 const shortArticles = [];
 
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8");
+
+  const ids = new Set([...html.matchAll(/\sid=["']([^"']+)["']/gi)].map((match) => match[1]));
+  const articleBody = html.match(/<div class="article-body imported-content"[^>]*>([\s\S]*?)<aside class="article-author-card"/i)?.[1] || "";
+  const generatedIds = new Set();
+  const slugCounts = new Map();
+
+  for (const headingMatch of articleBody.matchAll(/<h[23](?:\s[^>]*)?>([\s\S]*?)<\/h[23]>/gi)) {
+    const text = stripHtml(headingMatch[1]);
+    if (!text) continue;
+    const baseSlug = text
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/(^-|-$)/g, "") || "seccion";
+    const count = slugCounts.get(baseSlug) || 0;
+    slugCounts.set(baseSlug, count + 1);
+    generatedIds.add(count ? `${baseSlug}-${count + 1}` : baseSlug);
+  }
+
+  for (const match of html.matchAll(/href=["']#([^"']+)["']/gi)) {
+    let fragment = match[1];
+    try {
+      fragment = decodeURIComponent(fragment);
+    } catch {
+      // Keep the literal fragment so malformed values are still reported.
+    }
+    if (ids.has(fragment) || generatedIds.has(fragment)) continue;
+    if (!brokenFragments.has(fragment)) brokenFragments.set(fragment, []);
+    if (brokenFragments.get(fragment).length < 3) brokenFragments.get(fragment).push(path.relative(DIST_ROOT, file));
+  }
+
+  if (
+    html.includes("data-article-toc")
+    && /<h2(?:\s[^>]*)?>\s*(?:Índice|Indice|Tabla de contenidos|Contenidos|Table of contents)\s*<\/h2>/i.test(articleBody)
+  ) {
+    duplicateArticleIndexes.push(path.relative(DIST_ROOT, file));
+  }
 
   for (const match of html.matchAll(/href=["']([^"'#]+)["']/g)) {
     const href = match[1].split(/[?#]/)[0];
@@ -47,6 +87,8 @@ for (const file of htmlFiles) {
 
 console.log(`HTML revisados: ${htmlFiles.length}`);
 console.log(`Enlaces internos rotos: ${brokenLinks.size}`);
+console.log(`Anclas internas rotas: ${brokenFragments.size}`);
+console.log(`Artículos con índice manual y automático: ${duplicateArticleIndexes.length}`);
 console.log(`Artículos publicados por debajo de 1200 palabras: ${shortArticles.length}`);
 
 for (const [href, sources] of [...brokenLinks].slice(0, 25)) {
@@ -55,5 +97,11 @@ for (const [href, sources] of [...brokenLinks].slice(0, 25)) {
 for (const article of shortArticles.slice(0, 25)) {
   console.error(`- ${article.file}: ${article.words} palabras`);
 }
+for (const [fragment, sources] of [...brokenFragments].slice(0, 25)) {
+  console.error(`- #${fragment} <- ${sources.join(", ")}`);
+}
+for (const article of duplicateArticleIndexes.slice(0, 25)) {
+  console.error(`- Índice duplicado: ${article}`);
+}
 
-if (brokenLinks.size || shortArticles.length) process.exit(1);
+if (brokenLinks.size || brokenFragments.size || duplicateArticleIndexes.length || shortArticles.length) process.exit(1);

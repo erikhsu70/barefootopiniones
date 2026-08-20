@@ -32,18 +32,6 @@ Groundies siempre ha sido una de las marcas barefoot más interesantes para quie
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. El archivo de Barefoot Opiniones contiene experiencia real con Groundies, incluida visita a la marca y pruebas de modelos anteriores. Esta actualización usa fuentes oficiales actuales para ajustes, suelas, tallas y disponibilidad. No se inventan pruebas personales de todos los modelos 2026.</p>
 
-## Índice
-
-- [Qué hace diferente a Groundies](#que-hace-diferente-a-groundies)
-- [Barefoot Light, Barefoot y Barefoot+](#barefoot-light-barefoot-y-barefoot)
-- [Tabla de elección rápida](#tabla-de-eleccion-rapida)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Modelos actuales](#modelos-actuales)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Qué hace diferente a Groundies
 
 La intención de búsqueda en español suele estar muy centrada en "Groundies tallas", "Groundies barefoot fit" y diferencias entre modelos como Nova GS1 y Nova GO1. No es casualidad: la marca mezcla diseño de moda con nomenclatura técnica. TrueSense, GO1, GS1, Barefoot+ y Barefoot Light pueden sonar a marketing, pero cambian de verdad la compra.

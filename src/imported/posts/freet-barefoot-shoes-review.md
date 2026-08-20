@@ -32,18 +32,6 @@ Freet no es la marca barefoot más fotogénica ni la más famosa en España, per
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. Barefoot Opiniones conserva experiencia real de archivo con varios Freet y una reseña antigua de Freet Vibe. La gama actual se ha verificado con fuentes oficiales en agosto de 2026. No se inventan kilómetros, durabilidad ni pruebas personales de modelos actuales no documentados.</p>
 
-## Índice
-
-- [Para quién tiene sentido Freet](#para-quien-tiene-sentido-freet)
-- [Tabla rápida de modelos](#tabla-rapida-de-modelos)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Suelas y plantillas](#suelas-y-plantillas)
-- [Modelos actuales por uso](#modelos-actuales-por-uso)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Para quién tiene sentido Freet
 
 Freet tiene sentido para pies que se sienten comprimidos incluso en marcas barefoot populares. La SERP española suele buscar "Freet tallas", "Freet barefoot opiniones" y comparativas entre Pace, Flex y Vibe. Eso encaja con la realidad: Freet no necesita tanto convencerte de qué es barefoot, sino ayudarte a elegir el modelo correcto.

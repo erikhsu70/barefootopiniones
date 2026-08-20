@@ -29,10 +29,10 @@ Esta comparativa no es una reseña personal de Isabel con estos dos modelos actu
 
 ## Índice
 
-- [Diferencia rápida entre Vibram V-Trail 2.0 y V-Run](#diferencia-rapida-entre-vibram-v-trail-20-y-v-run)
-- [Tabla comparativa Vibram V-Trail 2.0 vs V-Run](#tabla-comparativa-vibram-v-trail-20-vs-v-run)
-- [Ajuste y tallas de Vibram V-Trail 2.0 y V-Run](#ajuste-y-tallas-de-vibram-v-trail-20-y-v-run)
-- [Cuándo elegir V-Trail 2.0](#cuando-elegir-v-trail-20)
+- [Diferencia rápida entre Vibram V-Trail 2.0 y V-Run](#diferencia-rapida-entre-vibram-v-trail-2-0-y-v-run)
+- [Tabla comparativa Vibram V-Trail 2.0 vs V-Run](#tabla-comparativa-vibram-v-trail-2-0-vs-v-run)
+- [Ajuste y tallas de Vibram V-Trail 2.0 y V-Run](#ajuste-y-tallas-de-vibram-v-trail-2-0-y-v-run)
+- [Cuándo elegir V-Trail 2.0](#cuando-elegir-v-trail-2-0)
 - [Cuándo elegir V-Run](#cuando-elegir-v-run)
 - [Alternativas](#alternativas)
 - [Segunda revisión editorial](#segunda-revision-editorial)

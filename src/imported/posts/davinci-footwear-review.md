@@ -74,7 +74,7 @@ translatedFrom: en
 <p>Una preocupación que tengo acerca de los zapatos DaVinci es que pueden resultar resbaladizos cuando están mojados. Mi marido usa el suyo casi todos los días para ir a trabajar y cuando llueve se queja de que tiene que tener mucho cuidado al caminar. Espero que esto sea algo que aborden en el futuro.</p>
 <h3 class="wp-block-heading">1.5 Conclusión</h3>
 <p>A menudo tomo un zapato barefoot y trato de incorporarlo al estilo que busco. Con las botas DaVinci, es al revés. Son la apariencia, el estilo y el resto de mi outfit funciona en torno a ellos. Si bien espero ver algunos ajustes en el diseño del zapato, el hecho de que estemos obteniendo zapatos de alta gama y vanguardistas para nuestra pequeña comunidad descalza es un avance emocionante. Los zapatos minimalistas se están generalizando y DaVinci quiere ayudarnos a lograrlo.</p>
-<p><a href="#TableOfContents">Volver arriba</a></p>
+<p><a href="#contenido">Volver arriba</a></p>
 <h2 class="wp-block-heading"><span id="PickfordReview"></span>2. Pickford – Natural (mujeres)</h2>
 
 <p>La bota Pickford para mujer es una bota con cordones de 5 pulgadas. Elegí el marrón natural, que no está encerado y es increíblemente suave. Se han adaptado y se siente genial al caminar con ellos, excepto que mi dedo meñique está aplastado. Afortunadamente, el cuero es indulgente, pero no es ideal para pies anchos.</p>
@@ -82,7 +82,7 @@ translatedFrom: en
 <p>Como este cuero no está tratado, utilicé un protector en aerosol (lea más sobre cómo protejo mis zapatos). <a href="/2019/06/14/shoe-care/">aquí</a>) para evitar que la lluvia o la nieve lo dañen.</p>
 <h3 class="wp-block-heading">Libro de miradas de Pickford</h3>
 
-<p><a href="#TableOfContents">Volver arriba</a></p>
+<p><a href="#contenido">Volver arriba</a></p>
 <h2 class="wp-block-heading"><span id="PrimaveraReview"></span>3. Primavera – Negro (mujeres)</h2>
 
 <p>La Primavera es la bota de 7 pulgadas de DaVinci. Esta es una bota más atrevida y definida y me encanta su aspecto rockero.</p>
@@ -94,7 +94,7 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Lapworth (izquierda) y Primavera (derecha)</figcaption></figure>
 <h3 class="wp-block-heading">Libro de looks Primavera</h3>
 
-<p><a href="#TableOfContents">Volver arriba</a></p>
+<p><a href="#contenido">Volver arriba</a></p>
 <h2 class="wp-block-heading"><span id="LapworthReview"></span>4. Lapworth – Negro (hombres)</h2>
 
 <p>El Lapworth masculino es la estrella de la alineación de Davinci. Estéticamente es impecable. Sencillo, con algunos detalles perfectamente colocados: es el equilibrio perfecto entre estilo y funcionalidad. Mi marido elogia lo cómodos que son y con frecuencia recibe elogios por ellos. Yo mismo siento mucha envidia de que no vengan en tallas de mujer, pero aún así estoy muy contento de ver esta adición tan necesaria a las opciones de zapatos de vestir para hombres.</p>
@@ -104,6 +104,5 @@ translatedFrom: en
 <p>Parecen guantes de cuero para los pies de mi marido, y cada vez que los usa, me sorprende constantemente lo bien que se ven. ¡Me encantaría ver que el tamaño se ampliara en la línea de hombres para incluir tamaños más pequeños para todas las mujeres de pies anchos!</p>
 <h3 class="wp-block-heading">Libro de miradas de Lapworth</h3>
 
-<p><a href="#TableOfContents">Volver arriba</a></p>
+<p><a href="#contenido">Volver arriba</a></p>
 <p class="has-small-font-size">*DaVinci me envió estos zapatos para revisarlos, pero mis opiniones son mías.*</p>
-

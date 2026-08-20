@@ -32,17 +32,6 @@ Be Lenka es una de las marcas barefoot europeas con más catálogo y también un
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. El archivo de Barefoot Opiniones contiene experiencia real con modelos Be Lenka como City, Prime, Icon, Brooklyn, Bellissima, Sophie, Entice y botas de invierno. La disponibilidad y los modelos actuales se han actualizado con fuentes oficiales de agosto de 2026. No se inventan pruebas personales de todos los modelos vigentes.</p>
 
-## Índice
-
-- [Para quién tiene sentido Be Lenka](#para-quien-tiene-sentido-be-lenka)
-- [Tabla rápida de modelos](#tabla-rapida-de-modelos)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Mejores modelos actuales](#mejores-modelos-actuales)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Para quién tiene sentido Be Lenka
 
 Be Lenka funciona mejor para quien quiere una puntera claramente más natural que la del calzado convencional, pero sin renunciar a un aspecto reconocible. En la SERP española se repiten tres preguntas: si talla bien, si sirve para pies anchos y qué modelo comprar sin perderse en la colección.

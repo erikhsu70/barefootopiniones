@@ -24,7 +24,7 @@ translatedFrom: en
 <p class="has-text-align-center">**<strong>Feelgrounds actualizó su forma de suela y se pueden encontrar todos los modelos nuevos aquí!</strong>**</p>
 <p>, una de mis marcas minimalistas emergentes favoritas, tiene la misión de hacer que los Zapatos barefoot sean geniales. En el año que llevan abiertos al público, Feelgrounds ha lanzado tres estilos vanguardistas que llenan un vacío en el mundo del calzado barefoot.</p>
 <p>Esta semana, Feelgrounds y yo nos uniremos para regalar un par de zapatos a DOS ganadores el Instagram! ¡Los destinatarios podrán elegir entre cualquiera de los 3 estilos de Feelgrounds y cualquier persona en el mundo podrá participar!</p>
-<p>Tuve la suerte de probar y revisar los tres modelos. Tienen todas las características de un zapato minimalista que necesitas para la salud de los pies, pero ese estilo convencional que deseas para el uso diario. A continuación encontrará una descripción general de estos 3 estilos, además de mi completo <a href="#droptop-review">Revisión descapotable</a>.</p>
+<p>Tuve la suerte de probar y revisar los tres modelos. Tienen todas las características de un zapato minimalista que necesitas para la salud de los pies, pero ese estilo convencional que deseas para el uso diario. A continuación encontrará una descripción general de estos 3 estilos, además de mi completo <a href="#the-droptop-review">Revisión descapotable</a>.</p>
 <ol>
 <li><a href="#the-original">El Original</a></li>
 <li><a href="#the-highrise">El rascacielos</a></li>

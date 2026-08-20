@@ -32,18 +32,6 @@ Mukishoes es una marca barefoot portuguesa que suele atraer a quien quiere algo 
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. Barefoot Opiniones contiene experiencia real de archivo con Mukishoes de lona, botas Cork Chelsea y modelos infantiles. La disponibilidad actual se ha revisado con fuentes oficiales en agosto de 2026. No se inventan pruebas de los modelos actuales no documentados.</p>
 
-## Índice
-
-- [Qué hace diferente a Mukishoes](#que-hace-diferente-a-mukishoes)
-- [Tabla rápida de modelos](#tabla-rapida-de-modelos)
-- [Tallas y ajuste](#tallas-y-ajuste)
-- [Materiales y cuidado](#materiales-y-cuidado)
-- [Modelos actuales](#modelos-actuales)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Qué hace diferente a Mukishoes
 
 Mukishoes tiene una identidad clara: minimalismo real, materiales naturales cuando puede, producción portuguesa y estética discreta. En búsqueda, la gente suele querer saber si talla bien, si es suficientemente ancho y qué diferencia hay entre sus zapatillas, botas y modelos infantiles.

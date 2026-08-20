@@ -37,19 +37,6 @@ Saguaro es una de las marcas que más aparece cuando alguien busca "barefoot bar
 
 <p class="affiliate-disclosure">Transparencia: este artículo actualiza una reseña antigua de Saguaro ya existente en Barefoot Opiniones. El archivo incluía experiencia real con modelos de adulto y de niño, especialmente sobre flexibilidad, volumen y plantillas. La gama 2026 se ha revisado con fuentes oficiales; no se inventan kilómetros, durabilidad larga, tallas personales nuevas ni pruebas de todos los modelos actuales.</p>
 
-## Índice
-
-- [Qué es Saguaro](#que-es-saguaro)
-- [Qué evidencia hay en el archivo](#que-evidencia-hay-en-el-archivo)
-- [Tabla rápida de modelos](#tabla-rapida-de-modelos)
-- [Tallas y tipo de pie](#tallas-y-tipo-de-pie)
-- [Modelos actuales que miraría](#modelos-actuales-que-miraria)
-- [Ventajas y límites](#ventajas-y-limites)
-- [Saguaro para niños](#saguaro-para-ninos)
-- [Alternativas](#alternativas)
-- [Fuentes consultadas](#fuentes-consultadas)
-- [Preguntas frecuentes](#preguntas-frecuentes)
-
 ## Qué es Saguaro
 
 Saguaro vende calzado barefoot económico para adultos y niños. En la tienda española revisada en agosto de 2026 aparecen líneas como Smart I, Smart I Pro, Free I, Fast I Pro, Motion I Pro, Vigor II Pro, Active II, Vitality V, Will I Lite, Form I Air y versiones infantiles. La marca cambia nombres, colores, stocks y promociones con frecuencia, así que la clave no es memorizar un catálogo fijo, sino entender qué familia encaja con tu uso.

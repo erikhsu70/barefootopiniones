@@ -105,6 +105,5 @@ translatedFrom: en
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ox5ULriR58k?feature=oembed&amp;enablejsapi=1" title="Corredores de la Tierra de cerca" width="500"></iframe></div>
 </div></figure>
-<p class="has-text-align-right has-small-font-size"><a href="#table">Volver arriba</a></p>
+<p class="has-text-align-right has-small-font-size"><a href="#contenido">Volver arriba</a></p>
 <p class="has-normal-font-size">agradecimiento especial a <a href="https://www.instagram.com/eyeofshay.photo/">Foto del ojo de Shay</a> ¡Por capturarme en mis Earth Runners para esta publicación!</p>
-
