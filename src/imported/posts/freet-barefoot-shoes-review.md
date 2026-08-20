@@ -135,13 +135,6 @@ También separaría "ancho" de "sujeción". Freet puede dar mucho espacio en ded
 - **Lems:** más amortiguación relativa y transición.
 - **Softstar:** más artesanal y extra ancho, pero compra desde EE. UU.
 
-## Segunda revisión editorial
-
-Este hub se revisó frente a la comparativa nueva de [Freet Pace vs Flex 2 vs Vibe 2](/freet-pace-vs-flex-2-vs-vibe-2/). La diferencia editorial queda clara: la comparativa ayuda cuando ya dudas entre tres zapatillas; esta página decide si Freet como marca encaja contigo y te envía al artículo específico cuando hace falta más detalle.
-
-La canibalización principal era la antigua reseña de Freet Vibe. Por eso aquí se habla de Vibe 2 como familia actual y se evita convertir el hub en otra reseña de Vibe. También se separa lo probado históricamente de lo verificado en fichas actuales. Si una persona quiere saber durabilidad real de una versión concreta, este artículo no lo inventa; indica que hay que mirar la reseña documentada o esperar prueba específica.
-
-La estructura móvil se revisó con tablas envueltas en `table-scroll`, enlaces internos a deporte/senderismo y FAQs breves para schema. El contenido no usa precios como promesa estable, porque las rebajas de Freet cambian con frecuencia.
 
 ## Fuentes consultadas
 

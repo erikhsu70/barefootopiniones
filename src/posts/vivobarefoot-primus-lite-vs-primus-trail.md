@@ -37,7 +37,6 @@ Esta guía no es una reseña personal de Isabel con las generaciones actuales. N
 - [Qué elegir según uso](#que-elegir-segun-uso)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -143,11 +142,6 @@ Para la marca completa, consulta [Vivobarefoot: guía de modelos y tallas](/vivo
 
 Si quieres más protección en montaña, empieza por [botas barefoot de senderismo](/botas-zapatos-barefoot-senderismo/).
 
-## Segunda revisión editorial
-
-La keyword principal es "Vivobarefoot Primus Lite vs Primus Trail". Los H2 con keyword o variante son: "Vivobarefoot Primus Lite vs Primus Trail en una frase", "Tabla Vivobarefoot Primus Lite vs Primus Trail", "Suela y terreno en Primus Lite vs Primus Trail", "Tallas de Primus Lite y Primus Trail". También se usa "Vivobarefoot Primus" en ajuste como variante natural. La proporción es suficiente sin repetir en todos los apartados.
-
-La página se diferencia del hub de Vivobarefoot y de la comparativa de gimnasio porque su intención central es superficie: asfalto, gimnasio o montaña. No hay promesas terapéuticas.
 
 ## Fuentes consultadas
 

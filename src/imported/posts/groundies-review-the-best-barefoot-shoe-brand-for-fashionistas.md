@@ -142,13 +142,6 @@ Para compras desde España, la ficha española ayuda porque muestra entrega esti
 - **Freet:** más funcional y ancho para deporte.
 - **Shapen:** muy fuerte en vestir femenino.
 
-## Segunda revisión editorial
-
-La versión antigua de este artículo era una reseña de colección con mucho contexto personal. La actualización la convierte en un hub de decisión: primero explica los tres ajustes, luego suelas, luego modelos. Eso responde mejor a la SERP actual, donde la persona usuaria llega con dudas de talla y fit más que con interés por una temporada concreta.
-
-También he revisado canibalización. Groundies tiene reseñas de Felicia, Bella, Palermo, Performance y una colección primavera 2023; este hub no compite con ellas porque actúa como página de entrada de marca. Los modelos concretos enlazan o se mencionan como ejemplos, pero el artículo no pretende reemplazar reseñas detalladas. El canónico histórico se conserva para no dispersar autoridad.
-
-En salud y transición, la recomendación se mantiene prudente. Una suela fina y drop cero cambia la carga si vienes de calzado rígido, por lo que el consejo útil es progresión y ajuste correcto, no prometer correcciones universales.
 
 ## Fuentes consultadas
 

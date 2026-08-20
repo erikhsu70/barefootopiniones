@@ -123,13 +123,6 @@ Has elegido demasiado poco zapato si cada piedra te hace cambiar la pisada, acab
 
 La prueba buena es doméstica y práctica: ponte los calcetines reales, camina por casa, baja escaleras, simula una sentadilla y comprueba si el dedo largo conserva espacio al flexar. En Trail Glove, revisa que el mediopié no apriete. En Vapor Glove, revisa que la suela no sea demasiado fina para tu tolerancia actual.
 
-## Segunda revisión editorial
-
-La intención de esta comparativa es transaccional e informativa: el usuario quiere decidir entre dos modelos, no leer otra guía general de Merrell. Por eso se mantienen enlaces internos a la guía Merrell, a transición y a alternativas, pero el foco queda en diferencias reales de uso.
-
-No he usado el patrón "mi opinión honesta" porque no hay evidencia de prueba personal actual de Vapor Glove 7. Sí hay fotos propias de Trail Glove 8 y fuentes externas recientes para ambas zapatillas. La conclusión evita prometer mejora de postura, fuerza o lesiones; se limita a terreno, ajuste y progresión.
-
-En salud y entrenamiento, la comparación no debe sonar médica. El calzado minimalista puede cambiar cargas en pantorrilla, pie y tendón de Aquiles. La evidencia científica sobre transición recomienda progresión gradual y no promete menos lesiones por cambiar de zapato.
 
 ## Alternativas
 

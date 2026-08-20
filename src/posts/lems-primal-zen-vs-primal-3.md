@@ -36,7 +36,6 @@ Esta comparativa mezcla dos tipos de evidencia. En Barefoot Opiniones hay una pr
 - [Cuándo elegir Primal 3](#cuando-elegir-primal-3)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -132,9 +131,6 @@ El primer error es decidir solo por grosor. Primal 3 tiene menos stack, pero eso
 
 El segundo error es subir talla para ganar anchura. En una zapatilla ancha, alargar demasiado puede crear deslizamiento de talón y doblar el upper en zonas raras. Si el ancho no encaja, mejor buscar otra horma que convertir una talla larga en solución.
 
-## Segunda revisión editorial
-
-La intención de búsqueda pide una decisión clara, no dos reseñas duplicadas. Por eso esta página enlaza a la opinión real de Primal Zen y usa fuentes oficiales para Primal 3. No reemplaza el hub de Lems ni compite con la reseña individual de Primal Zen; funciona como comparativa intermedia. Las afirmaciones de salud se mantienen prudentes: cero drop no cura lesiones y la transición depende de carga, historial y tolerancia.
 
 ## Fuentes consultadas
 

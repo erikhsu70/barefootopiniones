@@ -105,13 +105,6 @@ El segundo detalle es el upper. Flex 2 usa BottleYarn más clásico y transpirab
 
 El tercer detalle es el terreno. UrbanGrip tiene sentido en pavimento, gimnasio y tierra fácil. MultiGrip en Pace añade un poco más de versatilidad para sendero bueno. Ninguna de las tres es una bota ni una zapatilla impermeable. Para barro, roca húmeda o montaña larga, miraría otras Freet de trail o compararía con Merrell Trail Glove y Vivobarefoot Primus Trail.
 
-## Segunda revisión editorial
-
-Esta comparativa responde a una intención muy concreta de SERP: el usuario ya sabe que quiere Freet y necesita elegir entre tres modelos parecidos. Por eso la tabla prioriza stack, plantilla, peso, superficie y transición. No tiene sentido convertirla en una reseña emocional ni afirmar kilómetros que no constan en el repositorio.
-
-También he evitado usar reseñas de clientes como prueba fuerte. Las fichas oficiales muestran valoraciones, pero una reseña suelta no confirma durabilidad ni ajuste para todos. La recomendación se apoya en datos verificables de producto y en criterios de ajuste barefoot ya usados en el sitio: espacio de dedos, volumen, sujeción de talón, margen delante y tolerancia progresiva a suelas planas.
-
-En transición, no confundas comodidad inicial con adaptación completa. Una suela plana cambia la carga en pie y pantorrilla. Si corres, sube tiempo poco a poco y evita pasar de cero a tiradas largas. Para más contexto, lee [ejercicios para la transición barefoot](/ejercicios-pies-transicion-barefoot/) y [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/).
 
 ## Alternativas
 

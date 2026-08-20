@@ -35,7 +35,6 @@ Esta guía no es una reseña personal de Isabel con Adventurer Boot. Barefoot Op
 - [Tabla de decisión Origo Adventurer Boot](#tabla-de-decision-origo-adventurer-boot)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -120,9 +119,6 @@ También esperaría una pequeña adaptación del material. Una bota de piel pued
 
 Para viajes, la probaría varias semanas antes. Una bota nueva de piel, aunque sea barefoot, no es la mejor sorpresa para caminar 20.000 pasos por una ciudad desconocida. Mejor descubrir roces en casa que en el tercer puente romano del día.
 
-## Segunda revisión editorial
-
-La guía no compite con el hub de Origo porque trata solo Adventurer Boot y enlaza al hub para la gama completa. Se evita llamar "mi opinión" porque no hay prueba propia documentada. La imagen es oficial y se declara. Las afirmaciones laborales se matizan para no confundir bota bonita y robusta con EPI certificado.
 
 ## Fuentes consultadas
 

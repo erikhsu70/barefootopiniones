@@ -35,7 +35,6 @@ Eso no significa que sea una zapatilla fácil. De hecho, cuanto más específica
 - [Transición prudente](#transicion-prudente)
 - [Tabla de decisión](#tabla-de-decision)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -128,11 +127,6 @@ Si quieres correr minimalista sin dedos separados, mira Merrell Vapor Glove 7, X
 
 Para decidir dentro de FiveFingers, empieza por la [guía de Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/) y compara con [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/) si tu uso principal es gimnasio.
 
-## Segunda revisión editorial
-
-La SERP en español mezcla ficha oficial, RunRepeat, tiendas y comentarios antiguos. El artículo prioriza fuentes actuales de 2026 y separa laboratorio externo de experiencia propia inexistente. No se extrapolan opiniones de usuarios como hechos universales.
-
-La salud se trata con lenguaje conservador: transición, carga y señales de prudencia. La imagen oficial está declarada. El artículo enlaza al hub Vibram y a KSO EVO para evitar cannibalización.
 
 ## Fuentes consultadas
 

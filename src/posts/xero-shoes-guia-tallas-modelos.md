@@ -114,13 +114,6 @@ La parte crítica es la devolución. Xero EU acepta cambios o devoluciones dentr
 
 También revisaría desde qué tienda compras. Xero tiene webs US, EU, UK y distribuidores. Una política de devolución de Estados Unidos no se aplica automáticamente a un pedido europeo, y una compra en Amazon o una tienda local depende del vendedor. Para SEO esto parece un detalle menor; para el comprador real es una de las partes más importantes de la decisión.
 
-## Segunda revisión editorial
-
-La intención principal de esta guía no es "Xero Shoes opiniones" en sentido de prueba personal, sino "qué modelo Xero compro y qué talla pido". Por eso el contenido evita decir que Isabel probó HFS II, Prio Neo, Mesa Trail II o Dillon Leather en 2026. El archivo del sitio sí contiene experiencia previa con Xero, pero los datos de tallaje, devoluciones y modelos actuales vienen de fuentes oficiales.
-
-No he incluido precios exactos como argumento principal porque cambian con rebajas y país. Sí he mantenido la comparación de posicionamiento: normalmente Xero queda por debajo de Vivobarefoot y por encima de Saguaro o Whitin. Tampoco he usado promesas de lesión, postura o curación. La recomendación se basa en uso, ajuste, transición y política de compra.
-
-Si quieres más contexto de transición, lee [qué es un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y [ejercicios para la transición](/ejercicios-pies-transicion-barefoot/). La evidencia científica no permite prometer menos lesiones por cambiar de zapatilla; sí apoya moverse de forma gradual y escuchar molestias.
 
 ## Alternativas
 

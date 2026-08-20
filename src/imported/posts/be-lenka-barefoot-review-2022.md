@@ -128,11 +128,6 @@ También revisaría siempre la ficha concreta antes de pagar. En Be Lenka, la di
 - **Lems:** más amable para transición y uso casual; mira [Lems Shoes](/lems-shoes-opinion-tallas-modelos/).
 - **Wildling:** más ligero y flexible, menos estructurado.
 
-## Segunda revisión editorial
-
-Esta actualización sustituye una reseña estacional de 2022 por un hub evergreen. La intención de búsqueda ya no es "qué lanzó Be Lenka esa primavera", sino "cómo elegir Be Lenka hoy sin fallar talla". Por eso el artículo conserva el valor del archivo, pero desplaza el foco hacia tallas, familias actuales, diferencias de horma y límites de compra desde España.
-
-No he cambiado el canónico histórico: este artículo debe seguir concentrando autoridad en la URL existente, porque ya había una opinión general de marca. Los modelos antiguos permanecen como evidencia de experiencia real, pero las recomendaciones de compra se apoyan en fichas oficiales actuales. La recomendación sanitaria se mantiene conservadora: el calzado barefoot puede dar más espacio y movilidad, pero no se presenta como tratamiento médico ni garantía de prevenir lesiones.
 
 ## Fuentes consultadas
 

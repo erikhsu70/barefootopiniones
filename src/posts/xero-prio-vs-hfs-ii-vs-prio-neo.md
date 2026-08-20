@@ -37,7 +37,6 @@ Aquí sí existe experiencia propia documentada con [Xero Prio Lunar](/xero-prio
 - [Cuál elegir según uso](#cual-elegir-segun-uso)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -133,11 +132,6 @@ Límites:
 
 Si quieres una visión completa de la marca, empieza por [Xero Shoes: guía por uso](/xero-shoes-guia-tallas-modelos/). Si buscas un modelo probado por Isabel, lee [Xero Prio opiniones](/xero-prio-opiniones/). Para gimnasio premium, compara con [Vivobarefoot Primus Lite IV vs Motus Strength II](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/). Para opciones económicas, revisa [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/).
 
-## Segunda revisión editorial
-
-La keyword principal es "Xero Prio vs HFS II vs Prio Neo". Los H2 que la incluyen o usan variante natural son: "Xero Prio vs HFS II vs Prio Neo en una frase", "Tabla Xero Prio vs HFS II vs Prio Neo", "Ajuste y tipo de pie en Xero Prio vs HFS II vs Prio Neo", "Suela y sensación en Xero Prio, HFS II y Prio Neo" y "Tallas de Xero Prio, HFS II y Prio Neo". La cobertura queda equilibrada; no se fuerza en alternativas, fuentes ni FAQ.
-
-La página no canibaliza la reseña de Prio porque enlaza a ella y separa experiencia propia de comparación oficial. Tampoco reemplaza el hub de Xero, porque resuelve una decisión concreta entre tres modelos.
 
 ## Fuentes consultadas
 
