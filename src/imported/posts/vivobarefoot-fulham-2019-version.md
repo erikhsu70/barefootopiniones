@@ -48,6 +48,8 @@ translatedFrom: en
 <p>¿Cuáles son tus botines Chelsea descalzos favoritos? ¿Cómo estás diseñando tu VB Fulham?<br/></p>
 
 
+<p><strong>Contexto editorial:</strong> esta página analiza expresamente la Fulham de 2019. La <a href="https://www.vivobarefoot.com/">colección vigente de Vivobarefoot</a> no debe asumirse idéntica en suela, ajuste o materiales.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Revisión de la versión Vivobarefoot Fulham 2019" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

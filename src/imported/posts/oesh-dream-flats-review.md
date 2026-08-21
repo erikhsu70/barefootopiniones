@@ -26,7 +26,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Acerca de</h2>
 <p><a href="https://oeshshoes.com/">Oesh</a> (pronunciado como la primera sílaba de océano) produce sandalias y zapatillas de deporte con zero drop desde 2011, pero agregó el<a href="https://oeshshoes.com/product-category/Dream/"> Piso de ensueño</a> a su repertorio el año pasado. Los primeros patrocinadores de Dream Flat en Indiegogo recibieron sus pedidos en octubre y noviembre de 2018, por lo que son bastante nuevos en el mercado. </p>
 
-<p>La suela de estos pisos es cómoda. <a href="https://www.dictionary.com/browse/elastomeric">elastomérico</a> Material (¡tuve que buscar ese!) Y la parte superior es de punto elástico. Describen que todos sus zapatos tienen zero drop de adelante hacia atrás y de lado a lado, con mucho espacio para que los dedos de los pies se extiendan. Se jactan de que caminar en sus zapatos hará que tus pies sean más fuertes y aliviará el dolor de problemas comunes en los pies, y que todo su diseño se basa en investigaciones científicas. Puede leer información más detallada sobre su producto y su empresa. <a href="https://www.indiegogo.com/projects/the-dream-flat-by-oesh#/">aquí</a>.</p>
+<p>La suela de estas bailarinas utiliza un material <a href="https://www.dictionary.com/browse/elastomeric">elastomérico</a> cómodo y la parte superior es de punto elástico. La marca describe sus zapatos como zero drop de adelante hacia atrás y de lado a lado, con espacio para que los dedos se extiendan. Sus afirmaciones y el desarrollo inicial del producto se pueden consultar en la <a href="https://www.indiegogo.com/projects/the-dream-flat-by-oesh#/">campaña original de OESH Dream Flat</a>; no las interpreto como una promesa médica universal.</p>
 <figure class="wp-block-image"><figcaption>¡Elástico!</figcaption></figure>
 
 <h3 class="wp-block-heading"><a href="https://oeshshoes.com/exchanges-returns/">Políticas</a></h3>
@@ -61,4 +61,3 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Si bien estos son zapatos de gran apariencia y se ajustan a los estándares de un zapato minimalista, el ajuste no era el adecuado para mí. Los mantendré en mi radar para ver si actualizan el diseño de sus zapatos e introducen nuevos colores, pero por ahora usaré mis otros zapatos planos.</p>
 <p>¿Alguno de vosotros ha probado el Oesh Dream Flat? Si es así, ¡comparta cómo funcionaron para usted!</p>
-

@@ -42,7 +42,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-dots"/>
 
-<h2 class="wp-block-heading">alegre</h2>
+<h2 class="wp-block-heading">1. Alegre</h2>
 
 <p class="has-text-align-center">Cuero | $69 | 6 colores | Tallas UE 25-35</p>
 <p>¡La zapatilla Jolly es una zapatilla sencilla de corte bajo para todos los días disponible en TRECE combinaciones de colores diferentes! La parte superior es de nobuk lujoso y está forrada con un tejido de malla transpirable. </p>
@@ -51,7 +51,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Jugar</h2>
+<h2 class="wp-block-heading">2. Jugar</h2>
 
 <p class="has-text-align-center">Cuero | $79 | 13 colores | Tallas UE 25-35</p>
 <p>Las zapatillas Play de Be Lenka son un básico para todo el año. Funcionan como una zapatilla de deporte para el uso diario, pero llegan un poco más arriba del tobillo que las Jolly. Incluso pueden vestirse elegantemente gracias a la elegante parte superior de cuero nobuck (especialmente en colores neutros). Los cierres de doble velcro hacen que sean fáciles de poner y conseguir un ajuste seguro. El interior es un tejido de malla transpirable con plantilla extraíble (igual que Jolly). </p>
@@ -64,21 +64,21 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">beneficio</h2>
+<h2 class="wp-block-heading">3. Beneficio</h2>
 
 <p class="has-text-align-center"> Vegano | $59 | 4 colores| Tallas UE 25-35 </p>
 <p>The Perk es un nuevo estilo de Be Lenka para reemplazar tus Natives u otros zapatos sin cordones. Aún no tenemos ninguna experiencia de primera mano, pero dudo que me decepcionen. Parte superior de punto fácil de poner, además de una forma saludable en el antepié = ¡perfecto para niños ocupados!</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">alegría</h2>
+<h2 class="wp-block-heading">4. Alegría</h2>
 
 <p class="has-text-align-center">Cuero y malla | $69 | 7 colores | Tallas UE 25-35</p>
 <p>¡La zapatilla Joy es otra zapatilla de corte bajo de Be Lenka que viene en muchos colores brillantes! La principal diferencia entre estas y otras zapatillas es el cierre de velcro único en la parte superior con un poco de elástico abajo en la lengüeta en lugar de un segundo cierre. Estos también tienen malla en parte de la parte superior para hacerlos más adecuados para climas cálidos. ¡Creo que serían una gran opción como zapato escolar!</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">panda</h2>
+<h2 class="wp-block-heading">5. Panda</h2>
 
 <p class="has-text-align-center">Cuero | $99 | Resistente al agua | Tallas UE 25-35</p>
 <p>El Be Lenka es un botín de invierno forrado que es perfecto para niños activos que necesitan mantenerse abrigados pero no quieren botas toscas. El año pasado, mi hijo usó los Penguins (la primera versión de estos botines) casi todos los días durante el invierno, así que sabía que teníamos que comprarle los Pandas este año.</p>
@@ -87,7 +87,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Zorro de nieve 2.0</h2>
+<h2 class="wp-block-heading">6. Zorro de nieve 2.0</h2>
 
 <p class="has-text-align-center">Cuero | $139 | Impermeable | Tallas UE 25-35</p>
 <p>¡Estaba tan emocionado de que hubiera más opciones de botas de nieve descalzas este invierno! La bota Snowfox 2.0 está completamente aislada con una mezcla de lana sintética y natural y tiene una membrana impermeable. Son el paquete completo, de verdad. La parte exterior es una combinación de cuero nobuck duradero alrededor de los dedos y en la parte posterior de la caña, y tela en la parte delantera.</p>
@@ -106,6 +106,8 @@ translatedFrom: en
 <p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
 
+
+<p><strong>Disponibilidad en 2026:</strong> varios nombres de esta reseña son históricos. La <a href="https://www.belenka.es/calzado-barefoot-ninos/">colección infantil actual de Be Lenka</a> organiza las tallas por Preschool, Kids y Junior y debe ser la referencia antes de comprar.</p>
 
 <!-- editorial-expansion:v1 -->
 

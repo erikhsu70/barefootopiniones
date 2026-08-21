@@ -45,7 +45,7 @@ translatedFrom: en
 
 <p class="has-text-align-center"><a href="https://help.wildling.shoes/hc/en-us/articles/4405740524306-Fit">Encuentre estas notas y otras preguntas frecuentes sobre la colección Otoño/Invierno aquí</a></p>
 
-<h2 class="wp-block-heading">tejo</h2>
+<h2 class="wp-block-heading">1. Tejo</h2>
 
 <p class="has-text-align-center">$119-$149 | Forrado de lana | Membrana resistente al agua | Tallas EE.UU. Niños 7 a W 14 / M 13.5</p>
 
@@ -57,30 +57,30 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Castaño</h2>
+<h2 class="wp-block-heading">2. Castaño</h2>
 
 <p class="has-text-align-center">$79-$139 | Lana y cáñamo | Membrana resistente al agua | Tallas de EE. UU., niños de 3 a W 14 / M 13,5</p>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
-<p>¿Son estos los zapatos más lindos del mundo? Muy posiblemente. ¡Solo míralos! ¡Son preciosos! La parte superior es una magnífica mezcla de lana sin teñir y cáñamo y también está forrada de lana. Se abren bien y de par en par, son fáciles de poner y los cordones brindan un ajuste seguro. Normalmente no uso zapatos que se atan con mis bebés, ¡pero son tan adorables que no me importa el minuto extra que me lleva! Puedes cambiarlos por<a href="https://us.wildling.shoes/collections/accessories?pf_t_accessories=accessories_laces"> </a><a href="https://us.wildling.shoes/collections/accessories?pf_t_accessories=accessories_laces"> </a>si quieres también.</p>
+<p>¿Son estos los zapatos más lindos del mundo? Muy posiblemente. ¡Solo míralos! ¡Son preciosos! La parte superior es una magnífica mezcla de lana sin teñir y cáñamo y también está forrada de lana. Se abren bien y de par en par, son fáciles de poner y los cordones brindan un ajuste seguro. Normalmente no uso zapatos que se atan con mis bebés, ¡pero son tan adorables que no me importa el minuto extra que me lleva! También puedes cambiarlos por otros <a href="https://us.wildling.shoes/collections/accessories?pf_t_accessories=accessories_laces">cordones Wildling</a>.</p>
 <p>La suela exterior en las tallas para niños pequeños (EU 18-22 o US 3-6) es ligeramente diferente. El mismo material, la misma flexibilidad salvaje, pero sin aberturas en la parte inferior ni envoltura en la puntera o el talón.</p>
 <p>Siguiendo el modelo de mi hijo de 8 meses, compré deliberadamente una talla más grande para tener espacio para crecer. Aún no está cerca de caminar, por lo que la longitud extra no es un problema y hay mucho espacio para un  e incluso calcetines cuando las temperaturas bajan aún más. ¡Espero que todavía encajen en la primavera cuando deberían estar caminando!</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">chokeberry</h2>
+<h2 class="wp-block-heading">3. Chokeberry</h2>
 <p class="has-normal-font-size">por Isabel</p>
 
 <p class="has-text-align-center">$79-$139 | Lana de fieltro | Membrana resistente al agua | Tallas de EE. UU., niños de 3 a W 14 / M 13,5</p>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
-<p>Opté por Chokeberry esta temporada porque quería un par de Wildlings que fueran de lana por dentro y por fuera para poder usarlos durante el invierno. Para lo que esencialmente se siente como una zapatilla, son sorprendentemente funcionales. La membrana interna los hace resistentes al agua y la adición de un <a href="https://us.wildling.shoes/collections/accessories/products/wooly-insole"> </a>significa que puedo usarlos cómodamente hasta aproximadamente 20F/-7C.</p>
+<p>Opté por Chokeberry esta temporada porque quería un par de Wildlings que fueran de lana por dentro y por fuera para poder usarlos durante el invierno. Para lo que esencialmente se siente como una zapatilla, son sorprendentemente funcionales. La membrana interna los hace resistentes al agua y añadir una <a href="https://us.wildling.shoes/collections/accessories/products/wooly-insole">plantilla de lana Wildling</a> me permite usarlos cómodamente hasta aproximadamente 20F/-7C.</p>
 <p>También son extra anchos, por lo que tengo mucho espacio para calcetines calientes de mi talla habitual. El fresco color verde petróleo tiene un aspecto neutro pero aún así añade un poco de color. Como todos mis Wildlings, espero que sean una opción ideal en esta fresca temporada.</p>
 <p>Otra opción de lana sobre lana para la estación fría es .</p>
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">pino</h2>
+<h2 class="wp-block-heading">4. Pino</h2>
 <p class="has-normal-font-size">por Isabel</p>
 
 <p class="has-text-align-center">$69-$119 | Vegano | Membrana resistente al agua | Tallas de EE. UU., niños de 3 a W 14 / M 13,5</p>
@@ -151,4 +151,3 @@ translatedFrom: en
 <div class="wp-block-media-text alignwide" style="grid-template-columns:30% auto"><div class="wp-block-media-text__content">
 <p><br/>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
 </div></div>
-

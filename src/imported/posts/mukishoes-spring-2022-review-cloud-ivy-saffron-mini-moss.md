@@ -38,24 +38,24 @@ translatedFrom: en
 
 <p>Lanzarán otra ronda de lanzamientos de primavera y verano en un par de semanas que incluye más colores neutros y ligeros y elásticos. Esta tienda está ubicada en Portugal y los zapatos se envían con DHL express, ¡así que llegan muy rápido! Los zapatos sin uso se pueden devolver a cargo del cliente en un plazo de 30 días.</p>
 <p>Otra cosa interesante de Mukishoes es que ofrecen una <a href="https://mukishoes.com/resoleprogram/">programa de resolución</a> para residentes de la UE. Muy bien, ¡entremos en los 4 modelos de Mukishoes de la colección Primavera '22 que estoy reseñando!</p>
-<h2 class="wp-block-heading">Nube de cuero crudo</h2>
+<h2 class="wp-block-heading">1. Nube de cuero crudo</h2>
 
 <p class="has-text-align-center">Cuero | 120€ | Altura de pila de 4,5 mm | Tallas UE 36-48</p>
 <p> Ha sido uno de los favoritos entre los fanáticos de Mukishoes desde el principio. Es una zapatilla de cuero suave (sin cromo y curtida vegetal) que tiene un aspecto simple pero moderno. Considero que una zapatilla de cuero blanca es un tipo de zapato único: ¡prácticamente se puede usar con todo lo que tengo en el guardarropa! El Mukishoes es el más ligero que he probado y el favorito de los puristas descalzos que quieren un zapato minimalista con un diseño elegante. Este año está forrado con una tela turquesa, una pequeña sorpresa divertida para cuando te quitas los zapatos pero que no se ve cuando estás de pie. ¡Realmente amo todo sobre ellos!</p>
 <p><strong>Sizing &amp;gt; Fit:</strong> La versión de la nube de este año es un poco más pequeña que la del año pasado. Tengo un antepié ancho y mi talla es hasta 38; esta fue la elección correcta para mí. Pero otros están adquiriendo su tamaño habitual y les va bien. Por lo tanto, parece que no necesitas aumentar la talla a menos que tengas un volumen alto y/o pies extra anchos. También parece ser más pequeño en el extremo inferior del rango de tamaños y no tan grande en el otro extremo más grande del espectro de tamaños. Llevo plantilla porque tengo pies de poco volumen.</p>
-<h2 class="wp-block-heading">hiedra</h2>
+<h2 class="wp-block-heading">2. Hiedra</h2>
 
 <p class="has-text-align-center">Vegano | 109€ | Altura de pila de 4,5 mm | Tallas UE 36-48</p>
 <p> es una zapatilla alta hecha de algodón reciclado. Tiene un color verde/azul/gris esquivo con cordones color óxido, una sensación muy vintage de la vieja escuela. ¡Shay, mi amiga y ayudante en , los probó y está muy contenta con ellos! Estos fueron su primer par de Mukishoes, pero ya sabía que los amaba.  así que estaba seguro de que serían buenos para ella (Wildling y Mukishoes tienen tipos de ajuste similares).</p>
 
 <p><strong>Sizing &amp;gt; Fit:</strong> Estos calzan de ancho medio. Los pies de Shay son más estrechos y tiene mucho espacio incluso con calcetines (mientras que yo uso mis Mukishoes barefoot para tener espacio para los dedos de los pies). También se adaptan mejor a volúmenes medios y altos.</p>
-<h2 class="wp-block-heading">azafrán</h2>
+<h2 class="wp-block-heading">3. Azafrán</h2>
 
 <p class="has-text-align-center">Vegano | 99€ | Altura de pila de 4,5 mm | Tallas UE 36-48</p>
 <p> Es una zapatilla de color óxido confeccionada con una parte superior de lino reciclado y un forro de algodón orgánico. Añaden un pequeño toque de color sin dejar de ser neutros y apagados. Este modelo tiene el talón un poco más curvado de lo habitual y una pequeña etiqueta en la parte trasera. Descubrí que me rascaba la parte posterior del talón y me resultaba incómodo las primeras veces que los usé, pero agregar un capa de piel de topo fue una solución fácil. Mis talones son sensibles, así que tengo piel de topo a mano para este tipo de cosas. Además de ese pequeño detalle, son realmente ligeros y cómodos, ¡tal como esperaba de todos mis Mukishoes!</p>
 <p>La Salvia es igual que el Azafrán, pero en color azul/verde.</p>
 <p><strong>Sizing &amp;gt; Fit:</strong> Estos encajan tal como se esperaba para Mukishoes. Son fieles a su talla, de ancho medio en el antepié, ancho en el talón y gran volumen en todas partes. Tengo una talla 37 y estoy usando una plantilla de lana en este momento (cuando haga calor cambiaré a una ). Los Saffron me quedan un poco más holgados, especialmente alrededor del tobillo, que los Cloud.</p>
-<h2 class="wp-block-heading">Mini Musgo – Niños</h2>
+<h2 class="wp-block-heading">4. Mini Musgo para niños</h2>
 
 <p class="has-text-align-center">Vegano | 80€ | Altura de pila de 3,5 mm | Tallas UE 24-35</p>
 <p>Hemos sido fanáticos del  desde que se lanzaron por primera vez hace un par de años, pero esta vez vienen con algunas actualizaciones. Como todos los zapatos para niños de Mukishoes, el Mini Moss tiene una forma de puntera muy generosa que debe adaptarse a pies muy anchos y gruesos. La parte superior está hecha de cáñamo y forrada de algodón. Es muy suave nada más sacarlo de la caja, e incluso mi hijo de 5 años en particular quedó inmediatamente satisfecho con ellos. Son unos zapatitos realmente encantadores.</p>

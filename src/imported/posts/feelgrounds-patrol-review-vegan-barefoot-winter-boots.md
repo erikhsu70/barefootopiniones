@@ -80,6 +80,8 @@ translatedFrom: en
 <p>Me encanta el estilo de  y creen que facilitarán que la gente elija calzado natural en lugar de zapatos rígidos que les destrozan los pies. Sin embargo, no son tan flexibles (principalmente en el talón) como me gustaría ver en una bota descalza. No puedo esperar a ver qué actualizaciones hará Feelgrounds en esta bota para el próximo año y, en general, estoy muy contento de que existan para hacer que los Zapatos barefoot sean geniales.</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Patrol pertenece a una generación anterior y su ficha puede no coincidir con las botas actuales. Compara materiales, suela y tallas con la <a href="https://feelgrounds.com/">colección vigente de Feelgrounds</a> antes de comprar.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para valorar bien "Revisión de Feelgrounds Patrol: botas de invierno veganas descalzas" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.

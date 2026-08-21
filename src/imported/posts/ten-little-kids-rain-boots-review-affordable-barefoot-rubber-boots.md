@@ -63,6 +63,8 @@ translatedFrom: en
 </div></div>
 
 
+<p><strong>Disponibilidad en 2026:</strong> confirma la versión infantil, la talla y las condiciones de devolución en la <a href="https://tenlittle.com/">tienda oficial de Ten Little</a>; esta reseña conserva la experiencia con el modelo probado.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Revisión de diez botas de lluvia para niños pequeños: ¡Botas de goma descalzas" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.

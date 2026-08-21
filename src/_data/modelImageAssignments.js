@@ -19,9 +19,9 @@ const beLenkaElevate = image("be-lenka__elevate.png", "Zapatillas Be Lenka Eleva
 const beLenkaIcon = image("be-lenka__icon.png", "Zapatos Be Lenka Icon");
 const beLenkaPrime = image("be-lenka__prime.png", "Zapatillas Be Lenka Prime");
 const beLenkaNord = image("be-lenka__nord.png", "Botas Be Lenka Nord");
-const beLenkaPolar = image("be-lenka__polar.png", "Botas Be Lenka Polar");
-const beLenkaSierra = image("be-lenka__sierra.png", "Botas Be Lenka Sierra");
-const beLenkaWinter = image("be-lenka__winter.png", "Botas Be Lenka Winter");
+const beLenkaPolar = image("be-lenka__polar.png", "Bota Be Lenka Polar con forro de lana");
+const beLenkaSierra = image("be-lenka__sierra.png", "Bota alta Be Lenka Sierra con forro polar");
+const beLenkaWinter = image("be-lenka__winter.png", "Bota Be Lenka Winter con cordones y forro de lana");
 const beLenkaNevada = image("be-lenka__nevada.png", "Botas Be Lenka Nevada");
 const beLenkaCharlotte = image("be-lenka__charlotte.png", "Botas altas Be Lenka Charlotte");
 const beLenkaPolaris = image("be-lenka__polaris.png", "Botas de invierno Be Lenka Polaris");
@@ -44,7 +44,7 @@ const bearfootBruin = image("bearfoot__bruin.png", "Botas de trabajo Bearfoot Br
 const birchburyCarnforth = image("birchbury__carnforth.png", "Zapatos Birchbury Carnforth con puntera ancha");
 const bobuxJodhpur = image("bobux__jodhpur-navy.webp", "Botas infantiles Bobux Jodhpur en azul marino");
 const caretsVictoria = image("carets__victoria-wingtip.png", "Zapatos Carets Victoria Wingtip");
-const feelgroundsOriginal = image("feelgrounds__original.png", "Zapatillas Feelgrounds Original");
+const feelgroundsOriginal = image("feelgrounds__original.png", "Zapatillas Feelgrounds Original con suela plana y puntera anatómica");
 const feelgroundsHighrise = image("feelgrounds__highrise.png", "Zapatillas altas Feelgrounds Highrise");
 const feelgroundsDroptop = image("feelgrounds__droptop.png", "Zapatos sin cordones Feelgrounds Droptop");
 const feelgroundsPatrol = image("feelgrounds__patrol.png", "Botas Feelgrounds Patrol");
@@ -197,7 +197,7 @@ module.exports = {
   "bohempia-review-time-to-throw-away-your-converse-vans": media(bohempiaBrand),
   "carets-victoria-wingtip-minimalist-womens-brogue": media(caretsVictoria),
   "earth-runners-barefoot-sandals-review": media(earthRunnersBrand),
-  "feelgrounds-barefoot-sneakers-review-complete-guide": media(feelgroundsOriginal, [feelgroundsHighrise, feelgroundsDroptop, feelgroundsPatrol, feelgroundsSeaside]),
+  "feelgrounds-barefoot-sneakers-review-complete-guide": media(feelgroundsOriginal),
   "feelgrounds-droptop-review": media(feelgroundsDroptop),
   "feelgrounds-highrise-review": media(feelgroundsHighrise),
   "feelgrounds-original-review": media(feelgroundsOriginal),

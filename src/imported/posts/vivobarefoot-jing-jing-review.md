@@ -55,6 +55,8 @@ translatedFrom: en
 <p>¿Has probado estos nuevos pisos? Si es así, ¡deja un comentario y cuéntame cómo están funcionando para ti!</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Jing Jing II es una bailarina histórica. Consulta el <a href="https://www.vivobarefoot.com/">catálogo actual de Vivobarefoot</a> para comprobar si existe una sucesora y no trasladar sin más esta talla a otra horma.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Revisión de los pisos Vivobarefoot Jing Jing II" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

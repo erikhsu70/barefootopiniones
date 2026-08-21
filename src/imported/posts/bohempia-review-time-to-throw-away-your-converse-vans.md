@@ -37,6 +37,11 @@ translatedFrom: en
 <p>Pero hay algo más en Bohempia que la ha convertido en una de mis marcas favoritas. ¡Llevan algunas de las zapatillas de deporte descalzas más modernas que reemplazan perfectamente a los clásicos de culto como Converse, Vans y Keds! Llevo mucho tiempo buscando alternativas descalzas a esas marcas y Bohempia lo hace como ningún otro. Compré mi primer par de zapatos Bohemianpia hace tres años y medio y la marca no ha hecho más que mejorar desde entonces.</p>
 <h2 class="wp-block-heading">Bohempia en comparación con marcas de zapatillas populares</h2>
 
+<figure class="section-product-image">
+  <img src="/assets/images/brands/bohempia.webp" alt="Zapatillas de lona Bohempia con puntera anatómica" width="940" height="500" loading="lazy">
+  <figcaption>Zapatillas Bohempia de lona y horma amplia.</figcaption>
+</figure>
+
 <p>Estas son las razones principales por las que elijo los Zapatos barefoot Bohempia en lugar de otras marcas de zapatillas.</p>
 <p><strong>Bohemia es:</strong></p>
 <ul>

@@ -45,7 +45,7 @@ translatedFrom: en
 </ul>
 <p>Siempre que elijas una talla acorde a cómo planeas usarlos, ¡los Wildlings pueden funcionar bastante bien en invierno! Han demostrado ser mucho más prácticos de lo que esperaba (lea más sobre <a href="/las-botas-de-invierno-de-pie-de-de-pie-todo-el-tiempo-para-nieve/#tips-for-staying-warm-in-barefoot-shoes">mis accesorios cálidos favoritos aquí</a>).</p>
 
-<h2 class="wp-block-heading">La revisión del oso de miel</h2>
+<h2 class="wp-block-heading">1. Revisión de Honeybear</h2>
 
 <p class="has-text-align-center"><strong>$145 | Algodón y lana | Resistente al agua | Clasificado para 20 F / -7 C</strong> (con plantilla)</p>
 <p>El modelo que elegí para mí es el Honeybear. Quería algo un poco más, pero no demasiado. El mostaza profundo del Honeybear encaja perfectamente: es lo suficientemente apagado como para ser neutral, pero lo suficientemente único como para agregar algo de estilo. Se sintieron cómodos inmediatamente después de sacarlos de la caja, no fue necesario adaptarlos.</p>
@@ -61,7 +61,7 @@ translatedFrom: en
 <p>Los modelos para adultos de Wilding tienen un diseño de zorro más sutil en el talón que los niños, tienen escrito Rewild en la lengüeta del zapato y usan cordones de algodón tradicionales (en lugar de elásticos). Además de esas diferencias, la versión infantil del Honeybear es idéntica.</p>
 
 <p>Todos los zapatos Wildling están fabricados con esta suela exclusiva que está especialmente diseñada para flexionarse y doblarse en todas las direcciones. El espacio en el centro es clave para ese movimiento y ha sido reforzado para mantener el agua afuera y evitar que se rompa. Puedes conocer más sobre este diseño especial en mi <a href="/revision-de-wildling-los-zapatos-barefoot-mas-flexibles/">Revisión original de los salvajes</a>.</p>
-<h2 class="wp-block-heading">La revisión de Nessie</h2>
+<h2 class="wp-block-heading">2. Revisión de Nessie</h2>
 
 <p class="has-text-align-center"><strong>$137 | Lana | <strong>Resistente al agua |</strong></strong> <strong>Clasificado para 15 F/-9,5 C.</strong></p>
 <p>Mis hijos eligieron el modelo Nessie y, en verdad, son los botines más lindos que he visto en mi vida. El Nessie es incluso más cálido que el Honeybear porque el exterior también es de lana (forro de lana + parte superior de lana = CALIENTE). También recomiendo la plantilla adicional para estos si vives en un clima frío, pero mis hijos no las obtuvieron y han estado jugando a temperaturas bajo cero sin quejarse (¡niños!). También me gustaría señalar que, aunque mis hijos usan los suyos en la nieve, no son realmente ideales como raquetas de nieve porque solo llegan a la altura de los tobillos. Vienen adentro con nieve en el cuello. Pero para un zapato cálido de invierno, ¡son perfectos!</p>

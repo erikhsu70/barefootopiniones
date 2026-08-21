@@ -39,6 +39,8 @@ translatedFrom: en
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Realmente no está diseñado para caminatas, ¡pero también lo hicieron muy bien en los senderos!</figcaption></figure>
 
 
+<p><strong>Disponibilidad en 2026:</strong> verifica la generación y la tabla del modelo en el <a href="https://www.vivobarefoot.com/">catálogo oficial de Vivobarefoot</a>; Motus Flex y otras líneas de entrenamiento pueden cambiar de temporada.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Revisión de Vivobarefoot Motus Flex: rendimiento, pero hágalo barefoot" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

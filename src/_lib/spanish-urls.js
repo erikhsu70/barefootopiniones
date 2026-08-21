@@ -63,6 +63,7 @@ const postSlugOverrides = {
   "the-best-barefoot-sandals-for-kids": "mejores-sandalias-barefoot-ninos",
   "spring-2026-favorites-but-make-it-barefoot-shoes": "favoritos-barefoot-primavera-2026",
   "xero-shoes-spring-2026-collection-review": "opinion-xero-primavera-2026",
+  "feelgrounds-barefoot-sneakers-review-complete-guide": "feelgrounds-barefoot-opinion-guia-tallas",
   "freet-barefoot-shoes-review": "opinion-barefoot-freet-todo-necesita-saber",
   "groundies-review-the-best-barefoot-shoe-brand-for-fashionistas": "opinion-groundies-mejor-marca-barefoot-amantes",
   "mukishoes-brand-review": "opinion-mukishoes-marca-barefoot-sostenible",
@@ -458,7 +459,7 @@ function importedFiles(section) {
   const directory = path.join(PROJECT_ROOT, "src", "imported", section);
   return fs
     .readdirSync(directory)
-    .filter((file) => file.endsWith(".md"))
+    .filter((file) => file.endsWith(".md") && !/\s\d+\.md$/i.test(file))
     .map((file) => path.join(directory, file));
 }
 

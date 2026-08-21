@@ -61,7 +61,7 @@ translatedFrom: en
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Dkgp6uAVdik?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Revisión de las zapatillas Vivobarefoot Geo Court" width="500"></iframe></div>
 </div></figure>
-<h2 class="wp-block-heading"><span id="conclusion"></span>Conclusión</h2>
+<h2 class="wp-block-heading" id="conclusion">Conclusión</h2>
 <p>Debo decir que este es mi zapato Vivobarefoot favorito para adultos con diferencia (el segundo es el Gobi Hi Top). El costo de estos está en consonancia con el de otras marcas importantes de Zapatos barefoot y puede usar el código <strong><code><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong></code></strong>. Dado que Vivobarefoot le ha funcionado tan bien a nuestra familia, espero que duren para siempre y, con un diseño tan clásico, también estarán de moda para siempre. Entonces, si quieres una zapatilla que pueda hacerlo todo por ti, la  lo es.</p>
 <p>¿Qué opinas de las nuevas zapatillas Court?</p>
 

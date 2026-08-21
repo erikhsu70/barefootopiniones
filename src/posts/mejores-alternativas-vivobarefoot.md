@@ -56,7 +56,7 @@ La sensación de suelo sigue siendo alta. Si vienes de una Geo Court o de calzad
 
 Tampoco la elegiría para trail o lluvia constante. La malla que agradeces con calor deja de ser una ventaja cuando entra agua. Para ciudad seca, viajes y jornadas donde quieres una zapatilla que pese poco, tiene mucho sentido.
 
-La guía oficial actual indica 5 mm de suela y 246 g por zapatilla en talla 43. Es una alternativa directa a la filosofía ligera de Vivo, pero con un lenguaje visual menos deportivo. Puedes ampliar el ajuste en nuestra [opinión y guía de tallas de Feelgrounds](/feelgrounds-barefoot-sneakers-review-complete-guide/).
+La guía oficial actual indica 5 mm de suela y 246 g por zapatilla en talla 43. Es una alternativa directa a la filosofía ligera de Vivo, pero con un lenguaje visual menos deportivo. Puedes ampliar el ajuste en nuestra [opinión y guía de tallas de Feelgrounds](/feelgrounds-barefoot-opinion-guia-tallas/).
 
 ### 2. Mukishoes Cloud, si buscas una parte superior más suave
 

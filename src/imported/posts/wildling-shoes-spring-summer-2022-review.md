@@ -36,7 +36,7 @@ Wildling Shoes es una marca muy distinta dentro del barefoot europeo. Donde otra
 
 La SERP de Wildling suele girar alrededor de tallas, Tanuki, colecciones de temporada y si esos zapatos tan blandos sirven para la vida real. La clave es entender que Wildling no busca ser una sneaker robusta. Busca acompañar el movimiento con la mínima interferencia posible.
 
-En el archivo, Wildling ha destacado por ligereza y flexibilidad. La colección actual mantiene esa identidad, con Spring/Summer 2026 visible en la web y un foco claro en Tanuki ASAWA, Essentials, niños y estilos weather-ready. La marca también muestra descuentos por grupo y envío gratuito desde 200 euros, pero eso puede cambiar y no debería decidir la talla.
+En el archivo, Wildling ha destacado por ligereza y flexibilidad. La [colección actual de Wildling](https://www.wildling.shoes/en/collections) mantiene esa identidad, con Spring/Summer 2026 visible en la web y un foco claro en Tanuki ASAWA, Essentials, niños y estilos weather-ready. La marca también muestra descuentos por grupo y envío gratuito desde 200 euros, pero eso puede cambiar y no debería decidir la talla.
 
 <figure>
   <img src="/assets/images/models/wildling__tanuki-kokoro.png" alt="Zapatos Wildling Tanuki con upper textil ligero y suela flexible" width="900" height="900" loading="lazy">
@@ -60,27 +60,27 @@ En el archivo, Wildling ha destacado por ligereza y flexibilidad. La colección 
 
 ## Tallas y ajuste
 
-Wildling tiene un size finder detallado. Recomienda medir ambos pies de pie, con el calcetín que usarás, y elegir desde su tabla. Para adultos, la talla recomendada ya incluye espacio suficiente de rodadura; si prefieres más espacio o tienes pies anchos, la propia guía sugiere subir talla. También indica un detalle útil: las tallas 35 y 36 pueden compartir longitud interior, pero no el mismo ajuste porque la 36 tiene mayor circunferencia.
+El [asistente oficial de tallas de Wildling](https://www.wildling.shoes/en/pages/size-finder) recomienda medir ambos pies de pie, con el calcetín que usarás, y elegir desde su tabla. Para adultos, la talla recomendada ya incluye espacio suficiente de rodadura; si prefieres más espacio o tienes pies anchos, la propia guía sugiere subir talla. También indica un detalle útil: las tallas 35 y 36 pueden compartir longitud interior, pero no el mismo ajuste porque la 36 tiene mayor circunferencia.
 
 Esto importa porque Wildling se adapta de forma distinta a una zapatilla con paredes laterales rígidas. Una suela que se aplana y un upper textil pueden dar más margen funcional, pero no hacen magia si el largo es corto. Si dudas, mide por la tarde y revisa la ficha específica.
 
 Para niños, la guía ya incluye espacio de crecimiento además del margen de rodadura. Aun así, en pies infantiles conviene revisar cada pocos meses: no compres una barca "para que dure" si el niño tropieza o agarra con los dedos.
 
-## Modelos actuales
+## Los 4 mejores grupos de modelos Wildling actuales
 
-### Tanuki
+### 1. Tanuki
 
-Tanuki sigue siendo el modelo que mejor explica Wildling. La colección oficial muestra Tanuki Umi, Niji, Yoru, Ragun, Bara, Banira, Kibo y Tanuki ASAWA, con versiones de adulto y niños según color. Es el que elegiría para clima seco, verano, viaje ligero y personas que quieren sentir muy poco zapato.
+Tanuki sigue siendo el modelo que mejor explica Wildling. La [colección oficial Tanuki](https://www.wildling.shoes/en/collections/tanuki) muestra Umi, Niji, Yoru, Ragun, Bara, Banira, Kibo y Tanuki ASAWA, con versiones de adulto y niños según color. Es el que elegiría para clima seco, verano, viaje ligero y personas que quieren sentir muy poco zapato.
 
-### Tanuki ASAWA
+### 2. Tanuki ASAWA
 
 Tanuki ASAWA aparece como novedad de Spring/Summer 2026 y colaboración/colección Ruth Asawa. Lo trataría como modelo de diseño especial, no como sustituto de un zapato impermeable ni de una zapatilla deportiva.
 
-### Essentials y weather-ready
+### 3. Essentials y modelos weather-ready
 
 Essentials es la zona más sensata para una primera compra si no quieres depender de color estacional. Weather-ready tiene sentido si necesitas más protección, pero cuanto más protección añade un zapato, menos "desaparece". No es malo; solo hay que elegir por uso.
 
-### Niños
+### 4. Wildling para niños
 
 Wildling ofrece categorías de toddlers, kids y adultos. Para niños, me gusta la filosofía de poco peso y flexibilidad, pero miraría cierres, facilidad para poner, margen de crecimiento y clima. Si necesitas más opciones, revisa [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) y [mejores botas barefoot para niños](/mejores-botas-barefoot-ninos/).
 
@@ -92,7 +92,7 @@ Ventajas:
 - Modelos para adultos, niños y toddlers.
 - Size finder útil con margen incluido.
 - Materiales y estética únicos.
-- Cambios de talla y devoluciones organizados por portal.
+- [Cambios de talla y devoluciones](https://www.wildling.shoes/en/pages/retoure) organizados por portal.
 
 Límites:
 
@@ -108,7 +108,7 @@ Para una primera compra, decidiría por clima y tolerancia al suelo. Si vives en
 
 También miraría el estilo con honestidad. Wildling tiene una estética muy reconocible: natural, textil, a veces artística. Si te encanta, la usarás mucho. Si buscas una sneaker que pase desapercibida, quizá Groundies, Be Lenka o Feelgrounds encajen mejor. La mejor compra barefoot no es la más "pura", sino la que realmente acabas usando.
 
-La otra decisión es cuánto suelo quieres sentir. Wildling puede parecer radical si vienes de zapatillas con espuma, incluso aunque el pie agradezca la libertad de dedos. Para empezar, lo usaría en paseos cortos, casa, recados y días sin mucha carga. Si el cuerpo responde bien, aumenta tiempo. Si aparece molestia persistente, reduce uso y no conviertas la transición en una prueba de resistencia.
+La otra decisión es cuánto suelo quieres sentir. Wildling puede parecer radical si vienes de zapatillas con espuma, incluso aunque el pie agradezca la libertad de dedos. Para empezar, lo usaría en paseos cortos, casa, recados y días sin mucha carga. Si el cuerpo responde bien, aumenta tiempo. Si aparece molestia persistente, reduce uso y no conviertas la transición en una prueba de resistencia. La [revisión de Warne y Gruber](https://pubmed.ncbi.nlm.nih.gov/28916956/) también recomienda una transición progresiva al calzado minimalista.
 
 Para niños, la ligereza es una ventaja real, pero no sustituye revisar talla. Un Wildling demasiado grande puede doblarse y moverse más de la cuenta; uno corto elimina justo el espacio que buscas con barefoot. Mide de pie, revisa el size finder y comprueba que el cierre mantiene el talón sin apretar el empeine.
 
@@ -129,14 +129,6 @@ La canibalización se revisó contra Wildling Crane, Pegasus, Ranidae, invierno 
 En intención de búsqueda, el punto crítico es talla. Por eso la guía explica que el size finder ya incluye espacio de rodadura, que los pies anchos pueden necesitar subir y que la talla infantil incorpora crecimiento. También evita presentar la suela fina como una solución universal. Si alguien viene de mucho soporte o amortiguación, la recomendación es introducir Wildling de forma progresiva, sobre todo en asfalto.
 
 En imágenes, se usan assets del repositorio asociados a modelos reales ya importados. No se generó ninguna foto de producto nueva ni se presentó una imagen inventada como experiencia actual. La galería aporta contexto visual sin afirmar que Tanuki ASAWA haya sido probado en persona.
-
-## Fuentes consultadas
-
-- [Wildling: collections](https://www.wildling.shoes/en/collections)
-- [Wildling: Tanuki](https://www.wildling.shoes/en/collections/tanuki)
-- [Wildling: size finder](https://www.wildling.shoes/en/pages/size-finder)
-- [Wildling: returns](https://www.wildling.shoes/en/pages/retoure)
-- [Warne y Gruber: transición al calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
 
 ## Preguntas frecuentes
 

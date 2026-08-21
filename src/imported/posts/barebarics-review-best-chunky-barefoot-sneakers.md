@@ -141,6 +141,8 @@ translatedFrom: en
 <p><a href="https://www.barebarics.com/">Barebarics</a> son una interesante incorporación al mundo del calzado barefoot, ya que ofrecen estilo, calidad y características para andar barefoot. Los recomiendo encarecidamente si necesitas un poco más de amortiguación bajo los pies por cualquier motivo, o simplemente quieres participar en las tendencias actuales de las zapatillas.</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Barebarics mantiene un catálogo amplio, pero las colecciones han cambiado desde esta prueba. Revisa los modelos y tallas vigentes en el <a href="https://www.barebarics.com/all-products/">catálogo oficial de Barebarics</a>.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Las zapatillas barefoot pueden parecer sencillas, pero no todas funcionan igual. En "Revisión de Barebarics: las mejores zapatillas gruesas con forma de pie" hay que separar estilo, ajuste, flexibilidad y uso real para no comprar solo por la primera impresion.

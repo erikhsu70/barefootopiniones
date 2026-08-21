@@ -45,7 +45,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h2 class="wp-block-heading" id="gracie">Bota de lluvia de goma Gracie</h2>
+<h2 class="wp-block-heading" id="gracie">1. Bota de lluvia de goma Gracie</h2>
 
 <p class="has-text-align-center">Caucho | Tallas EE. UU. para mujeres 5-12 | 8,5 mm con plantilla, 5 mm sin | $70</p>
 
@@ -59,7 +59,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">ZAPATO DE SERVICIO PRIO PARA TODO EL DÍA</h2>
+<h2 class="wp-block-heading">2. Prio All-Day SR</h2>
 
 <p class="has-text-align-center">Cuero | Tallas EE. UU. Mujer 5 – Hombre 15 | Altura de pila de 9,5 mm | $130 | Plantilla extraíble</p>
 
@@ -74,7 +74,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Zapatilla deportiva Zelen</h2>
+<h2 class="wp-block-heading">3. Zapatilla deportiva Zelen</h2>
 
 <p class="has-text-align-center">Vegano | Tallas EE. UU. Mujer 5 – Hombre 15 | Altura de pila de 7,5 mm | $130 | Plantilla extraíble</p>
 
@@ -83,7 +83,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Zapatilla Kelso Lifestyle</h2>
+<h2 class="wp-block-heading">4. Zapatilla Kelso Lifestyle</h2>
 
 <p class="has-text-align-center">Cuero | Tallas EE. UU. Mujer 5 – Hombre 15 | $110 | Plantilla extraíble</p>
 
@@ -93,7 +93,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Zapatos de senderismo Terraflex</h2>
+<h2 class="wp-block-heading">5. Zapatos de senderismo TerraFlex</h2>
 
 <p class="has-text-align-center">Vegano | Tallas EE. UU. Mujer 5 – Hombre 15 | Altura de pila de 13 mm | $110 | Plantilla extraíble</p>
 
@@ -103,7 +103,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Sandalias Aqua Cloud</h2>
+<h2 class="wp-block-heading">6. Sandalias Aqua Cloud</h2>
 
 <p class="has-text-align-center">Vegano | Tallas EE. UU. Mujer 5 – Hombre 15 | Altura de pila de 6,5 mm | $50 </p>
 
@@ -112,7 +112,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h2 class="wp-block-heading">Bota Ashland</h2>
+<h2 class="wp-block-heading">7. Bota Ashland</h2>
 
 <p class="has-text-align-center">Vegano | Tallas EE. UU., Mujer 5 – 12 | Altura de pila de 6,5 mm | $110 </p>
 
@@ -126,4 +126,3 @@ translatedFrom: en
 <p>Cada marca de Zapatos barefoot aporta su propio sabor único a la mesa, y eso me encanta. Pero también me encanta ver una marca evolucionar y mejorar con el tiempo. ¡Gracias Xero Shoes por escuchar las necesidades de la comunidad!</p>
 
 <p style="font-size:15px">Estos zapatos fueron regalados por Xero Shoes, pero esta publicación no está patrocinada. Todas las opiniones expresadas son mías.</p>
-

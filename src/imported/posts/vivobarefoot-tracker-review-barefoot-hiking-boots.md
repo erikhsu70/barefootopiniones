@@ -74,6 +74,8 @@ translatedFrom: en
 <p>Estos son los primeros excursionistas descalzos que tenemos, ¡pero este otoño probaré varios más! Si está interesado en las botas de montaña descalzas más duraderas, resistentes e impermeables, asegúrese de suscribirse a continuación para mis publicaciones futuras. Y puedes ver actualizaciones periódicas y mini reseñas en Instagram.</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Tracker ha tenido varias generaciones. Confirma el nombre completo, la suela y la membrana del par actual en la <a href="https://www.vivobarefoot.com/">colección oficial de Vivobarefoot</a> antes de comparar especificaciones.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para valorar bien "Revisión de Vivobarefoot Tracker: botas de montaña descalzas" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.

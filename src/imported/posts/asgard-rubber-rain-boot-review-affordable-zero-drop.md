@@ -73,6 +73,7 @@ translatedFrom: en
 <figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZQFg9c1Ze4A?feature=oembed&amp;enablejsapi=1" title="Revisión de botas de lluvia Asgard: ¡Botas de goma asequibles de zero drop!" width="500"></iframe></div>
 </div></figure>
+<div class="ast-oembed-container editorial-video"><iframe src="https://www.youtube.com/embed/ZQFg9c1Ze4A" title="Revisión en vídeo de las botas de lluvia Asgard"></iframe></div>
 <p>¡Y ahora, volvamos a Heidi!</p>
 <h2 class="wp-block-heading">Conclusión de la revisión de las botas de lluvia Asgard</h2>
 <p>Considerándolo todo, creo que las Asgard Welly son una gran adición a la colección de zapatos de cualquier persona, ¡siempre que no tengas dedos extra anchos!  Son unas botas utilitarias perfectas para tener a mano para las necesidades de jardinería o para los días lluviosos, pero también son lo suficientemente simples y lindas como para usarlas con una gran cantidad de atuendos diferentes.  No superan el presupuesto y cumplen con la mayoría de las casillas cuando se trata de diseño barefoot.  ¡No creo que puedas equivocarte con estos!</p>
@@ -82,6 +83,8 @@ translatedFrom: en
 <p>Heidi es administradora del grupo de Facebook barefoot Style y es científica en automatización de profesión. Descubrió los beneficios para la salud de los Zapatos barefoot mientras entrenaba en levantamiento de pesas y fitness funcional. Es madre de 2 niños, 2 perros rescatados y 1 gato, y pasa su tiempo libre cosiendo y haciendo manualidades.</p>
 </div></div>
 
+
+<p><strong>Disponibilidad en 2026:</strong> la gama y las tallas pueden cambiar; comprueba el modelo que vas a pedir en la <a href="https://www.asgardrainboots.com/">web de Asgard Rain Boots</a> y no extrapoles automáticamente el ajuste de este par histórico.</p>
 
 <!-- editorial-expansion:v1 -->
 

@@ -37,7 +37,7 @@ layout: layouts/base.njk
           <nav data-article-toc-mobile></nav>
         </details>
       {% endif %}
-      {% if modelMedia and modelMedia.gallery and modelMedia.gallery.length %}
+      {% if not hideModelGallery and modelMedia and modelMedia.gallery and modelMedia.gallery.length %}
         <section class="model-image-gallery" aria-label="Modelos mencionados en el artículo">
           {% for modelImage in modelMedia.gallery %}
             <figure>
@@ -92,7 +92,7 @@ layout: layouts/base.njk
     };
 
     const hasUsefulMedia = (node) => {
-      return Boolean(node.querySelector("img, picture, svg, canvas, audio, source"));
+      return Boolean(node.querySelector("img, picture, svg, canvas, audio, source, iframe.editorial-video-frame"));
     };
 
     const discountHrefPattern =
@@ -164,6 +164,7 @@ layout: layouts/base.njk
     });
 
     content.querySelectorAll("iframe, video, object, embed").forEach((node) => {
+      if (node.matches("iframe.editorial-video-frame")) return;
       const removableBlock = node.closest("figure, .wp-block-embed, .wp-block-video, .elementor-widget-video, .ast-oembed-container, .wp-block-embed__wrapper, p, li");
       (removableBlock || node).remove();
     });
@@ -233,8 +234,7 @@ layout: layouts/base.njk
         });
 
       const headings = sectionHeadings
-        .filter((heading) => heading.tagName === "H2")
-        .slice(0, 14);
+        .filter((heading) => heading.tagName === "H2");
 
       if (!headings.length) {
         toc.closest(".article-toc")?.remove();

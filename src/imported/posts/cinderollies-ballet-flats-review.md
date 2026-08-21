@@ -36,6 +36,8 @@ translatedFrom: en
 <p><br/></p>
 
 
+<p><strong>Contexto editorial:</strong> esta es una reseña histórica, no una confirmación de stock en 2026. La <a href="https://anyasreviews.com/cinderollies-ballet-flats-review/">reseña original de Cinderollies de Isabel</a> conserva las fotografías, el ajuste probado y la fecha de la experiencia.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de las bailarinas Cinderollies" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.

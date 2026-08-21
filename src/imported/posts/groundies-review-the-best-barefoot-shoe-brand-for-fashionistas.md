@@ -70,9 +70,9 @@ La diferencia no es menor. Si vienes de marcas como Be Lenka, Freet o Softstar, 
 
 ## Tallas y ajuste
 
-Groundies recomienda medir el pie y comparar con la tabla del producto. La ficha española de Nova GS1 muestra que la marca ya incorpora el espacio de rodadura, aproximadamente 5-12 mm, en la tabla. Eso significa que no debes sumar margen dos veces: mide, mira tabla y revisa la nota del modelo.
+Groundies recomienda medir el pie y comparar con la tabla del producto. La [ficha española de Nova GS1](https://groundies.com/es-es/products/nova-gs1-men) muestra que la marca ya incorpora el espacio de rodadura, aproximadamente 5-12 mm, en la tabla. Eso significa que no debes sumar margen dos veces: mide, mira tabla y revisa la nota del modelo.
 
-En Nova GO1, la ficha europea indica true to size, suela TrueSense GO1 de 3 mm de base y 3,3 mm de perfil, y diferencia entre Barefoot y Barefoot+. En Nova GS1, la página española muestra base de 3 mm y perfil de 3,9 mm, con nota de que muchos clientes eligen una talla menos. Esa diferencia es justo lo que hace peligroso comprar solo por "mi talla Groundies".
+En Nova GO1, la [ficha europea de Groundies](https://groundies.com/en-eu/products/nova-go1-men) indica true to size, suela TrueSense GO1 de 3 mm de base y 3,3 mm de perfil, y diferencia entre Barefoot y Barefoot+. En Nova GS1, la página española muestra base de 3 mm y perfil de 3,9 mm, con nota de que muchos clientes eligen una talla menos. Esa diferencia es justo lo que hace peligroso comprar solo por "mi talla Groundies".
 
 Mi lectura práctica:
 
@@ -82,17 +82,17 @@ Mi lectura práctica:
 - Pie de bajo volumen: cordones o plantillas finas.
 - Talón estrecho: evita modelos muy abiertos si no puedes ajustar.
 
-## Modelos actuales
+## Los 3 mejores grupos de modelos Groundies actuales
 
-### Nova GO1
+### 1. Nova GO1 para máxima flexibilidad
 
 Nova GO1 es mi punto de partida si quieres entender Groundies. La suela GO1 busca máxima flexibilidad y contacto con el suelo. En la ficha oficial, la versión Barefoot+ amplía la zona de dedos y mantiene base de 3 mm más 3,3 mm de perfil. La recomendaría para quien prioriza sensación barefoot y un diseño que no grite "zapato técnico".
 
-### Nova GS1
+### 2. Nova GS1 para estética retro
 
 Nova GS1 mantiene la estética retro urbana, pero con una suela visualmente más sneaker. La ficha española destaca base de 3 mm y perfil de 3,9 mm. Sigue siendo plana y flexible, pero no se siente igual que GO1. Si quieres que parezca una zapatilla normal, GS1 tiene más sentido. Si quieres máxima flexión, GO1.
 
-### Zapatos de vestir y bailarinas
+### 3. Zapatos Groundies de vestir y bailarinas
 
 Groundies tiene una ventaja clara en zapatos que el mundo barefoot no siempre resuelve bien: bailarinas, mocasines, botines y modelos de vestir. Ahí hay que ser más fino con la talla, porque el talón y el empeine deciden tanto como la puntera. Para opciones de vestir, compara también con [bailarinas y Mary Jane barefoot](/bailarinas-mary-jane-barefoot-2026/) y [zapatos de vestir barefoot para mujer](/zapatos-vestir-barefoot-femenino-lista/).
 
@@ -136,14 +136,7 @@ La versión antigua de este artículo era una reseña de colección con mucho co
 
 También he revisado canibalización. Groundies tiene reseñas de Felicia, Bella, Palermo, Performance y una colección primavera 2023; este hub no compite con ellas porque actúa como página de entrada de marca. Los modelos concretos enlazan o se mencionan como ejemplos, pero el artículo no pretende reemplazar reseñas detalladas. El canónico histórico se conserva para no dispersar autoridad.
 
-En salud y transición, la recomendación se mantiene prudente. Una suela fina y drop cero cambia la carga si vienes de calzado rígido, por lo que el consejo útil es progresión y ajuste correcto, no prometer correcciones universales.
-
-## Fuentes consultadas
-
-- [Groundies España: Nova GS1](https://groundies.com/es-es/products/nova-gs1-men)
-- [Groundies EU: Nova GO1](https://groundies.com/en-eu/products/nova-go1-men)
-- [Groundies: guía de ajustes y tallas en ficha](https://groundies.com/es-es/products/nova-gs1-men)
-- [Warne y Gruber: transición al calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
+En salud y transición, la recomendación se mantiene prudente. Una suela fina y drop cero cambia la carga si vienes de calzado rígido, por lo que el consejo útil es progresión y ajuste correcto, no prometer correcciones universales. La [revisión de la evidencia sobre transición minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/) insiste precisamente en introducir el cambio de forma gradual.
 
 ## Preguntas frecuentes
 

@@ -26,11 +26,12 @@ translatedFrom: en
 <figure class="wp-block-image"><figcaption><a href="https://www.unshoesusa.com/collections/sandals/products/uinta">Uinta </a>(L), <a href="https://www.unshoesusa.com/collections/sandals/products/keota">Keota</a> (R)</figcaption></figure>
 <figure class="wp-block-image"><figcaption><a href="https://www.unshoesusa.com/collections/sandals/products/uinta">Uinta </a>(L), <a href="https://www.unshoesusa.com/collections/sandals/products/keota">Keota </a>(R)</figcaption></figure>
 <figure class="wp-block-image"><figcaption><a href="https://www.unshoesusa.com/collections/sandals/products/uinta">Uinta </a>(L), <a href="https://www.unshoesusa.com/collections/sandals/products/keota">Keota </a>(R)</figcaption></figure>
-<h2 class="wp-block-heading">Keota</h2>
+<h2 class="wp-block-heading">1. Keota</h2>
 <p>el <a href="https://www.unshoesusa.com/collections/sandals/products/keota">sandalias Keota</a> Tienen una suela de 5mm de espesor y un sistema de correas que permite un ajuste infinito. Son minimalistas, sin correas que crucen los dedos de los pies ni restrinjan el movimiento de ninguna manera.</p>
 
 <p>El lazo elástico en el centro le permite ponérselos sin hebillas ni velcro. El lazo está apretado, por lo que necesito dos manos para ponérmelos. He estado metiendo el antepié en el zapato lo más que puedo y luego coloco la correa del talón sobre mi pie al final.</p>
 <p>Unshoes recomienda apretar las Keotas para que haya suficiente tensión para estirar ligeramente el lazo elástico. Han creado un instructivo <a href="https://www.youtube.com/watch?v=V5x4mzjbwu8&amp;feature=youtu.be">vídeo</a> mostrando cómo apretar la correa, ya que algunas personas han tenido problemas.</p>
+<div class="ast-oembed-container editorial-video"><iframe src="https://www.youtube.com/embed/V5x4mzjbwu8" title="Cómo ajustar las correas de las sandalias Unshoes Keota"></iframe></div>
 <div class="wp-block-image"><figure class="aligncenter is-resized"><figcaption> <br/>El exceso de correa se puede cortar y luego sellar con una llama.<br/></figcaption></figure></div>
 <p>Su pie se sujeta a la suela del Keota en 3 puntos: el poste del dedo y a cada lado del tobillo. Debido a esto, se sienten menos seguras que la sandalia Uinta (u otras sandalias con tiras) y si uso la tira demasiado suelta, la suela se siente floja.</p>
 <p>Si los aprieto demasiado para mayor seguridad, la puntera empuja mi pie hacia atrás más allá del talón del zapato. Definitivamente hay un punto óptimo de tensión. Con la tensión correcta, la suela permanece cerca de mi pie y se siente cómoda, pero aún así puede quedar atrapada en una roca o en el suelo ocasionalmente. Por lo tanto, hay una pequeña compensación con un zapato tan minimalista: totalmente apto para caminar barefoot, un poco menos seguro para un uso resistente.</p>
@@ -39,7 +40,7 @@ translatedFrom: en
 <p>Estas sandalias son simples, no voluminosas y neutras, pero más bonitas que unas chanclas, por lo que se pueden usar fácilmente en el día a día. ¡Este es el tipo de zapato que puedes usar durante todo el verano!</p>
 
 <p> </p>
-<h2 class="wp-block-heading">Sandalias Uinta </h2>
+<h2 class="wp-block-heading">2. Sandalias Uinta</h2>
 <p>el<a href="https://www.unshoesusa.com/collections/sandals/products/uinta"> sandalia uinta</a> ($99) tiene una suela de 10 mm de grosor y un diseño de correa más complejo que pretende ser muy seguro al pie para un uso más resistente. </p>
 
 <p> Las dos correas se cruzan sobre el pie y cada una se puede ajustar y sujetar con una banda elástica. Van con una correa con hebilla, que no se desgasta como lo hace el velcro con el tiempo y es muy fácil y rápida de poner. </p>
@@ -60,10 +61,9 @@ translatedFrom: en
 <h2 class="wp-block-heading">Dimensionamiento</h2>
 <p>Unshoes tiene tallas consistentes en todos sus modelos de sandalias (¡¡gracias!!). Tienen una tabla de tallas y plantillas imprimibles. Recomiendo encarecidamente utilizar las plantillas imprimibles y comunicarse con el servicio de atención al cliente si tiene alguna pregunta. Tomo mi talla normal en sandalias Unshoes y me quedan perfectas. Tienen una política de cambio gratuito si te equivocas la primera vez, pero pagas el envío de devolución si no los conservas.<br/></p>
 <h2 class="wp-block-heading">Materiales</h2>
-<p>Todas las sandalias Unshoes<a href="http://www.unshoesusa.com/Keota-Sandal_p_35.html"> </a>son veganos! Las tiras son de textil y la suela es de material sintético. Las sandalias Unshoes vienen con una suela texturizada para brindar agarre a las plantas de los pies cuando están mojadas.</p>
+<p>Las <a href="http://www.unshoesusa.com/Keota-Sandal_p_35.html">sandalias Unshoes Keota</a> son veganas: las tiras son textiles y la suela es de material sintético. Las sandalias Unshoes incorporan una superficie texturizada para mejorar el agarre bajo el pie cuando se moja.</p>
 <p>Una característica interesante de las sandalias Unshoes es que puedes <a href="https://www.unshoesusa.com/collections/custom-sandals">personalizar </a>ellos con diferentes espesores de suela, formas de plantilla y colocación de los postes del dedo. Esto puede ser realmente útil si desea un sistema de correas pero con un grosor de suela diferente al que se ofrece. No recomendaría personalizar las otras funciones a menos que sepas muy bien las necesidades de tus pies.</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Tanto el <a href="https://www.unshoesusa.com/collections/sandals/products/keota">Keota </a>y <a href="https://www.unshoesusa.com/collections/sandals/products/uinta">Uinta </a>Las sandalias son versátiles y funcionales. El Uinta es más caro y puede tener problemas de ajuste para aquellos con tobillos delgados, pero es realmente bonito y seguro para un uso rudo. El Keota es una de las opciones más asequibles que existen y se adapta a casi cualquier tipo de pie de forma universal, pero compromete un poco la seguridad. Dado el precio y que puedo personalizar los Keotas si así lo deseo, el Keota es el claro ganador para mí.</p>
 <p>Unshoes también fabrica una sandalia sin puntera (la <a href="https://www.unshoesusa.com/collections/sandals/products/pah-tempe">Pah Tempe</a>) y una elegante sandalia minimalista (mi favorita personal, reseñada <a href="/2019/04/21/unshoes-saffron/">aquí</a>).</p>
 <p>¿Has probado estas sandalias? ¿Cuál fue tu experiencia? Los pies de cada persona son diferentes, así que compártalos a continuación para ayudar a otras personas interesadas en estas sandalias.</p>
-

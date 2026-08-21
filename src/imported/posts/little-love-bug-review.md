@@ -69,6 +69,8 @@ translatedFrom: en
 </div></div>
 
 
+<p><strong>Disponibilidad en 2026:</strong> usa esta reseña para entender el ajuste probado y verifica después tallas, materiales y devoluciones en la <a href="https://littlelovebugcompany.com/">tienda oficial de Little Love Bug</a>.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Little Love Bug Review – Adorable &amp; Asequible Zapatos de Pie para Little" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

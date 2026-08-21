@@ -59,12 +59,12 @@ translatedFrom: en
 <p>Tengo pies extra anchos e inclinados, por lo que Mukishoes nunca ha sido la combinación perfecta para mí. Opté por una talla más grande que la habitual para obtener más ancho y, gracias a la naturaleza no estructurada de la suela, se expande para ajustarme cómodamente. Sigo pensando que Mukishoes se adapta mejor a pies de ancho medio y ancho, pero aprecio que la suela se adapte a diferentes formas y anchos.</p>
 <p>Ambos modelos utilizan suelas de caucho natural altamente flexibles que tienen una excelente sensación en el suelo, y ambos pueden funcionar para pies de poco volumen con cordones apretados o con una suela adicional. .</p>
 
-<h2 class="wp-block-heading">Revisión de esperanza</h2>
+<h2 class="wp-block-heading">1. Revisión de Esperanza</h2>
 
 <p class="has-text-align-center">Tallas UE 24-48 | Cáñamo/algodón orgánico y caucho natural | vegano</p>
 
 <p>¿Combinar zapatillas altas rosas descalzas con mi hija? ¡Sí, por favor! El modelo Hope de Mukishoes tiene una parte superior de cáñamo teñida de forma natural con <em>pieles de cebolla</em> y el color es precioso. Soy una persona astuta y realmente disfruté leyendo todo sobre el proceso de tinte natural de Hope aquí. Se combina con una suela de caucho natural de color amarillo pálido que tiene una flexibilidad y una sensación del suelo sorprendentes sin necesidad de un período de rodaje. El forro es de algodón orgánico de color verde azulado. A ambos nos parecieron cómodos desde el primer paseo, y ¿no es sorprendente que estén TEÑIDOS CON PIEL DE CEBOLLA?</p>
-<h2 class="wp-block-heading">Revisión del desafío</h2>
+<h2 class="wp-block-heading">2. Revisión del Desafío</h2>
 
 <p class="has-text-align-center"> Tallas UE 24-48 | Algodón orgánico y caucho natural | vegano</p>
 

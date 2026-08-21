@@ -58,6 +58,8 @@ translatedFrom: en
 <p><a href="https://www.groundies.com/liverpool/">Los Groundies Liverpool GX1</a> Es una excelente bota para pies descalzos. Si bien no lo llamaría exactamente "resistente", es un zapato cómodo y cotidiano que deberías usar durante muchos años.</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Liverpool GX1 puede no representar las botas actuales de la marca. Revisa la familia, la suela TrueSense y la tabla vigente en el <a href="https://groundies.com/">catálogo oficial de Groundies</a>.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para valorar bien "Botas Liverprool GX1 – Una mini revisión" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.

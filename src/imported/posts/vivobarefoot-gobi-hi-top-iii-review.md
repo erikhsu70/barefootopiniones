@@ -38,6 +38,10 @@ translatedFrom: en
 
 <p>Vienen con la plantilla térmica de Vivobarefoot y están forrados con una suave piel sintética. Este año se utilizan cordones más finos, lo que ayuda a que sean aún más elegantes, pero los cordones finos son más difíciles de manejar y prefiero el agarre de los cordones más gruesos de años anteriores. Los ganchos rápidos hacen que sean fáciles de poner y quitar, ¡y lucen increíbles!</p>
 <h2 class="wp-block-heading">Vivobarefoot Gobi Hi IV Tallas</h2>
+<figure class="section-product-image">
+  <img src="/assets/images/models/vivobarefoot__gobi-hi-iv.png" alt="Botas Vivobarefoot Gobi Hi IV de cuero" width="474" height="474" loading="lazy">
+  <figcaption>Vivobarefoot Gobi Hi IV.</figcaption>
+</figure>
 <p>El forro de Vivobarefoot Gobi Hi llena algo de espacio dentro del zapato, lo que los hace pequeños. Mi talla era hasta EU 38/US 7.5 (uso EU 37/US 7 en la mayoría de mis otros zapatos Vivobarefoot) y me quedan perfectamente ajustados. Sé por experiencia que estas botas se adaptan muy bien, así que me alegré de tener un ajuste ceñido pero cómodo.</p>
 <p>Una cosa a tener en cuenta es que las botas se sienten algo rígidas al principio y crujen mucho cuando son nuevas. Puedes resolver esto muy rápidamente frotando bálsamo para cuero en la lengua, donde el cuero se roza, esto solucionó inmediatamente el problema del crujido. También puedes tomar el zapato en tus manos y flexionarlo y girarlo hacia adelante y hacia atrás por un tiempo para aflojar todo si se siente un poco ajustado o rígido. Tener que amoldar los zapatos es molesto, lo sé. Pero si te gusta todo lo demás sobre Gobi Hi, ¡vale la pena dedicarle tiempo! Pueden durarte años.</p>
 

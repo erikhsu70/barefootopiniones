@@ -70,6 +70,8 @@ translatedFrom: en
 <p>¿Qué opinas de esta nueva forma de puntera de Addis? ¿Es un estilo que usarías?</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Addis pertenece a una colección anterior. Contrasta esta experiencia con el <a href="https://www.vivobarefoot.com/">catálogo actual de Vivobarefoot</a>, porque materiales, hormas y nombres de modelo pueden haber cambiado.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Reseña de Vivobarefoot Addis -Sostenible, amplio, con clase" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

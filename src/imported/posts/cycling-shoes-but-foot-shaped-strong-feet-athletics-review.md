@@ -19,7 +19,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p>¡Por fin, unas zapatillas de ciclismo que no te aplastarán los dedos de los pies! el   Es la primera zapatilla de ciclismo del mercado con una forma verdaderamente anatómica. Pero, ¿están a la altura de las zapatillas de ciclismo estándar? ¡Contamos con la ayuda de un triatleta para ponerlos a prueba en un Ironman!</p>
+<p>¡Por fin, unas zapatillas de ciclismo que no te aplastan los dedos! La <a href="https://www.strongfeetathletics.com/">Strong Feet Athletics Leviathan</a> es una zapatilla de ciclismo con horma anatómica, suela plana y espacio delantero. Pero, ¿está a la altura de una zapatilla de ciclismo estándar? Contamos con la ayuda de una triatleta para probarla durante la preparación y participación en un Ironman.</p>
 <p class="has-large-font-size">Conclusiones clave (TL;DR)</p>
 <ul>
 <li>Especificaciones de zapatillas de ciclismo, pero con forma de pie.</li>
@@ -87,4 +87,3 @@ translatedFrom: en
 <p>Creo que son espaciosos. Empecé con una talla 38 porque era la más pequeña disponible en ese momento, pero era más grande de lo que quería. Una vez que cambié a una talla 37, el ajuste fue mucho mejor. Si alguna vez fabrican una talla 36, ​​me encantaría probarlos para ver cómo quedan.</p>
 <p>Debido a que los zapatos son amplios para mí, normalmente aprieto los diales casi hasta el fondo. De vez en cuando, eso crea un poco de presión en la parte superior de mi pie, especialmente durante recorridos más largos, pero no ha sido suficiente para compensar los beneficios del ajuste general.</p>
 <p>En general, diría que el tamaño es un poco generoso, especialmente en comparación con muchas zapatillas de ciclismo tradicionales que tienden a ser estrechas y pequeñas. Para los atletas con pies más anchos o aquellos que han tenido dificultades para encontrar suficiente espacio en la puntera, probablemente será un cambio bienvenido.</p>
-

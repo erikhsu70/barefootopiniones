@@ -39,6 +39,8 @@ translatedFrom: en
 <p>Me encantaría escuchar cómo tu  ¡Trabaja para ti!</p>
 
 
+<p><strong>Contexto editorial:</strong> Etsy cambia anuncios, vendedores y políticas con frecuencia. La <a href="https://anyasreviews.com/grecian-sandals-etsy-review/">reseña original de estas sandalias griegas</a> conserva la experiencia probada, pero no garantiza que el mismo anuncio siga disponible en 2026.</p>
+
 <!-- editorial-expansion:v1 -->
 
 En sandalias barefoot, el detalle pequeno cambia mucho la experiencia. En "Revisión de Etsy de sandalias griegas" merece la pena hablar de sujecion, tiras, forma de la planta y de si realmente sirven para caminar sin ir agarrando el zapato con los dedos.

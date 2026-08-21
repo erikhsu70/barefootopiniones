@@ -41,6 +41,11 @@ translatedFrom: en
 </ol>
 <h2 class="wp-block-heading"><span id="feelgrounds-original"></span>1. Feelgrounds Originales</h2>
 
+<figure class="section-product-image">
+  <img src="/assets/images/models/feelgrounds__original.png" alt="Zapatillas Feelgrounds Original de malla flexible" width="474" height="266" loading="lazy">
+  <figcaption>Feelgrounds Original.</figcaption>
+</figure>
+
 <p>el ($130) es un zapato de estilo de vida vegano, hecho con una parte superior de malla reciclada y una suela exterior flexible. Son lavables a máquina, súper livianos, transpirables y un buen zapato en todos los aspectos.</p>
 <p>Tengo muchos sentimientos sobre el <a href="/los-mejores-zapateros-casuales-que-parecen-guay/">Zapatilla informal</a>. Es una de esas combinaciones perfectas de practicidad y estilo que calienta mi pequeño corazón de fashionista barefoot. Y Feelgrounds lo logra. Estos son zapatos que definitivamente usaré regularmente, tanto por su apariencia como por su gran comodidad.</p>
 <h2 class="wp-block-heading"><span id="ethics"></span>2. Ética</h2>
@@ -78,4 +83,3 @@ translatedFrom: en
 <p>Una de las formas en que Feelgrounds pudo desarrollar un estilo tan popular es obteniendo comentarios directamente de sus <a href="https://www.instagram.com/feelgrounds/">seguidores</a> de forma continua. Muestran muestras y realizan encuestas donde las personas pueden compartir exactamente en qué gastarían el dinero. Esto es beneficioso para todos y es algo que harían bien más marcas. Han utilizado esa retroalimentación para informar sus otros dos modelos (revisados <a href="/?s=feelgrounds">aquí</a>) y espero de ellos muchos más estilos clásicos en el futuro.</p>
 <h2 class="wp-block-heading"><span id="conclusion"></span>8. Conclusión</h2>
 <p> ha dado con un fantástico zapato barefoot que atrae a hombres y mujeres de todas las edades, y no tienen planes de detenerse ahí. Feelgrounds se propone hacer que los Zapatos barefoot sean geniales y hasta ahora lo están haciendo bastante bien.</p>
-

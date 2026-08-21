@@ -51,6 +51,10 @@ translatedFrom: en
 <p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/"><strong>¡Lea esta publicación para obtener una guía completa para comprender su tipo de pie!</strong></a></p>
 
 <h2 class="wp-block-heading">Tikki comparado con otras marcas</h2>
+<figure class="section-product-image">
+  <img src="/assets/images/models/tikki__moon-graffiti.png" alt="Zapatos infantiles Tikki Moon Graffiti vistos de perfil" width="474" height="355" loading="lazy">
+  <figcaption>Tikki Moon Graffiti.</figcaption>
+</figure>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p class="has-normal-font-size">En comparación con otras marcas populares descalzas, Tikki tiene una forma similar a Splay, pero un poco más inclinada que  (que cuenta con una puntera cuadrada). La puntera más ancha pertenece a <a href="https://www.belenka.com/">Sé Lenka</a>.</p>
 </div></div>

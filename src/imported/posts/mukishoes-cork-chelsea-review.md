@@ -51,6 +51,8 @@ translatedFrom: en
 <p>¿Interesado en Zapatos barefoot? Asegúrate de suscribirte a los correos electrónicos a continuación y seguirme en Instagram para ver todas mis publicaciones futuras!</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Cork Chelsea corresponde a una colección anterior. La <a href="https://mukishoes.com/">tienda oficial de Mukishoes</a> es la referencia para saber qué botas, materiales y tallas están disponibles ahora.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Revisión de Mukishoes Cork Chelsea: ¡olvidarás que los llevas puestos!" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

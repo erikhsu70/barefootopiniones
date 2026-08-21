@@ -61,6 +61,10 @@ translatedFrom: en
 <p class="has-text-align-center">mira mi otro <a href="/marca/wildling-shoes/">Reseñas de zapatos salvajes</a> ¡Para más información sobre sus diferentes modelos!</p>
 
 <h2 class="wp-block-heading">Wildling comparado con otras marcas</h2>
+<figure class="section-product-image">
+  <img src="/assets/images/models/wildling__pegasus.png" alt="Zapatos Wildling Pegasus de perfil" width="474" height="315" loading="lazy">
+  <figcaption>Wildling Pegasus.</figcaption>
+</figure>
 <div class="wp-block-media-text alignwide is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p>En comparación con otras marcas populares de Zapatos barefoot, Wildling está dirigido a personas con pies en forma de meseta.  También funcionan bien para formas de pendiente y montaña gracias a la puntera cuadrada.</p>
 </div></div>

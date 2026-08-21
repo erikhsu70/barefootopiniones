@@ -25,6 +25,7 @@ translatedFrom: en
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jeuj1CaXcso?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Splay Atletismo en acción" width="500"></iframe></div>
 </div></figure>
+<div class="ast-oembed-container editorial-video"><iframe src="https://www.youtube.com/embed/jeuj1CaXcso" title="Splay Athletics en acción"></iframe></div>
 <p>La siguiente reseña es del Splay Athletics original.</p>
 <figure class="wp-block-image aligncenter is-resized"><figcaption class="wp-element-caption">Splay Athletics en azul marino (diseño original)</figcaption></figure>
 <p>Estaba muy emocionado de escuchar sobre Es un punto de partida para zapatos para niños asequibles, ya que no hay muchas opciones para niños en este momento. Es muy difícil soportar el costo de los costosos zapatos minimalistas que su hijo usará durante 6 meses y luego se le quedarán pequeños o se arruinarán.</p>
@@ -57,6 +58,8 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Sé que iniciar una pequeña empresa es una locura y estoy seguro de que han pasado por dificultades de crecimiento en su primer año de actividad que, con suerte, se solucionarán con el tiempo. Me gustaría ver mejorado el material de la suela y, por supuesto, más tamaños y colores disponibles para la compra. Pero debido a su precio, planeo realizar pedidos desde  nuevamente y definitivamente los mantendré en mi radar a medida que hagan ajustes y crezcan.</p>
 
+
+<p><strong>Disponibilidad en 2026:</strong> esta reseña analiza el Splay original, ya sustituido por generaciones posteriores. Usa la <a href="https://splayshoes.com/">colección oficial de Splay Shoes</a> para confirmar modelos, tallas y política de compra actuales.</p>
 
 <!-- editorial-expansion:v1 -->
 

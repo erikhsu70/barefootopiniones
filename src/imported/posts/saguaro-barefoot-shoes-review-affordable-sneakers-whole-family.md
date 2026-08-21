@@ -71,7 +71,7 @@ La parte infantil venía de una experiencia familiar con Saguaro como zapato de 
 
 ## Tallas y tipo de pie
 
-Saguaro no debería comprarse por impulso aunque sea barato. La guía oficial española pide medir la longitud del pie con el talón contra la pared, marcar el dedo más largo y consultar la tabla del producto concreto. La propia marca advierte que las tablas cambian según modelo.
+Saguaro no debería comprarse por impulso aunque sea barato. La [guía española para elegir talla de Saguaro](https://es.saguaro.com/pages/como-saber-mi-talle) pide medir la longitud del pie con el talón contra la pared, marcar el dedo más largo y consultar la tabla del producto concreto. La propia marca advierte que las tablas cambian según modelo.
 
 Por ajuste, los modelos de punto como Smart I y Free I suelen favorecer pies medios, anchos de dedos y con algo de volumen. Si tu pie es bajo de empeine, quizá tengas que jugar con plantilla, calcetín o tensión de cordones. Si tu pie es extra ancho, no des por hecho que todo Saguaro sirve: mide el ancho interior cuando esté disponible y compara con una plantilla que ya te funcione.
 
@@ -91,21 +91,25 @@ Lo revisaría con cuidado para:
 - Pies muy estrechos o muy bajos.
 - Personas que necesitan materiales naturales.
 
-## Modelos actuales que miraría
+## Los 5 mejores modelos Saguaro que miraría
 
-### Smart I
+### 1. Smart I
 
-Smart I es el Saguaro más lógico para empezar. La página española lo lista en entrenamiento y lo describe como una combinación de tejido knit y colores simples para rutina diaria. Si quieres una zapatilla barata para caminar, gimnasio sin cargas raras o probar la puntera amplia, es la primera ficha que abriría.
+Smart I es el Saguaro más lógico para empezar. La [colección española de entrenamiento de Saguaro](https://es.saguaro.com/collections/entrenamiento) lo presenta como una combinación de tejido knit y colores simples para rutina diaria. Si quieres una zapatilla barata para caminar, gimnasio sin cargas raras o probar la puntera amplia, es la primera ficha que abriría.
 
-### Free I
+### 2. Free I
 
 Free I aparece como modelo de knit con forro de malla y enfoque muy transpirable. Tiene sentido si buscas algo ligero, flexible y más fresco. No lo usaría como zapatilla única para invierno ni para terrenos agresivos, pero sí para verano, casa, gimnasio suave y caminatas fáciles.
 
-### Motion I Pro y Vigor II Pro
+### 3. Motion I Pro
 
-Motion I Pro y Vigor II Pro son opciones más recientes con mensajes de estabilidad, tracción y movimiento diario. Las miraría si Smart o Free te parecen demasiado calcetín. La contrapartida es que más estructura casi siempre significa menos sensación barefoot pura.
+Motion I Pro es una opción más estructurada, con mensajes de estabilidad, tracción y movimiento diario. La miraría si Smart o Free te parecen demasiado calcetín. La contrapartida es que más estructura casi siempre significa menos sensación barefoot pura.
 
-### Form I Air
+### 4. Vigor II Pro
+
+Vigor II Pro ocupa una zona parecida, pero conviene comparar su ficha, materiales y suela con Motion I Pro antes de elegir. No doy por hecho que ambos ajusten igual solo porque compartan enfoque deportivo.
+
+### 5. Form I Air
 
 Form I Air es interesante porque intenta llevar Saguaro a un terreno más de oficina o vestir informal. La ficha oficial habla de piel perforada vegana, puntera amplia y suela flexible de drop cero. Si tu problema es encontrar algo barato que no parezca zapatilla de deporte, puede tener sentido, pero no esperes el tacto de piel real.
 
@@ -115,9 +119,14 @@ Lo mejor de Saguaro es que baja la barrera de entrada. Muchas personas no quiere
 
 El límite está en la consistencia. En marcas más caras, la ficha, la horma y los materiales suelen estar mejor definidos. En Saguaro hay que mirar modelo por modelo. Un Smart de punto, un Form de vestir y un Will de invierno no se sienten igual solo porque todos lleven el mismo logo.
 
-En salud del pie, mantengo el consejo conservador: un zapato barefoot no cura por sí solo fascitis, juanetes, pies planos ni dolor. La propia FAQ de Saguaro recomienda consultar a un podólogo en casos concretos. La literatura sobre transición a calzado minimalista también insiste en progresar gradualmente, porque aumentar demasiado rápido la carga en pie y pantorrilla puede dar problemas.
+En salud del pie, mantengo el consejo conservador: un zapato barefoot no cura por sí solo fascitis, juanetes, pies planos ni dolor. Las [preguntas frecuentes de Saguaro](https://es.saguaro.com/pages/preguntas-frecuentes) recomiendan consultar a un podólogo en casos concretos. La [revisión de Warne y Gruber sobre transición a calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/) también insiste en progresar gradualmente, porque aumentar demasiado rápido la carga en pie y pantorrilla puede dar problemas.
 
 ## Saguaro para niños
+
+<figure class="section-product-image">
+  <img src="/assets/images/brands/saguaro/saguaro-kids-smart-i-green-official.jpg" alt="Zapatilla infantil Saguaro Smart I verde con puntera amplia" width="1600" height="1600" loading="lazy">
+  <figcaption>Saguaro Smart I infantil. Imagen oficial de producto.</figcaption>
+</figure>
 
 Saguaro tiene mucho sentido en niños si buscas una opción económica de repuesto, colegio informal, verano o parque. La reseña antigua destacaba que los modelos infantiles eran finos, flexibles y sin elevación de talón en la plantilla. Aun así, en niños revisaría con más frecuencia el espacio delante: un zapato barato no compensa si queda corto.
 
@@ -131,13 +140,7 @@ Para comparar opciones infantiles más afinadas, mira [zapatos barefoot para ni�
 - **Freet:** más técnica y ancha para deporte, pero más cara.
 - **Barebarics:** más urbana y premium si quieres estilo sneaker.
 
-## Fuentes consultadas
-
-- [Saguaro España: entrenamiento](https://es.saguaro.com/collections/entrenamiento)
-- [Saguaro España: cómo saber mi talla](https://es.saguaro.com/pages/como-saber-mi-talle)
-- [Saguaro España: devoluciones y reembolsos](https://es.saguaro.com/pages/devoluciones-y-reembolsos)
-- [Saguaro España: preguntas frecuentes](https://es.saguaro.com/pages/preguntas-frecuentes)
-- [Warne y Gruber, revisión sobre transición a calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
+Antes de comprar, revisa también las [condiciones de devolución y reembolso de Saguaro España](https://es.saguaro.com/pages/devoluciones-y-reembolsos), porque promociones, costes y plazos pueden cambiar.
 
 ## Preguntas frecuentes
 

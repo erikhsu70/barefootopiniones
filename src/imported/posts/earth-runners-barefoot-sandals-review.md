@@ -98,7 +98,7 @@ translatedFrom: en
 <h2 class="wp-block-heading"><span id="style"></span>Estilo</h2>
 
 <p>ME ENCANTA el aspecto de mis Earth Runners. Son simples y lindos, quedan bien en hombres y mujeres y se pueden disfrazar. Nuff dijo.</p>
-<h2 class="wp-block-heading"><span id="conclusion"></span>Conclusión</h2>
+<h2 class="wp-block-heading" id="conclusion">Conclusión</h2>
 <p><a href="https://earthrunners.com/">Corredores de la Tierra</a> son algunas de las mejores sandalias de aventura que existen. Como alguien que quiere verse y sentirse genial todo el tiempo, me encanta algo que pueda llevar a hacer caminatas, paseos en kayak, paseos familiares y luego salir a una cita nocturna. Combinado con el hecho de que cuestan menos de $100 (y un 10% de descuento con el código <strong></strong>), tienen garantía de por vida y están hechos a mano en los EE. UU., no hay forma de equivocarse.</p>
 <p class="has-text-align-center"><em><strong>¡Suscríbete a continuación para leer todas mis nuevas reseñas sobre Zapatos barefoot!</strong></em></p>
 <h4 class="wp-block-heading" id="video">Vídeo</h4>

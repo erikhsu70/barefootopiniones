@@ -42,11 +42,11 @@ translatedFrom: en
 <p>Si desea comprarlos, compruébelo con un par de mocasines del tamaño y ancho que desee. Luego, escriba las notas que desea que se hagan como mocasines y no como zapatos Oxford. Si hay algún problema (por ejemplo, si el cuero de ese color no está disponible), se comunicarán con usted y le informarán sus opciones.</p>
 <p>Actualmente, tienen la gamuza adecuada para hacer mocasines con sus colores Asche y Hazel, ¡pero lanzarán 8 colores nuevos para la primavera!</p>
 
-<h2 class="wp-block-heading">Esperando…</h2>
+<h2 class="wp-block-heading">1. Mocasines Zuzii</h2>
 <p>Como dije en mi reseña de los Oxford, el tiempo de respuesta es bastante lento para estos. Hacen cada par por pedido y pasarán 2 semanas completas o más antes de que se envíen. También pueden pasar varios días hasta que respondan las consultas por correo electrónico. Son una pequeña empresa familiar (con mucha expectación actualmente) y hacen todo el calzado, el servicio al cliente y el marketing ellos mismos, por lo que esto es algo con lo que tenemos que trabajar.</p>
 <figure class="wp-block-image"><figcaption>¡Vale la pena esperar!</figcaption></figure>
 <p>Si alguno de ustedes los pide, ¡hágamelo saber! Me encantaría ver fotos/escuchar cómo funcionan para ti.</p>
-<h2 class="wp-block-heading">Sandalias</h2>
+<h2 class="wp-block-heading">2. Sandalias Zuzii</h2>
 <p>Cuando pedí estos mocasines también decidí probar sus Classic <a href="https://zuzii.com/collections/classic-sandal">sandalia</a> en Honey, ¡y también unos cordones a juego con mis zapatos Oxford! Muchos de ustedes se han interesado en sus sandalias, así que les comparto todas mis fotos a continuación. Eran demasiado estrechos sobre los dedos de los pies y demasiado sueltos sobre el empeine, así que los devolví de inmediato. Precioso, pero doloroso en mis pies.</p>
 
 <figure class="wp-block-image"><figcaption>¡Hermoso embalaje!</figcaption></figure>

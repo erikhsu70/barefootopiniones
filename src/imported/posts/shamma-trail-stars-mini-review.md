@@ -43,6 +43,8 @@ translatedFrom: en
 <p><em>¡Y ahí tenéis mi primera mini reseña! Mi intento de hacerle llegar información sobre Zapatos barefoot de manera más oportuna (ya que normalmente me tomo varias semanas probar y revisar exhaustivamente los zapatos). ¿Qué opinas de este formato?</em></p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> revisa la versión, el grosor de suela y la tabla vigente en el <a href="https://shammasandals.com/">catálogo oficial de Shamma Sandals</a>, porque TrailStars ha evolucionado desde esta prueba.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para que "Revisión de Shamma TrailStars Mini" sea util, prefiero mirarlo como lo miraria alguien antes de comprar: ajuste, materiales, tipo de pie, sensacion al caminar y posibles puntos debiles.

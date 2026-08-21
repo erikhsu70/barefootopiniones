@@ -18,7 +18,7 @@ tags:
 language: es
 translatedFrom: en
 ---
-<p> ha lanzado 5 nuevos modelos para la temporada otoño/invierno, ¡y tendrán un 20% de descuento durante dos semanas! Incluyen zapatillas de deporte nuevas y mejoradas para gimnasio, correr y senderos, además de una nueva y elegante bota para hombre. Para ayudarte en tus esfuerzos con el calzado barefoot, probé y revisé los 5 nuevos zapatos Xero, con un poco de ayuda de mis amigos.</p>
+<p>Xero lanzó cinco modelos para la temporada otoño/invierno de 2022: opciones para gimnasio, running, senderos y una bota de hombre. Probé los cinco con ayuda de otras personas. En 2026 siguen apareciendo varios de estos nombres en la <a href="https://xeroshoes.com/pages/sizing">guía oficial de tallas de Xero</a>, pero esta página conserva el contexto y la experiencia de aquella colección, no una promesa de stock actual.</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-412aea00" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">
 <div class="uagb-toc__title">
@@ -52,7 +52,8 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h3 class="wp-block-heading">Entrenador Forza</h3>
+<h2 class="wp-block-heading">Los 5 modelos Xero de invierno analizados</h2>
+<h3 class="wp-block-heading">1. Forza Trainer</h3>
 
 <p class="has-text-align-center">$130 | Tallas EE. UU. Mujer 5 – Hombre 15 | vegano</p>
 
@@ -66,7 +67,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h3 class="wp-block-heading">Corredor de fuerza</h3>
+<h3 class="wp-block-heading">2. Forza Runner</h3>
 
 <p class="has-text-align-center">$130 | Tallas EE. UU. Mujer 5 – Hombre 15 | Malla de punto</p>
 
@@ -77,7 +78,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h3 class="wp-block-heading">cuero denver</h3>
+<h3 class="wp-block-heading">3. Denver Leather</h3>
 
 <p class="has-text-align-center">$140 | Talla estadounidense para hombre 6.5 – 15 | Cuero con forro de franela | Plantilla térmica extraíble</p>
 
@@ -89,7 +90,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h3 class="wp-block-heading">Sendero Mesa II</h3>
+<h3 class="wp-block-heading">4. Mesa Trail II</h3>
 
 <p class="has-text-align-center">$120 | EE.UU. 5 femenino – 15 masculino | Vegano | Plantilla extraíble</p>
 
@@ -100,7 +101,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
 
-<h3 class="wp-block-heading">Ante Prio</h3>
+<h3 class="wp-block-heading">5. Prio Suede</h3>
 
 <p class="has-text-align-center"><meta charset="utf-8"/>$110 | Talla estadounidense para hombre 6.5 – 15 | Malla y ante.</p>
 
@@ -113,4 +114,3 @@ translatedFrom: en
 <p>El Prio se adapta a pies anchos y de gran volumen, pero los cordones hacen que también sirvan para pies de menor volumen. El ajuste fue perfecto desde el primer momento. Los pies de mi hijo miden 11,5” de largo y 4” de ancho en la parte delantera del pie. Tiene un volumen medio y mide 6" en la parte de mayor volumen de su pie de un lado al otro. Seleccionamos la talla 11,5 para hombre según la tabla de tallas y, con calcetines deportivos, su pie se siente seguro pero no apretado".</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Xero Shoes seguirá innovando su línea de productos para brindarnos alternativas más saludables a los tipos de zapatos que necesitamos. Esta temporada nos traen unas zapatillas deportivas funcionales para interior y exterior, además de una elegante bota de piel para hombre. ¿Quieres saber más sobre Xero Shoes? <a href="/?s=xero+shoes">Lea todas mis reseñas de Xero aquí.</a></p>
-

@@ -47,7 +47,8 @@ translatedFrom: en
 <p>Los clientes de todo el mundo pueden solicitar cualquiera de sus zapatos y accesorios a Shapen. Puedes usar código <strong></strong> para 10% de los artículos de precio completo, o código <strong></strong> para obtener un 5 % de descuento adicional en artículos en oferta.</p>
 <p>Pero tenga en cuenta que Shapen no acepta devoluciones fuera de la UE. Es por eso que llevamos Shapen en  en los EE.UU. El envío será más económico para los residentes locales y aceptamos devoluciones desde cualquier lugar. Pero si no tengo algo que te guste, siempre puedes realizar el pedido directamente a Shapen barefoot.</p>
 <p>Ahora conozcamos un poco más estos zapatos Shapen barefoot.</p>
-<h3 class="wp-block-heading">Bota de hiedra</h3>
+<h2 class="wp-block-heading">Los 9 mejores modelos Shapen de esta selección</h2>
+<h3 class="wp-block-heading">1. Bota de hiedra</h3>
 
 <p> Es un botín de cuero con cremallera y una puntera ultra ancha. Es perfecto para las personas que tienen problemas para encontrar zapatos elegantes que sean lo suficientemente anchos, incluso en marcas descalzas. Tiene un diseño inteligente y simple y una apariencia elegante y convencional. La suela tiene 5,5 mm de grosor y es lo suficientemente flexible como para formar una bola.</p>
 
@@ -55,7 +56,7 @@ translatedFrom: en
 <p>Nota: El cuero alrededor de la abertura del tobillo está rígido al principio. Las personas con sensibilidad en el tendón de Aquiles querrán usar piel de topo hasta que el cuero se asiente.</p>
 <hr class="wp-block-separator has-text-color has-black-color has-css-opacity has-black-background-color has-background is-style-dots"/>
 
-<h3 class="wp-block-heading">amapola plana</h3>
+<h3 class="wp-block-heading">2. Amapola plana</h3>
 
 <p> Es un piso barefoot verdaderamente elegante. Los detalles de la puntera ayudan a disimular el ancho y un diseño abierto alarga las piernas. ¡Son algunos de los Zapatos barefoot para mujer más modernos que existen!</p>
 <p>Las Poppy tienen un grosor de 3 mm y cuentan con plantilla de cuero y suela de goma. ¡El diseño estructurado le da un aspecto elegante, a pesar de ser un zapato completamente barefoot! Sólo tenga en cuenta que el cuero es grueso y un poco rígido cuando es nuevo. Esto les ayuda a lucir elegantes, pero a algunas personas les molesta. ¡También está disponible en versión vegana!</p>
@@ -68,39 +69,39 @@ translatedFrom: en
 <p>Las posibilidades de estilo son infinitas y siguen siendo una de mis opciones favoritas de Zapatos barefoot de moda. En los últimos años los he usado en funerales, bodas, cócteles y más.</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Sandalia Lily 2.0</h3>
+<h3 class="wp-block-heading">3. Sandalia Lily 2.0</h3>
 
 <p> Es una elegante sandalia descalza con punta abierta, pensada para ser una alternativa a los tacones altos. Vienen en un ancho que es extra ancho. Compré una talla 36. Aun así, me parecen unas sandalias preciosas y felizmente las usaría como zapatos de boda.</p>
 <p>El par que se muestra arriba es "beige claro", que es más blanco que no, pero también vienen en negro charol. Tienen una suela en forma de frijol y mi pie quiere sentarse de lado, por lo que no son la mejor opción para mí. La tira delantera es de volumen medio-bajo y no ajustable. ¡Estos serían encantadores zapatos para ocasiones especiales, formales o de novia si tienes el tipo de pie adecuado!</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Flor 2.0 Oxford</h3>
+<h3 class="wp-block-heading">4. Flor 2.0 Oxford</h3>
 
 <p>Otro estilo de zapato que lleva Shapen es el, un zapato Derby u Oxford barefoot. Este zapato está hecho con el mismo ancho que el Ivy, por lo que es ideal para pies extra anchos y de gran volumen (como se muestra en mí arriba, pero le quedan perfectos a Samantha). Está disponible completamente en negro con un toque de charol o en rosa, que es un rosa claro. No duran mucho como lo hace el Poppy, así que quédate con tu tamaño habitual. Funcionan bien con calcetines finos o sin calcetines, y esperan que el cuero necesite algunos usos para adaptarse. ¡Son una excelente opción para un entorno de trabajo profesional!</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Sandalia Cala</h3>
+<h3 class="wp-block-heading">5. Sandalia Cala</h3>
 
 <p> es una sandalia femenina realmente encantadora que puede reemplazar los tacones altos en tu armario. Son más suaves que los zapatos planos y se sienten cómodos inmediatamente sin pellizcarlos ni frotarlos. Me encanta el color oro rosa como neutro suave, pero también vienen en blanco y negro. Como todas las sandalias de Shapen, son anchas y espaciosas.</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Sandalia Jazmín</h3>
+<h3 class="wp-block-heading">6. Sandalia Jazmín</h3>
 
 <p>Es una sandalia elevada con detalle de festón en la correa delantera para darle un toque extra de interés. Se ven elegantes y más interesantes que una sandalia básica, pero aún así son suaves, anchas y cómodas.</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Bailarinas Tulipán 3.0</h3>
+<h3 class="wp-block-heading">7. Bailarinas Tulipán 3.0</h3>
 
 <p>es otro estilo de bailarina descalza que viene en varios colores encantadores y se puede vestir fácilmente para ocasiones elegantes. Disponible en ancho normal (que se muestra en mí arriba) y ancho (que se muestra en Samantha a continuación). Si bien necesitaba aumentar el tamaño en versiones anteriores de este zapato plano, los últimos modelos tienen una suela más plana y una mejor construcción del talón para que mi pie no se empuje hacia adelante. ¡Se ajustan mucho mejor y son casi increíblemente livianos! Los encuentro muy cómodos para usarlos todo el día.</p>
 
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Sandalia Mai</h3>
+<h3 class="wp-block-heading">8. Sandalia Mai</h3>
 <figure class="wp-block-image aligncenter size-large is-resized"><figcaption class="wp-element-caption">The Shapen Mai sobre mí (izquierda) y Samantha (derecha)</figcaption></figure>
 <p> Es una sandalia divertida con detalle de corazón que se siente suave y flexible de inmediato. Tengo pies anchos y poco profundos y eran lo suficientemente anchos pero también un poco flojos alrededor del talón y sobre el arco. Le quedan mucho mejor a Samantha, que tiene un pie más musculoso y de mayor volumen. Compré mi talla habitual de sandalia EU 36.</p>
 <hr class="wp-block-separator has-css-opacity is-style-dots"/>
 
-<h3 class="wp-block-heading">Sandalia Margarita</h3>
+<h3 class="wp-block-heading">9. Sandalia Margarita</h3>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-20 is-layout-flex wp-block-gallery-is-layout-flex">
 
 <figcaption class="blocks-gallery-caption wp-element-caption">La sandalia descalza Shapen Daisy en los pies extra anchos de Samantha.</figcaption></figure>

@@ -23,7 +23,7 @@ translatedFrom: en
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/gG-_ov17VfM?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Xero Shoes Unboxing: ¡Aptos, Phoenix y Alpine!" width="500"></iframe></div>
 </div></figure>
-<p> ¡Nos ha sorprendido con una línea de increíbles estilos nuevos para el otoño! A lo largo de los años, Xero ha ido ampliando su colección para incluir Zapatos barefoot para más ocasiones, por lo que estoy especialmente emocionado de ver que están lanzando un vestido plano para mujer Y una bota para la nieve. Estoy revisando 4 estilos hoy, pero puedes ver la línea completa. <a href="https://xeroshoes.com/shop/product-category/fall-winter-2020/">aquí</a>.</p>
+<p>Xero nos sorprendió con una línea de estilos para el otoño. A lo largo de los años amplió su colección para incluir calzado barefoot para más ocasiones, incluida una bailarina de vestir y una bota de nieve. En este artículo reviso tres familias principales; la <a href="https://xeroshoes.com/shop/product-category/fall-winter-2020/">colección histórica de otoño e invierno de Xero</a> conserva el contexto del lanzamiento.</p>
 <p class="has-text-align-center">Mire mi unboxing y mis impresiones iniciales arriba, ¡y siga leyendo para obtener más detalles!</p>
 <p class="has-text-align-center"></p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-79b88aa7" data-offset="30" data-scroll="1" style="">
@@ -35,7 +35,7 @@ translatedFrom: en
 </div>
 </div>
 
-<h2 class="wp-block-heading">Phoenix – Bailarina plana</h2>
+<h2 class="wp-block-heading">1. Phoenix: bailarina plana</h2>
 <p class="has-text-align-center">Desde entonces, escribí una reseña en profundidad del Phoenix tanto en tejido como en cuero. <a href="/revision-de-xero-zapatos-phoenix-una-elegante-bailarina-descalza/">¡Mira la reseña de Phoenix aquí!</a></p>
 <h3 class="wp-block-heading">Cuero – $100</h3>
 
@@ -59,10 +59,10 @@ translatedFrom: en
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/pVwi8XDylhY?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Revisión de Xero Shoes Phoenix - Bailarinas veganas" width="500"></iframe></div>
 </div></figure>
 
-<h2 class="wp-block-heading">Aptos – Zapatilla sin cordones</h2>
+<h2 class="wp-block-heading">2. Aptos: zapatilla sin cordones</h2>
 <h3 class="wp-block-heading">Vegano – $60</h3>
 
-<p>el <a href="https://xeroshoes.com/shop/shoes/aptos-men/"> </a>(versión femenina ) ¡La zapatilla sin cordones de cáñamo es realmente liviana, flexible y la zapatilla casual más asequible hasta la fecha! Definitivamente es un volumen alto, así que tuve que usar un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">consola</a> y inserto de fieltro y todavía son espaciosos alrededor del tobillo. Tengo pies muy poco profundos, por lo que esto no es tan raro para mí. Si tienes pies muy voluminosos, ¡los Aptos serán un buen zapato para ti!</p>
+<p>La <a href="https://xeroshoes.com/shop/shoes/aptos-men/">Xero Aptos para hombre</a>, junto con su versión femenina, es una zapatilla de cáñamo sin cordones muy ligera, flexible y asequible. Tiene mucho volumen, así que tuve que usar una <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla para ajustar volumen</a> y un inserto de fieltro; aun así quedaba espacio alrededor del tobillo. Si tienes pies de gran volumen, Aptos puede encajar mejor que en un pie bajo como el mío.</p>
 <h3 class="wp-block-heading">Dimensionamiento</h3>
 <p>Compré una talla 6,5, que es mi talla típica de zapatillas. Aunque son espaciosos, no los reduciré porque mi pie ocupa toda la puntera. Entonces, diría que son fieles al tamaño, pero ligeramente estrechos en la puntera.</p>
 <h3 class="wp-block-heading">Comparaciones</h3>
@@ -72,7 +72,7 @@ translatedFrom: en
 <div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uPxHm4MEEW0?feature=oembed&amp;enablejsapi=1&amp;origin=https://barefootopiniones.com" title="Revisión de Xero Shoes Aptos - Zapatos sin cordones descalzos" width="500"></iframe></div>
 </div></figure>
 
-<h2 class="wp-block-heading">Alpine – Bota de nieve impermeable</h2>
+<h2 class="wp-block-heading">3. Alpine: bota de nieve impermeable</h2>
 <h3 class="wp-block-heading">Vegano – $150</h3>
 
 <p>¡Estoy muy entusiasmado con este! Todavía tengo que probar una bota de nieve impermeable como esta, y es algo que realmente necesito para vivir en un clima frío.  Es definitivamente más rígido que cualquier otro zapato que tengo, pero tiene tacos duraderos y una suela que se siente realmente resistente. La parte superior está acolchada y en el interior hay una plantilla térmica (extraíble).</p>

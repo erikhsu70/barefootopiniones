@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 ---
 {% set isFaqContent = false %}
+{% set showToc = autoToc == true %}
 <article class="lov-article">
   {% include "partials/article-breadcrumb.njk" %}
   <header class="lov-article-hero">
@@ -19,8 +20,14 @@ layout: layouts/base.njk
     </div>{% endif %}
   </header>
 
-  <div class="article-layout article-layout--single">
-    <div class="article-body imported-content">
+  <div class="article-layout{% if not showToc %} article-layout--single{% endif %}">
+    <div class="article-body imported-content" data-article-content>
+      {% if showToc %}
+        <details class="article-toc-mobile">
+          <summary>En este artículo</summary>
+          <nav data-article-toc-mobile></nav>
+        </details>
+      {% endif %}
       {{ content | safe }}
       <aside class="article-author-card" aria-label="Sobre la autora">
         <img src="/assets/images/isabel-author.png" alt="Isabel" width="56" height="56">
@@ -31,6 +38,12 @@ layout: layouts/base.njk
         </div>
       </aside>
     </div>
+    {% if showToc %}
+      <aside class="article-toc" aria-label="Tabla de contenidos">
+        <p>En este artículo</p>
+        <nav data-article-toc></nav>
+      </aside>
+    {% endif %}
   </div>
 
   {% include "partials/article-footer.njk" %}

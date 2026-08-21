@@ -60,29 +60,29 @@ Su virtud es que muchos pares se sienten poco invasivos. La suela es flexible, e
 
 ## Tallas y ajuste
 
-La guía oficial de Mukishoes recomienda añadir entre 0,5 y 1,5 cm a la medida del pie para encontrar talla. También indica que suele tallar true to size para la mayoría de personas, especialmente usuarias de barefoot, pero medir es la forma más fiable. Esto coincide con mi criterio: en barefoot no sirve traducir "uso 38" sin mirar longitud real, calcetín y volumen.
+La [guía oficial de tallas de Mukishoes](https://mukishoes.com/sizing/) recomienda añadir entre 0,5 y 1,5 cm a la medida del pie para encontrar talla. También indica que suele tallar true to size para la mayoría de personas, especialmente usuarias de barefoot, pero medir es la forma más fiable. Esto coincide con mi criterio: en barefoot no sirve traducir "uso 38" sin mirar longitud real, calcetín y volumen.
 
-La ficha de UNA Cloud aporta un dato importante: los modelos con suela Nova tienen una puntera ligeramente más ancha y pueden correr un poco más grandes, por lo que la marca recomienda elegir la talla habitual y no subir solo por buscar espacio extra. Además, recuerda que al ser hechos a mano puede haber variaciones de 2-3 mm entre pares.
+La [ficha oficial de UNA Cloud](https://mukishoes.com/product/una-cloud/) aporta un dato importante: los modelos con suela Nova tienen una puntera ligeramente más ancha y pueden correr un poco más grandes, por lo que la marca recomienda elegir la talla habitual y no subir solo por buscar espacio extra. Además, recuerda que al ser hechos a mano puede haber variaciones de 2-3 mm entre pares.
 
 Si tienes pie fino, Mukishoes puede necesitar plantilla o cordón bien ajustado. Si tienes pie ancho, la suela Nova es más interesante que algunas versiones antiguas. Si tienes pie extra ancho o dedos muy cuadrados, Freet, Softstar o algunas Be Lenka pueden dar más seguridad.
 
 ## Materiales y cuidado
 
-Mukishoes usa algodón, cáñamo, piel sin cromo, corcho, lana en temporada fría y caucho natural o reciclado según modelo. La ficha de UNA Cloud describe upper y forro de piel sin cromo, suela Nova de caucho natural de 3,5 mm y cordones de algodón orgánico. La marca recomienda quitar suciedad en seco, tratar manchas localmente, lavar a mano con jabón neutro y no usar lavadora ni secadora.
+La [información de materiales de Mukishoes](https://mukishoes.com/product-category/materials/) recoge algodón, cáñamo, piel sin cromo, corcho, lana en temporada fría y caucho natural o reciclado según modelo. La ficha de UNA Cloud describe upper y forro de piel sin cromo, suela Nova de caucho natural de 3,5 mm y cordones de algodón orgánico. La marca recomienda quitar suciedad en seco, tratar manchas localmente, lavar a mano con jabón neutro y no usar lavadora ni secadora.
 
 Esto importa porque un zapato barefoot muy flexible no tiene que maltratarse para ser "natural". Si eliges colores claros, protege antes de usar y asume mantenimiento. Si quieres algo para lluvia diaria, mira botas o marcas con membrana.
 
-## Modelos actuales
+## Los 3 mejores grupos de modelos Mukishoes actuales
 
-### UNA Cloud
+### 1. UNA Cloud
 
 UNA Cloud es una de las señales de la Mukishoes actual: piel, suela Nova, estética limpia y un punto más de protección sin abandonar la filosofía minimalista. La recomendaría si te gustaba la idea de Mukishoes pero querías algo menos textil.
 
-### Nómada Terra y casual flats
+### 2. Nómada Terra y modelos casuales
 
 Nómada Terra y las opciones casuales siguen la línea tranquila de la marca: zapato para diario, no para rendimiento. Aquí el valor está en la flexibilidad y el material, no en prometer durabilidad de bota.
 
-### Niños: Joaninha, Selva Play y Leo Kids
+### 3. Joaninha, Selva Play y Leo Kids para niños
 
 La cola editorial pedía cubrir también modelos infantiles. Mukishoes ofrece tallas de niños y minis, y su guía tiene buscadores específicos para adultos, kids y minis. Para niños, deja margen real de crecimiento, pero no tanto como para que el pie baile. Si buscas más opciones, revisa [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) y [mejores zapatos barefoot para bebés](/mejores-barefoot-bebes-ninos-pequenos/).
 
@@ -114,6 +114,8 @@ En pies adultos, mi mayor aviso es no confundir flexibilidad con falta de ajuste
 
 En sostenibilidad, la ventaja de Mukishoes no es solo usar materiales más naturales. También es comprar el modelo que realmente usarás. Una lona clara puede ser preciosa, pero si tu rutina incluye lluvia, parque y transporte lleno, quizá una piel o color oscuro sea más duradero en tu armario. Esa decisión práctica suele tener más impacto que elegir el color de temporada más llamativo.
 
+Si vienes de calzado rígido o con mucha amortiguación, introduce una suela fina de forma gradual. La [revisión de Warne y Gruber sobre transición minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/) no respalda cambios bruscos ni promesas universales de prevención de lesiones.
+
 ## Alternativas
 
 - **Wildling:** más ligera todavía y con suela muy flexible.
@@ -129,13 +131,6 @@ La versión anterior estaba muy pegada al lanzamiento histórico de la marca. La
 También he revisado canibalización con las reseñas de Cork Chelsea, primavera 2022 y colores 2023. Este hub no intenta recontar cada una. Sirve para decidir si Mukishoes como marca merece entrar en tu lista y enlaza con contenido infantil o de pies anchos cuando el usuario necesita comparar. La URL canónica antigua se conserva para no crear una segunda "review de Mukishoes" competidora.
 
 En la segunda pasada de transparencia, se eliminaron códigos, descuentos y afirmaciones vagas. La guía diferencia experiencia de archivo, información oficial y criterio editorial. No afirma que UNA Cloud, Nómada Terra o los modelos infantiles actuales hayan sido probados por Isabel si no hay evidencia en el repositorio.
-
-## Fuentes consultadas
-
-- [Mukishoes: UNA Cloud](https://mukishoes.com/product/una-cloud/)
-- [Mukishoes: sizing](https://mukishoes.com/sizing/)
-- [Mukishoes: materiales y categorías](https://mukishoes.com/product-category/materials/)
-- [Warne y Gruber: transición al calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
 
 ## Preguntas frecuentes
 

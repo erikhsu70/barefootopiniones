@@ -54,13 +54,13 @@ translatedFrom: en
 <p>Puedes encontrar más de mis favoritos. <a href="/preguntas/trucos-de-ajuste-para-pies-de-poco-volumen/">trucos de ajuste para pies de poco volumen</a> ¡aquí!</p>
 <p>Bien, ahora profundicemos en los nuevos modelos de Wildling Shoes para otoño/invierno 2023 que más nos entusiasman.</p>
 <p class="has-text-align-center">Usar código <strong></strong> por €5/$10 fuera de su compra. Si estás fuera de Estados Unidos/Canadá, </p>
-<h3 class="wp-block-heading">tajo</h3>
+<h3 class="wp-block-heading">1. Tajo</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
 <p>Este modelo tiene una parte superior de lona, forro de lana y membrana interior resistente al agua, como todos los modelos de otoño invierno. Me encantan los sujetadores de cordones de metal para dar la apariencia de una bota gruesa moderna, sin dejar de ser básicamente un botín de bebé para pies grandes. </p>
 <p>El Tejo se ajusta a un volumen muy alto, así que agregué una plantilla de fieltro adicional Y calcetines gruesos para no tener que apretar tanto los cordones. Debido a que este modelo es resistente al agua, la lengüeta está unida y se pliega al apretar los cordones. El agrupamiento no es muy cómodo, por lo que las plantillas suavizan todo.</p>
 <p>Elegí el color caramelo que es como una naranja quemada. ¡Es cálido y picante para el otoño!</p>
-<h3 class="wp-block-heading">atmósfera</h3>
+<h3 class="wp-block-heading">2. Atmósfera</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
 <p style="font-size:15px">por Samantha</p>
@@ -68,41 +68,40 @@ translatedFrom: en
 <p>¡Soy un fanático de un buen toque de color y estos cumplen! Los Wildlings no son ideales para mis pies extra anchos, pero aun así los encuentro cómodos debido a lo desestructurados y flexibles que son. Me quedan como un guante.</p>
 <p>El Atmo también viene en color completamente negro en la sección Essentials, disponible durante todo el año.</p>
 <figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">El Atmo en negro</figcaption></figure>
-<h3 class="wp-block-heading">ciclo</h3>
+<h3 class="wp-block-heading">3. Ciclo</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
 <p>La Ciclo es una zapatilla de lana de caña baja con forro de lana virgen. La parte superior está hecha con lana de oveja Black Welsh Mountain y alrededor de un 25% de lana reciclada teñida a base de plantas. ¡Son impresionantes! Aunque el clima aún no se ha vuelto totalmente otoñal, Robby los ha estado usando en su trabajo de oficina y es un gran admirador. ¡Dice que son como usar pantuflas lujosas para ir al trabajo! Son un poco más cortos de lo habitual, así que elige una talla más grande si estás entre tallas. </p>
-<h3 class="wp-block-heading">lobo del norte</h3>
+<h3 class="wp-block-heading">4. Lobo del norte</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
 <p>El North Wolf es un modelo Essential de Wildling, por lo que puede esperar que esté disponible año tras año. Y estoy muy contenta porque es un básico fantástico para el otoño/invierno. Tiene un forro de lana y una parte superior de lana, por lo que es una de las opciones más cálidas de Wildling. Si agrego unos calcetines calientes y una plantilla de fieltro, mis pies están calentitos hasta aproximadamente 15-20* F/-9 C.</p>
 <p>Este modelo calza más ancho que la mayoría de los Wildling, por lo que es una buena opción para pies anchos. ¡Pero definitivamente también es un volumen alto!</p>
-<h3 class="wp-block-heading">Zapatilla de loto</h3>
+<h3 class="wp-block-heading">5. Zapatilla de loto</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, .</p>
 <p>El Lotus es un zapato de casa de lana afieltrada. Se lanzó por primera vez el otoño pasado y los usé muchísimo durante el invierno y la primavera. Son cálidos, absorben la humedad, son livianos y me gusta mucho tener una suela de goma en el interior para no resbalar en mis pisos duros. </p>
 <p>El fieltro también es moldeable, similar a la forma en que se moldea el cuero. Pero no son adecuados para pies muy anchos. Samantha probó estos y eran demasiado estrechos para ella.</p>
 <p>Ahora también puedes encontrar una versión de corte bajo de esta zapatilla descalza, </p>
-<h3 class="wp-block-heading">Castaño</h3>
+<h3 class="wp-block-heading">6. Castaño</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá,.</p>
 <p>El Chestnut es un botín rústico con un cálido aire otoñal que nos encanta tanto para pies pequeños como grandes. La parte superior es una mezcla de lana y cáñamo y el forro interior es de lana, lo que los convierte en una buena opción para el clima frío. Las botas castañas también tienen un ajuste más ancho como las North Wolf. Nos encantan como calzado de uso diario.</p>
-<h3 class="wp-block-heading">arni</h3>
+<h3 class="wp-block-heading">7. Arni</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, compre esto </p>
 <p>Arni es otro modelo Essential confeccionado en denim en un color gris neutro. Tienen una sensación un poco más rígida (mezclilla) y no son tan cálidos como muchos de los otros modelos de otoño/invierno de Wildling, pero para climas templados son un básico sólido. Me gusta el look monocromático y, al igual que un buen par de jeans, el material se vuelve más suave a medida que se usa. ¡Con la membrana resistente al agua funcionan para el clima de transición tanto en otoño como en primavera!</p>
 <p>Los siguientes modelos que cubrimos son zapatos Essential Wildling que puedes encontrar durante todo el año y no necesariamente son buenos para los meses fríos y húmedos del año, pero aún así los usamos durante todo el año debido a lo cómodos que son.</p>
-<h3 class="wp-block-heading">Tanuki</h3>
+<h3 class="wp-block-heading">8. Tanuki</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá,.</p>
 <p>Tanuki es uno de mis modelos Wildling favoritos. Si bien no es un zapato de invierno, es bueno poder conseguirlos durante todo el año en Wildling. El material es extremadamente ligero y transpirable, por lo que los uso con mayor frecuencia en verano. ¡Son el zapato para la gente que odia los zapatos! </p>
-<h3 class="wp-block-heading">Nitugo</h3>
+<h3 class="wp-block-heading">9. Nitugo</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, </p>
 <p>Al igual que el Tanuki, el Nittugo apenas se siente. Este modelo tiene una parte superior de lana tejida que es elástica y suave, por lo que funciona mejor para pies más anchos que el Tanuki porque se adapta a la forma de tu pie. Uso el mío muchísimo para viajar con un <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla adicional</a> (Sin él, la suela es tan delgada que puedo sentirme incómodo cuando camino mucho por la acera). ¡Estos podrían ser mis Wildlings favoritos de todos los tiempos!</p>
-<h3 class="wp-block-heading">kami</h3>
+<h3 class="wp-block-heading">10. Kami</h3>
 
 <p class="has-text-align-center">Si se encuentra fuera de EE. UU./Canadá, </p>
 <p>El Kami es un zapato sin cordones hecho del mismo material que el Tanuki (papel washi). Son ligeros como una pluma y fáciles de llevar. Son más anchos que la mayoría de los Wildling, por lo que, si están en el medio, recomiendo una talla más pequeña. Llevo una talla menos en mis zapatillas Wildling. Esto también ayuda a que se ajusten más firmemente a mis pies, porque la abertura puede quedar suelta si tienes tacones finos y arcos bajos.</p>
 <p>¡Siempre estoy emocionado de ver las novedades de Wildlings! Hacen posible estar cómodo, cálido y seco, pero aun así sentirme como si estuviera barefoot. </p>
-

@@ -6,6 +6,7 @@ date: 2026-08-04
 category: "Opinión"
 tags: ["opinion", "resenas", "merrell", "senderismo", "trail"]
 contentType: "Artículo"
+autoToc: true
 permalink: /merrell-trail-glove-8-opiniones/
 image: "/assets/images/reviews/merrell-trail-glove-8/IMG_5593.jpg"
 imageAlt: "Merrell Trail Glove 8 grises vistas de perfil"

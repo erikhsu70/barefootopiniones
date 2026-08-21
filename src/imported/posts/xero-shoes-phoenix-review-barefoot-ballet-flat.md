@@ -69,7 +69,7 @@ translatedFrom: en
 
 <p>Liz (a la derecha), de la comunidad descalza, ha estado usando los zapatos planos Phoenix en su trabajo corporativo casi a diario desde que salieron al mercado el año pasado. Le encanta lo convencionales que se ven y acaba de comprar el color gris para agregarlo a su colección. Como referencia, tiene un volumen medio-alto y pies de ancho medio.</p>
 <h2 class="wp-block-heading">Fénix de cuero</h2>
-<p><a href="https://xeroshoes.com/shop/shoes/phoenix-leather/"> </a>($100, mujeres de EE. UU. 5-11) generalmente sigue el mismo tamaño y calce que la versión de punto, pero es un poco más holgado y rígido. El talón trasero está acolchado para mantenerse seguro y hay algunos detalles en relieve en el lateral. Están totalmente forrados en piel, incluida una plantilla de piel extraíble.</p>
+<p>La <a href="https://xeroshoes.com/shop/shoes/phoenix-leather/">Xero Shoes Phoenix Leather</a> generalmente sigue el mismo tallaje y ajuste que la versión de punto, pero es un poco más holgada y rígida. El talón está acolchado para mejorar la sujeción y hay detalles en relieve en el lateral. Está totalmente forrada en piel e incluye una plantilla de piel extraíble.</p>
 
 <p>En general, me parecieron menos cómodos y menos elegantes que la versión de punto, aunque el cuero puede ser un poco más elegante. El ancho del tacón parece más evidente en el cuero, por lo que mis delgados tobillos eran propensos a resbalarse. Por todas estas razones, no los he usado mucho, de ahí que la versión tejida sea el foco principal de la revisión. ¡Pero no dejes que eso te desanime! Si se ajustan a tu tipo y estilo de pie, son una gran elección.</p>
 
@@ -89,4 +89,3 @@ translatedFrom: en
 
 </div>
 <figure class="wp-block-image aligncenter size-large"><figcaption class="wp-element-caption">El Phoenix fue uno de mis primeros<a href="/moda-pero-hazlo-barefoot/"> Moda, pero hazlo barefoot </a>focos!</figcaption></figure>
-

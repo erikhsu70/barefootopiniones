@@ -25,6 +25,10 @@ translatedFrom: en
 <p>Hasta este año, pensaba que la única opción para gente como esta era Altra. Con forma de pie, zero drop, pero con suelas acolchadas muy gruesas, esta fue la marca que usé durante aproximadamente un año antes de hacer la transición. No soy partidario de las zapatillas deportivas, así que no fue exactamente divertido para mí. Pero cuando te duelen los pies, ¿qué puedes hacer? Bueno, resulta que hay otras opciones.</p>
 <div class="wp-block-image"><figure class="aligncenter is-resized"><figcaption>Bueno, eso seguro que me trae algunos recuerdos...</figcaption></figure></div>
 <h2 class="wp-block-heading">Oesh Shoes</h2>
+<figure class="section-product-image">
+  <img src="/assets/images/models/oesh__townie-flats.png" alt="Zapatos planos OESH Townie con puntera amplia" width="474" height="474" loading="lazy">
+  <figcaption>OESH Townie, el modelo principal de esta opinión.</figcaption>
+</figure>
 <p>Oesh es una marca estadounidense con una visión única del calzado. Muchos de los zapatos se imprimen en 3D internamente, todos son veganos y se han realizado muchas investigaciones científicas para crearlos.</p>
 <p>Mi primera experiencia con Oesh fue probar el <a href="/revision-de-oesh-dream-flats/">Piso de ensueño</a>. Este es un pequeño piso precioso con una suela gruesa y elástica. Lamentablemente me pellizcaron los dedos de los pies, así que los devolví. Pero me impresionó la suela de zero drop, la posibilidad de colocar su propia ortesis si es necesario y el cómodo cojín. Y además de toda esa funcionalidad, tiene una estética magnífica y convencional que puedes usar en una reunión de negocios (¡espero un rediseño en el futuro que los haga con más forma de pie!).</p>
 <p>Desde entonces, han estrenado un nuevo piso llamado the <a href="https://oeshshoes.com/product-category/shoe/townie/">Townie</a>. Cuando me contactaron por primera vez para ver si estaba interesado en probarlo, tenía algunas reservas. Por lo general, en el calzado minimalista, cualquier cosa con un diseño abierto (y sin correas) es un no-no, porque los zapatos que requieren agarre con los dedos afectan la forma de andar. Pero Oesh afirmó que su tecnología mantuvo el zapato en su lugar sin deslizarse. Después de ver esto <a href="https://www.youtube.com/watch?v=E6k71CrE3fs">vídeo</a>, Acepté probarlos a cambio de mis comentarios.</p>
@@ -58,4 +62,3 @@ translatedFrom: en
 <p>Desde su debut, Townie Oesh ha lanzado otro estilo llamado <a href="https://oeshshoes.com/product-category/shoe/salon/">salón </a>que es similar al Townie pero con forma de zueco. Tiene potencial, pero siento que las opciones de color actuales no le hacen ningún favor. Pero compruébalo si buscas algo como el Townie pero menos abierto.</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Muchas personas están empezando a reconsiderar su calzado después de que los métodos tradicionales no les están aportando ningún alivio, por eso necesitamos marcas como Oesh para cubrir el hueco que existe. Si está tratando de mejorar sus pies pero no está listo para andar barefoot, el Townie es una buena opción de transición.</p>
-

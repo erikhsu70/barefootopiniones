@@ -107,6 +107,8 @@ translatedFrom: en
 </div></div>
 
 
+<p><strong>Contexto editorial:</strong> la situación comercial de Duchess &amp; Fox ha cambiado desde esta prueba. Consulta la <a href="https://anyasreviews.com/duchess-fox-review-softest-handmade-shoes/">reseña original de Duchess &amp; Fox</a> para distinguir la experiencia documentada del stock que pueda existir hoy.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Duchess & Fox: los zapatos hechos a mano más suaves y con estilo" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.

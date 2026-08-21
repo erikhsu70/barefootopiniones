@@ -75,6 +75,8 @@ translatedFrom: en
 </div></div>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Palermo es una referencia histórica de vestir. La oferta, las hormas y las suelas cambian, por lo que conviene contrastarla con los <a href="https://groundies.com/">modelos Groundies disponibles actualmente</a>.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Cuando hablamos de estilo barefoot, el reto no es solo encontrar algo bonito. En "Revisión de Groundies Palermo: zapato de vestir barefoot para hombre" tambien importa que el zapato encaje con ropa normal y que no parezca una decision ortopedica disfrazada.

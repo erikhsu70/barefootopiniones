@@ -324,6 +324,31 @@ function useOpinionTerminology(value = "") {
 function cleanImportedHtml(html, removeAmazonLinks = false) {
   if (!html) return "";
 
+  const editorialVideos = [];
+  const editorialYoutubeIds = new Set([
+    "ZQFg9c1Ze4A",
+    "WZ6fpyoaQ1s",
+    "W2zi8drKv_g",
+    "AiWNgiupiKg",
+    "a25VwUMALxk",
+    "HoghtTugHxE",
+    "-A99iiex31w",
+    "V5x4mzjbwu8",
+    "yCgLpWzMyds",
+    "jeuj1CaXcso"
+  ]);
+  const protectedHtml = String(html).replace(
+    /<div\b(?=[^>]*class=["'][^"']*\bast-oembed-container\b[^"']*["'])[^>]*>[\s\S]*?<iframe\b[^>]*src=["']https:\/\/(?:www\.)?youtube\.com\/embed\/([\w-]{6,})(?:[^"']*)["'][^>]*>[\s\S]*?<\/iframe>[\s\S]*?<\/div>/gi,
+    (embedHtml, videoId) => {
+      if (!editorialYoutubeIds.has(videoId)) return embedHtml;
+      const title = (embedHtml.match(/\btitle=["']([^"']+)["']/i)?.[1] || "Vídeo relacionado con el artículo")
+        .replace(/[<>]/g, "");
+      const token = `@@EDITORIAL_YOUTUBE_${editorialVideos.length}@@`;
+      editorialVideos.push(`<div class="ast-oembed-container editorial-video"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/${videoId}" title="${title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`);
+      return token;
+    }
+  );
+
   const emptyToken = "(?:\\s|&nbsp;|&#160;|<br\\s*\\/?>)*";
   const emptyInlineToken = "(?:\\s|&nbsp;|&#160;|<br\\s*\\/?>|<!--(?:[\\s\\S]*?)-->|<(?:a|span|strong|em|b|i|code|small)(?:\\s[^>]*)?>\\s*<\\/(?:a|span|strong|em|b|i|code|small)>)*";
   const dashToken = "(?:\\s|&nbsp;|&#160;|[-–—•·|]|&ndash;|&mdash;)+";
@@ -336,9 +361,7 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
   const amazonHref = "(?:amzn\\.to|amazon\\.[a-z.]+)";
   const tiddlyHref = "(?:https?:\\/\\/(?:www\\.)?tidd\\.ly\\/[^\"']*)";
   const personalExperienceText = "(?:\\b(?:Anya|Ania|Justin|Samantha|Miranda|mi marido|mi esposo|mi hijo|mi hija|mis hijos|mi pod[oó]loga|nuestra casa|en mi familia)\\b|(?:Isabel aqu[ií]|yo,? Isabel|por Isabel|hijo de Isabel|Isabel y su|tienda de Isabel|reseñas? de Isabel))";
-  const guestBioText = "(?:administradora de|S[íi]guel[ae]\\s|S[íi]gueme en|hellabarefoot|facebook\\.com\\/groups)";
-  let cleaned = String(html)
-    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "")
+  let cleaned = protectedHtml
     .replace(/\s(?:srcset|sizes)=["'][^"']*["']/gi, "")
     .replace(/\saria-describedby=["'][^"']*["']/gi, "")
     .replace(/\s(width|height)="\d+"\s*/gi, " ")
@@ -376,16 +399,9 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
     .replace(new RegExp(`<p\\b[^>]*>(?:(?!<\\/p>)[\\s\\S])*${discountText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
     .replace(new RegExp(`<li\\b[^>]*>(?:(?!<\\/li>)[\\s\\S])*${discountText}(?:(?!<\\/li>)[\\s\\S])*<\\/li>`, "gi"), "")
     .replace(new RegExp(`<div\\b[^>]*class=["'][^"']*(?:wp-block-button|uagb-infobox|eael-grid-post-holder-inner)[^"']*["'][^>]*>(?:(?!<\\/div>)[\\s\\S])*${discountText}(?:(?!<\\/div>)[\\s\\S])*<\\/div>`, "gi"), "")
-    .replace(new RegExp(`<p\\b[^>]*>(?:(?!<\\/p>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
+    .replace(new RegExp(`<p\\b(?![^>]*\\beditorial-source-note\\b)[^>]*>(?:(?!<\\/p>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
     .replace(new RegExp(`<li\\b[^>]*>(?:(?!<\\/li>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/li>)[\\s\\S])*<\\/li>`, "gi"), "")
     .replace(new RegExp(`<figcaption\\b[^>]*>(?:(?!<\\/figcaption>)[\\s\\S])*${personalExperienceText}(?:(?!<\\/figcaption>)[\\s\\S])*<\\/figcaption>`, "gi"), "")
-    .replace(new RegExp(`<div\\b[^>]*class=["'][^"']*wp-block-media-text[^"']*["'][^>]*>(?:(?!wp-block-media-text\\s)[\\s\\S])*?${guestBioText}[\\s\\S]*?<\\/div>\\s*<\\/div>`, "gi"), "")
-    .replace(new RegExp(`<p\\b[^>]*>(?:(?!<\\/p>)[\\s\\S])*${guestBioText}(?:(?!<\\/p>)[\\s\\S])*<\\/p>`, "gi"), "")
-    .replace(new RegExp(`<figcaption\\b[^>]*>(?:(?!<\\/figcaption>)[\\s\\S])*${guestBioText}(?:(?!<\\/figcaption>)[\\s\\S])*<\\/figcaption>`, "gi"), "")
-    .replace(/<p\b[^>]*>\s*por\s+[A-Za-zÁÉÍÓÚÑáéíóúñ]{2,24}\s*<\/p>/gi, "")
-    .replace(/&amp;amp;/gi, "&amp;")
-    .replace(/<h([23])\b[^>]*>\s*Realizar pedidos\s*<\/h\1>\s*/gi, "")
-    .replace(/<hr\b[^>]*class=["'][^"']*is-style-dots[^"']*["'][^>]*\/?>/gi, "")
     .replace(new RegExp(`<li([^>]*)>${emptyInlineToken}<\\/li>`, "gi"), "")
     .replace(new RegExp(`<li([^>]*)>${emptyToken}<\\/li>`, "gi"), "")
     .replace(new RegExp(`<li([^>]*)>${dashToken}<\\/li>`, "gi"), "")
@@ -431,19 +447,8 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
       .replace(new RegExp(`<((?:div|section|figure|aside))\\b[^>]*>${emptyInlineToken}<\\/\\1>`, "gi"), "");
   } while (cleaned !== previous);
 
-  // Drop leftover closing wrappers from partially stripped WordPress blocks.
-  let openDivs = 0;
-  cleaned = cleaned.replace(/<\/?div\b[^>]*>/gi, (tag) => {
-    if (tag.startsWith("</")) {
-      if (openDivs === 0) return "";
-      openDivs -= 1;
-      return tag;
-    }
-    openDivs += 1;
-    return tag;
-  });
-
-  return useOpinionTerminology(sanitizeAffiliateLinks(cleaned));
+  cleaned = useOpinionTerminology(sanitizeAffiliateLinks(cleaned));
+  return cleaned.replace(/@@EDITORIAL_YOUTUBE_(\d+)@@/g, (_match, index) => editorialVideos[Number(index)] || "");
 }
 
 function cleanSummaryText(text) {
@@ -469,33 +474,6 @@ function cleanSummaryText(text) {
   return `${shortened}...`;
 }
 
-function limitSeoDescription(text) {
-  const cleaned = String(text || "").replace(/\s+/g, " ").trim();
-  const maxLength = 145;
-
-  if (cleaned.length <= maxLength) return cleaned;
-
-  const shortened = cleaned
-    .slice(0, maxLength - 3)
-    .replace(/\s+\S*$/, "")
-    .replace(/[.,;:!?¿¡]+$/, "");
-
-  return `${shortened || cleaned.slice(0, maxLength - 3).trim()}...`;
-}
-
-const ASSET_CACHE_VERSION = "homepage-20260813";
-
-function addAssetCacheVersion(url) {
-  if (!url || !url.includes("/assets/") || /[?&]hsts=/.test(url)) return url;
-
-  const hashIndex = url.indexOf("#");
-  const beforeHash = hashIndex === -1 ? url : url.slice(0, hashIndex);
-  const hash = hashIndex === -1 ? "" : url.slice(hashIndex);
-  const separator = beforeHash.includes("?") ? "&" : "?";
-
-  return `${beforeHash}${separator}hsts=${ASSET_CACHE_VERSION}${hash}`;
-}
-
 function decodeHtmlEntities(text) {
   return String(text || "")
     .replace(/&amp;/g, "&")
@@ -512,7 +490,7 @@ function seoTitle(title, siteName = "Barefoot Opiniones", pageUrl = "") {
     .replace(/^Archivo(?:\s+de)?\s+/i, "")
     .trim();
 
-  if (!seoTitleOverrides[pageUrl] && /^Mi opinión( honesta)? sobre /.test(cleanTitle) && cleanTitle.includes(":")) {
+  if (!seoTitleOverrides[pageUrl] && cleanTitle.startsWith("Mi opinión sobre ") && cleanTitle.includes(":")) {
     cleanTitle = cleanTitle.split(":", 1)[0].trim();
   }
 
@@ -533,34 +511,79 @@ function localizeUrl(url = "") {
   return localizeSpanishUrl(url);
 }
 
-function sitemapDate(value) {
-  if (!value) return "";
-  const date = new Date(value);
-  return Number.isNaN(date.getTime()) ? "" : date.toISOString().split("T")[0];
+function normalizeSitemapPath(path = "") {
+  if (!path || typeof path !== "string") return null;
+  if (/^https?:\/\//i.test(path)) {
+    try {
+      path = new URL(path).pathname;
+    } catch (_error) {
+      return null;
+    }
+  }
+  if (!path.startsWith("/")) path = `/${path}`;
+  if (path.includes("#")) path = path.split("#", 1)[0];
+  if (path.includes("?")) path = path.split("?", 1)[0];
+  return localizeSpanishUrl(path);
 }
 
-function unifiedSitemapUrls(collectionItems = [], sitemapGroups = [], topicPages = []) {
-  const entries = new Map();
+function sitemapLastmod(item = {}) {
+  const value = item.lastmod || item.date || item.data?.updated || item.data?.sourceModified || item.data?.date;
+  if (!value) return null;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? null : parsed.toISOString();
+}
 
-  const addEntry = (rawPath, rawDate = "") => {
-    if (!rawPath) return;
-    const localizedPath = localizeSpanishUrl(rawPath);
-    if (!localizedPath.startsWith("/") || isDiscountUrl(localizedPath)) return;
-
-    const lastmod = sitemapDate(rawDate);
-    const existing = entries.get(localizedPath);
-    if (!existing || (lastmod && lastmod > existing.lastmod)) {
-      entries.set(localizedPath, { path: localizedPath, lastmod });
+function unifiedSitemapUrls(collectionItems = [], groups = [], topicArchivePages = []) {
+  const urls = new Map();
+  const add = (path, lastmod) => {
+    const normalizedPath = normalizeSitemapPath(path);
+    if (!normalizedPath || normalizedPath.includes("/pagefind/")) return;
+    if (!urls.has(normalizedPath)) {
+      urls.set(normalizedPath, { path: normalizedPath, lastmod: lastmod || null });
+    } else if (lastmod && !urls.get(normalizedPath).lastmod) {
+      urls.get(normalizedPath).lastmod = lastmod;
     }
   };
 
-  for (const item of collectionItems) addEntry(item?.url, item?.date);
-  for (const group of sitemapGroups) {
-    for (const item of group?.urls || []) addEntry(item?.path, item?.lastmod);
+  for (const item of collectionItems || []) {
+    add(item.url, sitemapLastmod(item));
   }
-  for (const topicPage of topicPages) addEntry(topicPage?.url);
 
-  return [...entries.values()].sort((a, b) => a.path.localeCompare(b.path, "es"));
+  for (const group of groups || []) {
+    for (const item of group.urls || []) {
+      add(item.path, sitemapLastmod(item));
+    }
+  }
+
+  for (const archive of topicArchivePages || []) {
+    add(archive.url, null);
+    for (const link of archive.pageLinks || []) {
+      add(link.url, null);
+    }
+  }
+
+  return [...urls.values()].sort((a, b) => a.path.localeCompare(b.path, "es"));
+}
+
+function relatedPosts(posts = [], currentUrl = "", limit = 4) {
+  const cleanPosts = publicPosts(posts);
+  const current = cleanPosts.find((post) => post.url === currentUrl);
+  const currentTags = new Set((current?.data?.tags || []).map((tag) => String(tag).toLowerCase()));
+  const currentCategory = current?.data?.category || current?.data?.contentType || "";
+  const currentWords = new Set(current ? postSearchText(current).split(/\W+/).filter((word) => word.length > 4) : []);
+
+  return cleanPosts
+    .filter((post) => post.url !== currentUrl)
+    .map((post) => {
+      const tags = (post.data?.tags || []).map((tag) => String(tag).toLowerCase());
+      const sharedTags = tags.filter((tag) => currentTags.has(tag)).length;
+      const sameCategory = currentCategory && (post.data?.category === currentCategory || post.data?.contentType === currentCategory) ? 2 : 0;
+      const words = postSearchText(post).split(/\W+/).filter((word) => currentWords.has(word)).length;
+      return { post, score: sharedTags * 3 + sameCategory + Math.min(words, 3) };
+    })
+    .sort((a, b) => b.score - a.score || b.post.date - a.post.date)
+    .slice(0, Number(limit) || 4)
+    .map((item) => item.post);
 }
 
 function schemaText(value = "") {
@@ -661,6 +684,7 @@ function schemaGraph(
   const organizationId = `${site.url}/#organization`;
   const websiteId = `${site.url}/#website`;
   const webpageId = `${pageUrl}#webpage`;
+  const articleId = `${pageUrl}#article`;
   const author = site.authorProfile || { name: site.author || "Isabel", url: "/sobre-mi/" };
   const published = schemaDate(date);
   const modified = schemaDate(sourceModified || date);
@@ -725,7 +749,7 @@ function schemaGraph(
       itemListElement: schemaBreadcrumbs(relativePageUrl, pageUrl, pageTitle, site)
     },
     {
-      "@type": pageType,
+      "@type": pageType === "BlogPosting" ? "WebPage" : pageType,
       "@id": webpageId,
       url: pageUrl,
       name: pageTitle,
@@ -748,7 +772,22 @@ function schemaGraph(
     });
   }
 
-  const primary = graph[graph.length - 1];
+  const webpage = graph[graph.length - 1];
+  let primary = webpage;
+  if (pageType === "BlogPosting") {
+    webpage.mainEntity = { "@id": articleId };
+    primary = {
+      "@type": "BlogPosting",
+      "@id": articleId,
+      url: pageUrl,
+      name: pageTitle,
+      headline: pageTitle,
+      description: cleanDescription,
+      isPartOf: { "@id": websiteId },
+      inLanguage: "es-ES"
+    };
+    graph.push(primary);
+  }
   if (imageUrl) primary.image = { "@id": `${pageUrl}#primaryimage` };
   if (pageType === "BlogPosting") {
     primary.mainEntityOfPage = { "@id": webpageId };
@@ -823,6 +862,7 @@ function schemaGraph(
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.ignores.add("src/descuentos.md");
+  eleventyConfig.ignores.add("src/imported/posts/* [0-9].md");
   eleventyConfig.ignores.add("src/imported/posts/*black-friday*.md");
   eleventyConfig.ignores.add("src/imported/posts/*cyber-monday*.md");
   eleventyConfig.ignores.add("src/imported/posts/*discount*.md");
@@ -830,11 +870,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("src/imported/posts/*sales*.md");
 
   eleventyConfig.addFilter("readableDate", (date) => {
+    const parsed = date instanceof Date ? date : new Date(date);
+    if (Number.isNaN(parsed.getTime())) return "";
     return new Intl.DateTimeFormat("es-ES", {
       day: "numeric",
       month: "long",
       year: "numeric"
-    }).format(date);
+    }).format(parsed);
   });
 
   eleventyConfig.addFilter("htmlDateString", (date) => {
@@ -852,9 +894,9 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("seoTitle", seoTitle);
   eleventyConfig.addFilter("seoDescription", (description, fallback) => {
-    const cleaned = limitSeoDescription(cleanSummaryText(description));
+    const cleaned = cleanSummaryText(description);
     if (cleaned && cleaned.length >= 45) return cleaned;
-    return limitSeoDescription(cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie."));
+    return cleanSummaryText(fallback || "Guías, opiniones y recursos de Isabel para elegir zapatos barefoot bonitos, cómodos y con forma de pie.");
   });
   eleventyConfig.addFilter("schemaJson", (value) => JSON.stringify(value, null, 2).replace(/</g, "\\u003c"));
   eleventyConfig.addFilter("isDiscountUrl", isDiscountUrl);
@@ -868,6 +910,7 @@ module.exports = function (eleventyConfig) {
     });
   });
   eleventyConfig.addFilter("unifiedSitemapUrls", unifiedSitemapUrls);
+  eleventyConfig.addFilter("relatedPosts", relatedPosts);
   eleventyConfig.addFilter("localizeUrl", localizeUrl);
   eleventyConfig.addFilter("pageNumbers", (total, size = 24) => {
     return Array.from({ length: Math.ceil(Number(total || 0) / Number(size || 24)) }, (_, index) => index + 1);
@@ -922,32 +965,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("postsMatchingPatterns", (posts, patterns) => {
     return publicPosts(posts).filter((post) => matchesPatterns(post, patterns || []));
-  });
-
-  eleventyConfig.addFilter("relatedPosts", (posts, currentUrl, limit = 4) => {
-    const pool = publicPosts(posts).filter((post) => post.url !== currentUrl);
-    const current = posts.find((post) => post.url === currentUrl);
-    const currentTopics = current
-      ? blogTopics.categories.filter((topic) => matchesTopic(current, topic)).map((t) => t.key)
-      : [];
-
-    const scored = pool
-      .map((post) => {
-        const shared = blogTopics.categories.filter(
-          (topic) => currentTopics.includes(topic.key) && matchesTopic(post, topic)
-        ).length;
-        return { post, shared };
-      })
-      .sort((a, b) => b.shared - a.shared || b.post.date - a.post.date);
-
-    const related = scored.filter((item) => item.shared > 0).map((item) => item.post);
-    if (related.length < limit) {
-      for (const item of scored) {
-        if (related.length >= limit) break;
-        if (!related.includes(item.post)) related.push(item.post);
-      }
-    }
-    return related.slice(0, limit);
   });
 
   eleventyConfig.addFilter("archivePosts", archivePosts);
@@ -1041,39 +1058,6 @@ module.exports = function (eleventyConfig) {
     return content.replace(/href=(["'])(\/[^"']*)\1/gi, (match, quote, href) => {
       return `href=${quote}${localizeSpanishUrl(href)}${quote}`;
     });
-  });
-
-  eleventyConfig.addTransform("disableCloudflareEmailObfuscation", function (content) {
-    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
-
-    return content.replace(
-      /([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,})/gi,
-      "<!--email_off-->$1<!--/email_off-->"
-    );
-  });
-
-  eleventyConfig.addTransform("versionAssetUrls", function (content) {
-    if (typeof this.page.outputPath !== "string" || !this.page.outputPath.endsWith(".html")) return content;
-
-    return content
-      .replace(/\b(href|src|poster|content)=(["'])(\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
-        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
-      })
-      .replace(/\b(content)=(["'])(https:\/\/barefootopiniones\.com\/assets\/[^"']+)\2/gi, (match, attribute, quote, url) => {
-        return `${attribute}=${quote}${addAssetCacheVersion(url)}${quote}`;
-      })
-      .replace(/\b(srcset)=(["'])([^"']*\/assets\/[^"']*)\2/gi, (match, attribute, quote, value) => {
-        const versioned = value
-          .split(",")
-          .map((candidate) => {
-            const trimmed = candidate.trim();
-            const [url, descriptor] = trimmed.split(/\s+/, 2);
-            return [addAssetCacheVersion(url), descriptor].filter(Boolean).join(" ");
-          })
-          .join(", ");
-
-        return `${attribute}=${quote}${versioned}${quote}`;
-      });
   });
 
   return {

@@ -61,27 +61,27 @@ La respuesta honesta es que Be Lenka no es una sola horma. En mi archivo, las za
 
 ## Tallas y ajuste
 
-La guía oficial de Be Lenka insiste en medir los pies y no comprar por talla universal. Su recomendación general es añadir entre 0,5 y 1,2 cm de margen a la longitud del pie, con menos exceso en sandalias abiertas y algo más en modelos de invierno por calcetín o aislamiento. Esto encaja con lo que se ve en el archivo: una talla acertada en una zapatilla no garantiza el mismo ajuste en una bailarina o una bota forrada.
+Las [preguntas frecuentes barefoot de Be Lenka](https://www.belenka.es/barefoot-faq/) insisten en medir los pies y no comprar por talla universal. Su recomendación general es añadir entre 0,5 y 1,2 cm de margen a la longitud del pie, con menos exceso en sandalias abiertas y algo más en modelos de invierno por calcetín o aislamiento. Esto encaja con lo que se ve en el archivo: una talla acertada en una zapatilla no garantiza el mismo ajuste en una bailarina o una bota forrada.
 
-El ajuste más típico de Be Lenka es ancho en antepié, plano, flexible y con drop cero. Aun así, la anchura cambia. La ficha oficial de Bellissima 3.0, por ejemplo, muestra suela AlldayComfort de 4 mm más 1 mm de dibujo y tallas 36-43; es un modelo pensado para vestir, no una sneaker extra ancha. En reseñas de usuarios recientes aparecen tanto comentarios de comodidad como avisos de puntera estrecha para algunos pies, así que no lo presentaría como opción universal para pies muy anchos.
+El ajuste más típico de Be Lenka es ancho en antepié, plano, flexible y con drop cero. Aun así, la anchura cambia. La [ficha oficial de Bellissima 3.0](https://www.belenka.es/bailarinas-descalzas-be-lenka-bellissima-3-0-all-black/), por ejemplo, muestra suela AlldayComfort de 4 mm más 1 mm de dibujo y tallas 36-43; es un modelo pensado para vestir, no una sneaker extra ancha. En reseñas de usuarios recientes aparecen tanto comentarios de comodidad como avisos de puntera estrecha para algunos pies, así que no lo presentaría como opción universal para pies muy anchos.
 
 Mi regla práctica: si vienes de calzado convencional y quieres una primera Be Lenka, empieza por zapatillas con cordones. Si ya sabes que tienes dedos muy cuadrados, mira la anchura interior de la ficha y compárala con tu pie. Si compras bailarinas, deja margen pero no tanto como para que el talón se salga.
 
-## Mejores modelos actuales
+## Los 4 mejores grupos de modelos Be Lenka actuales
 
-### Zing, Rebound y Velocity
+### 1. Zing, Rebound y Velocity para diario
 
-Zing es la línea más visible de sneaker urbana dentro del catálogo actual. Rebound y Velocity también aparecen con fuerza en la tienda española, y tienen sentido para quien busca uso diario sin estética técnica. No afirmo haber probado las versiones actuales de 2026; las incluyo porque están presentes en la colección oficial y responden a la intención de búsqueda de "mejores modelos Be Lenka".
+Zing es la línea más visible de sneaker urbana dentro del [catálogo actual de Be Lenka](https://www.belenka.es/todos-los-productos/). Rebound y Velocity también aparecen con fuerza en la tienda española, y tienen sentido para quien busca uso diario sin estética técnica. No afirmo haber probado las versiones actuales de 2026; las incluyo porque están presentes en la colección oficial y responden a la intención de búsqueda de "mejores modelos Be Lenka".
 
-### Bellissima 3.0, Viva y Sophelia
+### 2. Bellissima 3.0, Viva y Sophelia para vestir
 
 Para vestir, Bellissima 3.0 es la referencia más clara. La ficha oficial la orienta a trabajo, ocasiones formales y uso diario, con piel, plantilla extraíble y suela AlldayComfort. Viva y Sophelia amplían esa zona de bailarinas y zapatos bajos. Aquí miraría dos veces: si tu pie es ancho pero bajo, pueden funcionar; si además tienes dedos muy cuadrados o empeine alto, compara con Shapen, Groundies o Softstar.
 
-### Canvi Kids
+### 3. Canvi Kids para niños
 
 Be Lenka tiene una colección infantil grande y Canvi Kids aparece como novedad en tallas 26-34. Para niños, no basta con que el zapato sea flexible: hay que medir crecimiento, ancho, empeine y facilidad para ponerlo. Si quieres un panorama más amplio, enlaza con [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) y con [Be Lenka Kids](/be-lenka-kids-review/).
 
-### Botas y clima frío
+### 4. Botas Be Lenka para clima frío
 
 El archivo tiene experiencia amplia con botas Be Lenka, y ahí la marca sigue siendo fuerte. La clave es recordar que forro, membrana y calcetín grueso cambian la talla. Para comparar, mira [botas barefoot para senderismo](/botas-zapatos-barefoot-senderismo/) y [botas barefoot de invierno](/botas-barefoot-invierno-nieve/).
 
@@ -105,7 +105,7 @@ Límites:
 
 ## Compra desde España y devoluciones
 
-Be Lenka vende en tienda española, lo que simplifica idioma, moneda y disponibilidad para compradores de España. Aun así, no trataría la devolución como una prueba gratuita ilimitada: la política oficial indica 14 días para devolver productos sin usar y, si necesitas otra talla, el proceso pasa por devolver y hacer un pedido nuevo. Eso hace más importante medir antes de comprar y probar en casa sobre una superficie limpia.
+Be Lenka vende en tienda española, lo que simplifica idioma, moneda y disponibilidad para compradores de España. Aun así, no trataría la devolución como una prueba gratuita ilimitada: la [política oficial de devoluciones de Be Lenka](https://www.belenka.es/devoluciones-y-quejas/) indica 14 días para devolver productos sin usar y, si necesitas otra talla, el proceso pasa por devolver y hacer un pedido nuevo. Eso hace más importante medir antes de comprar y probar en casa sobre una superficie limpia.
 
 También revisaría siempre la ficha concreta antes de pagar. En Be Lenka, la diferencia entre una sneaker, una bailarina y una bota no es solo estética: puede cambiar la anchura real, el volumen del empeine, el grosor de calcetín que admite y la sensación de la suela. Si dudas entre dos tallas, prioriza el uso. Para invierno o caminatas largas dejaría algo más de margen; para bailarinas abiertas evitaría tanto exceso que el talón se mueva.
 
@@ -121,15 +121,7 @@ También revisaría siempre la ficha concreta antes de pagar. En Be Lenka, la di
 
 Esta actualización sustituye una reseña estacional de 2022 por un hub evergreen. La intención de búsqueda ya no es "qué lanzó Be Lenka esa primavera", sino "cómo elegir Be Lenka hoy sin fallar talla". Por eso el artículo conserva el valor del archivo, pero desplaza el foco hacia tallas, familias actuales, diferencias de horma y límites de compra desde España.
 
-No he cambiado el canónico histórico: este artículo debe seguir concentrando autoridad en la URL existente, porque ya había una opinión general de marca. Los modelos antiguos permanecen como evidencia de experiencia real, pero las recomendaciones de compra se apoyan en fichas oficiales actuales. La recomendación sanitaria se mantiene conservadora: el calzado barefoot puede dar más espacio y movilidad, pero no se presenta como tratamiento médico ni garantía de prevenir lesiones.
-
-## Fuentes consultadas
-
-- [Be Lenka: preguntas frecuentes barefoot](https://www.belenka.es/barefoot-faq/)
-- [Be Lenka: Bellissima 3.0](https://www.belenka.es/bailarinas-descalzas-be-lenka-bellissima-3-0-all-black/)
-- [Be Lenka: todos los productos](https://www.belenka.es/todos-los-productos/)
-- [Be Lenka: devoluciones y quejas](https://www.belenka.es/devoluciones-y-quejas/)
-- [Warne y Gruber: transición al calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
+No he cambiado el canónico histórico: este artículo debe seguir concentrando autoridad en la URL existente, porque ya había una opinión general de marca. Los modelos antiguos permanecen como evidencia de experiencia real, pero las recomendaciones de compra se apoyan en fichas oficiales actuales. La recomendación sanitaria se mantiene conservadora: el calzado barefoot puede dar más espacio y movilidad, pero no se presenta como tratamiento médico ni garantía de prevenir lesiones. La [revisión clínica de Warne y Gruber](https://pubmed.ncbi.nlm.nih.gov/28916956/) respalda una transición progresiva en lugar de un cambio brusco.
 
 ## Preguntas frecuentes
 

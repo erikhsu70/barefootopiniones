@@ -55,6 +55,8 @@ translatedFrom: en
 <p>Estas botas son resistentes y tienen buena tracción, pero lamentablemente son demasiado estrechas para mis pies. Son una buena opción si tienes pies estrechos y de gran volumen. Pero dado que incluso los pies estrechos pueden caber en una bota de montaña más ancha, recomiendo encarecidamente a Xero que aumenten el ancho de la puntera de sus zapatos.</p>
 
 
+<p><strong>Disponibilidad en 2026:</strong> Xcursion ha tenido actualizaciones. Confirma generación, impermeabilidad y tabla de talla en la <a href="https://xeroshoes.com/">colección actual de Xero Shoes</a> antes de aplicar las conclusiones de este par.</p>
+
 <!-- editorial-expansion:v1 -->
 
 Para valorar bien "Revisión de Xero Xcursion Fusion: una bota de senderismo impermeable y de" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.

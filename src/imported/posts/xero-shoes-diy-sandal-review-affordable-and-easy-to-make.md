@@ -40,6 +40,7 @@ translatedFrom: en
 <h2 class="wp-block-heading">Kit de sandalias FeelTrue DIY de Xero</h2>
 <p>el  ven con <em>precortado</em> Suelas FeelTrue con dos agujeros preperforados en el lateral, cordones y perforador. Puede elegir entre más de 20 opciones de colores de encaje y varias suelas de diferentes colores (cuando estén disponibles, los colores de las suelas entran y salen de stock). También hay opciones adicionales como correas para el talón y punteras, que usamos en nuestras sandalias, pero no son necesarias. De hecho, para pies pequeños, recomendaría simplemente usar cordones.</p>
 <p>Los tamaños para sus  comience con solo 17 cm (aproximadamente un niño de EE. UU. 10/EU 27) y suba hasta 32,2 cm (aproximadamente un hombre de EE. UU. 16/EU 49) y venga con una suela de 4 mm o 6 mm. Si necesitas ayuda para elegir una suela, mira su vídeo. <a href="https://youtu.be/-A99iiex31w">aquí</a>! Las suelas FeelTrue vienen precortadas, pero puedes recortarlas para que coincidan con tus necesidades particulares. <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">tipo de pie</a>.</p>
+<div class="ast-oembed-container editorial-video"><iframe src="https://www.youtube.com/embed/-A99iiex31w" title="Cómo elegir y montar el kit de sandalias DIY de Xero Shoes"></iframe></div>
 <p>Al realizar el pedido, simplemente <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Mide tus pies según estas instrucciones.</a> y elige la talla que sea tan larga o ligeramente más larga que tus pies. Pedí intencionalmente una talla demasiado grande para mi hijo mayor para poder recortarla a la forma exacta de su pie.</p>
 <h2 class="wp-block-heading">Kit de sandalias clásicas DIY Xero</h2>
 <p>Otra de las opciones de Xero Shoes es la . Este viene como una pieza rectangular de suela Vibram Cherry de 4 mm que se corta desde cero. Las opciones de dimensiones son 7 x 9″, 9 x 11″ y 11 x 12″. Entonces <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">midiendo tus pies</a> Será necesario elegir una talla aquí también. y  y  Los accesorios también funcionan con este kit.</p>
@@ -70,6 +71,8 @@ translatedFrom: en
 <h2 class="wp-block-heading">Conclusión de la revisión de sandalias Xero DIY</h2>
 <p>el  ofrece amplias opciones de personalización para que pueda obtener exactamente lo que busca a un precio económico. son un <em>fácil</em> Sandalia favorita para nosotros, liviana, simple y ¡definitivamente las recomiendo!</p>
 
+
+<p><strong>Disponibilidad en 2026:</strong> el contenido del kit, las tallas y los precios pueden cambiar. Comprueba la versión vigente en la <a href="https://xeroshoes.com/">tienda oficial de Xero Shoes</a> antes de seguir las indicaciones de esta prueba histórica.</p>
 
 <!-- editorial-expansion:v1 -->
 

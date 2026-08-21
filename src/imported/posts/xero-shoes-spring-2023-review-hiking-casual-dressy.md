@@ -45,7 +45,8 @@ translatedFrom: en
 </ul>
 <p>Para obtener información más detallada, puedes leer mi <a href="/?s=xero">reseñas anteriores de Xero Shoes</a>.</p>
 <p class="has-text-align-center">¡Ahora profundicemos en las reseñas de los Zapatos barefoot más nuevos de Xero! Tenga en cuenta que los precios mostrados son antes del 20% de descuento.</p>
-<h3 class="wp-block-heading">Codificador medio</h3>
+<h2 class="wp-block-heading">Los 5 modelos Xero de primavera analizados</h2>
+<h3 class="wp-block-heading">1. Scrambler Mid</h3>
 
 <p class="has-text-align-center">$170 | Altura de pila de 9 mm + plantilla de 3,5 mm | Tallas EE. UU. Mujer 5 – Hombre 15 | vegano </p>
 
@@ -59,7 +60,7 @@ translatedFrom: en
 <p>Se sintieron muy bien desde el primer uso y sin interrupción en el tiempo, algo que no es tan común en una bota de montaña técnica. incluso <a href="/los-mejores-zapatos-para-gente-al-aire-libre/">botas de montaña descalzas </a>¡Por lo general es necesario un poco de adaptación! </p>
 <p>Tengo talones sensibles y casi siempre me irritan las botas de montaña nuevas (rectifico esto poniendo piel de topo o una almohadilla en el talón), así que parte del motivo por el que amo tanto el Scrambler es porque nunca me molestaron y funcionan muy bien.</p>
 <p>*Por lo general, recomiendo una talla más grande en botas como esta porque los pies a menudo se hinchan al caminar*</p>
-<h3 class="wp-block-heading">Dillon</h3>
+<h3 class="wp-block-heading">2. Dillon</h3>
 
 <p class="has-text-align-center">$100 | Altura de pila de 8 mm + plantilla de 2,5 mm | Tallas EE. UU. Mujer 5 – Hombre 15 | vegano </p>
 
@@ -70,7 +71,7 @@ translatedFrom: en
 <h4 class="wp-block-heading"><strong>Sizing &amp;amp; Fit Type: </strong></h4>
 <p>El Dillon es fiel al tamaño y funciona mejor para pies medianos y anchos. Supongo que pueden ser demasiado anchos o demasiado estrechos para los extremos de pies extra delgados y extra anchos. He tenido problemas en el pasado porque Xero no tenía suficiente espacio para los dedos de mis pies, pero estos encajan perfectamente. Puede funcionar para pies de alto o bajo volumen gracias a la plantilla extraíble. Al igual que la Scrambler, no se recomienda para personas con dedos muy abiertos.</p>
 <p>Hace un año Xero lanzó<a href="/xero-zapatos-primavera-2022-todos-los-nuevos-modelos-revisados-aqui/#kelso-lifestyle-sneaker"> el kelso</a>, que es una zapatilla casual que calza súper ancha y de gran volumen. En comparación, el Dillon tiene un ajuste más delgado en el arco y el talón. ¡Espero ver más variaciones de este zapato en el futuro!</p>
-<h3 class="wp-block-heading">Glenn (hombres)</h3>
+<h3 class="wp-block-heading">3. Glenn para hombre</h3>
 
 <p class="has-text-align-center"> $130 | Altura de pila de 8 mm + plantilla de 2,5 mm | Estados Unidos 6,5 millones-15 millones | cuero</p>
 
@@ -79,7 +80,7 @@ translatedFrom: en
 <h4 class="wp-block-heading"><strong>Sizing &amp;amp; Fit Type:</strong></h4>
 <p>El Glenn es pequeño. Justin normalmente usa una talla 13, pero en comparación con otros Zapatos barefoot similares del mismo tamaño, el Glenn es más corto. Casi los cambiamos por una talla más grande, pero afortunadamente se adaptaron bien y ahora Justin los usa cómodamente.</p>
 <p>Estas se ajustan a volumen medio con plantilla y a volumen alto sin ella, y conseguirás mayor ajustabilidad con los cordones. Bueno para <a href="/zapatos-barefoot-para-pies-anchos-guia-completa/#where-do-you-need-your-width">pies anchos y rectos</a>.</p>
-<h3 class="wp-block-heading">Amanecer</h3>
+<h3 class="wp-block-heading">4. Sunrise</h3>
 
 <p class="has-text-align-center">$70 | Microfibra (vegana) | Altura de pila de 6,5 mm + plantilla de 2,5 mm | Tallas EE. UU. 5W – 15M</p>
 
@@ -87,7 +88,7 @@ translatedFrom: en
 <h4 class="wp-block-heading"><strong>Sizing &amp;amp; Fit Type:</strong></h4>
 <p>El Sunrise encaja de manera diferente a lo que estoy acostumbrado en Xero. Tienen un volumen bastante bajo, lo que casi nunca sucede con los zapatos Xero, y son más estrechos. </p>
 <p>Tienen un ajuste similar al de un guante, lo que evita que te salgas del zapato. Pero no serán una buena opción para personas con pies extra anchos y de gran volumen. Si bien se ajustan bien a mi arco bajo, quedan un poco ajustados a mis puntera amplia. Si puede ajustarse a tallas de hombre y tiene un pie ancho, podría ser mejor pedir los Men's Sunrise.</p>
-<h3 class="wp-block-heading">Prío Neo</h3>
+<h3 class="wp-block-heading">5. Prio Neo</h3>
 
 <p class="has-text-align-center">Malla (vegana) | Altura de pila de 8 mm + plantilla de 3 mm | Tallas EE. UU. 5W – 15M</p>
 
@@ -102,7 +103,7 @@ translatedFrom: en
 
 <p class="has-text-align-center">$110 | Malla y ante | Tamaños EE. UU. 5W – 12W</p>
 
-<p>También es nueva la<a href="https://xeroshoes.com/shop/shoes/prio-suede-women/"> </a>. ¡Probamos un par en el otoño pasado para hombres! Consulte nuestra reseña del <a href="/xero-zapatos-invierno-2022-todos-los-modelos-nuevos-revisados-aqui/#prio-suede">Zapato Prio Suede aquí.</a></p>
+<p>También era nueva la <a href="https://xeroshoes.com/shop/shoes/prio-suede-women/">Xero Prio Suede para mujer</a>. Probamos un par masculino el otoño anterior; la reseña del <a href="/xero-zapatos-invierno-2022-todos-los-modelos-nuevos-revisados-aqui/#prio-suede">Prio Suede</a> conserva esa experiencia.</p>
 <h4 class="wp-block-heading">Aptos Spectra Verde</h4>
 
 <p class="has-text-align-center">$70 | Lienzo | Tallas EE. UU. 5W-12W</p>
@@ -110,4 +111,3 @@ translatedFrom: en
 <p>El Aptos no es un producto nuevo de Xero, pero esta combinación de colores sí lo es. Fue demasiado divertido como para no mencionarlo aquí. Los Aptos tienen un volumen muy alto y son ligeramente estrechos en la puntera, por lo que no se adaptan muy bien a mi tipo de pie. ¡Pero me encanta este estampado de los 80! Lee mi <a href="/revision-de-zapatos-xero-pheonix-aptos-alpine/#aptos-slip-on-sneaker">Reseña de Xero Aptos aquí</a>.</p>
 <h2 class="wp-block-heading">Conclusión</h2>
 <p>Si eres fanático de Xero, ¡creo que te gustará hacia dónde se dirigen las cosas! No lo olvides, si estás en la UE puedes comprar en !</p>
-

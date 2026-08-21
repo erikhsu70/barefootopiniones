@@ -52,6 +52,10 @@ translatedFrom: en
 <h3 class="wp-block-heading">Sizing &amp;amp; Fit</h3>
 <p>Mi hijo de 5 años con pies y tobillos gruesos los ha estado usando y amando. Se ajustan perfectamente a sus pies de gran volumen y se ponen en un instante. Hemos aprendido que no le va bien con zapatos altos que se ajustan al tobillo o cualquier marca que se ajuste a un volumen bajo. Entonces, Zuna es una marca que recomiendo para otros niños anchos y de gran volumen. El tamaño era el esperado, son fieles al tamaño.</p>
 <h2 class="wp-block-heading">Zuna comparado con otras marcas</h2>
+<figure class="section-product-image">
+  <img src="/assets/generated/featured/posts/zuna-shoes-review-barefoot-sneakers-big-kids.jpg" alt="Ilustración editorial identificativa de la guía de Zuna Shoes" width="1200" height="675" loading="lazy">
+  <figcaption>Ilustración editorial de Barefoot Opiniones; no es una fotografía de producto.</figcaption>
+</figure>
 <p>Los zapatos Zuna se ajustan a una puntera de media a ancha y son adecuados para pies de gran volumen y tobillos gruesos. ¡Mira cómo se comparan con las formas de suela de otras marcas descalzas a continuación!</p>
 
 <p class="has-text-align-center"><a href="/grupo/ninos/">Para conocer muchas más opciones de zapatos para niños descalzos, ¡consulte mis otros recursos para niños!</a></p>

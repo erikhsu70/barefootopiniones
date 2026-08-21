@@ -59,7 +59,7 @@ La marca es británica y su tienda europea comunica modelos en tallas EU. Sus za
 
 ## Tallas y ajuste
 
-Freet recomienda empezar por tu talla habitual, pero medir y revisar la ficha. En Pace, la página europea comunica "talla real" y explica que las longitudes indicadas son de plantilla; el zapato real puede ser 2-3 mm más largo y el ancho real 2-4 mm mayor a cada lado. Esa información es muy útil porque evita comparar números de forma literal con otras marcas.
+La [guía oficial de tallas y ajuste de Freet](https://usa.freetbarefoot.com/pages/sizing-fitting) recomienda empezar por tu talla habitual, pero medir y revisar la ficha. En Pace, la página europea comunica "talla real" y explica que las longitudes indicadas son de plantilla; el zapato real puede ser 2-3 mm más largo y el ancho real 2-4 mm mayor a cada lado. Esa información es muy útil porque evita comparar números de forma literal con otras marcas.
 
 Mi experiencia editorial con Freet es que suele funcionar especialmente bien para pies anchos y de forma más cuadrada. Si tienes talón estrecho, usa modelos con cordones y no asumas que el ancho de puntera resolverá la sujeción. Si tienes empeine bajo, la plantilla puede ayudar a rellenar volumen. Si tienes empeine alto, quitar plantilla puede liberar espacio.
 
@@ -69,23 +69,23 @@ La regla práctica de Freet es medir el pie más largo, añadir margen y pensar 
 
 Freet trabaja mucho con la idea de plantilla extraíble. Eso es una ventaja, no un detalle menor. Pace con Ortholite de 6 mm se siente más amable para asfalto y transición; sin plantilla se acerca más al suelo. Flex 2 con plantilla más fina es más directa. Vibe 2 intenta equilibrar comodidad y flexibilidad.
 
-No confundas stack con "mejor". Si vienes de calzado convencional, un poco más de material puede facilitar la adaptación. Si ya llevas años en suelas finas, quizá prefieras quitar plantilla. En salud e injurias, la literatura sobre transición minimalista recomienda progresión, no cambios bruscos ni promesas de prevención universal.
+No confundas stack con "mejor". Si vienes de calzado convencional, un poco más de material puede facilitar la adaptación. Si ya llevas años en suelas finas, quizá prefieras quitar plantilla. En salud y lesiones, la [revisión sobre transición minimalista de Warne y Gruber](https://pubmed.ncbi.nlm.nih.gov/28916956/) recomienda progresión, no cambios bruscos ni promesas de prevención universal.
 
-## Modelos actuales por uso
+## Los 4 mejores Freet actuales por uso
 
-### Pace
+### 1. Pace
 
-Pace es la Freet que recomendaría a más gente para empezar. La ficha europea la define como zapatilla deportiva polivalente con plantilla OrthoLite de 6 mm, ligera, cómoda, sostenible y válida para entorno urbano y senderos sencillos. Es la que tiene más sentido si pasas muchas horas de pie o vienes de Altra, Lems o zapatillas con más amortiguación.
+Pace es la Freet que recomendaría a más gente para empezar. La [ficha europea de Freet Pace](https://eur.freetbarefoot.com/es/products/pace) la define como zapatilla deportiva polivalente con plantilla OrthoLite de 6 mm, ligera, cómoda, sostenible y válida para entorno urbano y senderos sencillos. Es la que tiene más sentido si pasas muchas horas de pie o vienes de Altra, Lems o zapatillas con más amortiguación.
 
-### Flex 2
+### 2. Flex 2
 
-Flex 2 es más simple: gimnasio, ciudad, paseo y uso activo. Si ya toleras suelas finas y quieres una zapatilla sin mucha historia, tiene sentido. La compararía con Vivobarefoot Primus Lite IV, pero Freet suele dar más espacio.
+La [ficha oficial de Flex 2](https://usa.freetbarefoot.com/products/flex-2) la sitúa como una opción más simple para gimnasio, ciudad, paseo y uso activo. Si ya toleras suelas finas y quieres una zapatilla sin mucha historia, tiene sentido. La compararía con Vivobarefoot Primus Lite IV, pero Freet suele dar más espacio.
 
-### Vibe 2
+### 3. Vibe 2
 
-Vibe 2 es la opción de diario. Es menos técnica que Pace y más amable que Flex 2 para muchas personas. Si quieres una sola Freet para caminar, viajar y hacer ejercicio ligero, empezaría aquí o en Pace según lo sensible que seas al suelo.
+La [ficha de Freet Vibe 2](https://freetbarefoot.com/products/vibe-2) la presenta como opción de diario. Es menos técnica que Pace y más amable que Flex 2 para muchas personas. Si quieres una sola Freet para caminar, viajar y hacer ejercicio ligero, empezaría aquí o en Pace según lo sensible que seas al suelo.
 
-### Trail, montaña y botas
+### 4. Freet para trail, montaña y botas
 
 Para barro, lluvia o montaña, no elegiría solo por marca. Miraría suela, dibujo, upper, membrana, plantilla y margen de calcetín. Si buscas alternativas, revisa [botas y zapatos barefoot para senderismo](/botas-zapatos-barefoot-senderismo/) y la comparativa [Freet Pace vs Flex 2 vs Vibe 2](/freet-pace-vs-flex-2-vs-vibe-2/).
 
@@ -130,14 +130,6 @@ Este hub se revisó frente a la comparativa nueva de [Freet Pace vs Flex 2 vs Vi
 La canibalización principal era la antigua reseña de Freet Vibe. Por eso aquí se habla de Vibe 2 como familia actual y se evita convertir el hub en otra reseña de Vibe. También se separa lo probado históricamente de lo verificado en fichas actuales. Si una persona quiere saber durabilidad real de una versión concreta, este artículo no lo inventa; indica que hay que mirar la reseña documentada o esperar prueba específica.
 
 La estructura móvil se revisó con tablas envueltas en `table-scroll`, enlaces internos a deporte/senderismo y FAQs breves para schema. El contenido no usa precios como promesa estable, porque las rebajas de Freet cambian con frecuencia.
-
-## Fuentes consultadas
-
-- [Freet EU: Pace](https://eur.freetbarefoot.com/es/products/pace)
-- [Freet USA: Flex 2](https://usa.freetbarefoot.com/products/flex-2)
-- [Freet: Vibe 2](https://freetbarefoot.com/products/vibe-2)
-- [Freet: sizing and fitting](https://usa.freetbarefoot.com/pages/sizing-fitting)
-- [Warne y Gruber: transición al calzado minimalista](https://pubmed.ncbi.nlm.nih.gov/28916956/)
 
 ## Preguntas frecuentes
 

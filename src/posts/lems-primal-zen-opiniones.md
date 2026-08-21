@@ -6,6 +6,7 @@ date: 2026-08-04
 category: "Opinión"
 tags: ["opinion", "resenas", "lems", "puntera-ancha", "drop-cero"]
 contentType: "Artículo"
+autoToc: true
 permalink: /lems-primal-zen-opiniones/
 image: "/assets/images/reviews/lems-primal-zen-night-sky/IMG_5578.jpg"
 imageAlt: "Lems Primal Zen Night Sky azul marino vistas desde arriba y de perfil"

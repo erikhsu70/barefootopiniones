@@ -8,6 +8,7 @@ date: '2021-01-14T19:21:06'
 permalink: /be-lenka-barefoot-winter-boots-review-polar-nord-sierra-winter/
 sourceType: Artículo
 contentType: Artículo
+hideModelGallery: true
 sourceId: 9998
 sourceSlug: be-lenka-barefoot-winter-boots-review-polar-nord-sierra-winter
 sourceModified: '2025-12-23T23:32:32'
@@ -29,7 +30,12 @@ translatedFrom: en
 </div>
 </div>
 
-<h2 class="wp-block-heading">Be Lenka Sierra: una bota de equitación con forro polar</h2>
+<h2 class="wp-block-heading">1. Be Lenka Sierra: una bota de equitación con forro polar</h2>
+
+<figure class="section-product-image">
+  <img src="/assets/images/models/be-lenka__sierra.png" alt="Bota alta Be Lenka Sierra con forro polar" width="474" height="474" loading="lazy">
+  <figcaption>Be Lenka Sierra.</figcaption>
+</figure>
 
 <p class="has-text-align-center"><strong>Cuero | Forro polar | UE 36-43</strong></p>
 <p>Comencemos con mi favorito personal. El modelo Sierra es una bota de montar alta y forrada íntegramente con forro polar. Hola ¡CALIENTE estilo barefoot! Viene en negro, marrón y rojo. Todos los zapatos Be Lenka son igualmente anchos y flexibles, así que ten por seguro que se trata de una bota totalmente descalza.</p>
@@ -41,7 +47,12 @@ translatedFrom: en
 <h3 class="wp-block-heading">Estilo</h3>
 
 <p>¡Me encanta algún estilo de bota! Como tengo pantorrillas estrechas casi siempre uso calcetines de arranque para ayudar a llenar el espacio extra.  De lo contrario, ¡los uso como cualquier bota de montar! Posibilidades de estilo ilimitadas.</p>
-<h2 class="wp-block-heading">The Be Lenka Nord: una bota con cremallera y forro polar</h2>
+<h2 class="wp-block-heading">2. Be Lenka Nord: una bota con cremallera y forro polar</h2>
+
+<figure class="section-product-image">
+  <img src="/assets/images/models/be-lenka__nord.png" alt="Bota Be Lenka Nord con cremallera lateral" width="474" height="355" loading="lazy">
+  <figcaption>Be Lenka Nord.</figcaption>
+</figure>
 
 <p class="has-text-align-center"><strong>Cuero | Forro polar | UE 36-46</strong></p>
 <p>La Nord es una bota de estilo militar que también está forrada con forro polar y tiene una cremallera lateral para ponerla y quitarla fácilmente. Viene en 4 colores neutros (gris, gris oscuro, azul y marrón) y es una bota perfecta para clima frío que puede funcionar como un zapato funcional para caminar/senderismo y aún así puede vestirse elegante.</p>
@@ -52,7 +63,12 @@ translatedFrom: en
 <h3 class="wp-block-heading">Estilo</h3>
 
 <p>El Nord es fácil de combinar como zapato de moda informal o ligeramente elegante. ¡Son unisex y quedan geniales tanto en hombres como en mujeres!</p>
-<h2 class="wp-block-heading">Be Lenka Polar: una bota con cremallera y forro de lana</h2>
+<h2 class="wp-block-heading">3. Be Lenka Polar: una bota con cremallera y forro de lana</h2>
+
+<figure class="section-product-image">
+  <img src="/assets/images/models/be-lenka__polar.png" alt="Bota Be Lenka Polar con forro de lana" width="225" height="225" loading="lazy">
+  <figcaption>Be Lenka Polar.</figcaption>
+</figure>
 
 <p class="has-text-align-center"><strong>Cuero | Forrado de lana | UE 36-43</strong></p>
 <p>La Be Lenka Polar ha sido mi bota más usada de la temporada. Son muy suaves y cálidos, no me frotan los talones sensibles en absoluto y se ponen y se quitan con mucha facilidad. También me gusta que son muy simples, sin cordones que distraigan, por lo que combinan perfectamente con mis conjuntos.</p>
@@ -62,7 +78,12 @@ translatedFrom: en
 <h3 class="wp-block-heading">Estilo</h3>
 <p>He estado diseñando mis Polars con calcetines asomando por ellos o directamente sobre mis leggings. ¡Parecen combinar con casi cualquier cosa!</p>
 
-<h2 class="wp-block-heading">The Be Lenka Winter: botas con cordones y forro de lana</h2>
+<h2 class="wp-block-heading">4. Be Lenka Winter: botas con cordones y forro de lana</h2>
+
+<figure class="section-product-image">
+  <img src="/assets/images/models/be-lenka__winter.png" alt="Bota Be Lenka Winter con cordones y forro de lana" width="474" height="632" loading="lazy">
+  <figcaption>Be Lenka Winter.</figcaption>
+</figure>
 
 <p class="has-text-align-center"><strong>Cuero | Forrado de lana | Resistente al agua | UE 36-46</strong></p>
 <p>La bota Be Lenka Winter también está forrada de lana como las Polar pero tiene cordones en lugar de cremallera lateral. ¡Estos son en realidad los primeros zapatos Be Lenka que probé! Llevo usando los míos durante más de un año y los amo. Son muy cómodos, ligeros y cálidos. Esta temporada terminé usando mis Polars mucho más debido a la cremallera fácil, pero todavía los uso para hacer senderismo (cuando quiero un ajuste más seguro con cordones). Puedes leer mi <a href="/revision-de-botas-de-invierno-be-lenka/">reseña original de este zapato aquí</a>!</p>

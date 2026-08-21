@@ -7,6 +7,7 @@ sourceModified: 2026-07-18
 category: "Opinión"
 tags: ["opinion", "resenas", "deporte", "running", "puntera-ancha"]
 contentType: "Artículo"
+autoToc: true
 permalink: /altra-torin-9-opinion-honesta/
 image: "/assets/images/reviews/altra-torin-9/altra-torin-9-hero.webp"
 imageAlt: "Altra Torin 9 blanca de perfil con mediasuela amarilla y naranja"
@@ -29,19 +30,6 @@ Llevo años usando calzado barefoot y por eso no miro una zapatilla como esta ig
 **Mi veredicto rápido tras 27 km:** la Torin 9 me parece una zapatilla muy agradable para rodajes tranquilos. La amortiguación es cómoda sin sentirse demasiado blanda, la base resulta estable y el espacio para los dedos se agradece cuando pasan los kilómetros. No la noto especialmente rápida y el drop cero puede cargar más los gemelos al principio, pero para acumular kilómetros cómodos en asfalto la combinación está muy bien resuelta.
 
 > **Transparencia, como siempre:** no hay una colaboración declarada detrás de este artículo. Las fotos son mías y muestran el par que he probado durante cuatro salidas. Puedo hablar de ajuste, sensaciones y comodidad hasta 9 km; todavía no de durabilidad, agarre en mojado o comportamiento en entrenamientos rápidos. Cuando cito experiencias de otras personas, lo indico expresamente.
-
-## En este artículo
-
-- [Ficha rápida de las Altra Torin 9](#ficha-rapida-de-las-altra-torin-9)
-- [Cómo he probado las Altra Torin 9](#como-he-probado-las-altra-torin-9)
-- [Mi experiencia corriendo](#mi-experiencia-corriendo-con-las-torin-9)
-- [Construcción, puntera y suela](#construccion-puntera-y-suela)
-- [Qué cambia frente a las Torin 8](#que-cambia-frente-a-las-torin-8)
-- [Qué dicen las reviews y los usuarios](#que-dicen-las-reviews-y-los-usuarios)
-- [Ajuste, tipo de pie y talla](#ajuste-tipo-de-pie-y-talla)
-- [Para quién son y para quién no](#para-quien-son-y-para-quien-no)
-- [Alternativas](#alternativas-a-las-altra-torin-9)
-- [Preguntas frecuentes](#preguntas-frecuentes)
 
 ## Ficha rápida de las Altra Torin 9
 

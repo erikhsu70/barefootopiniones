@@ -6,6 +6,7 @@ date: 2026-08-04
 category: "Opinión"
 tags: ["opinion", "resenas", "xero-shoes", "gimnasio", "drop-cero"]
 contentType: "Artículo"
+autoToc: true
 permalink: /xero-prio-opiniones/
 image: "/assets/images/reviews/xero-prio-lunar/IMG_5567.jpg"
 imageAlt: "Xero Prio Lunar grises con correas rojas y azules"

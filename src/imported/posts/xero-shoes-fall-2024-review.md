@@ -29,7 +29,7 @@ translatedFrom: en
 </div>
 </div>
 
-<h2 class="wp-block-heading">Cuero Dillon</h2>
+<h2 class="wp-block-heading">1. Dillon Leather</h2>
 
 <p class="has-text-align-center">Cuero | Tallas EE.UU. Mujer 5 – Hombre 15</p>
 
@@ -41,7 +41,7 @@ translatedFrom: en
 <li>Fiel al tamaño.</li>
 <li>De volumen medio a alto, pero deberían funcionar para todos los volúmenes gracias a los cordones y la plantilla extraíble.</li>
 </ul>
-<h2 class="wp-block-heading">Breckenridge</h2>
+<h2 class="wp-block-heading">2. Breckenridge</h2>
 
 <p class="has-text-align-center">Cuero | Tallas EE. UU. para mujer 5-12</p>
 
@@ -55,7 +55,7 @@ translatedFrom: en
 <li>Volumen medio: debería funcionar para todos los volúmenes con cordones y una plantilla extraíble.</li>
 </ul>
 <p>Creo que el ajuste es bastante sólido y probablemente se adaptará a una persona promedio. La puntera es lo suficientemente ancha para mis pies anchos, pero no es probable que funcione para pies extra anchos. Y están semi ajustados en el talón y el tobillo para que no sienta que me estoy cayendo.</p>
-<h2 class="wp-block-heading">Chelsea</h2>
+<h2 class="wp-block-heading">3. Chelsea</h2>
 
 <p class="has-text-align-center">Cuero | Tallas EE.UU. Mujer 5 – Hombre 15</p>
 
@@ -69,7 +69,7 @@ translatedFrom: en
 <li>Medio ancho</li>
 <li>Gran volumen sobre los dedos y la parte media del pie; vienen con una plantilla removible, pero necesitaba agregar una adicional para que me quedaran bien.</li>
 </ul>
-<h2 class="wp-block-heading">Dillon sin cordones para jóvenes</h2>
+<h2 class="wp-block-heading">4. Dillon Youth Slip-On</h2>
 
 <p class="has-text-align-center">Lienzo | Tallas EE. UU. 12 Niños – 4 jóvenes</p>
 
@@ -84,6 +84,8 @@ translatedFrom: en
 <p>Mi hijo tiene los pies anchos con un volumen medio y le quedan bien sin ser excesivamente flojos ni apretados. Tiene un poco de espacio extra y puedes quitar la plantilla de fábrica, por lo que también funcionarán para algunos niños con pies de gran volumen. El tamaño era cierto para nosotros.</p>
 <p>¡Espero que esto te ayude a descubrir qué zapatos funcionarán para ti y tu familia!</p>
 
+
+<p><strong>Contexto editorial:</strong> esta selección conserva la colección de otoño de 2024. Para comprar en 2026, confirma qué modelos siguen activos y sus fichas actuales en el <a href="https://xeroshoes.com/">catálogo oficial de Xero Shoes</a>.</p>
 
 <!-- editorial-expansion:v1 -->
 

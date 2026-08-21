@@ -6,6 +6,7 @@ date: 2026-08-04
 category: "Opinión"
 tags: ["opinion", "resenas", "running", "puntera-ancha", "drop-cero"]
 contentType: "Artículo"
+autoToc: true
 permalink: /altra-escalante-4-opiniones/
 image: "/assets/images/reviews/altra-escalante-4/IMG_5584.jpg"
 imageAlt: "Altra Escalante 4 azules vistas de perfil"

@@ -37,7 +37,7 @@ translatedFrom: en
 <li></li>
 </ul>
 
-<h2 class="wp-block-heading">Zapatillas informales</h2>
+<h2 class="wp-block-heading">1. Zapatillas informales</h2>
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p> – Los tengo desde hace aproximadamente un mes y los uso casi a diario desde entonces. Son totalmente manos libres, simplemente te los pones, por lo que son incluso más fáciles de poner que las zapatillas deportivas sin cordones. Los cordones elásticos son ajustables para que puedas ajustarlos a la tensión que desees y luego estar listo para comenzar. Se han convertido en mis zapatos de jardinería, de carrera escolar y de caminata alrededor de la cuadra.</p>
 <p>El único otro zapato barefoot que existe es el , que también me gusta. Pero Prio Coast se adapta mejor a mi tipo de pie.</p>
@@ -57,7 +57,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
-<h2 class="wp-block-heading">Pisos</h2>
+<h2 class="wp-block-heading">2. Bailarinas</h2>
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p> – Me enamoré instantáneamente de estos. Por un lado, son fáciles de poner con una correa de velcro y eso me gusta. Pero también porque el tejido es inmediatamente suave y son realmente lindos. Para mí, es la combinación perfecta de femenino y funcional, porque realmente puedes usarlos todo el día para caminar muchísimo.</p>
 </div></div>
@@ -68,7 +68,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
-<h2 class="wp-block-heading">Sandalias</h2>
+<h2 class="wp-block-heading">3. Sandalias</h2>
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p> – Las Z Trek fueron mis primeras sandalias descalzas (escribí una reseña sobre ellas <a href="/revision-de-las-sandalias-xero-z-trek/">hace 7 años</a>, ¡¡casi hasta el día de hoy!!) y todavía son esencialmente el mismo zapato. De todas las sandalias de Xero, son las que mejor me quedan, con tiras que puedo ajustar a mi gusto. Y este nuevo estampado de leopardo era demasiado lindo para dejarlo pasar. Esta sandalia me queda grande, tengo una talla 6 y me queda como una 6.5</p>
 </div></div>
@@ -83,7 +83,7 @@ translatedFrom: en
 
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
 
-<h2 class="wp-block-heading">Zapatos deportivos</h2>
+<h2 class="wp-block-heading">4. Calzado deportivo</h2>
 
 <div class="wp-block-media-text is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <p> – Esta zapatilla es sumamente ligera y cómoda. Son muy receptivos para pies dinámicos y también tienen agarre en el suelo. Este es un zapato realmente minimalista, pero personalmente, cuando necesito mover los pies rápido, lo prefiero. Los amo hasta ahora.</p>
@@ -107,6 +107,8 @@ translatedFrom: en
 <p>Personalmente, no necesito este tipo de calzado para mi ejercicio (entrenamiento de fuerza, Pilates, caminar), pero reconozco que es valioso para quienes lo necesitan.</p>
 </div></div>
 
+
+<p><strong>Disponibilidad en 2026:</strong> esta colección puede cambiar de stock y color durante la temporada. Las fichas vigentes del <a href="https://xeroshoes.com/">catálogo oficial de Xero Shoes</a> prevalecen para tallas, materiales y devoluciones.</p>
 
 <!-- editorial-expansion:v1 -->
 

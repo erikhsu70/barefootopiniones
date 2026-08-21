@@ -48,6 +48,10 @@ translatedFrom: en
 <p>Este zapato se adapta bien a mis pies anchos y poco profundos. Samantha, por otro lado, tendrá que buscar un mocasín barefoot en otra parte. Ella (a la derecha) tiene pies extra anchos y de gran volumen y estos zapatos le quedaban demasiado ajustados en todas las direcciones.</p>
 
 <h2 class="wp-block-heading">Zeazoo Cheetah VS otros mocasines descalzos</h2>
+<figure class="section-product-image">
+  <img src="/assets/images/models/zeazoo__cheetah.png" alt="Mocasines barefoot Zeazoo Cheetah de cuero" width="474" height="474" loading="lazy">
+  <figcaption>Zeazoo Cheetah.</figcaption>
+</figure>
 <p>Vea a continuación algunas comparaciones del Zeazoo Cheetah con otros mocasines descalzos: el Lisbeth Joe London, el FeetSutra Khussa y el Vivobarefoot Opanka. Puedes aprender más sobre todo esto y más en mi <a href="/los-mejores-amantes-de-los-pies-descalzos-que-no-pican-sus-pies/">poste de mocasines descalzos</a>!</p>
 
 <h2 class="wp-block-heading">Realizar pedidos desde Zeazoo</h2>
