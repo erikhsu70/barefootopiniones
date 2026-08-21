@@ -37,7 +37,6 @@ Esta comparativa no es una prueba nueva de Isabel con todos los modelos actuales
 - [Tallas Be Lenka y Barebarics para comparar](#tallas-be-lenka-y-barebarics-para-comparar)
 - [Pros y límites de Be Lenka vs Barebarics](#pros-y-limites-de-be-lenka-vs-barebarics)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -147,9 +146,6 @@ Si quieres comparar Barebarics dentro de su propio catálogo, empieza por [Zing 
 
 Para opciones de armario, la guía de [zapatillas barefoot bonitas](/mejores-zapatillas-barefoot-bonitas-diario/) y la lista de [zapatos barefoot de vestir](/10-mejores-barefoot-vestir-con-estilo-mujer/) ayudan más que elegir solo por marca.
 
-## Segunda revisión editorial
-
-La intención de búsqueda mezcla comparación de marca, talla y estilo. Por eso esta página no duplica los hubs de Be Lenka ni Barebarics, sino que actúa como puente de decisión. Se verificaron fuentes oficiales españolas, tablas de producto, suelas y páginas de FAQ. No se afirma que Isabel haya probado todos los modelos actuales ni se inventa kilometraje, durabilidad o talla personal. Las afirmaciones sobre transición barefoot se mantienen prudentes: cambiar de drop y flexibilidad requiere progresión.
 
 ## Fuentes consultadas
 

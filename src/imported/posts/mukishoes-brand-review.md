@@ -124,13 +124,6 @@ Si vienes de calzado rígido o con mucha amortiguación, introduce una suela fin
 - **Be Lenka:** más variedad de hormas y botas.
 - **Groundies:** más pulida para vestir y oficina.
 
-## Segunda revisión editorial
-
-La versión anterior estaba muy pegada al lanzamiento histórico de la marca. La actualización mantiene la experiencia real con Mukishoes, pero corrige el foco hacia una guía de compra estable: talla, suela Nova, materiales, niños y límites. Eso es importante porque Mukishoes funciona por temporadas y la disponibilidad cambia; un artículo útil no debe depender de un color concreto.
-
-También he revisado canibalización con las reseñas de Cork Chelsea, primavera 2022 y colores 2023. Este hub no intenta recontar cada una. Sirve para decidir si Mukishoes como marca merece entrar en tu lista y enlaza con contenido infantil o de pies anchos cuando el usuario necesita comparar. La URL canónica antigua se conserva para no crear una segunda "review de Mukishoes" competidora.
-
-En la segunda pasada de transparencia, se eliminaron códigos, descuentos y afirmaciones vagas. La guía diferencia experiencia de archivo, información oficial y criterio editorial. No afirma que UNA Cloud, Nómada Terra o los modelos infantiles actuales hayan sido probados por Isabel si no hay evidencia en el repositorio.
 
 ## Preguntas frecuentes
 

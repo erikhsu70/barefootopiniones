@@ -36,7 +36,6 @@ Esta comparativa no es una prueba personal de estos dos modelos actuales. Barefo
 - [Modern Retro Sneaker](#modern-retro-sneaker)
 - [Cuál elegir según uso](#cual-elegir-segun-uso)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -141,11 +140,6 @@ Dentro de Origo, la [guía de Origo Shoes](/origo-opinion-tallas/) explica Huara
 
 Si necesitas más anchura, [Be Lenka](/opinion-be-lenka-barefoot-modelos-2022/) o Softstar pueden ser mejores. Si quieres precio bajo, Saguaro o Whitin entran en otra liga de materiales y acabado.
 
-## Segunda revisión editorial
-
-La intención de búsqueda es comparativa y transaccional. El artículo no compite con la guía general de Origo porque se centra solo en dos sneakers. No usa experiencia de Huarache para afirmar que Everyday o Modern Retro estén probadas.
-
-Las fuentes oficiales aportan especificaciones actuales. Barefoot Shoe Guide aporta contexto externo de fit. Trustpilot y reseñas de tienda se usan solo como señales de variabilidad, no como verdades universales. La imagen oficial está declarada y el artículo incluye enlaces internos suficientes hacia Origo, Groundies, Feelgrounds y guías de estilo.
 
 ## Fuentes consultadas
 

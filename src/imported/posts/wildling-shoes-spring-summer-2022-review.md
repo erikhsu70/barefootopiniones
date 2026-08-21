@@ -120,15 +120,6 @@ Para niños, la ligereza es una ventaja real, pero no sustituye revisar talla. U
 - **Freet:** más ancha y funcional.
 - **Vivobarefoot:** más deportiva y estructurada; lee [Vivobarefoot](/vivobarefoot-guia-modelos-tallas/).
 
-## Segunda revisión editorial
-
-La antigua página era una reseña de primavera-verano 2022. Mantenerla así en 2026 sería poco útil para búsqueda, porque la persona que llega desde Google quiere saber si Wildling le sirve ahora, cómo talla y qué mirar entre Tanuki, Essentials, niños y modelos más protegidos. Esta actualización conserva el canónico antiguo porque ya era el hub estacional con más autoridad, pero lo convierte en una guía de marca actualizada.
-
-La canibalización se revisó contra Wildling Crane, Pegasus, Ranidae, invierno y otoño. Esos artículos siguen teniendo sentido para modelos o temporadas concretas. Este hub no pretende reemplazarlos: resume la identidad de Wildling y manda al usuario a listas de niños, invierno o Vivobarefoot cuando el uso cambia. La palabra "mejores modelos" se usa con cautela, porque Wildling cambia colores y cápsulas por temporada.
-
-En intención de búsqueda, el punto crítico es talla. Por eso la guía explica que el size finder ya incluye espacio de rodadura, que los pies anchos pueden necesitar subir y que la talla infantil incorpora crecimiento. También evita presentar la suela fina como una solución universal. Si alguien viene de mucho soporte o amortiguación, la recomendación es introducir Wildling de forma progresiva, sobre todo en asfalto.
-
-En imágenes, se usan assets del repositorio asociados a modelos reales ya importados. No se generó ninguna foto de producto nueva ni se presentó una imagen inventada como experiencia actual. La galería aporta contexto visual sin afirmar que Tanuki ASAWA haya sido probado en persona.
 
 ## Preguntas frecuentes
 

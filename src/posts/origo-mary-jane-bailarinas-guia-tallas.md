@@ -35,7 +35,6 @@ Esta guía separa bien las cosas. Hay evidencia real en el archivo con Origo, es
 - [Materiales y suela de Origo Mary Jane y Woven Ballerina](#materiales-y-suela-de-origo-mary-jane-y-woven-ballerina)
 - [Cómo combinarlas](#como-combinarlas)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -103,11 +102,6 @@ Si tienes empeine bajo, puede sobrar volumen encima del pie y aparecer una arrug
 
 La piel blanda puede ceder algo, y el tejido de Woven Ballerina puede adaptarse más que una pieza lisa, pero no compraría una talla incómoda esperando que todo se arregle. Lo ideal es notar espacio delante, sujeción suficiente y cero necesidad de agarrar el zapato con los dedos.
 
-## Segunda revisión editorial
-
-Este artículo evita canibalizar la guía general de Mary Jane porque se centra solo en Origo y enlaza a la lista general. Usa experiencia real solo donde existe: colaboración Woven Ballerina/Huarache by Anya y archivo de Origo. No afirma prueba personal de Classic Mary Jane, T-Strap o Double Strap.
-
-La imagen oficial está declarada, hay tabla de decisión y el lenguaje de salud se mantiene prudente.
 
 ## Fuentes consultadas
 

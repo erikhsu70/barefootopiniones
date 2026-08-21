@@ -642,11 +642,9 @@ translatedFrom: en
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
-<p><a href="https://zapatoferoz.es/">Zapato Feroz</a> (<strong>UE</strong>) – Tallas UE 24-31.</p>
 </div></div>
 
 <div class="wp-block-media-text alignwide" style="grid-template-columns:20% auto"><div class="wp-block-media-text__content">
 <p><a href="https://zeazoo.com/en/5-barefoot-sandals-kids">Zeazoo Kids</a> (<strong>UE</strong>) – Tallas UE 16-34. Usar código <strong>CUALQUIER EXAMEN</strong> por 5% de descuento.</p>
 <p><strong>Puedes encontrar Sandalias Zeazoo en </strong></p>
 </div></div>
-

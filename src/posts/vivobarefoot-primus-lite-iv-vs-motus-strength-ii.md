@@ -37,7 +37,6 @@ Esta guía no es una reseña personal de Isabel con los modelos actuales. No se 
 - [Cuándo elegir cada una](#cuando-elegir-cada-una)
 - [Pros y límites](#pros-y-limites)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -125,11 +124,6 @@ Límites:
 
 Si quieres una visión más amplia, lee [la guía de Vivobarefoot](/vivobarefoot-guia-modelos-tallas/). Si buscas algo más económico, [Xero Prio](/xero-prio-opiniones/) y [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/) cubren otro presupuesto. Para comparar gimnasio con otras marcas, revisa [los mejores Freet para correr, gimnasio y caminar](/mejores-freet-correr-gimnasio-caminar/) y [Merrell Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/).
 
-## Segunda revisión editorial
-
-La keyword principal es "Vivobarefoot Primus Lite IV vs Motus Strength II". Los H2 sustantivos con keyword completa o variante natural son: "Vivobarefoot Primus Lite IV vs Motus Strength II en una frase", "Tabla Vivobarefoot Primus Lite IV vs Motus Strength II", "Ajuste y tipo de pie en Primus Lite IV vs Motus Strength II", "Suela y estabilidad en Vivobarefoot Primus Lite IV vs Motus Strength II" y "Tallas de Primus Lite IV y Motus Strength II". La cobertura queda natural porque los apartados de decisión, pros, alternativas y fuentes no repiten todo el keyword.
-
-La página no compite con el hub de Vivobarefoot; enlaza a él y resuelve una comparación concreta. Las afirmaciones de salud se limitan a transición y carga, sin prometer curación.
 
 ## Fuentes consultadas
 

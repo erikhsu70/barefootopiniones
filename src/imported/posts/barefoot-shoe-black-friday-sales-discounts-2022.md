@@ -148,7 +148,7 @@ translatedFrom: en
 <li><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#f518d7">TERMINADO</mark> <a href="https://www.barefootnaboso.com/Black-Friday/"><strong>Naboso</strong></a><strong> </strong>(minorista)<strong>: <mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#a60e36">11/25-?</mark> 10-70% de descuento</strong></li>
 <li><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#36d51e"><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#f518d7">TERMINADO</mark></mark> <a href="https://lonnies.de/"><strong>lonn</strong></a><strong><a href="https://lonnies.de/">es</a>: <mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#a60e36">11/25-?</mark> – 10% de descuento</strong> con codigo<strong> BLACKLONNIES</strong></li>
 <li><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#f518d7">TERMINADO</mark> <a href="https://www.vivobarefoot.de/en/sale/"><strong>Vivobare</strong></a><strong><a href="https://www.vivobarefoot.de/en/sale/">pie alemania</a>: <mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#a60e36">11/14-?</mark> – Hasta 70% de descuento en estilos seleccionados</strong></li>
-<li><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#f518d7">TERMINADO</mark> <strong><a href="https://tildaleins.de/">tildaleinas</a>: <mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#a60e36">11/23-11/27</mark> – 15% de descuento </strong>con codigo <strong>BUNTE TAGE</strong> (excluye artículos en oferta y Zapato Feroz)</li>
+<li><mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#f518d7">TERMINADO</mark> <strong><a href="https://tildaleins.de/">tildaleinas</a>: <mark class="has-inline-color" style="background-color:rgba(0, 0, 0, 0);color:#a60e36">11/23-11/27</mark> – 15% de descuento </strong>con codigo <strong>BUNTE TAGE</strong> (excluye artículos en oferta)</li>
 </ul>
 <h3 class="wp-block-heading">Reino Unido</h3>
 <ul>
@@ -232,7 +232,5 @@ translatedFrom: en
 <li>Vivobarefoot – Usar código <strong><strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong> </strong>para 10% de descuento</li>
 <li></li>
 <li><a href="https://www.zapatillas-minimalistas.com/en/">zamí</a></li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz</a> – Puedes comprar </li>
 <li><a href="https://www.zaqq.com/">Zaqq barefoot</a></li>
 </ul>
-

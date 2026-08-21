@@ -37,7 +37,6 @@ Esta comparativa no es una reseña personal de Isabel con las tres botas actuale
 - [Outlander Waterproof](#outlander-waterproof)
 - [Tallas y tipo de pie](#tallas-y-tipo-de-pie)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -118,9 +117,6 @@ Antes de comprar, revisaría disponibilidad por país, coste de envío internaci
 
 También miraría el uso real de la semana, no el uso aspiracional. Si caminas por ciudad y solo haces una ruta sencilla al mes, una Summit puede ser suficiente o incluso demasiado. Si pisas barro, nieve húmeda o caminos irregulares varias veces por semana, la Boulder clásica probablemente no sea la herramienta adecuada.
 
-## Segunda revisión editorial
-
-La página no compite con el hub de Lems porque resuelve una intención específica: elegir bota. Se evita el título de opinión personal porque no hay prueba propia documentada de estas botas actuales. Las fotos oficiales se declaran. Las afirmaciones de impermeabilidad, tacos y stack se limitan a fichas oficiales. No se hacen promesas de seguridad laboral, nieve profunda ni curación de molestias.
 
 ## Fuentes consultadas
 

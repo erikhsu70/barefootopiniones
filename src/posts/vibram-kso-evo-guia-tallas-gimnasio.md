@@ -35,7 +35,6 @@ Esta guía no es una reseña personal de Isabel. En el archivo de Barefoot Opini
 - [Calcetines y rozaduras](#calcetines-y-rozaduras)
 - [Tabla de decisión](#tabla-de-decision)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -133,11 +132,6 @@ Si quieres FiveFingers para correr, mira la [guía de Vibram V-Run](/vibram-v-ru
 
 Para una primera transición más amable, [Lems Shoes](/lems-shoes-opinion-tallas-modelos/), Freet o Xero Prio pueden tener más margen. Si tu prioridad es entender el proceso antes de comprar, lee [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y [ejercicios de pie para transición](/ejercicios-pies-transicion-barefoot/).
 
-## Segunda revisión editorial
-
-La búsqueda "KSO EVO opiniones" tiene mucho contenido antiguo. La versión actual sigue siendo reconocible, pero las fuentes oficiales y disponibilidad cambian. Este artículo prioriza ficha oficial española, guía de talla, comentarios recientes de tiendas y fuentes minimalistas con experiencia, sin copiar reseñas ajenas como si fueran de Isabel.
-
-No se hacen afirmaciones médicas. Se habla de carga, adaptación y uso progresivo. La imagen es oficial y se declara como tal. La guía interna de Vibram enlaza al hub para evitar repetir toda la arquitectura FiveFingers.
 
 ## Fuentes consultadas
 

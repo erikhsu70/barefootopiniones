@@ -95,7 +95,6 @@ translatedFrom: en
 <li> – Mira mi <a href="/revision-de-whitin-zapatillas-de-deporte-descalzas-baratas/">Whitin reseña aquí</a></li>
 <li> – Muy ligero y flexible. Lee todos mis <a href="/marca/wildling-shoes/">Reseñas salvajes aquí</a>. Puedes usar código <strong></strong> por €5/$10 fuera de su compra. Si estás fuera de Estados Unidos/Canadá, .</li>
 <li> – Ver mi <a href="/marca/xero-shoes/" rel="noreferrer noopener" target="_blank">Xero reseñas aquí</a>. Tienda  si vives dentro de la UE</li>
-<li><a href="https://zapatoferoz.es/">Zapato Feroz –</a> Solo envíos a la UE, seleccione opciones veganas.  ¡Con envío a todo el mundo disponible!</li>
 <li><a href="http://zaqq.com/" rel="noreferrer noopener" target="_blank">Zaqq</a> – Revisión de marca <a href="/revision-de-la-marca-zaqq-barefoot/" rel="noreferrer noopener" target="_blank">aquí</a> de estilo no vegano. </li>
 </ul>
 <h2 class="wp-block-heading">Botas de invierno Vegan barefoot</h2>
@@ -221,7 +220,6 @@ translatedFrom: en
 <li> <strong>CUALQUIER ANTES 25OFF por 25% de descuento</strong>. Otro favorito. Si estás en el Reino Unido, . Si usted está en la UE o el resto del mundo, .</li>
 <li> – Muy ligero y flexible. Lee todos mis <a href="/marca/wildling-shoes/">Reseñas salvajes aquí</a>. Puedes usar código <strong></strong> por €5/$10 fuera de su compra. Si estás fuera de Estados Unidos/Canadá, .</li>
 <li> – Sólo niños mayores. Si vives dentro de la UE, compra </li>
-<li><a href="https://zapatoferoz.es/" rel="noreferrer noopener" target="_blank">Zapato Feroz</a> – Sólo envíos a UE. Selecciona opciones veganas.</li>
 <li><a href="http://www.zunashoes.com" rel="noreferrer noopener" target="_blank">Zapatos Zuna</a> – ¡Un favorito entre nuestros niños! Leer el Zuna <a href="/revision-de-zuna-zapatos-zapatillas-de-deporte-descalzas-para-ninos-grandes/">Revisa aquí</a></li>
 </ul>
 <h3 class="wp-block-heading">Conclusión</h3>

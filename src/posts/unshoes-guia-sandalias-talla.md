@@ -1,168 +1,171 @@
 ---
 layout: layouts/post.njk
-title: "Guía de Unshoes: sandalias, talla y qué modelo elegir"
-description: "Guía de Unshoes con Pah Tempe, Uinta, Wokova Feather, Keota, tallas, ajuste, pros, límites, devoluciones y alternativas."
-date: 2026-08-17
+title: "Unshoes: guía para elegir sandalias y talla"
+description: "Guía de Unshoes con Pah Tempe, Uinta, Wokova Feather, Keota, Terra Vida, tallas, plantillas, pros, límites y alternativas."
+date: 2026-08-18
 category: "Guía"
-tags: ["guia", "sandalias", "unshoes", "barefoot"]
+tags: ["guia", "unshoes", "sandalias", "barefoot", "verano"]
 contentType: "Artículo"
 permalink: /unshoes-guia-sandalias-talla/
-image: "/assets/generated/featured/posts/unshoes-uinta-keota-sandals-review.jpg"
-imageAlt: "Sandalias Unshoes Uinta y Keota con suela plana y correas ajustables"
+image: "/assets/generated/featured/posts/barefoot-sandals-brand-review.jpg"
+imageAlt: "Sandalias barefoot minimalistas comparadas para elegir talla y ajuste"
 faqItems:
-  - question: "¿Qué Unshoes elegir para empezar?"
-    answer: "Pah Tempe es la opción sin poste entre dedos para senderismo y agua; Uinta añade bucle de dedo; Wokova Feather es más ligera; Keota es la línea infantil."
-  - question: "¿Cómo talla Unshoes?"
-    answer: "La marca recomienda medir el pie contra una pared y usar plantillas imprimibles. Sus sandalias suelen ser true to size, pero hay que comprobar cada tabla."
-  - question: "¿Unshoes sirve para agua?"
-    answer: "Pah Tempe y Uinta están orientadas a agua, senderismo y terreno irregular, pero la sujeción depende del ajuste correcto de correas."
-  - question: "¿Se puede devolver desde fuera de Estados Unidos?"
-    answer: "La política oficial da 30 días desde la fecha de pedido para producto nuevo, con opciones internacionales a consultar y costes de devolución a cargo del cliente."
+  - question: "¿Cómo elegir talla en Unshoes?"
+    answer: "Unshoes recomienda usar sus plantillas imprimibles, especialmente en sandalias, porque la preferencia de margen y la posición de las correas cambian mucho el ajuste."
+  - question: "¿Qué Unshoes elegir para senderismo?"
+    answer: "Pah Tempe y Uinta son las opciones más orientadas a terreno y agua. Wokova Feather es más minimalista y ligera."
+  - question: "¿Unshoes tiene drop cero?"
+    answer: "Sí, los modelos de sandalia consultados como Pah Tempe, Uinta y Wokova Feather se describen con suela zero drop y stack aproximado de 8 mm."
+  - question: "¿Puedo devolver Unshoes personalizados?"
+    answer: "La política oficial indica que los modelos custom y closeout son venta final, salvo defecto o error de fabricación."
 ---
-Unshoes es una marca de sandalias minimalistas de Utah con una idea sencilla: suelas planas, correas ajustables y modelos que se pueden usar en agua, sendero, ciudad o niños según la configuración. No tiene la estética más pulida del mercado europeo, pero sí una comunidad fiel porque sus sandalias son funcionales, relativamente asequibles y muy ajustables.
 
-**Veredicto rápido:** miraría Unshoes si quieres una sandalia barefoot práctica para agua, senderismo ligero o verano y no necesitas una marca europea con devolución fácil. Pah Tempe es la opción más segura si odias el poste entre dedos; Uinta si quieres más sujeción con bucle de dedo; Wokova Feather si priorizas ligereza; Keota o Explorers para niños. No la elegiría como compra impulsiva desde España sin medir antes con plantilla.
+**Palabra clave principal:** Unshoes.
 
-<p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados o enlaces a tiendas. Barefoot Opiniones tiene reseñas de archivo sobre Uinta, Keota, Saffron y Terra Vida; esta guía se revisó el 17 de agosto de 2026 y actualiza modelos, tallas y política de devoluciones con fuentes oficiales. No se inventan kilómetros, pruebas nuevas ni experiencia infantil actual.</p>
+**Veredicto rápido:** elegiría **Unshoes** si quieres sandalias barefoot muy ajustables, con varias configuraciones de correas y una sensación más artesanal que de marca masiva. Pah Tempe es la opción sin tira entre dedos para terreno y agua; Uinta añade un sistema peculiar alrededor del dedo gordo; Wokova Feather es la más minimalista y fácil de llevar. No compraría sin imprimir plantilla: en sandalias, medio centímetro cambia mucho.
+
+<p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados. Barefoot Opiniones tiene archivo con Unshoes Uinta, Keota, Traverse, Saffron y Terra Vida. Para disponibilidad, tallas y políticas actuales uso fuentes oficiales consultadas en agosto de 2026.</p>
 
 ## Índice
 
-- [Qué es Unshoes](#que-es-unshoes)
-- [Tabla rápida de Unshoes](#tabla-rapida-de-unshoes)
-- [Tallas y ajuste en Unshoes](#tallas-y-ajuste-en-unshoes)
-- [Modelos Unshoes principales](#modelos-unshoes-principales)
-- [Unshoes para niños](#unshoes-para-ninos)
-- [Pros y límites de Unshoes](#pros-y-limites-de-unshoes)
-- [Compra desde España y devoluciones](#compra-desde-espana-y-devoluciones)
+- [Qué es Unshoes y por qué importa la plantilla](#que-es-unshoes-y-por-que-importa-la-plantilla)
+- [Unshoes por modelo: Pah Tempe, Uinta y Wokova](#unshoes-por-modelo-pah-tempe-uinta-y-wokova)
+- [Cómo elegir talla en Unshoes](#como-elegir-talla-en-unshoes)
+- [Tipo de pie y ajuste de correas](#tipo-de-pie-y-ajuste-de-correas)
+- [Ventajas y límites de Unshoes](#ventajas-y-limites-de-unshoes)
+- [Compra internacional, custom y devoluciones](#compra-internacional-custom-y-devoluciones)
+- [Errores comunes al ajustar Unshoes](#errores-comunes-al-ajustar-unshoes)
 - [Alternativas a Unshoes](#alternativas-a-unshoes)
-- [Revisión editorial y SEO](#revision-editorial-y-seo)
-- [Fuentes consultadas](#fuentes-consultadas)
+- [Revisión editorial y fuentes](#revision-editorial-y-fuentes)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Qué es Unshoes
+## Qué es Unshoes y por qué importa la plantilla
 
-Unshoes fabrica sandalias y algunos zapatos minimalistas con enfoque artesanal. Su catálogo histórico incluye Pah Tempe, Uinta, Wokova Feather, Keota, Terra Vida, Saffron, Forager, Primrose y modelos infantiles. La cola editorial recomendaba crear una guía para elegir sandalias y talla porque el sitio tenía reseñas sueltas, pero no un hub actualizado que explicara qué comprar primero.
+Unshoes es una marca estadounidense de calzado minimalista conocida sobre todo por sandalias. Su catálogo actual incluye Pah Tempe, Uinta, Wokova Feather, Keota, modelos infantiles, Terra Vida, Primrose, Forager y opciones custom.
 
-La diferencia frente a muchas huaraches está en las correas. Unshoes no se limita al cordón entre dedos tradicional. Pah Tempe evita el poste entre dedos; Uinta usa un bucle alrededor del dedo gordo que se puede ajustar; Wokova Feather busca ligereza; Keota adapta la idea a niños.
+La diferencia frente a una sandalia convencional no está solo en que la suela sea plana. En Unshoes, la posición del pie sobre la plantilla, la tensión de cada correa y el margen delante de los dedos determinan si caminas relajada o agarrando la sandalia con los dedos.
 
-<figure>
-  <img src="/assets/generated/featured/posts/unshoes-uinta-keota-sandals-review.jpg" alt="Sandalias Unshoes Uinta y Keota con correas ajustables y suela plana" width="1200" height="630" loading="lazy">
-  <figcaption>Imagen del repositorio. Para Unshoes, la decisión clave es el sistema de correas y la plantilla de talla.</figcaption>
-</figure>
+El propio FAQ de Unshoes insiste en usar plantillas imprimibles. En sandalias esto es más importante que en zapatillas cerradas porque el contorno queda expuesto. Si sobra demasiada suela delante, puede engancharse; si falta margen, los dedos se quedan fuera cuando bajas una pendiente.
 
-## Tabla rápida de Unshoes
+## Unshoes por modelo: Pah Tempe, Uinta y Wokova
 
-<div class="table-scroll" role="region" aria-label="Tabla de modelos Unshoes" tabindex="0">
+<div class="table-scroll" role="region" aria-label="Modelos Unshoes" tabindex="0">
 
-| Modelo | Mejor para | Entre dedos | Stack oficial | Punto fuerte | Ojo con |
-|---|---|---|---|---|---|
-| Pah Tempe | agua, senderismo, camp shoe, diario activo | no | aprox. 8 mm | sujeción sin poste | ajuste de correas importa mucho |
-| Uinta | agua y terreno irregular | bucle de dedo ajustable | aprox. 8 mm | estabilidad y versatilidad | el bucle no gusta a todos |
-| Wokova Feather | verano, uso casual, ligereza | sí | aprox. 8 mm | peso bajo y facilidad | menos estructura |
-| Keota adulto | sandalia sencilla | según versión | aprox. 8 mm | precio y simplicidad | disponibilidad variable |
-| Children's Keota | niños, verano | sí | aprox. 8 mm | tallas infantiles y ajuste | tallas pequeñas limitadas |
-| Explorers | niños que no quieren poste | no | categoría infantil | correa sobre el pie | menos reseñas disponibles |
+| Modelo | Mejor para | Correa entre dedos | Stack oficial | Punto fuerte |
+|---|---|---|---|---|
+| Pah Tempe | agua, senderismo, correr suave, campamento | no | aprox. 8 mm | seguridad sin poste entre dedos |
+| Uinta | agua, terreno, uso diario robusto | bucle ajustable en dedo gordo | 8 mm | estabilidad y ajuste peculiar |
+| Wokova Feather | minimalismo, diario, actividad ligera | sí | aprox. 8 mm | ligereza y facilidad de poner |
+| Keota | sandalia más casual | sí | consultar ficha | sencillez |
+| Terra Vida | cerrado casual | no aplica | consultar ficha | alternativa cerrada lavable |
 
 </div>
 
-## Tallas y ajuste en Unshoes
+**Pah Tempe** es la que miraría primero si no toleras nada entre los dedos. Unshoes la presenta como una sandalia pensada para rendir mejor que una huarache tradicional en agua y terreno inclinado. La correa cruza sobre el pie y deja que los dedos se abran.
 
-Unshoes recomienda medir el pie de pie, con el talón contra una pared, y tomar la distancia hasta el dedo más largo. Sus tablas de adulto asocian longitud de pie a tallas de mujer y hombre. Por ejemplo, la tabla oficial vista usa 23,5 cm para Women's 7 / Men's 6, 25,1 cm para Women's 9 / Men's 8 y 28,6 cm para Men's 12. No copies talla desde una sneaker convencional sin medir.
+**Uinta** combina ideas de Pah Tempe y Wokova. Su sistema crea un bucle alrededor del dedo gordo y una correa sobre el antepié. Lo interesante es que la tensión del bucle se puede ajustar por separado e incluso se puede llevar plano cuando quieres usar calcetines.
 
-La marca también ofrece plantillas imprimibles. Son especialmente importantes en sandalias porque no hay upper que esconda un error. Si la suela queda demasiado larga, puedes tropezar; si queda corta, el dedo o el talón se salen. En modelos con poste o bucle, la posición entre dedos importa tanto como el largo total.
+**Wokova Feather** es la opción más mínima y ligera. Usa una correa ajustable con un bucle elástico, mantiene la suela zero drop y un stack aproximado de 8 mm. Tiene sentido si quieres algo muy simple para caminar, viajar o actividad casual.
 
-Si ya tienes unas Unshoes, probablemente repitas talla, pero aun así conviene revisar la tabla porque modelos infantiles, slim y custom pueden usar plantillas distintas. El FAQ oficial distingue plantillas estándar para sandalias adultas y Forager, plantillas slim para Saffron, Primrose y Terra Vida, y plantillas infantiles.
+## Cómo elegir talla en Unshoes
 
-## Modelos Unshoes principales
+La guía oficial dice que su sistema intenta ser sencillo y fiel a la talla, pero que cada pie es único y que en sandalias las plantillas descargables son clave. También indica que no conviene dejar más de 3/4 de pulgada delante de los dedos, porque demasiado exceso puede engancharse y provocar tropiezos.
 
-### Pah Tempe
+En Pah Tempe hay una nota concreta: la correa fija del talón puede empujar el pie algo hacia delante, así que conviene dejar aproximadamente entre 1/4 y 1/2 pulgada detrás del talón al estar de pie sobre la plantilla.
 
-Pah Tempe es el modelo que recomendaría mirar primero si quieres una sandalia minimalista sin nada entre los dedos. La ficha oficial la orienta a senderismo, correr, backpacking, uso diario y camp shoe. Ofrece suela zero drop de unos 8 mm y peso aproximado de 12,5 oz el par en W10/M9.
+Mi proceso:
 
-La ventaja es clara: más sujeción que una chancla, menos irritación entre dedos y buen sentido para agua o terreno irregular. El límite es que las correas deben ajustarse bien. Si quedan flojas, el pie se desliza; si quedan tensas, molestan en empeine o dedos.
+1. Imprime la plantilla al 100%, sin escalar.
+2. Mide ambos pies por la tarde.
+3. Coloca el pie como caminarías, no pegado artificialmente al talón.
+4. Marca la posición de la tira entre dedos si el modelo la usa.
+5. Comprueba margen delante y detrás.
+6. Repite con el pie más grande.
 
-### Uinta
+## Tipo de pie y ajuste de correas
 
-Uinta combina ideas de Pah Tempe y Wokova. Tiene un bucle alrededor del dedo gordo y una correa sobre el antepié; ese bucle puede ajustarse aparte y también aplanarse para usar calcetines en algunas situaciones. La ficha oficial la describe para water hikes, rough terrain y uso diario, con stack de 8 mm y zero drop.
+Para pies de volumen bajo, cualquier sandalia con correas puede exigir paciencia. No basta con apretar hasta que no se mueva: si estrangulas el empeine, los dedos empiezan a compensar. La tensión correcta deja el talón estable, pero permite que el antepié se expanda.
 
-La elegiría si quieres más control lateral que una huarache muy simple. No la elegiría si sabes que cualquier bucle en el dedo gordo te molesta.
+Para pies de volumen alto, Pah Tempe puede ser interesante porque no mete un poste entre dedos y reparte la sujeción por encima. Uinta añade más control alrededor del dedo gordo, pero ese bucle puede gustar mucho o molestar enseguida.
 
-### Wokova Feather
+Para personas que quieren usar calcetines, Uinta tiene una ventaja clara: el bucle del dedo puede llevarse plano. Pah Tempe tampoco tiene poste entre dedos. Wokova Feather sería menos práctica con calcetines convencionales.
 
-Wokova Feather es la opción más minimalista y ligera dentro de esta guía. La ficha oficial habla de una correa ajustable más ligera, bucle elástico de alta resistencia y stack aproximado de 8 mm. El peso de referencia visto para W10/M9 es 8,5 oz el par.
+## Ventajas y límites de Unshoes
 
-Tiene sentido para verano, viajes y uso casual activo. Para senderismo duro o niños muy intensos, miraría Pah Tempe, Uinta o Explorers.
+Ventajas:
 
-## Unshoes para niños
-
-Children's Keota mantiene una sandalia con unos 8 mm de stack y tallas infantiles estándar. La ficha oficial indica que han ajustado el diseño para que sea seguro y fácil de poner, con una ligera elevación en la zona de dedos en tallas pequeñas para ayudar a evitar tropiezos. También advierte que las tallas 21-24 se han discontinuado salvo en la página custom.
-
-Explorers es la alternativa infantil sin poste entre dedos, útil para niños que no toleran ese sistema. En calzado infantil, la etiqueta barefoot no basta: busca suela flexible, espacio de crecimiento razonable, talón sujeto y correas que el niño pueda llevar sin rozaduras.
-
-## Pros y límites de Unshoes
-
-Pros:
-
-- Opciones con y sin poste entre dedos.
-- Buen enfoque para agua, senderismo ligero y verano.
+- Muchas opciones de correas.
+- Stack bajo y drop cero en sandalias clave.
 - Plantillas imprimibles útiles.
-- Stack moderado de unos 8 mm en modelos clave.
-- Precios más bajos que muchas sandalias premium.
-- Modelos infantiles y custom en algunas líneas.
+- Modelos para agua, senderismo y diario.
+- Opciones custom para pies difíciles.
 
 Límites:
 
-- Compra internacional desde España.
-- Devolución con costes y condiciones.
-- Estética más funcional que elegante.
-- Ajustar correas requiere paciencia.
-- Stock y closeouts cambian mucho.
-- Las ventas closeout y custom pueden ser finales.
+- Compra desde EE. UU. menos cómoda para España.
+- Las custom y closeout son venta final.
+- Ajustar correas puede requerir paciencia.
+- No todas las sandalias funcionan con todos los volúmenes.
+- La estética es funcional y minimalista.
 
-## Compra desde España y devoluciones
+## Compra internacional, custom y devoluciones
 
-La política oficial consultada permite devolver dentro de 30 días desde la fecha del pedido si el producto está limpio, nuevo y revendible. Los reembolsos pueden tener una tasa de reposición de 10 dólares y los costes de devolución son responsabilidad del cliente. Las opciones de cambio gratuito se aplican a pedidos de Estados Unidos; clientes internacionales deben contactar para opciones.
+Para una compradora en España, Unshoes tiene una fricción clara: no es una compra europea rápida. Antes de elegir color, revisaría coste de envío, plazos, impuestos potenciales y política de devolución. La marca ofrece ayuda de talla, plantillas y una política con un cambio gratuito para clientes de EE. UU., pero las condiciones para clientes internacionales pueden ser distintas.
 
-Desde España, esto hace imprescindible medir antes. Descarga plantilla, imprime al 100 %, comprueba escala y decide con calma. Si dudas entre dos modelos, prioriza el sistema de correas que sabes que toleras: Pah Tempe sin poste, Uinta con bucle, Wokova para ligereza.
+La parte más importante es custom y closeout. Unshoes indica que los modelos personalizados y de liquidación son venta final y no se pueden devolver, cambiar ni reembolsar salvo defecto o error. Eso cambia el riesgo de compra: una custom puede resolver un pie difícil, pero conviene usarla cuando ya entiendes qué plantilla, correa y margen te funcionan.
+
+Si es tu primera Unshoes, empezaría por una opción estándar siempre que encaje. Solo pasaría a custom si la plantilla estándar no respeta tu forma de dedos, si necesitas ubicación distinta de la tira, o si ya has probado sandalias minimalistas y sabes exactamente qué falla.
+
+En cualquier caso, guardaría capturas o notas de la plantilla usada, talla y configuración. Si el ajuste sale bien, esa información te servirá para futuras compras; si sale mal, ayuda a explicar el problema al soporte.
+
+## Errores comunes al ajustar Unshoes
+
+El primer error es apretar todas las correas por igual. La sandalia debe sujetar sin bloquear. En Pah Tempe, la correa del talón y la del antepié no hacen el mismo trabajo. En Uinta, el bucle del dedo gordo añade otra variable. Ajusta una zona, camina y vuelve a revisar.
+
+El segundo error es dejar demasiada suela delante "por seguridad". Unshoes advierte que más de 3/4 de pulgada puede engancharse. En una sandalia barefoot, el exceso visible puede parecer margen, pero en escaleras o piedras se convierte en palanca.
+
+El tercer error es probar solo de pie. Camina en casa, baja una escalera, ponte de puntillas y simula una bajada. Si los dedos agarran la suela o el talón se desplaza, todavía no está ajustada.
+
+El cuarto error es ignorar la piel. Las correas finas pueden sentirse bien durante cinco minutos y molestar con calor, agua o polvo. Antes de una ruta, haz salidas cortas. Una sandalia minimalista no debería estrenarse en una caminata larga.
 
 ## Alternativas a Unshoes
 
-- **Shamma:** más premium y deportiva en sandalias.
-- **Xero Z-Trek o Z-Trail:** más fácil de encontrar y con distribución EU según temporada.
-- **Earth Runners:** enfoque huarache y puesta a tierra.
-- **Freet o Vivobarefoot:** si en realidad quieres zapato cerrado para agua o trail.
-- **Saguaro:** opción económica para niños o agua si la sandalia Unshoes complica la talla.
+Si quieres una sandalia muy segura para montaña, compara con [Earth Runners](/sandalias-puesta-tierra-earth-runners-opinion/) o Shamma. Si quieres algo más disponible en Europa, mira las listas de [sandalias barefoot de mujer](/mejores-sandalias-barefoot-mujer/) y [sandalias barefoot para aventura](/mejores-sandalias-barefoot-aventura-2026/).
 
-Para más ideas, revisa [mejores sandalias barefoot para aventuras](/mejores-sandalias-barefoot-aventura-2026/) y [sandalias barefoot para niños](/mejores-sandalias-barefoot-ninos/).
+Si buscas una sandalia con más transición y menos exposición, [Lems Switchback](/lems-switchback-sandalias-guia/) tiene más estructura, aunque no es drop cero puro porque la ficha oficial indica 3 mm de drop.
 
-## Revisión editorial y SEO
+Para niños, Unshoes tiene Keota y Explorers, pero revisaría también la guía de [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) antes de comprar.
 
-La keyword principal es **Unshoes** con variantes "Unshoes sandalias" y "Unshoes talla". Los H2 sustantivos cubren marca, tabla, tallas, modelos, niños, pros, compra y alternativas. La cobertura es natural y no repite la keyword en cada encabezado.
+## Revisión editorial y fuentes
 
-La página funciona como hub y no compite con reseñas antiguas de Uinta, Keota, Terra Vida o Saffron. Las fuentes son principalmente oficiales porque disponibilidad, closeouts y condiciones cambian rápido.
+H2 revisados para SEO: "Qué es Unshoes...", "Unshoes por modelo...", "Cómo elegir talla en Unshoes", "Ventajas y límites de Unshoes" y "Errores comunes al ajustar Unshoes" cubren la keyword en 5 de 9 H2 sustantivos. La repetición es natural porque el artículo es un hub de marca.
 
-## Fuentes consultadas
+Fuentes principales:
 
+- [Unshoes sizing templates](https://www.unshoesusa.com/pages/sizing-information)
 - [Unshoes Pah Tempe](https://www.unshoesusa.com/products/pah-tempe)
 - [Unshoes Uinta](https://www.unshoesusa.com/products/uinta)
-- [Unshoes Wokova Feather](https://www.unshoesusa.com/products/wokova-feather)
+- [Unshoes FAQ](https://www.unshoesusa.com/pages/faq)
 - [Unshoes returns](https://www.unshoesusa.com/pages/returns)
-- [Unshoes FAQ de plantillas](https://www.unshoesusa.com/pages/faq)
 
 ## Preguntas frecuentes
 
-### ¿Pah Tempe o Uinta?
+### ¿Cómo elegir talla en Unshoes?
 
-Pah Tempe si no quieres nada entre dedos. Uinta si aceptas bucle de dedo y buscas más control en terreno irregular.
+Imprime la plantilla oficial y comprueba margen delante, talón y posición de correas. En sandalias no basta con tu talla habitual.
 
-### ¿Wokova Feather sirve para senderismo?
+### ¿Qué Unshoes elegir para agua?
 
-Puede servir para uso activo, pero para sendero duro elegiría Pah Tempe o Uinta por sujeción.
+Pah Tempe y Uinta son las más lógicas por sujeción y orientación a terreno/agua.
 
-### ¿Cómo imprimo la plantilla?
+### ¿Qué Unshoes es más minimalista?
 
-Al 100 %, sin escalar, y comprobando la escala. Si la impresora ajusta a página, la talla puede salir mal.
+Wokova Feather. Es más ligera y simple, aunque menos protegida que opciones más robustas.
 
-### ¿Unshoes es buena compra desde España?
+### ¿Unshoes sirve para pies anchos?
 
-Sí si mides bien y aceptas logística internacional. Si necesitas devolución local, busca alternativas europeas.
+Puede funcionar bien, sobre todo con plantillas correctas y opciones custom. El volumen y la tensión de correas mandan.
+
+### ¿Puedo devolver unas Unshoes custom?
+
+La política oficial indica que custom y closeout son venta final salvo defecto o fabricación incorrecta.

@@ -35,7 +35,6 @@ Esta no es una reseña personal de uso. En el repositorio hay fotos y experienci
 - [Tabla de decisión](#tabla-de-decision)
 - [Pros y contras](#pros-y-contras)
 - [Alternativas](#alternativas)
-- [Segunda revisión editorial](#segunda-revision-editorial)
 - [Fuentes consultadas](#fuentes-consultadas)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
@@ -143,11 +142,6 @@ Fuera de Merrell, Lems Boulder Boot o Boulder Grip pueden tener sentido si quier
 
 Para una visión más amplia, lee [los mejores zapatos para gente al aire libre](/mejores-gente-aire-libre/) y [botas y zapatos barefoot para senderismo](/botas-zapatos-barefoot-senderismo/).
 
-## Segunda revisión editorial
-
-La intención de búsqueda es de compra y comparación: el usuario quiere saber si Wrapt es realmente barefoot, si sirve para senderismo y cómo se diferencia de Vapor/Trail. El artículo evita crear una reseña ficticia y deja clara la ausencia de prueba personal.
-
-La cannibalización se controla enlazando al hub Merrell y a Trail Glove 8 en lugar de repetir toda la guía de modelos. No se hacen promesas médicas. Se explica que drop cero y suela flexible pueden cambiar carga y sensación, pero no curan ni previenen lesiones por sí mismos.
 
 ## Fuentes consultadas
 
