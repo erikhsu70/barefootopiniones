@@ -39,8 +39,11 @@
       "researchDate": "2026-08-22",
       "handsOnEvidence": "documented",
       "sourceFile": "src/posts/altra-escalante-4-opiniones.md",
-      "status": "QA",
-      "notes": "Prueba personal de Isabel con cuatro fotos propias. Objetivo visual ajustado a la evidencia disponible; Escalante 5 es la generación vigente."
+      "status": "Published",
+      "commit": "4bf7b2c457c4294737ac2ef917d1a5d8cb5c6d38",
+      "deployment": "https://78e42dcf.barefootopiniones-com.pages.dev",
+      "liveVerifiedAt": "2026-08-22T15:09:53+02:00",
+      "notes": "Prueba personal de Isabel con cuatro fotos propias. Objetivo visual ajustado a la evidencia disponible; Escalante 5 es la generación vigente. Verificada en producción: HTTP 200, H1, canonical, imágenes, TOC, sitemap, schema y render móvil/escritorio."
     },
     {
       "url": "https://barefootopiniones.com/altra-torin-9-opinion-honesta/",

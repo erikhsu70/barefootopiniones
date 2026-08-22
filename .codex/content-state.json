@@ -1149,6 +1149,30 @@
         "note": "New Groundies Nova comparison using official GS1, GO1 and fit sources; distinguishes Barefoot Fit and Barefoot+ without invented side-by-side wear."
       }
     }
+    ,
+    {
+      "topic": "Altra Escalante 4: opinión y guía de compra 2026",
+      "title": "Altra Escalante 4 opiniones: mi experiencia después de correr y caminar con ellas",
+      "url": "https://barefootopiniones.com/altra-escalante-4-opiniones/",
+      "slug": "altra-escalante-4-opiniones",
+      "status": "Published",
+      "commit": "4bf7b2c457c4294737ac2ef917d1a5d8cb5c6d38",
+      "type": "update",
+      "lastChecked": "2026-08-22T15:09:53+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Altra Escalante 4 opiniones: mi experiencia después de correr y caminar con ellas",
+        "expectedH1": "Altra Escalante 4 opiniones: mi experiencia después de correr y caminar con ellas",
+        "canonical": "https://barefootopiniones.com/altra-escalante-4-opiniones/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "clean desktop and mobile; no broken TOC anchors, images or document-level horizontal overflow",
+        "deployment": "78e42dcf",
+        "note": "Updated through the 133-URL content-gap SOP and verified live after one direct Cloudflare Pages production deployment."
+      }
+    }
   ],
   "extraCampaigns": [
     {
