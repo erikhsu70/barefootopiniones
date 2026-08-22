@@ -7,7 +7,7 @@ layout: layouts/base.njk
   {% include "partials/article-breadcrumb.njk" %}
   <header class="lov-article-hero">
     <div class="lov-article-heading">
-      <p class="lov-article-kicker">{{ category or "Guía" }} · {{ page.date | readableDate }}</p>
+      <p class="lov-article-kicker">{{ category or "Guía" }} · {% if sourceModified %}Actualizado {{ sourceModified | readableDate }}{% else %}{{ page.date | readableDate }}{% endif %}</p>
       <h1>{{ title }}</h1>
       {% if description %}<p>{{ description }}</p>{% endif %}
       <div class="article-author article-author--compact">

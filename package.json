@@ -8,6 +8,8 @@
     "check:featured": "node scripts/check-featured-images.mjs",
     "check:affiliates": "node scripts/clean-affiliate-links.mjs --check",
     "check:models": "node scripts/check-model-images.mjs",
+    "check:originality": "node scripts/check-seo-originality.mjs",
+    "check:seo-campaign": "node scripts/check-seo-optimization-manifest.mjs",
     "check:schema": "node scripts/check-schema.mjs",
     "check:site": "node scripts/check-built-site.mjs",
     "check:titles": "node scripts/normalize-spanish-titles.mjs",
