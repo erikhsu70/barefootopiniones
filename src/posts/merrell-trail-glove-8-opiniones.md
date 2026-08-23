@@ -38,7 +38,7 @@ El ajuste del mediopié me gustó desde el principio. La lengüeta tipo burrito 
 
 Esa sujeción hace que la zapatilla se sienta más cercana al pie. En mi caso fue positiva. En un pie con mucho volumen o un empeine alto podría sentirse restrictiva, incluso cuando la longitud sea correcta.
 
-La guía de [modelos y tallas de Merrell barefoot](https://barefootopiniones.com/merrell-barefoot-guia-modelos-tallas/) ayuda a entender por qué no todos los modelos de la marca ofrecen el mismo espacio ni la misma sensación.
+[Merrell Barefoot opiniones](/merrell-barefoot-opiniones/) ayuda a entender por qué no todos los modelos de la marca ofrecen el mismo espacio ni la misma sensación.
 
 ## Al llegar a la grava, la estructura dejó de sobrar
 

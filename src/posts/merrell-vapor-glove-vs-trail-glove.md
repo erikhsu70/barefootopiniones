@@ -67,7 +67,7 @@ Vapor Glove es "mínimo contacto entre pie y suelo"; Trail Glove es "barefoot de
 
 Merrell suele ajustar más como zapatilla deportiva que como marca barefoot extra ancha. La puntera es más amable que una zapatilla convencional, pero no la pondría al nivel de Softstar, Freet o algunas Be Lenka en espacio lateral. Si tu pie es medio o medio-ancho y valoras sujeción, puede ir bien. Si tu problema principal son dedos muy abiertos o juanetes, prueba antes.
 
-La guía de [Merrell barefoot](/merrell-barefoot-guia-modelos-tallas/) explica la familia completa con Wrapt. Aquí la decisión está entre sensibilidad y protección. No subas talla solo para ganar anchura: puedes provocar que el punto de flexión quede adelantado y el talón se mueva.
+[Merrell Barefoot opiniones](/merrell-barefoot-opiniones/) explica la familia completa con Wrapt. Aquí la decisión está entre sensibilidad y protección. No subas talla solo para ganar anchura: puedes provocar que el punto de flexión quede adelantado y el talón se mueva.
 
 ## Vapor Glove 7
 

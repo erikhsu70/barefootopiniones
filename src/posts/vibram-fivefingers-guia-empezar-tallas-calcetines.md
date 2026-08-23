@@ -190,7 +190,7 @@ También hay que tener cuidado con las promesas de salud. Las FiveFingers pueden
 
 Si te atrae la idea minimalista pero no los dedos separados, hay caminos más sencillos:
 
-- **Merrell Vapor Glove 7:** suela fina, deportiva y muy flexible sin compartimentos para dedos. La guía de [Merrell barefoot](/merrell-barefoot-guia-modelos-tallas/) explica diferencias con Trail Glove y Wrapt.
+- **Merrell Vapor Glove 7:** suela fina, deportiva y muy flexible sin compartimentos para dedos. [Merrell Barefoot opiniones](/merrell-barefoot-opiniones/) explica diferencias con Trail Glove y Wrapt.
 - **Vivobarefoot Primus Lite:** opción de entrenamiento barefoot más clásica, con puntera amplia y estética menos llamativa.
 - **Xero Shoes Prio o HFS II:** más convencionales visualmente, útiles para caminar, entrenar y empezar con minimalismo.
 - **Freet:** interesante si buscas más volumen o pies más anchos en modelos deportivos.

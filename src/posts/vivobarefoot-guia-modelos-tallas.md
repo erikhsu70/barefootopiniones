@@ -192,7 +192,7 @@ Si necesitas más anchura, miraría Freet, Softstar y algunas líneas de Be Lenk
 
 Si quieres una transición con más material bajo el pie, Lems puede resultar más amable en varios modelos. Nuestra review de [Lems Shoes](/lems-shoes-opinion-tallas-modelos/) explica por qué no todos sus zapatos son igual de minimalistas.
 
-Para trail y outdoor, Merrell es fácil de encontrar en tiendas físicas. La [guía de Merrell Barefoot](/merrell-barefoot-guia-modelos-tallas/) compara Vapor Glove, Trail Glove y otras familias.
+Para trail y outdoor, Merrell es fácil de encontrar en tiendas físicas. [Merrell Barefoot opiniones](/merrell-barefoot-opiniones/) compara Vapor Glove, Trail Glove y otras familias.
 
 Si buscas una lista directa de sustitutos, ya tenemos una selección independiente de [alternativas a Vivobarefoot](/mejores-alternativas-vivobarefoot/), ordenada por tipo de uso y no solo por parecido visual.
 

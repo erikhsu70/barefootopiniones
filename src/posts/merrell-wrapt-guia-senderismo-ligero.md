@@ -136,7 +136,7 @@ También revisaría el ruido mental que genera. Si desde el primer minuto siente
 
 ## Alternativas
 
-Dentro de Merrell, [Vapor Glove 7](/merrell-vapor-glove-7-guia-ajuste-usos/) es la opción más minimalista y [Trail Glove 8](/merrell-trail-glove-8-opiniones/) la más lógica para tierra y trail suave. La [guía general de Merrell barefoot](/merrell-barefoot-guia-modelos-tallas/) ayuda a ubicar toda la familia.
+Dentro de Merrell, [Vapor Glove 7](/merrell-vapor-glove-7-guia-ajuste-usos/) es la opción más minimalista y [Trail Glove 8](/merrell-trail-glove-8-opiniones/) la más lógica para tierra y trail suave. [Merrell Barefoot opiniones](/merrell-barefoot-opiniones/) ayuda a ubicar toda la familia.
 
 Fuera de Merrell, Lems Boulder Boot o Boulder Grip pueden tener sentido si quieres más volumen y comodidad de transición; Freet Tundra si necesitas una opción outdoor barefoot más amplia; Vivobarefoot Tracker si buscas una bota premium; Xero Ridgeway o Mesa Trail si priorizas deporte y sendero.
 

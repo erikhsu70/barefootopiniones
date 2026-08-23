@@ -140,4 +140,4 @@ En general, Freet suele sentirse más amplia en antepié. Aun así, mide el mode
 
 ### ¿Qué leo después?
 
-Lee [Freet Pace vs Flex 2 vs Vibe 2](/freet-pace-vs-flex-2-vs-vibe-2/), [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/) y [Merrell barefoot](/merrell-barefoot-guia-modelos-tallas/).
+Lee [Freet Pace vs Flex 2 vs Vibe 2](/freet-pace-vs-flex-2-vs-vibe-2/), [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/) y [Merrell Barefoot opiniones](/merrell-barefoot-opiniones/).

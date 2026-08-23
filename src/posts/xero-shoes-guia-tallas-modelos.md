@@ -128,7 +128,7 @@ Mesa Trail II incorpora una suela FeelTrue con tacos de 3,5 mm y una capa TrailF
 
 Me parece una propuesta coherente para caminos, senderos secos y trail moderado. La protección soldada del upper y la sujeción de mediopié buscan controlar mejor el pie que una zapatilla urbana.
 
-No confundiría ligereza con protección total. En roca agresiva o rutas largas, la sensibilidad puede cansar a quien no está adaptado. Para humedad frecuente también compararía modelos impermeables y nuestra guía de [Merrell Barefoot](/merrell-barefoot-guia-modelos-tallas/).
+No confundiría ligereza con protección total. En roca agresiva o rutas largas, la sensibilidad puede cansar a quien no está adaptado. Para humedad frecuente también compararía modelos impermeables y [Merrell Barefoot opiniones](/merrell-barefoot-opiniones/).
 
 ### Dillon para vestir informal
 
