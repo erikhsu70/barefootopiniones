@@ -21,13 +21,6 @@ faqItems:
   - question: "¿Vivobarefoot merece lo que cuesta?"
     answer: "Puede merecerlo si la horma coincide con tu pie y buscas un modelo específico para entrenamiento, ciudad o montaña. Si solo quieres probar el concepto, hay alternativas más económicas."
 ---
-1. **Primus Lite IV**, la más versátil para gimnasio y diario
-2. **Motus Strength II**, la más lógica para fuerza y fitness funcional
-3. **Motus Flex**, para movilidad y una sensación especialmente libre
-4. **Gobi Sneaker**, la alternativa de piel para vestir informal
-5. **Primus Trail**, para caminos y trail moderado
-6. **Tracker Textile AT II**, para senderismo y tiempo inestable
-
 ## Índice
 
 - [Mi opinión resumida](#mi-opinion-resumida)
@@ -66,11 +59,6 @@ La marca tampoco equivale a andar descalzo. Sigues llevando una suela, un upper 
 Otro punto diferencial es la amplitud de catálogo. Hay zapatillas de fuerza, opciones de movilidad, modelos urbanos, calzado infantil, trail y botas. Esa variedad coloca a Vivo por delante de marcas pequeñas que hacen muy bien una sola categoría, pero no significa que todas las familias ajusten igual.
 
 En mi opinión, su mejor cualidad no es tener la suela más fina posible. Es poder elegir una construcción bastante minimalista sin renunciar por completo a un diseño reconocible y fácil de combinar.
-
-<figure>
-  <img src="/assets/images/models/vivobarefoot__motus-flex.png" alt="Vivobarefoot Motus Flex con puntera anatómica y construcción flexible" width="900" height="900" loading="lazy">
-  <figcaption>Motus Flex representa el lado más libre de la colección, pero no sustituye a los modelos de fuerza, ciudad o montaña.</figcaption>
-</figure>
 
 ## 6 modelos Vivobarefoot que compararía
 
