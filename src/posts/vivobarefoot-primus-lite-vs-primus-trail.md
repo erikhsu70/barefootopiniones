@@ -138,7 +138,7 @@ Límites:
 
 ## Alternativas
 
-Para la marca completa, consulta [Vivobarefoot: guía de modelos y tallas](/vivobarefoot-guia-modelos-tallas/). Si buscas entrenamiento puro, lee [Primus Lite IV vs Motus Strength II](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/). Para trail minimalista fuera de Vivo, compara con [Merrell Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/) o [Vibram V-Trail 2.0 vs V-Run](/vibram-v-trail-2-vs-v-run-montana-asfalto/).
+Para la marca completa, consulta [Vivobarefoot opiniones](/vivobarefoot-opiniones/). Si buscas entrenamiento puro, lee [Primus Lite IV vs Motus Strength II](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/). Para trail minimalista fuera de Vivo, compara con [Merrell Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/) o [Vibram V-Trail 2.0 vs V-Run](/vibram-v-trail-2-vs-v-run-montana-asfalto/).
 
 Si quieres más protección en montaña, empieza por [botas barefoot de senderismo](/botas-zapatos-barefoot-senderismo/).
 

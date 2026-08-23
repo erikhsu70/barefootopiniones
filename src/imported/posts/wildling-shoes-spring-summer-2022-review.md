@@ -118,7 +118,7 @@ Para niños, la ligereza es una ventaja real, pero no sustituye revisar talla. U
 - **Feelgrounds:** vegana y urbana.
 - **Groundies:** más pulida para oficina y vestir.
 - **Freet:** más ancha y funcional.
-- **Vivobarefoot:** más deportiva y estructurada; lee [Vivobarefoot](/vivobarefoot-guia-modelos-tallas/).
+- **Vivobarefoot:** más deportiva y estructurada; lee [Vivobarefoot opiniones](/vivobarefoot-opiniones/).
 
 
 ## Preguntas frecuentes
@@ -137,4 +137,4 @@ No es mejor ni peor. Wildling es más flexible y singular; Mukishoes se siente m
 
 ### ¿Qué leo después?
 
-Compara con [Mukishoes](/mukishoes-review/), [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/) y [Vivobarefoot](/vivobarefoot-guia-modelos-tallas/).
+Compara con [Mukishoes](/mukishoes-review/), [zapatos barefoot para pies anchos](/barefoot-pies-anchos-guia-completa/) y [Vivobarefoot opiniones](/vivobarefoot-opiniones/).

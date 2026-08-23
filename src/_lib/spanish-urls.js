@@ -565,6 +565,7 @@ const faqLegacyPaths = Object.fromEntries(
     ])
 );
 const customLegacyPaths = {
+  "/vivobarefoot-guia-modelos-tallas/": "/vivobarefoot-opiniones/",
   "/lems-opinion-tallas-modelos/": "/lems-shoes-opinion-tallas-modelos/",
   "/origo-shoes-opinion-tallas/": "/origo-opinion-tallas/",
   "/opiniones/": "/opiniones/1/",

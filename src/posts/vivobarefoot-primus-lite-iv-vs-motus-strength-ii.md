@@ -122,7 +122,7 @@ Límites:
 
 ## Alternativas
 
-Si quieres una visión más amplia, lee [la guía de Vivobarefoot](/vivobarefoot-guia-modelos-tallas/). Si buscas algo más económico, [Xero Prio](/xero-prio-opiniones/) y [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/) cubren otro presupuesto. Para comparar gimnasio con otras marcas, revisa [los mejores Freet para correr, gimnasio y caminar](/mejores-freet-correr-gimnasio-caminar/) y [Merrell Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/).
+Si quieres una visión más amplia, lee [Vivobarefoot opiniones](/vivobarefoot-opiniones/). Si buscas algo más económico, [Xero Prio](/xero-prio-opiniones/) y [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/) cubren otro presupuesto. Para comparar gimnasio con otras marcas, revisa [los mejores Freet para correr, gimnasio y caminar](/mejores-freet-correr-gimnasio-caminar/) y [Merrell Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/).
 
 
 ## Fuentes consultadas

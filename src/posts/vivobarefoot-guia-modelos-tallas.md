@@ -6,7 +6,7 @@ date: 2026-08-23
 category: "Opiniones"
 tags: ["opiniones", "resenas", "vivobarefoot", "puntera-ancha", "zapatillas"]
 contentType: "Artículo"
-permalink: /vivobarefoot-guia-modelos-tallas/
+permalink: /vivobarefoot-opiniones/
 image: "/assets/images/models/vivobarefoot__motus-flex.png"
 imageAlt: "Zapatillas Vivobarefoot Motus Flex vistas de perfil"
 faqItems:

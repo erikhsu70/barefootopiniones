@@ -43,7 +43,7 @@ faqItems:
 
 </div>
 
-La [ficha oficial de Gobi Boot II](https://www.vivobarefoot.com/us/gobi-boot-ii-mens) publica suela Gobi de 4 mm, plantilla de corcho, piel sin forro y ajuste fiel a talla. El [centro de soporte de lifestyle masculino](https://support.vivobarefoot.com/hc/en-gb/sections/22303144202781-Mens-Lifestyle) enumera Scott IV y Gobi Boot Warmlined. Para una visión completa, consulta la [guía Vivobarefoot](/vivobarefoot-guia-modelos-tallas/) y la comparación [Primus Lite vs Primus Trail](/vivobarefoot-primus-lite-vs-primus-trail/).
+La [ficha oficial de Gobi Boot II](https://www.vivobarefoot.com/us/gobi-boot-ii-mens) publica suela Gobi de 4 mm, plantilla de corcho, piel sin forro y ajuste fiel a talla. El [centro de soporte de lifestyle masculino](https://support.vivobarefoot.com/hc/en-gb/sections/22303144202781-Mens-Lifestyle) enumera Scott IV y Gobi Boot Warmlined. Para una visión completa, consulta [Vivobarefoot opiniones](/vivobarefoot-opiniones/) y la comparación [Primus Lite vs Primus Trail](/vivobarefoot-primus-lite-vs-primus-trail/).
 
 ## Los 3 casos en que elegiría una alternativa a Scott
 
