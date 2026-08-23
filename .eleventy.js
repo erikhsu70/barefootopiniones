@@ -335,9 +335,22 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
     "-A99iiex31w",
     "V5x4mzjbwu8",
     "yCgLpWzMyds",
-    "jeuj1CaXcso"
+    "jeuj1CaXcso",
+    "FZDakqX3ffg",
+    "6L33VA63qY0"
   ]);
-  const protectedHtml = String(html).replace(
+  const protectedHtml = String(html)
+    .replace(
+      /<div\b(?=[^>]*class=["'][^"']*\bvideo-embed\b[^"']*["'])[^>]*>\s*<iframe\b(?=[^>]*class=["'][^"']*\beditorial-video-frame\b[^"']*["'])(?=[^>]*src=["']https:\/\/www\.youtube-nocookie\.com\/embed\/([\w-]{6,})(?:[^"']*)["'])[^>]*>[\s\S]*?<\/iframe>\s*<\/div>/gi,
+      (embedHtml, videoId) => {
+        const title = (embedHtml.match(/\btitle=["']([^"']+)["']/i)?.[1] || "Vídeo relacionado con el artículo")
+          .replace(/[<>]/g, "");
+        const token = `@@EDITORIAL_YOUTUBE_${editorialVideos.length}@@`;
+        editorialVideos.push(`<div class="ast-oembed-container editorial-video"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/${videoId}" title="${title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`);
+        return token;
+      }
+    )
+    .replace(
     /<div\b(?=[^>]*class=["'][^"']*\bast-oembed-container\b[^"']*["'])[^>]*>[\s\S]*?<iframe\b[^>]*src=["']https:\/\/(?:www\.)?youtube\.com\/embed\/([\w-]{6,})(?:[^"']*)["'][^>]*>[\s\S]*?<\/iframe>[\s\S]*?<\/div>/gi,
     (embedHtml, videoId) => {
       if (!editorialYoutubeIds.has(videoId)) return embedHtml;
@@ -347,7 +360,7 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
       editorialVideos.push(`<div class="ast-oembed-container editorial-video"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/${videoId}" title="${title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>`);
       return token;
     }
-  );
+    );
 
   const emptyToken = "(?:\\s|&nbsp;|&#160;|<br\\s*\\/?>)*";
   const emptyInlineToken = "(?:\\s|&nbsp;|&#160;|<br\\s*\\/?>|<!--(?:[\\s\\S]*?)-->|<(?:a|span|strong|em|b|i|code|small)(?:\\s[^>]*)?>\\s*<\\/(?:a|span|strong|em|b|i|code|small)>)*";

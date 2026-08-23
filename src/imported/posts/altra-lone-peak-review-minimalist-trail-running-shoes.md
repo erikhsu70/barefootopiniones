@@ -1,26 +1,70 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: "Mi opinión sobre Altra Lone Peak 5: zapatillas minimalistas para correr por senderos"
-description: 'Los zapatos para correr Altra son un excelente primer paso en el mundo
-  del calzado barefoot: tienen una puntera con forma de pie, suela de zero drop y
-  suela exterior duradera que lo protege de los elementos. Lone Peak es la línea más
-  versátil de Altra que se puede utilizar para senderismo, trail running y actividades
-  diarias.'
+title: "Altra Lone Peak 5 opiniones en 2026: ajuste, tallas y sucesora actual"
+description: "Altra Lone Peak 5 opiniones tras una prueba real: ajuste, tallas, agarre, pros y contras, y comparación transparente con la Lone Peak 9+ actual."
 date: '2021-05-05T15:36:14'
 permalink: /altra-lone-peak-review-minimalist-trail-running-shoes/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 13642
 sourceSlug: altra-lone-peak-review-minimalist-trail-running-shoes
-sourceModified: '2026-06-13T00:22:18'
+sourceModified: '2026-08-23T10:10:00'
 image: "/assets/generated/featured/posts/altra-lone-peak-review-minimalist-trail-running-shoes.jpg"
 imageAlt: "Imagen destacada de Revisión de Altra Lone Peak 5: zapatillas minimalistas para correr por senderos"
 tags:
 - traducido
 language: es
 translatedFrom: en
+faqItems:
+  - question: "¿Sigue a la venta la Altra Lone Peak 5 en 2026?"
+    answer: "No forma parte del catálogo actual de Altra. Puede aparecer como resto de stock o de segunda mano; la familia oficial vigente consultada es Lone Peak 9+."
+  - question: "¿La Altra Lone Peak 5 es barefoot?"
+    answer: "Tiene drop cero y puntera amplia, pero su suela de 25 mm y amortiguación hacen que sea minimalista de transición, no un zapato barefoot fino."
+  - question: "¿Qué sustituye a la Lone Peak 5?"
+    answer: "La sucesora actual es la familia Lone Peak 9+, con versiones estándar, Wide, Gore-Tex y Waterproof Mid según mercado."
+  - question: "¿Cómo talla la Lone Peak 5?"
+    answer: "La experiencia original fue fiel a talla, aunque una parte de la comunidad subió media talla. En stock antiguo conviene comprobar centímetros y política de devolución."
 ---
+**Veredicto actualizado:** la Lone Peak 5 fue una zapatilla de trail zero drop convincente para quien quería puntera amplia y más protección que un barefoot fino. En 2026 ya es un modelo de archivo: solo la compraría si está en buen estado, la talla está clara y el descuento compensa renunciar a garantía o devolución. Para una compra nueva empezaría por la Lone Peak 9+ actual.
+
+<p class="affiliate-disclosure">Transparencia: la experiencia de uso, ajuste y terreno que sigue en esta página pertenece a la Lone Peak 5 probada originalmente. La comparación con la generación actual procede de información oficial consultada en agosto de 2026; no afirmamos haber probado la Lone Peak 9+.</p>
+
+## Altra Lone Peak 5 opiniones: qué ha cambiado en 2026
+
+La Lone Peak 5 ya no aparece en la [familia Lone Peak oficial para Europa](https://www.altrarunning.eu/es/lone-peak-family.html). La generación de compra nueva es la **Lone Peak 9+**, disponible en versiones estándar, Wide y variantes impermeables según mercado. Esto no invalida la experiencia original: ayuda a valorar un par usado o un resto de stock, pero las especificaciones y el ajuste no deben trasladarse automáticamente entre generaciones.
+
+## Lone Peak 5 vs Lone Peak 9+: tabla de decisión
+
+<div class="table-scroll" role="region" aria-label="Comparación Altra Lone Peak 5 y Lone Peak 9 Plus" tabindex="0">
+
+| Aspecto | Lone Peak 5 probada | Lone Peak 9+ actual | Qué significa al comprar |
+|---|---|---|---|
+| Situación en 2026 | retirada | catálogo vigente | la 5 depende de stock antiguo o segunda mano |
+| Drop | 0 mm | 0 mm | ambas mantienen una plataforma plana |
+| Grosor de suela | 25 mm | 25 mm | ninguna es barefoot fina |
+| Suela exterior | MaxTrac en la generación 5 | Vibram Megagrip en 9+ | la actual prioriza agarre en seco y mojado |
+| Puntera | amplia, tres opciones de anchura descritas en archivo | FootShape Original; versiones Wide | no des por hecho la misma talla entre generaciones |
+| Mejor para | trail, senderismo y transición | trail y senderismo actuales | la 9+ ofrece compra, devolución y garantía vigentes |
+
+</div>
+
+La [ficha oficial europea de la Lone Peak 9+](https://www.altrarunning.eu/es/lone-peak-9-hombre-al0a85rg000.html) confirma 0 mm de drop, 25 mm de grosor, mediasuela Altra EGO, suela Vibram Megagrip y horma FootShape Original. La versión consultada se anuncia para trail running y senderismo. Son datos de la generación nueva, no una corrección retroactiva de la Lone Peak 5.
+
+## Los 3 casos en que todavía elegiría la Lone Peak 5
+
+1. **Resto de stock con devolución:** si ya conoces la talla y el precio es claramente inferior al de la actual.
+2. **Segunda mano casi nueva:** si puedes revisar desgaste de tacos, mediasuela, upper y talón antes de pagar.
+3. **Reemplazo idéntico:** si tu par anterior funcionó y buscas exactamente la misma sensación, aceptando que los materiales envejecen incluso sin uso.
+
+No la elegiría a ciegas por nostalgia ni pagaría precio de generación actual. Para comparar otras zapatillas con puntera amplia y amortiguación, consulta la [guía de Altra Torin 9](/altra-torin-9-opinion-honesta/) y las [zapatillas barefoot para correr](/zapatos-correderas-de-barefoot-una-lista-completa-de-zapatillas-atleticas-zero-drop/).
+
+## Vídeo de la Altra Lone Peak 5
+
+El vídeo permite ver el volumen, la flexión y la construcción del modelo analizado. Es útil como apoyo visual para la Lone Peak 5, no como demostración de la Lone Peak 9+.
+
+<div class="video-embed"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/rja1BpzBlGk" title="Análisis visual de la Altra Lone Peak 5" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <p> son un excelente primer paso hacia el mundo del calzado barefoot: tienen una puntera con forma de pie, suela de zero drop y suela exterior duradera que lo protege de los elementos. Lone Peak es la línea más versátil de Altra que se puede utilizar para senderismo, trail running y actividades diarias. ¡Mira mi reseña de Altra a continuación!</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-a27fea42" data-offset="30" data-scroll="1" style="">
 <div class="uagb-toc__wrap">

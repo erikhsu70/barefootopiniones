@@ -1,9 +1,8 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: "Mi opinión sobre botas de invierno barefoot Be Lenka: Polar, Nord, Sierra e Winter"
-description: Las botas de invierno Be Lenka son algunos de los Zapatos barefoot cálidos
-  más funcionales que existen. ¡Aquí estamos revisando los 4 estilos de invierno!
+title: "Botas Be Lenka Polar, Nord, Sierra y Winter: opiniones 2026"
+description: "Opiniones reales de Be Lenka Polar, Nord, Sierra y Winter, situación actual, tallas y alternativas Winter 3.0 y ArcticEdge en 2026."
 date: '2021-01-14T19:21:06'
 permalink: /be-lenka-barefoot-winter-boots-review-polar-nord-sierra-winter/
 sourceType: Artículo
@@ -11,14 +10,50 @@ contentType: Artículo
 hideModelGallery: true
 sourceId: 9998
 sourceSlug: be-lenka-barefoot-winter-boots-review-polar-nord-sierra-winter
-sourceModified: '2025-12-23T23:32:32'
+sourceModified: '2026-08-23T11:05:00'
 image: "/assets/generated/featured/posts/be-lenka-barefoot-winter-boots-review-polar-nord-sierra-winter.jpg"
 imageAlt: "Imagen destacada de Revisión de botas de invierno descalzas Be Lenka: Polar, Nord, Sierra e Winter"
 tags:
 - traducido
 language: es
 translatedFrom: en
+faqItems:
+  - question: "¿Polar, Nord y Sierra siguen siendo modelos actuales?"
+    answer: "No aparecen en la colección oficial de invierno consultada en 2026. Esta página los trata como archivo y no como stock garantizado."
+  - question: "¿Qué sustituto actual mirar?"
+    answer: "Winter 3.0 para ciudad fría y ArcticEdge si la prioridad es impermeabilidad. No son reemplazos idénticos."
+  - question: "¿Cuál de los modelos antiguos era más cálido?"
+    answer: "La experiencia original comparaba forro polar y lana, pero la sensación térmica depende de calcetín, actividad, humedad y ajuste."
+  - question: "¿Debo subir talla por el forro?"
+    answer: "Mide con el calcetín previsto y usa la tabla del modelo. La propia ficha de Winter 3.0 advierte que el aislamiento reduce espacio interior."
 ---
+**Veredicto 2026:** Polar, Nord y Sierra son referencias históricas; Winter ha evolucionado a **Winter 3.0**. Mantengo las pruebas originales porque ayudan a valorar pares usados, pero para compra nueva separaría Winter 3.0, urbana y resistente al agua, de ArcticEdge, declarada impermeable.
+
+<p class="affiliate-disclosure">Transparencia: los cuatro modelos antiguos se probaron y compararon. La información de Winter 3.0 y ArcticEdge procede de Be Lenka y no implica experiencia propia.</p>
+
+## Situación de los cuatro modelos en 2026
+
+<div class="table-scroll" role="region" aria-label="Situación de Be Lenka Polar Nord Sierra y Winter" tabindex="0">
+
+| Modelo | Tipo original | Situación 2026 | Alternativa que miraría |
+|---|---|---|---|
+| Sierra | bota alta forrada | archivo | colección alta actual, sin equivalencia confirmada |
+| Nord | bota con cremallera y polar | archivo | Atlas o gama de otoño según uso |
+| Polar | bota con cremallera y lana | archivo | Winter 3.0 para ciudad fría |
+| Winter | cordones y lana | evolucionada | Winter 3.0 |
+| ArcticEdge | no estaba en la prueba original | actual | lluvia, nieve y más protección |
+
+</div>
+
+La [colección oficial de invierno](https://www.belenka.com/winter-barefoot-shoes/) muestra Winter 3.0 y ArcticEdge. ArcticEdge se publica como impermeable, con Primaloft y ThermoGrip Neo; Winter 3.0 usa piel, merino, membrana y DeepGrip, y se presenta como resistente al agua. Lee también la comparativa de la [colección Be Lenka 2023](/opinion-botas-barefoot-be-lenka-coleccion/) y la guía de [botas barefoot para frío y nieve](/botas-barefoot-invierno-nieve/).
+
+## Las 2 compras Be Lenka que priorizaría hoy
+
+1. **Winter 3.0** para ciudad, frío y una estética clásica con cordones.
+2. **ArcticEdge** para quien necesita una declaración oficial de impermeabilidad y más enfoque técnico.
+
+No se incluye vídeo porque no apareció una comparación actual de estas dos familias con metodología suficientemente clara.
+
 <p>No es ningún secreto que amo . Be Lenka combina todas mis cosas favoritas en un solo paquete:<em> <strong><em>sensación de barefoot</em></strong></em>, <em><strong>bueno</strong> <strong>estilo</strong></em>, Y <em><strong>funcionalidad</strong></em>. Vivo en un clima frío, por lo que la parte funcional es clave, y las botas de invierno Be Lenka cumplen todos los requisitos.<strong> En esta publicación revisamos 4 de los estilos de botas de invierno descalzas de Be Lenka que han sido súper populares este otoño. ¡Sigue leyendo para ver la reseña completa!</strong></p>
 <p class="has-normal-font-size">*El código <code><strong>CUALQUIER EXAMEN</strong></code> trabaja con un 5 % de descuento en Be Lenka directamente desde o (Sólo se aceptan devoluciones desde dentro de la UE y EE. UU.). Los clientes de EE. UU. y Canadá pueden registrarse para recibir correos electrónicos de la tienda para obtener un código de descuento del 10 %. .*</p>
 <div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-fcdf0963" data-offset="30" data-scroll="1" style="">

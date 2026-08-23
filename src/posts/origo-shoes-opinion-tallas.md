@@ -10,6 +10,7 @@ autoToc: true
 permalink: /origo-opinion-tallas/
 image: "/assets/images/mary-jane.jpg"
 imageAlt: "Zapatos tejidos Origo negros con correa sobre el empeine y puntera amplia"
+sourceModified: 2026-08-23
 faqItems:
   - question: "¿Origo Shoes es una marca barefoot?"
     answer: "Sí. Sus modelos actuales se basan en puntera amplia, suela plana, flexibilidad y poca altura de suela. La sensación cambia mucho entre sneakers, Huarache, Mary Jane y botas."
@@ -29,6 +30,8 @@ También es una marca con la que Barefoot Opiniones tiene una historia real. Isa
 **Veredicto rápido:** Origo Shoes merece estar en la lista si buscas barefoot con estética limpia, materiales más cuidados que la media barata y modelos de vestir que no aplasten los dedos. Me parece especialmente interesante para pies medios, medio-anchos y para quien quiere una transición barefoot sin parecer que va al gimnasio. Si tienes pies extra anchos, empezaría por Huarache Wide o Woven Ballerina antes que por las sneakers. Si necesitas devoluciones fáciles desde España, revisaría muy bien la política internacional antes de comprar.
 
 <p class="affiliate-disclosure">Transparencia: este artículo puede incluir enlaces afiliados o enlaces a tiendas. La imagen principal procede del repositorio de Barefoot Opiniones y muestra un modelo tejido de Origo. Las afirmaciones personales se limitan a los Huarache y a modelos/documentación ya publicados por Isabel; no se han inventado kilómetros, tallas, durabilidad ni pruebas de toda la gama actual.</p>
+
+> **Actualización de agosto de 2026:** se han contrastado catálogo, tallas y condiciones de compra con las páginas oficiales. Origo fabrica en lotes pequeños, por lo que un modelo citado puede seguir vigente aunque una combinación de talla o color esté temporalmente agotada. No hemos encontrado un vídeo oficial o independiente suficientemente útil y actual como para insertarlo solo por cumplir formato.
 
 ## Qué es Origo Shoes
 

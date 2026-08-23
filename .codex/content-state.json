@@ -340,17 +340,15 @@
       }
     },
     {
-      "topic": "Mukishoes: guía actualizada",
+      "topic": "Mukishoes: actualización SEO 2026",
       "title": "Mi opinión honesta sobre Mukishoes: tallas, ventajas y mejores modelos",
       "url": "https://barefootopiniones.com/opinion-mukishoes-marca-barefoot-sostenible/",
       "slug": "opinion-mukishoes-marca-barefoot-sostenible",
       "status": "Published",
       "commit": "daily-batch-2026-08-06",
       "type": "update",
-      "lastChecked": "2026-08-06T20:52:00+02:00",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
       "verification": {
-        "localBuild": "npm run build passed from clean clone",
-        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles",
         "httpStatus": 200,
         "observedH1": "Mi opinión honesta sobre Mukishoes: tallas, ventajas y mejores modelos",
         "expectedH1": "Mi opinión honesta sobre Mukishoes: tallas, ventajas y mejores modelos",
@@ -358,24 +356,22 @@
         "imageStatus": 200,
         "indexEntry": true,
         "sitemapEntry": true,
-        "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "live custom-domain HTML/CSS responsive safeguards checked; viewport and table-scroll present; no browser executable was available for screenshot capture",
-        "deployment": "f6963220",
-        "note": "Substantially updated existing brand hub, preserved canonical URL, verified live on the custom domain after direct Cloudflare Pages deployment. marca/mukishoes includes the URL."
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
       }
     },
     {
-      "topic": "Wildling Shoes: guía actualizada",
+      "topic": "Wildling: actualización SEO 2026",
       "title": "Mi opinión honesta sobre Wildling Shoes: tallas, ventajas y mejores modelos",
       "url": "https://barefootopiniones.com/opinion-zapatos-wildling-primavera-verano-2022/",
       "slug": "opinion-zapatos-wildling-primavera-verano-2022",
       "status": "Published",
       "commit": "daily-batch-2026-08-06",
       "type": "update",
-      "lastChecked": "2026-08-06T20:52:00+02:00",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
       "verification": {
-        "localBuild": "npm run build passed from clean clone",
-        "checks": "npm run build; export:content; check:featured; check:affiliates; check:models; check:schema; check:site; check:urls; check:titles",
         "httpStatus": 200,
         "observedH1": "Mi opinión honesta sobre Wildling Shoes: tallas, ventajas y mejores modelos",
         "expectedH1": "Mi opinión honesta sobre Wildling Shoes: tallas, ventajas y mejores modelos",
@@ -383,10 +379,10 @@
         "imageStatus": 200,
         "indexEntry": true,
         "sitemapEntry": true,
-        "schema": "BlogPosting, Breadcrumb and FAQ",
-        "render": "live custom-domain HTML/CSS responsive safeguards checked; viewport and table-scroll present; no browser executable was available for screenshot capture",
-        "deployment": "f6963220",
-        "note": "Substantially updated existing brand hub, preserved canonical URL, verified live on the custom domain after direct Cloudflare Pages deployment. marca/wildling includes the URL."
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
       }
     },
     {
@@ -1148,8 +1144,7 @@
         "deployment": "pending direct Cloudflare Pages batch deployment",
         "note": "New Groundies Nova comparison using official GS1, GO1 and fit sources; distinguishes Barefoot Fit and Barefoot+ without invented side-by-side wear."
       }
-    }
-    ,
+    },
     {
       "topic": "Altra Escalante 4: opinión y guía de compra 2026",
       "title": "Altra Escalante 4 opiniones: mi experiencia después de correr y caminar con ellas",
@@ -1171,6 +1166,402 @@
         "render": "clean desktop and mobile; no broken TOC anchors, images or document-level horizontal overflow",
         "deployment": "78e42dcf",
         "note": "Updated through the 133-URL content-gap SOP and verified live after one direct Cloudflare Pages production deployment."
+      }
+    },
+    {
+      "topic": "Origo Huarache: actualización SEO 2026",
+      "title": "Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos",
+      "url": "https://barefootopiniones.com/origo-opinion-tallas/",
+      "slug": "origo-opinion-tallas",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos",
+        "expectedH1": "Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos",
+        "canonical": "https://barefootopiniones.com/origo-opinion-tallas/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Altra Lone Peak 5: actualización SEO 2026",
+      "title": "Altra Lone Peak 5 opiniones en 2026: ajuste, tallas y sucesora actual",
+      "url": "https://barefootopiniones.com/opinion-altra-lone-peak-5-zapatillas/",
+      "slug": "opinion-altra-lone-peak-5-zapatillas",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Altra Lone Peak 5 opiniones en 2026: ajuste, tallas y sucesora actual",
+        "expectedH1": "Altra Lone Peak 5 opiniones en 2026: ajuste, tallas y sucesora actual",
+        "canonical": "https://barefootopiniones.com/opinion-altra-lone-peak-5-zapatillas/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Angles Fashion: actualización SEO 2026",
+      "title": "Angles Fashion opiniones 2026: tallas, ajuste y mejores modelos",
+      "url": "https://barefootopiniones.com/opinion-angles-fashion-nos-encantan-estos/",
+      "slug": "opinion-angles-fashion-nos-encantan-estos",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Angles Fashion opiniones 2026: tallas, ajuste y mejores modelos",
+        "expectedH1": "Angles Fashion opiniones 2026: tallas, ajuste y mejores modelos",
+        "canonical": "https://barefootopiniones.com/opinion-angles-fashion-nos-encantan-estos/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Barebarics: actualización SEO 2026",
+      "title": "Barebarics opiniones 2026: tallas, ajuste y mejores modelos",
+      "url": "https://barefootopiniones.com/opinion-barebarics-mejores-zapatillas-gruesas/",
+      "slug": "opinion-barebarics-mejores-zapatillas-gruesas",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Barebarics opiniones 2026: tallas, ajuste y mejores modelos",
+        "expectedH1": "Barebarics opiniones 2026: tallas, ajuste y mejores modelos",
+        "canonical": "https://barefootopiniones.com/opinion-barebarics-mejores-zapatillas-gruesas/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Barebound Vulcan: actualización SEO 2026",
+      "title": "Barebound opiniones 2026: zuecos Vulcan, tallas y ajuste",
+      "url": "https://barefootopiniones.com/opinion-barebound-zuecos-barefoot/",
+      "slug": "opinion-barebound-zuecos-barefoot",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Barebound opiniones 2026: zuecos Vulcan, tallas y ajuste",
+        "expectedH1": "Barebound opiniones 2026: zuecos Vulcan, tallas y ajuste",
+        "canonical": "https://barefootopiniones.com/opinion-barebound-zuecos-barefoot/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka City: actualización SEO 2026",
+      "title": "Be Lenka City opiniones en 2026: tallas y alternativas actuales",
+      "url": "https://barefootopiniones.com/opinion-be-lenka-city-zapatillas-informales/",
+      "slug": "opinion-be-lenka-city-zapatillas-informales",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Be Lenka City opiniones en 2026: tallas y alternativas actuales",
+        "expectedH1": "Be Lenka City opiniones en 2026: tallas y alternativas actuales",
+        "canonical": "https://barefootopiniones.com/opinion-be-lenka-city-zapatillas-informales/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka Icon: actualización SEO 2026",
+      "title": "Be Lenka Icon opiniones en 2026: tallas y alternativas actuales",
+      "url": "https://barefootopiniones.com/opinion-be-lenka-icon-barefoot-informal/",
+      "slug": "opinion-be-lenka-icon-barefoot-informal",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Be Lenka Icon opiniones en 2026: tallas y alternativas actuales",
+        "expectedH1": "Be Lenka Icon opiniones en 2026: tallas y alternativas actuales",
+        "canonical": "https://barefootopiniones.com/opinion-be-lenka-icon-barefoot-informal/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka Prime: actualización SEO 2026",
+      "title": "Be Lenka Prime opiniones en 2026: tallas y alternativas actuales",
+      "url": "https://barefootopiniones.com/opinion-be-lenka-prime-zapatilla-pies-anchos/",
+      "slug": "opinion-be-lenka-prime-zapatilla-pies-anchos",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Be Lenka Prime opiniones en 2026: tallas y alternativas actuales",
+        "expectedH1": "Be Lenka Prime opiniones en 2026: tallas y alternativas actuales",
+        "canonical": "https://barefootopiniones.com/opinion-be-lenka-prime-zapatilla-pies-anchos/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Bearfoot Bruin: actualización SEO 2026",
+      "title": "Bearfoot Bruin opiniones 2026: ajuste y límites como bota de trabajo",
+      "url": "https://barefootopiniones.com/opinion-bearfoot-bruin-botas-trabajo-barefoot/",
+      "slug": "opinion-bearfoot-bruin-botas-trabajo-barefoot",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Bearfoot Bruin opiniones 2026: ajuste y límites como bota de trabajo",
+        "expectedH1": "Bearfoot Bruin opiniones 2026: ajuste y límites como bota de trabajo",
+        "canonical": "https://barefootopiniones.com/opinion-bearfoot-bruin-botas-trabajo-barefoot/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Bohempia: actualización SEO 2026",
+      "title": "Bohempia opiniones 2026: tallas y alternativas barefoot a Vans",
+      "url": "https://barefootopiniones.com/opinion-bohempia-alternativas-barefoot/",
+      "slug": "opinion-bohempia-alternativas-barefoot",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Bohempia opiniones 2026: tallas y alternativas barefoot a Vans",
+        "expectedH1": "Bohempia opiniones 2026: tallas y alternativas barefoot a Vans",
+        "canonical": "https://barefootopiniones.com/opinion-bohempia-alternativas-barefoot/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka: actualización SEO 2026",
+      "title": "Botas barefoot Be Lenka 2023: opiniones y equivalentes en 2026",
+      "url": "https://barefootopiniones.com/opinion-botas-barefoot-be-lenka-coleccion/",
+      "slug": "opinion-botas-barefoot-be-lenka-coleccion",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Botas barefoot Be Lenka 2023: opiniones y equivalentes en 2026",
+        "expectedH1": "Botas barefoot Be Lenka 2023: opiniones y equivalentes en 2026",
+        "canonical": "https://barefootopiniones.com/opinion-botas-barefoot-be-lenka-coleccion/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Lems Chukka Grip: actualización SEO 2026",
+      "title": "Botas Chukka de Lems Shoes opiniones: talla y Chukka Grip 2026",
+      "url": "https://barefootopiniones.com/opinion-botas-chukka-lems/",
+      "slug": "opinion-botas-chukka-lems",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Botas Chukka de Lems Shoes opiniones: talla y Chukka Grip 2026",
+        "expectedH1": "Botas Chukka de Lems Shoes opiniones: talla y Chukka Grip 2026",
+        "canonical": "https://barefootopiniones.com/opinion-botas-chukka-lems/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka Polar: actualización SEO 2026",
+      "title": "Botas Be Lenka Polar, Nord, Sierra y Winter: opiniones 2026",
+      "url": "https://barefootopiniones.com/opinion-botas-invierno-barefoot-be-lenka-polar/",
+      "slug": "opinion-botas-invierno-barefoot-be-lenka-polar",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Botas Be Lenka Polar, Nord, Sierra y Winter: opiniones 2026",
+        "expectedH1": "Botas Be Lenka Polar, Nord, Sierra y Winter: opiniones 2026",
+        "canonical": "https://barefootopiniones.com/opinion-botas-invierno-barefoot-be-lenka-polar/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Be Lenka Winter 3.0: actualización SEO 2026",
+      "title": "Be Lenka Winter opiniones 2026: tallas y evolución a Winter 3.0",
+      "url": "https://barefootopiniones.com/opinion-botas-invierno-be-lenka/",
+      "slug": "opinion-botas-invierno-be-lenka",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Be Lenka Winter opiniones 2026: tallas y evolución a Winter 3.0",
+        "expectedH1": "Be Lenka Winter opiniones 2026: tallas y evolución a Winter 3.0",
+        "canonical": "https://barefootopiniones.com/opinion-botas-invierno-be-lenka/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Asgard Chelsea: actualización SEO 2026",
+      "title": "Botas de lluvia Asgard opiniones 2026: talla, ajuste y límites",
+      "url": "https://barefootopiniones.com/opinion-botas-lluvia-goma-asgard-bota-agua/",
+      "slug": "opinion-botas-lluvia-goma-asgard-bota-agua",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Botas de lluvia Asgard opiniones 2026: talla, ajuste y límites",
+        "expectedH1": "Botas de lluvia Asgard opiniones 2026: talla, ajuste y límites",
+        "canonical": "https://barefootopiniones.com/opinion-botas-lluvia-goma-asgard-bota-agua/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Bobux: actualización SEO 2026",
+      "title": "Botas para niños Bobux opiniones 2026: talla, ajuste y modelos",
+      "url": "https://barefootopiniones.com/opinion-botas-ninos-bobux/",
+      "slug": "opinion-botas-ninos-bobux",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Botas para niños Bobux opiniones 2026: talla, ajuste y modelos",
+        "expectedH1": "Botas para niños Bobux opiniones 2026: talla, ajuste y modelos",
+        "canonical": "https://barefootopiniones.com/opinion-botas-ninos-bobux/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Vivobarefoot Scott: actualización SEO 2026",
+      "title": "Vivobarefoot Scott opiniones 2026: talla y alternativas actuales",
+      "url": "https://barefootopiniones.com/opinion-botas-vivobarefoot-scott/",
+      "slug": "opinion-botas-vivobarefoot-scott",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Vivobarefoot Scott opiniones 2026: talla y alternativas actuales",
+        "expectedH1": "Vivobarefoot Scott opiniones 2026: talla y alternativas actuales",
+        "canonical": "https://barefootopiniones.com/opinion-botas-vivobarefoot-scott/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
+      }
+    },
+    {
+      "topic": "Carets: actualización SEO 2026",
+      "title": "Carets opiniones 2026: tallas y mejores zapatos barefoot de vestir",
+      "url": "https://barefootopiniones.com/opinion-carets-barefoot-elegantes-hombres/",
+      "slug": "opinion-carets-barefoot-elegantes-hombres",
+      "status": "Published",
+      "type": "update",
+      "lastChecked": "2026-08-23T18:30:00+02:00",
+      "verification": {
+        "httpStatus": 200,
+        "observedH1": "Carets opiniones 2026: tallas y mejores zapatos barefoot de vestir",
+        "expectedH1": "Carets opiniones 2026: tallas y mejores zapatos barefoot de vestir",
+        "canonical": "https://barefootopiniones.com/opinion-carets-barefoot-elegantes-hombres/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; dynamic TOC anchors valid; tables contained; no horizontal overflow",
+        "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
+        "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
       }
     }
   ],

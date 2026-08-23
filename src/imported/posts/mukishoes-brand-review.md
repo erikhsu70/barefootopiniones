@@ -2,14 +2,14 @@
 layout: layouts/imported.njk
 templateEngineOverride: md
 title: "Mi opinión honesta sobre Mukishoes: tallas, ventajas y mejores modelos"
-description: "Guía actualizada de Mukishoes con experiencia de archivo, tallas, materiales, UNA Cloud, Nómada Terra, niños y alternativas."
+description: "Opiniones Mukishoes actualizadas a 2026: tallas, ajuste, materiales, modelos actuales, ventajas, límites y alternativas barefoot."
 date: '2020-04-05T19:01:29'
 permalink: /mukishoes-brand-review/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 4872
 sourceSlug: mukishoes-brand-review
-sourceModified: '2026-08-06T18:20:00'
+sourceModified: '2026-08-23T10:00:00'
 image: "/assets/generated/featured/posts/mukishoes-brand-review.jpg"
 imageAlt: "Zapatillas Mukishoes de lona con suela flexible"
 tags:
@@ -22,7 +22,7 @@ faqItems:
   - question: "¿Mukishoes es para pies anchos?"
     answer: "Funciona bien para pies medios a anchos, especialmente en la nueva suela Nova, pero no siempre es tan amplia como Freet o Softstar."
   - question: "¿Qué modelo Mukishoes elegir?"
-    answer: "UNA Cloud si quieres piel y la nueva suela Nova; Nómada Terra para estilo casual; modelos Kids como Joaninha o Selva Play si buscas calzado infantil sostenible."
+    answer: "En la colección consultada en agosto de 2026, Galocha sirve para lluvia, Igneous Terra para tiempo frío y Lyra Icarus o Lyra Pegasus para un uso casual ligero. El stock cambia por temporada."
   - question: "¿Mukishoes se puede lavar?"
     answer: "La marca recomienda limpieza local, cepillado en seco y lavado suave a mano; no lavadora ni secadora."
 ---
@@ -43,18 +43,18 @@ Su virtud es que muchos pares se sienten poco invasivos. La suela es flexible, e
   <figcaption>Imagen del repositorio. Mukishoes destaca cuando buscas una zapatilla casual ligera y con sensación muy flexible.</figcaption>
 </figure>
 
-## Tabla rápida de modelos
+## Opiniones Mukishoes: tabla rápida de modelos 2026
 
 <div class="table-scroll" role="region" aria-label="Modelos Mukishoes recomendados" tabindex="0">
 
 | Modelo/familia | Mejor para | Ajuste probable | Punto fuerte | Ojo con |
 |---|---|---|---|---|
-| UNA Cloud | diario en piel | medio a ancho | suela Nova, piel | stock limitado |
-| Nómada Terra | casual natural | medio | materiales y estilo | no es lluvia fuerte |
-| Cloud / lona | verano y diario | medio | ligereza | manchas y agua |
-| Cork Chelsea | otoño, vestir casual | medio | estética y comodidad | empeine/tobillo |
-| Joaninha Kids | niños | infantil amplio | materiales | medir crecimiento |
-| Selva Play / Leo Kids | juego diario | infantil | flexibilidad | revisar disponibilidad |
+| Galocha | lluvia y ciudad | comprobar tabla del modelo | protección frente al agua | menos transpirable que una lona |
+| Igneous Terra | tiempo frío y diario | medio a ancho según volumen | cobertura y materiales de temporada | no asumir impermeabilidad total |
+| Lyra Icarus | casual ligero | medio y adaptable | estética sencilla | disponibilidad por talla |
+| Lyra Pegasus | primavera-verano | medio y adaptable | poco peso | no es para lluvia intensa |
+| Chelsea Cork / Caramel | otoño y vestir casual | depende de empeine y tobillo | entrada fácil y estética | menos ajuste fino que cordones |
+| Modelos Kids y Minis | niños | tabla infantil específica | flexibilidad | revisar talla con frecuencia |
 
 </div>
 
@@ -62,7 +62,7 @@ Su virtud es que muchos pares se sienten poco invasivos. La suela es flexible, e
 
 La [guía oficial de tallas de Mukishoes](https://mukishoes.com/sizing/) recomienda añadir entre 0,5 y 1,5 cm a la medida del pie para encontrar talla. También indica que suele tallar true to size para la mayoría de personas, especialmente usuarias de barefoot, pero medir es la forma más fiable. Esto coincide con mi criterio: en barefoot no sirve traducir "uso 38" sin mirar longitud real, calcetín y volumen.
 
-La [ficha oficial de UNA Cloud](https://mukishoes.com/product/una-cloud/) aporta un dato importante: los modelos con suela Nova tienen una puntera ligeramente más ancha y pueden correr un poco más grandes, por lo que la marca recomienda elegir la talla habitual y no subir solo por buscar espacio extra. Además, recuerda que al ser hechos a mano puede haber variaciones de 2-3 mm entre pares.
+La colección cambia con rapidez. En agosto de 2026, la [tienda oficial de Mukishoes](https://mukishoes.com/) muestra familias como Galocha, Igneous Terra, Lyra Icarus, Lyra Pegasus y botas Chelsea. Los modelos UNA Cloud, Nómada Terra o Joaninha que aparecían en versiones anteriores de esta guía siguen siendo referencias útiles para entender la marca, pero no deben interpretarse como stock garantizado.
 
 Si tienes pie fino, Mukishoes puede necesitar plantilla o cordón bien ajustado. Si tienes pie ancho, la suela Nova es más interesante que algunas versiones antiguas. Si tienes pie extra ancho o dedos muy cuadrados, Freet, Softstar o algunas Be Lenka pueden dar más seguridad.
 
@@ -72,19 +72,29 @@ La [información de materiales de Mukishoes](https://mukishoes.com/product-categ
 
 Esto importa porque un zapato barefoot muy flexible no tiene que maltratarse para ser "natural". Si eliges colores claros, protege antes de usar y asume mantenimiento. Si quieres algo para lluvia diaria, mira botas o marcas con membrana.
 
-## Los 3 mejores grupos de modelos Mukishoes actuales
+## Los 4 mejores Mukishoes por uso en 2026
 
-### 1. UNA Cloud
+### 1. Galocha para días de lluvia
 
-UNA Cloud es una de las señales de la Mukishoes actual: piel, suela Nova, estética limpia y un punto más de protección sin abandonar la filosofía minimalista. La recomendaría si te gustaba la idea de Mukishoes pero querías algo menos textil.
+Galocha es la opción lógica si el problema que quieres resolver es la lluvia urbana. Aporta más protección que una lona, pero también menos ventilación. Antes de comprar, comprobaría la ficha concreta, la altura de caña y la política de devolución; una bota sin cordones depende mucho del volumen de empeine.
 
-### 2. Nómada Terra y modelos casuales
+### 2. Igneous Terra para tiempo frío
 
-Nómada Terra y las opciones casuales siguen la línea tranquila de la marca: zapato para diario, no para rendimiento. Aquí el valor está en la flexibilidad y el material, no en prometer durabilidad de bota.
+Igneous Terra encaja mejor en otoño e invierno moderado. Es una alternativa más cubierta, no una promesa de rendimiento en nieve o montaña. Si necesitas una bota técnica, compara con la guía de [botas barefoot de invierno](/botas-barefoot-invierno-nieve/).
 
-### 3. Joaninha, Selva Play y Leo Kids para niños
+### 3. Lyra Icarus y Lyra Pegasus para diario
 
-La cola editorial pedía cubrir también modelos infantiles. Mukishoes ofrece tallas de niños y minis, y su guía tiene buscadores específicos para adultos, kids y minis. Para niños, deja margen real de crecimiento, pero no tanto como para que el pie baile. Si buscas más opciones, revisa [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) y [mejores zapatos barefoot para bebés](/mejores-barefoot-bebes-ninos-pequenos/).
+Lyra Icarus y Lyra Pegasus representan la parte más ligera y casual de la colección consultada. Son las opciones que miraría para ciudad y clima seco. No extrapolo a ellas la durabilidad de modelos antiguos: aquí la recomendación se basa en ficha y uso previsto, no en una prueba propia documentada.
+
+### 4. Mukishoes Kids y Minis para niños
+
+Mukishoes mantiene buscadores específicos para adultos, kids y minis. Para niños, deja margen real de crecimiento, pero no tanto como para que el pie baile. Si buscas más opciones, revisa [zapatos barefoot para niños](/zapatos-barefoot-ninos-temporada-presupuesto/) y [mejores zapatos barefoot para bebés](/mejores-barefoot-bebes-ninos-pequenos/).
+
+## Vídeo: una prueba visual de Mukishoes
+
+Este análisis en vídeo permite ver la flexibilidad, el volumen y la forma general de un par Mukishoes. Es material complementario de una colección anterior: úsalo para entender la construcción, no para confirmar el catálogo de 2026.
+
+<div class="video-embed"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/YyAv-pHCIiY" title="Análisis visual de unas zapatillas Mukishoes" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## Ventajas y límites
 
