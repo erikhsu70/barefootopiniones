@@ -21,7 +21,7 @@ faqItems:
 ---
 Elegir talla en Vibram FiveFingers es más delicado que comprar una zapatilla barefoot normal. En una sneaker amplia, si sobra un poco de espacio delante, casi siempre se tolera. En una FiveFingers, cada dedo tiene su bolsillo. Si el dedo largo toca, molesta. Si sobra demasiado, pierdes precisión. Si un dedo queda torcido, no se arregla con fuerza de voluntad.
 
-Esta guía acompaña a la [guía principal de Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/) y a las guías de [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/), [V-Run](/vibram-v-run-guia-running-minimalista/) y [V-Trail 2.0 vs V-Run](/vibram-v-trail-2-vs-v-run-montana-asfalto/). No es una reseña personal: es una guía de compra y ajuste basada en la documentación oficial y en errores frecuentes de la SERP.
+Esta guía acompaña a [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/) y a las guías de [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/), [V-Run](/vibram-v-run-guia-running-minimalista/) y [V-Trail 2.0 vs V-Run](/vibram-v-trail-2-vs-v-run-montana-asfalto/). No es una reseña personal: es una guía de compra y ajuste basada en la documentación oficial y en errores frecuentes de la SERP.
 
 **Veredicto rápido:** compra Vibram FiveFingers solo después de medir en centímetros. No uses tu talla de running habitual como atajo. Decide antes si usarás calcetines de dedos, prueba en interior y descarta el modelo si un dedo queda comprimido. El ajuste bueno se parece a un guante cómodo: cerca, estable, flexible y sin presión dolorosa.
 

@@ -37,7 +37,7 @@ La primera vez que ves unas Vibram FiveFingers es fácil pensar que su ventaja e
 
 FiveFingers sigue haciendo algo que casi nadie replica. Puede dejar que el dedo gordo trabaje sin pegarse a los demás y ofrece un ajuste muy directo. También tiene inconvenientes reales: acertar con la longitud de cinco dedos, colocarlas deprisa, tolerar costuras entre ellos y aceptar una estética que llama la atención.
 
-Si todavía estás decidiendo qué FiveFingers sirve para cada actividad, empezaría por nuestra [guía de modelos, talla y calcetines Vibram](/vibram-fivefingers-guia-empezar-tallas-calcetines/). Para ver cómo se comporta el formato más fino en movimiento, esta [review en vídeo de KSO EVO](https://www.youtube.com/watch?v=rbaWuFX44A8) enseña el calzado flexando y permite entender mejor lo diferente que es de una sneaker de puntera única.
+Si todavía estás decidiendo qué FiveFingers sirve para cada actividad, empezaría por [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/). Para ver cómo se comporta el formato más fino en movimiento, esta [review en vídeo de KSO EVO](https://www.youtube.com/watch?v=rbaWuFX44A8) enseña el calzado flexando y permite entender mejor lo diferente que es de una sneaker de puntera única.
 
 Por eso esta no es una lista de ocho imitaciones. Son ocho respuestas distintas a la pregunta que suele haber detrás: “¿cómo consigo libertad y control sin tener que llevar siempre cinco bolsillos?”.
 

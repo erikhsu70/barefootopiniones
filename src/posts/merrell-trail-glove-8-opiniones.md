@@ -118,7 +118,7 @@ El drop cero sigue teniendo consecuencias. Si vienes de botas con el talón elev
 
 La protección bajo el pie no elimina esa adaptación. Por eso empezaría con paseos cortos y superficies sencillas, no con una ruta de todo el día.
 
-Aunque esta reseña no gira alrededor del gimnasio, la guía de [Vibram FiveFingers para empezar](https://barefootopiniones.com/vibram-fivefingers-guia-empezar-tallas-calcetines/) muestra el extremo opuesto: mucha más independencia y sensación directa, con una adaptación todavía más exigente.
+Aunque esta reseña no gira alrededor del gimnasio, [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/) muestra el extremo opuesto: mucha más independencia y sensación directa, con una adaptación todavía más exigente.
 
 ## Lo que ocurrió cuando volví al pavimento
 

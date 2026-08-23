@@ -568,6 +568,7 @@ const customLegacyPaths = {
   "/vivobarefoot-guia-modelos-tallas/": "/vivobarefoot-opiniones/",
   "/xero-shoes-guia-tallas-modelos/": "/xero-shoes-opiniones/",
   "/merrell-barefoot-guia-modelos-tallas/": "/merrell-barefoot-opiniones/",
+  "/vibram-fivefingers-guia-empezar-tallas-calcetines/": "/vibram-fivefingers-opiniones/",
   "/lems-opinion-tallas-modelos/": "/lems-shoes-opinion-tallas-modelos/",
   "/origo-shoes-opinion-tallas/": "/origo-opinion-tallas/",
   "/opiniones/": "/opiniones/1/",

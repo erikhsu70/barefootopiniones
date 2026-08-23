@@ -118,7 +118,7 @@ En salud, conviene ser conservadora. Una suela plana y flexible puede permitir m
 
 La alternativa más directa dentro de Merrell es [Trail Glove 8](/merrell-trail-glove-8-opiniones/), especialmente si vas a tierra o quieres más protección. La comparativa [Vapor Glove vs Trail Glove](/merrell-vapor-glove-vs-trail-glove/) entra en esa decisión con más detalle.
 
-Si buscas más anchura, miraría [Lems Shoes](/lems-shoes-opinion-tallas-modelos/), Freet o Be Lenka. Si quieres una experiencia todavía más específica y no te importa la estética, [Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/) ofrece dedos separados y muchísimo contacto con el suelo. Si aún estás entendiendo qué significa barefoot, empieza por [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y por [ejercicios de transición](/ejercicios-pies-transicion-barefoot/).
+Si buscas más anchura, miraría [Lems Shoes](/lems-shoes-opinion-tallas-modelos/), Freet o Be Lenka. Si quieres una experiencia todavía más específica y no te importa la estética, [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/) explica el formato de dedos separados y el contacto directo con el suelo. Si aún estás entendiendo qué significa barefoot, empieza por [qué es exactamente un zapato barefoot](/es-exactamente-zapato-barefoot-o-minimalista/) y por [ejercicios de transición](/ejercicios-pies-transicion-barefoot/).
 
 
 ## Fuentes consultadas

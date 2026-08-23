@@ -21,7 +21,7 @@ faqItems:
 ---
 La comparación entre Vibram V-Trail 2.0 y V-Run parece una elección entre dos colores de dedos raros, pero en realidad decide algo bastante importante: qué tipo de suelo quieres sentir y cuánto margen necesitas cuando el terreno deja de ser amable.
 
-Esta comparativa no es una reseña personal de Isabel con estos dos modelos actuales. En el sitio ya existe una [guía de Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/), una guía de [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/) y una guía específica de [V-Run](/vibram-v-run-guia-running-minimalista/). Aquí el foco es más estrecho: decidir si te conviene correr por asfalto o por montaña con una FiveFingers.
+Esta comparativa no es una reseña personal de Isabel con estos dos modelos actuales. En el sitio ya existe [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/), una guía de [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/) y una guía específica de [V-Run](/vibram-v-run-guia-running-minimalista/). Aquí el foco es más estrecho: decidir si te conviene correr por asfalto o por montaña con una FiveFingers.
 
 **Veredicto rápido:** elegiría V-Run para asfalto, pistas limpias, carrera natural progresiva y quien quiere la FiveFingers más enfocada a running regular. Elegiría V-Trail 2.0 para trail, obstáculos, tierra, raíces y superficies impredecibles. Si todavía no toleras suelas finas, no compraría ninguna para correr tus distancias habituales mañana: empezaría caminando, alternando y subiendo carga con paciencia.
 

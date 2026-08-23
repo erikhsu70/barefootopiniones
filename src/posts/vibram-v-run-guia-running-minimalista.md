@@ -125,7 +125,7 @@ Otra señal es el terreno. Si tus rutas habituales tienen grava suelta, losas h�
 
 Si quieres correr minimalista sin dedos separados, mira Merrell Vapor Glove 7, Xero HFS II o Vivobarefoot Primus Lite según disponibilidad. Si quieres más protección de trail, [Merrell Trail Glove 8](/merrell-trail-glove-8-opiniones/) es más amable. Si necesitas puntera amplia pero no minimalismo puro, [Altra Torin 9](/altra-torin-9-opinion-honesta/) ofrece drop cero con amortiguación, que es otra categoría.
 
-Para decidir dentro de FiveFingers, empieza por la [guía de Vibram FiveFingers](/vibram-fivefingers-guia-empezar-tallas-calcetines/) y compara con [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/) si tu uso principal es gimnasio.
+Para decidir dentro de FiveFingers, empieza por [Vibram FiveFingers opiniones](/vibram-fivefingers-opiniones/) y compara con [KSO EVO](/vibram-kso-evo-guia-tallas-gimnasio/) si tu uso principal es gimnasio.
 
 
 ## Fuentes consultadas
