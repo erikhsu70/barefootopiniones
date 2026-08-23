@@ -118,7 +118,7 @@ También separaría "ancho" de "sujeción". Freet puede dar mucho espacio en ded
 ## Alternativas
 
 - **Vivobarefoot:** más premium y conocida, algo menos ancha para muchos pies.
-- **Xero Shoes:** mucha variedad deportiva; lee [Xero por uso](/xero-shoes-guia-tallas-modelos/).
+- **Xero Shoes:** mucha variedad deportiva; lee [Xero Shoes opiniones](/xero-shoes-opiniones/).
 - **Merrell barefoot:** fácil de encontrar en retail outdoor.
 - **Lems:** más amortiguación relativa y transición.
 - **Softstar:** más artesanal y extra ancho, pero compra desde EE. UU.

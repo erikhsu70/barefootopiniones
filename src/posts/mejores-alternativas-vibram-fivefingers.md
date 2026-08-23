@@ -81,7 +81,7 @@ Frente a una V-Run, pierde la separación individual y gana rapidez para calzars
 
 No confundiría ligereza con permiso para aumentar kilómetros. Una base fina reduce la capacidad del calzado para filtrar carga repetida. Si vienes de running amortiguado, empezaría por bloques breves alternados con tu zapatilla habitual.
 
-La [guía de modelos y tallas de Xero Shoes](/xero-shoes-guia-tallas-modelos/) ayuda a distinguir Speed Force de Prio y HFS. Aquí la escogería por carrera y agilidad, no como zapatilla urbana que deba aguantar cualquier situación.
+[Xero Shoes opiniones](/xero-shoes-opiniones/) ayuda a distinguir Speed Force de Prio y HFS. Aquí la escogería por carrera y agilidad, no como zapatilla urbana que deba aguantar cualquier situación.
 
 ### 4. Skinners 2.0, la sensación más próxima a un calcetín protegido
 

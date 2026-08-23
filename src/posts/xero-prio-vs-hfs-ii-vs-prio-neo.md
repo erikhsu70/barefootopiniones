@@ -130,7 +130,7 @@ Límites:
 
 ## Alternativas
 
-Si quieres una visión completa de la marca, empieza por [Xero Shoes: guía por uso](/xero-shoes-guia-tallas-modelos/). Si buscas un modelo probado por Isabel, lee [Xero Prio opiniones](/xero-prio-opiniones/). Para gimnasio premium, compara con [Vivobarefoot Primus Lite IV vs Motus Strength II](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/). Para opciones económicas, revisa [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/).
+Si quieres una visión completa de la marca, empieza por [Xero Shoes opiniones](/xero-shoes-opiniones/). Si buscas un modelo probado por Isabel, lee [Xero Prio opiniones](/xero-prio-opiniones/). Para gimnasio premium, compara con [Vivobarefoot Primus Lite IV vs Motus Strength II](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/). Para opciones económicas, revisa [Saguaro vs Whitin](/saguaro-vs-whitin-barefoot-barato/).
 
 
 ## Fuentes consultadas

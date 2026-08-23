@@ -186,7 +186,7 @@ Una sensación nueva no es necesariamente peligrosa, pero el dolor persistente t
 
 ## Alternativas a Vivobarefoot
 
-La mejor alternativa depende del motivo por el que descartas Vivo. Si el problema es el precio, Xero Shoes ofrece una gama deportiva amplia; puedes verla en nuestra [guía de Xero Shoes](/xero-shoes-guia-tallas-modelos/).
+La mejor alternativa depende del motivo por el que descartas Vivo. Si el problema es el precio, Xero Shoes ofrece una gama deportiva amplia; puedes verla en [Xero Shoes opiniones](/xero-shoes-opiniones/).
 
 Si necesitas más anchura, miraría Freet, Softstar y algunas líneas de Be Lenka. No asumiría que toda una marca es ancha: compararía la plantilla y el volumen del modelo exacto.
 
