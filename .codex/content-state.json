@@ -1563,6 +1563,31 @@
         "deployment": "https://6d4c59ce.barefootopiniones-com.pages.dev",
         "note": "Live verification passed after the single 20-page Cloudflare Pages deployment."
       }
+    },
+    {
+      "topic": "Mejores deportivas barefoot para niños",
+      "title": "Mejores deportivas barefoot para niños en 2026",
+      "url": "https://barefootopiniones.com/mejores-deportivas-barefoot-ninos/",
+      "slug": "mejores-deportivas-barefoot-ninos",
+      "status": "Published",
+      "commit": "67d69f9",
+      "type": "new",
+      "lastChecked": "2026-09-08T17:51:08+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from a clean clone of origin/main",
+        "checks": "featured, affiliates, models, originality, schema, site, titles and urls passed",
+        "httpStatus": 200,
+        "observedH1": "Mejores deportivas barefoot para niños en 2026",
+        "expectedH1": "Mejores deportivas barefoot para niños en 2026",
+        "canonical": "https://barefootopiniones.com/mejores-deportivas-barefoot-ninos/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, BreadcrumbList and FAQPage",
+        "render": "clean desktop and mobile; table contained and no document-level horizontal overflow",
+        "deployment": "https://bb16d2ca.barefootopiniones-com.pages.dev",
+        "note": "Published from a clean clone and verified live on the custom domain; homepage, children archive and current sitemap include the URL."
+      }
     }
   ],
   "extraCampaigns": [
