@@ -11,7 +11,7 @@ layout: layouts/base.njk
   {% endif %}
   <header class="lov-article-hero">
     <div class="lov-article-heading">
-      <p class="lov-article-kicker">{% if contentType == "FAQ" %}Pregunta frecuente{% else %}{{ contentType or "Artículo" }}{% endif %} · Barefoot Opiniones</p>
+      <p class="lov-article-kicker">{% if contentType == "FAQ" %}Pregunta frecuente{% else %}{{ contentType or "Artículo" }}{% endif %} · {% if sourceModified %}Actualizado {{ sourceModified | readableDate }}{% else %}Barefoot Opiniones{% endif %}</p>
       <h1>{{ title }}</h1>
       {% if description %}
         <p>{{ description | cleanSummary }}</p>

@@ -2,133 +2,116 @@
 layout: layouts/imported.njk
 templateEngineOverride: md
 title: "Mi opinión sobre Jan & Jul: calzado infantil asequible y respetuoso"
-description: Jan & Jul es una empresa canadiense que se especializa en ropa para actividades
-  al aire libre que es práctica y asequible. ¡Lea nuestra reseña de los zapatos para
-  niños de enero y julio que recomendamos para el desarrollo saludable de los pies!
+description: "Reseña actualizada de Jan & Jul: modelos infantiles barefoot-friendly, Knit Shoes, Sock Shoes, botines de invierno, tallas, devoluciones y límites."
 date: '2022-08-09T13:42:33'
 permalink: /jan-jul-affordable-healthy-kids-shoe-review/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 20255
 sourceSlug: jan-jul-affordable-healthy-kids-shoe-review
-sourceModified: '2026-05-27T00:02:21'
+sourceModified: '2026-09-08T18:35:11'
 image: "/assets/generated/featured/posts/jan-jul-affordable-healthy-kids-shoe-review.jpg"
-imageAlt: "Imagen destacada de Revisión de zapatos para niños saludables y asequibles de enero y julio"
+imageAlt: "Calzado infantil Jan & Jul flexible con puntera amplia para jugar"
 tags:
 - traducido
+- ninos
+- calzado-infantil
+- barefoot-friendly
 language: es
 translatedFrom: en
+faqItems:
+  - question: "¿Jan & Jul es una marca barefoot?"
+    answer: "No es una marca barefoot pura, pero tiene modelos infantiles barefoot-friendly como Sock Shoes, Knit Shoes y algunos botines flexibles."
+  - question: "¿Qué modelos Jan & Jul son más respetuosos con el pie?"
+    answer: "Sock Shoes y Knit Shoes son los más claros por flexibilidad y puntera; en botas conviene revisar plantilla y rigidez modelo por modelo."
+  - question: "¿Cómo elegir talla en Jan & Jul?"
+    answer: "Mide ambos pies, usa la guía oficial por modelo y sube talla si la medida cae entre dos tallas."
+  - question: "¿Jan & Jul acepta devoluciones?"
+    answer: "La política consultada acepta devoluciones o cambios dentro de 90 días en productos en condición original; los artículos final sale quedan excluidos."
 ---
-<p><a href="https://janandjul.com/">Jan &amp;apos; Jul</a> es una empresa canadiense que se especializa en ropa para actividades al aire libre que es práctica y asequible. Creen en el poder de acercar a las familias a la naturaleza sin importar el clima, y ​​el calzado adecuado lo hace mucho más fácil. ¡Lea nuestra reseña de los zapatos para niños de enero y julio que recomendamos para el desarrollo saludable de los pies!</p>
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-f6b17955" data-offset="30" data-scroll="1" style="">
-<div class="uagb-toc__wrap">
-<div class="uagb-toc__title">
-							Tabla de contenidos						</div>
-<div class="uagb-toc__list-wrap">
-<ol class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#meet-jan-jul">Conoce a enero y julio</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#sizing-fit">Sizing &amp;amp; Fit</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#ordering-from-jan-jul">Realizar pedidos desde enero y julio</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#toasty-dry-booties-review">Revisión de botines tostados y secos</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#stay-put-winter-booties-review">Revisión de botines de invierno que se mantienen en su sitio</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#knit-shoes-review">Revisión de zapatos de punto</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#toasty-dry-lite-winter-boots-review">Revisión de botas de invierno Toasty-Dry Lite</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#conclusion">Conclusión</a></li></li></li></li></li></li></li></li></ol> </div>
-</div>
-</div>
+Jan & Jul no es una marca barefoot pura, pero sí tiene varios modelos infantiles que pueden encajar con una filosofía barefoot-friendly: suelas flexibles, poco peso, puntera amplia y cierres fáciles para niños. La reseña original era útil porque separaba los modelos que funcionaron bien de los que requerían ajustes, pero necesitaba actualizar tallas, devoluciones y disponibilidad.
 
-<h2 class="wp-block-heading">Conoce a enero y julio</h2>
-<p><a href="https://janandjul.com/">Jan &amp;apos; Jul </a>fue fundada por Florence Luo en 2008 cuando comenzó a vender sus sombreros para el sol a nivel local en Canadá. Sus ideas y su negocio crecieron y ahora Jan &amp; Jul ofrece una amplia gama de productos para todas las necesidades al aire libre de sus pequeños.</p>
-<p>Si bien Jan &amp; Jul no es específicamente una empresa descalza, tienen algunas opciones de calzado que son aptos para niños pequeños y descalzos. Esta es una gran noticia, porque sus zapatos son asequibles y prácticos para cualquier clima. Recomiendo encarecidamente Jan y Jul si está comprando niños con un presupuesto limitado, especialmente si necesita botas para clima cálido.</p>
-<h2 class="wp-block-heading">Sizing &amp;amp; Fit</h2>
-<p>Para elegir la talla correcta de calzado para niños es necesario medirlos, porque sus pies siempre están creciendo y cambiando. Es posible que los niños pequeños no sepan decir que sus zapatos no les quedan bien, y los zapatos que son demasiado cortos pueden <a href="https://kinderfuesse.com/wp-content/uploads/2020/09/biomed_artikel.pdf">afectar negativamente el desarrollo del pie</a>. </p>
-<p>Puedes encontrar mis instrucciones para <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">cómo medir tus pies</a> aquí y luego encuentre la longitud del pie de su hijo en el <a href="https://janandjul.com/shoe-size-guide/">Tablas de tallas de enero y julio</a>. Ya han hecho los ajustes necesarios, por lo que solo necesita hacer coincidir el tamaño del pie de su hijo con los números de la tabla.</p>
-<h2 class="wp-block-heading">Realizar pedidos desde enero y julio</h2>
-<p>El sitio web principal de Jan y Jul realiza envíos únicamente a Canadá y EE. UU. Se ofrece envío gratuito en pedidos superiores a $95; de lo contrario, el envío a EE. UU. cuesta alrededor de $6. Se aceptan devoluciones dentro de los 45 días de zapatos sin usar. El envío de devolución es gratuito si su pedido califica para envío gratuito; de lo contrario, los clientes son responsables de los costos de envío de devolución. </p>
-<p>También puede encontrar enero y julio en Amazonas, con Knit Shoes y botas Toasty-Dry Lite disponibles en el Reino Unido, Alemania y México.</p>
-<h2 class="wp-block-heading">Revisión de botines tostados y secos</h2>
-<p class="has-small-font-size">por Samantha</p>
+**Veredicto rápido:** Jan & Jul merece la pena si buscas calzado infantil práctico, asequible y fácil de lavar para juego diario. Elegiría Sock Shoes o Knit Shoes antes que cualquier bota rígida, y revisaría siempre plantilla, drop y guía de talla del modelo concreto. No compraría la marca a ciegas como si todo su catálogo fuera barefoot.
 
-<p class="has-text-align-center">Tallas estadounidenses 5T-11C | $40 | Vegano | Resistente al agua</p>
+<p class="affiliate-disclosure">Transparencia: este artículo conserva experiencias históricas de Samantha e Isabel con varios modelos infantiles y actualiza fuentes oficiales consultadas el 8 de septiembre de 2026. No se inventan pruebas nuevas ni durabilidad de modelos no usados.</p>
 
-</div>
-<p>Nuestro zapato favorito personal de enero y julio es el <a href="https://janandjul.com/product-category/footwear/kids-boots/toddler-winter-boots/kids-insulated-ankle-boots/">Botines secos y tostados</a>. Hay tantas cosas que amar de ellos.<a href="?ref=liGdUekDMceQw"></a>! Mi hijo de 2 años los usó casi cada vez que salimos de casa el invierno pasado y le sirvieron muy bien. Están aislados, son resistentes al agua y flexibles; eso sin mencionar el bajísimo precio de 40 dólares. </p>
-<p>El interior está completamente forrado con un forro polar de poliéster muy suave y se abren ampliamente para que sea más fácil meter los pies gorditos del niño. Mi pequeño puede incluso ponérselos él mismo y luego le abrocho el velcro cómodamente alrededor del tobillo para que no le entre nieve ni lluvia. Se mantienen en pie mientras juega en la nieve y lo mantienen abrigado y seco. </p>
+## Jan & Jul opiniones: qué modelos mirar
 
-<p>La suela exterior tiene buen agarre y la puntera de goma protege la parte superior para que no se destruya. Mi hijo los ensució absolutamente con el barro y se lavaron muy bien con solo un cepillo de dientes y un poco de agua con jabón debajo del grifo del baño. ¿Mencioné que solo cuestan $40? Yo los llamo una victoria total en la categoría de botas de nieve asequibles para niños pequeños y pequeños.</p>
-<p><strong>Sizing &amp;gt; Fit:</strong> </p>
-<ul>
-<li>Fiel al tamaño</li>
-<li>Todos los volúmenes de pies</li>
-<li>Bueno para pies anchos</li>
-</ul>
+La propia página oficial de [calzado Jan & Jul](https://janandjul.com/product-category/footwear/) presenta zapatos para interior, agua, lluvia, nieve y juego al aire libre, con énfasis en bajo peso, flexibilidad, cierres fáciles y punteras extra anchas en muchos modelos. Su artículo oficial sobre [barefoot shoes for kids](https://janandjul.com/barefoot-shoes-for-kids/) destaca tres rasgos: suela fina y flexible, puntera amplia y suelas zero drop o casi zero drop según modelo.
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+La parte importante está en “según modelo”. En la reseña original, las Knit Shoes eran flexibles y anchas, pero la plantilla traía una pequeña elevación de talón; al retirarla o cambiarla por una plantilla zero drop se acercaban más al criterio barefoot. Los botines Toasty-Dry funcionaron muy bien para un niño pequeño por apertura amplia, flexibilidad y precio, pero las botas de invierno más altas no tenían una forma de pie tan natural.
 
-<h2 class="wp-block-heading">Revisión de botines de invierno que se mantienen en su sitio</h2>
-<p class="has-small-font-size">por Samantha</p>
+<figure>
+  <img src="/assets/generated/featured/posts/jan-jul-affordable-healthy-kids-shoe-review.jpg" alt="Collage de calzado infantil Jan & Jul flexible para juego diario" width="1200" height="675" loading="lazy">
+  <figcaption>Imagen destacada del artículo importado; se conserva como referencia visual del lote de modelos revisados.</figcaption>
+</figure>
 
-<p class="has-text-align-center">Tallas de EE. UU. de 3 a 24 meses | $29 | Vegano | Resistente al agua</p>
+## Tabla: modelos Jan & Jul y decisión
+
+<div class="table-scroll" role="region" aria-label="Tabla de modelos Jan & Jul barefoot-friendly" tabindex="0">
+
+| Modelo | Mejor para | Rasgo barefoot-friendly | Precaución |
+|---|---|---|---|
+| Sock Shoes | verano, agua, parque | suela plana y flexible, puntera amplia | menos protección en frío |
+| Knit Shoes | diario seco y calor | flexibles, ligeras, lavables | revisar plantilla con elevación |
+| Toasty-Dry Booties | frío y humedad en peques | apertura amplia y suela flexible | quitar/valorar heel lift si aparece |
+| Stay-Put Booties | gateo y primeros pasos | blandos, ajustables, fáciles de poner | protección limitada para caminar mucho |
+| Toasty-Dry Lite Boots | invierno infantil | impermeables y lavables | forma menos anatómica que otros modelos |
 
 </div>
-<p>Los botines de invierno Stay-Put son otro éxito para nosotros de enero y julio. Tienen piel sintética suave y sedosa dentro de toda la bota y son muy fáciles de poner. La palanca elástica alrededor del tobillo los mantiene puestos y la suela suave y flexible es ideal para quienes caminan y gatean por primera vez. Mi pequeño tiene pies de bebé muy regordetes y le quedan sin calcetines, pero me gustaría que fueran un poco más anchos para poder ponernos capas para salidas súper frías. </p>
-<p>¡La construcción no estructurada y su fácil ajuste significan que deberían adaptarse a prácticamente todos los pies! El exterior es resistente al agua (¡y viene con estampados realmente divertidos!), pero si se ensucian, puedes simplemente lavarlos. Me encantan estos patucos de bebé prácticos y asequibles.</p>
-<h2 class="wp-block-heading">Revisión de zapatos de punto</h2>
-<p class="has-small-font-size">por Isabel</p>
 
-<p class="has-text-align-center">Tallas estadounidenses 6T-12C | $26 | vegano</p>
+## Tallas y margen de crecimiento
 
-</div>
-<p class="has-text-align-center"><strong><em>La plantilla que viene con estos zapatos contiene una pequeña elevación del talón: retire o reemplace la plantilla para que no tengan caída.</em></strong></p>
-<p>Estos zapatos de punto apaciguaron el deseo de mi hijo de 6 años de tener zapatos “frescos” y eran perfectos para el clima caluroso del verano (tejido transpirable, fáciles de poner y quitar). </p>
+Con calzado infantil no basta con elegir por edad. Jan & Jul ofrece guías de talla por modelo y en las fichas de Knit Shoes recomienda subir a la siguiente talla si la medida cae justo entre dos opciones. Ese consejo encaja con el uso infantil: el pie crece, se expande durante el día y necesita margen delante.
 
-<p> Cambié la plantilla por una de zero drop de otro par de zapatos y luego estuvo listo. Si no tiene otra plantilla para usar barefoot, puede quitarla por completo, pero no creo que sean tan cómodas si se usan barefoot porque tiene goma expuesta debajo. ¡Usar calcetines también ayudaría con eso!</p>
-<p>Me sorprendió gratamente lo flexibles que eran (la suela es aproximadamente la mitad de gruesa de lo que parece) y que la puntera es ancha para un zapato que no está barefoot. Dado el precio, estos son un gran hallazgo.</p>
+La recomendación práctica es medir ambos pies al final del día, usar la medida más larga y comprobar longitud interna real del modelo. Para niños pequeños, también revisaría volumen: un zapato ancho pero sin ajuste puede bailar en pies finos; una bota con cierre amplio puede ir mejor en empeines altos. La reseña original señalaba justamente eso con las Knit Shoes: buen espacio, pero poca capacidad de ajuste para pies muy delgados.
 
-<p><strong>Sizing &amp;gt; Fit:</strong></p>
-<ul>
-<li>Fiel al tamaño</li>
-<li>Volumen medio a alto</li>
-<li>Bueno para pies medianos a anchos.</li>
-</ul>
-<p>Lo único que hay que tener en cuenta es que, como no tienen capacidad de ajuste, no funcionan para todos los tipos de pies: los pies delgados y de poco volumen pueden notar que se mueven incluso cuando la longitud es la correcta. Una vez más, los calcetines pueden ayudarles a adaptarse con mayor seguridad a pies como ese.</p>
-<p>El pequeño de Samantha tiene un par de zapatos de punto con caña alta y, si bien tenían algunas características agradables, no le quedaban tan bien como los de caña baja: el tobillo empujaba el pie de su hijo hacia adelante. ¡Pero a ambos nos parecieron duraderas y prácticas las suelas para jugar mucho!</p>
-<p> Tanto las zapatillas altas como las bajas cuestan menos de $ 30 y vienen en una variedad de colores y estampados que agradan a los niños.  También se pueden lavar a máquina. ¡Puntuación! </p>
+Si necesitas una visión más amplia, compara con [zapatos barefoot para niños por temporada](/zapatos-barefoot-ninos-temporada-presupuesto/) y [mejores botas barefoot para niños](/mejores-botas-barefoot-ninos/). Jan & Jul puede ser muy buena compra de presupuesto, pero no sustituye marcas infantiles barefoot dedicadas cuando necesitas ajuste fino.
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+## Compra, devoluciones y garantía
 
-<h2 class="wp-block-heading">Revisión de botas de invierno Toasty-Dry Lite</h2>
-<p class="has-small-font-size">por Isabel</p>
+La política oficial de [Returns & Exchanges](https://janandjul.com/returns-exchanges/) consultada acepta devoluciones o cambios dentro de 90 días desde la compra para artículos en condición original y embalaje original. Los productos dañados o defectuosos pueden entrar en garantía, y Jan & Jul comunica una garantía de un año, con exclusiones por desgaste excesivo o lavado. Los artículos final sale no se devuelven ni cambian.
 
-<p class="has-text-align-center"> Tallas estadounidenses 6T-13C | $45 | Impermeable | Lavable a máquina</p>
-<p class="has-text-align-center"><strong><em>Estas botas son de zero drop tal como están.</em></strong></p>
+Esto mejora la información antigua de la reseña, que hablaba de 45 días. Aun así, hay que leer la política vigente antes de comprar porque las condiciones pueden variar por país, marketplace o vendedor externo. Si compras desde Amazon u otra tienda, no asumas que se aplica la política del sitio oficial.
 
-</div>
-<p><a href="https://janandjul.com/product-category/product-category/kids-toasty-dry-lite-winter-boots/">Botas de invierno Jan &amp; Jul Toasty-Dry Lite</a> están forrados con material cálido y peludo, son impermeables y puedes lavarlos a máquina. ¡Tan útil para el invierno!</p>
-<p>Vienen en tamaños más grandes que los botines Toasty-Dry para niños pequeños analizados anteriormente, pero no tienen una forma de pie tan natural. En mi opinión, esto es una lástima, porque los niños también necesitan mucho espacio para los pies (los adultos también lo necesitan). Aún así, mi hijo los usó durante todo el invierno en días fríos y húmedos y ¡se han mantenido muy bien!</p>
-<p><strong>Sizing &amp;gt; Fit:</strong></p>
-<ul>
-<li>Fiel al tamaño</li>
-<li>Alto volumen</li>
-<li>Lo mejor para pies de ancho medio a estrecho</li>
-</ul>
-<p>Al igual que los zapatos Knit, estas botas no tienen capacidad de ajuste. Se ajustan a un volumen alto y quedan un poco flojos en los pies de mi hijo si no usa calcetines (y nunca le gusta usar calcetines). Esto siempre es algo a considerar con las botas sin cordones, y puede hacer que su hijo use calcetines con estribo para un ajuste más seguro. Aquí está un ejemplo, ¡pero también puedes modificar los calcetines que tienes o tejer los tuyos propios!</p>
+## Experiencia documentada por modelo
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-dots"/>
+Los Toasty-Dry Booties fueron el modelo favorito de Samantha para invierno de niño pequeño: aislados, resistentes al agua, flexibles, fáciles de abrir y baratos. La experiencia fue especialmente positiva para pies gorditos y uso de nieve/barro ligero. Esa parte sigue siendo valiosa, pero debe leerse como experiencia de una temporada y modelo concreto.
 
-<h2 class="wp-block-heading">Conclusión</h2>
-<p><a href="https://janandjul.com/">Jan &amp;apos; Jul</a> ofrece excelentes opciones de calzado prácticas y asequibles para los más pequeños, solo tenga en cuenta cuáles son las más amigables para los pies. ¡Espero que introduzcan plantillas de zero drop y tal vez incluso algunas opciones más de Zapatos barefoot en el futuro!</p>
+Las Stay-Put Winter Booties encajan mejor en bebés, gateadores y primeros pasos. La construcción blanda y el cierre elástico ayudan a que no se pierdan, pero no las evaluaría igual que una bota para caminar mucho.
 
+Las Knit Shoes gustaron por flexibilidad, precio, transpirabilidad y lavado, pero la plantilla con elevación importa. Si quieres zero drop real, revisa si la plantilla actual sigue teniendo elevación y cámbiala o retírala solo si el interior queda cómodo. No todos los niños toleran caminar sin plantilla si queda goma expuesta.
 
-<!-- editorial-expansion:v1 -->
+## Pros y contras
 
-Este tema merece un poco mas de contexto porque con calzado infantil no basta con que el zapato sea mono. En "Revisión de zapatos para niños saludables y asequibles de enero y julio" conviene mirar crecimiento, autonomia, durabilidad y espacio real para los dedos.
+**Pros:** precios razonables, modelos fáciles de lavar, buena disponibilidad en Norteamérica, punteras amplias en varios modelos, cierre fácil para niños, opciones veganas, política oficial de devolución amplia consultada.
 
+**Contras:** no todo el catálogo es barefoot, algunas plantillas pueden tener heel lift, las botas altas pueden ser menos anatómicas, disponibilidad europea depende de marketplaces, tallas y condiciones cambian por vendedor.
 
-## Como miro el ajuste antes de recomendarlo
+## Vídeo sobre Jan & Jul
 
-Antes de valorar Revisión de zapatos para niños saludables y asequibles de enero y julio, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+No he añadido vídeo porque no encontré un YouTube exacto y vigente que mejore la decisión de compra sobre los modelos concretos de esta reseña. Para calzado infantil, las tablas de ajuste y la comprobación de plantillas son más útiles que un vídeo general de marca.
 
-Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+## Para quién tiene sentido
 
-Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+Recomendaría Jan & Jul a familias que necesitan calzado infantil asequible para parque, colegio, verano, lluvia ligera o nieve ocasional, y que están dispuestas a revisar modelo por modelo. Me parece especialmente interesante para peques que destrozan calzado rápido y necesitan algo lavable.
 
-## Criterios que uso para separar una buena opcion de una regular
+Lo descartaría si buscas una marca barefoot técnica al 100 %, si tu hijo necesita ajuste ortopédico específico o si no puedes devolver. En ese caso compararía con marcas más especializadas de la guía de [calzado infantil barefoot](/zapatos-barefoot-ninos-temporada-presupuesto/).
 
-No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+## Preguntas frecuentes
 
-Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+### ¿Jan & Jul es una marca barefoot?
 
-Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+No exactamente. Tiene modelos barefoot-friendly, pero no todo su catálogo debe tratarse como barefoot puro.
+
+### ¿Qué modelos son más respetuosos con el pie?
+
+Sock Shoes y Knit Shoes son los más claros por flexibilidad y puntera; en botas hay que revisar plantilla, rigidez y cierre.
+
+### ¿Cómo elegir talla?
+
+Mide ambos pies, usa la guía del modelo concreto y sube talla si la medida cae entre dos tallas.
+
+### ¿Acepta devoluciones?
+
+La política oficial consultada acepta devoluciones o cambios dentro de 90 días en artículos en condición original, salvo final sale.

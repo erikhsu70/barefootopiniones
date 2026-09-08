@@ -1588,6 +1588,91 @@
         "deployment": "https://78bb4b69.barefootopiniones-com.pages.dev",
         "note": "Lejan One Kids moved to second place throughout the article and the requested sole-pattern criterion removed; verified live on the deployment and custom domain."
       }
+    },
+    {
+      "topic": "Groundies Palermo",
+      "title": "Groundies Palermo opiniones 2026: zapato barefoot de vestir para hombre",
+      "url": "https://barefootopiniones.com/opinion-groundies-palermo-zapato-vestir/",
+      "slug": "opinion-groundies-palermo-zapato-vestir",
+      "status": "validated_pending_publication",
+      "commit": null,
+      "type": "update",
+      "lastChecked": "2026-09-08T18:35:11+02:00",
+      "verification": {
+        "localBuild": "passed",
+        "checks": "passed",
+        "live": "pending",
+        "visualReview": "passed desktop and mobile localhost",
+        "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
+      }
+    },
+    {
+      "topic": "Groundies Performance",
+      "title": "Mi opinión sobre Groundies Performance: zapatillas barefoot de estilo retro",
+      "url": "https://barefootopiniones.com/opinion-groundies-performance-zapatillas/",
+      "slug": "opinion-groundies-performance-zapatillas",
+      "status": "validated_pending_publication",
+      "commit": null,
+      "type": "update",
+      "lastChecked": "2026-09-08T18:35:11+02:00",
+      "verification": {
+        "localBuild": "passed",
+        "checks": "passed",
+        "live": "pending",
+        "visualReview": "passed desktop and mobile localhost",
+        "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
+      }
+    },
+    {
+      "topic": "Icarus Ascent",
+      "title": "Icarus Ascent opiniones 2026: sneaker barefoot de transición",
+      "url": "https://barefootopiniones.com/opinion-icarus-ascent-zapato-barefoot-adapta/",
+      "slug": "opinion-icarus-ascent-zapato-barefoot-adapta",
+      "status": "validated_pending_publication",
+      "commit": null,
+      "type": "update",
+      "lastChecked": "2026-09-08T18:35:11+02:00",
+      "verification": {
+        "localBuild": "passed",
+        "checks": "passed",
+        "live": "pending",
+        "visualReview": "passed desktop and mobile localhost",
+        "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
+      }
+    },
+    {
+      "topic": "Jan & Jul",
+      "title": "Mi opinión sobre Jan & Jul: calzado infantil asequible y respetuoso",
+      "url": "https://barefootopiniones.com/opinion-jan-jul-calzado-infantil-asequible/",
+      "slug": "opinion-jan-jul-calzado-infantil-asequible",
+      "status": "validated_pending_publication",
+      "commit": null,
+      "type": "update",
+      "lastChecked": "2026-09-08T18:35:11+02:00",
+      "verification": {
+        "localBuild": "passed",
+        "checks": "passed",
+        "live": "pending",
+        "visualReview": "passed desktop and mobile localhost",
+        "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
+      }
+    },
+    {
+      "topic": "Jenon Leather",
+      "title": "Jenon Leather opiniones 2026: zapatos barefoot personalizables",
+      "url": "https://barefootopiniones.com/opinion-jenon-leather-barefoot-personalizables/",
+      "slug": "opinion-jenon-leather-barefoot-personalizables",
+      "status": "validated_pending_publication",
+      "commit": null,
+      "type": "update",
+      "lastChecked": "2026-09-08T18:35:11+02:00",
+      "verification": {
+        "localBuild": "passed",
+        "checks": "passed",
+        "live": "pending",
+        "visualReview": "passed desktop and mobile localhost",
+        "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
+      }
     }
   ],
   "extraCampaigns": [

@@ -1,126 +1,117 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: "Mi opinión sobre Jenon Leather: zapatos barefoot personalizables para cualquier tipo de pie"
-description: Jenon Leather es una pequeña marca de Zapatos barefoot de la República
-  Checa a la que le tengo echado el ojo desde hace varios años. Se especializan en
-  zapatos de cuero hechos a mano y personalizados para todas las estaciones.
+title: "Jenon Leather opiniones 2026: zapatos barefoot personalizables"
+description: "Reseña actualizada de Jenon Leather: tallas, horma extra ancha, pedidos personalizados, J.Joplin, Villet, Yeans, plazos y devoluciones."
 date: '2022-12-01T15:19:44'
 permalink: /jenon-leather-review-barefoot-shoes-for-any-foot-type/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 24151
 sourceSlug: jenon-leather-review-barefoot-shoes-for-any-foot-type
-sourceModified: '2026-05-26T23:51:50'
+sourceModified: '2026-09-08T18:35:11'
 image: "/assets/generated/featured/posts/jenon-leather-review-barefoot-shoes-for-any-foot-type.jpg"
-imageAlt: "Imagen destacada de 'Revisión de Jenon Leather: Zapatos barefoot personalizables para cualquier"
+imageAlt: "Zapatos Jenon Leather de cuero hechos a mano con horma barefoot personalizable"
 tags:
 - traducido
+- jenon-leather
+- personalizable
+- pies-anchos
 language: es
 translatedFrom: en
+faqItems:
+  - question: "¿Jenon Leather sirve para pies extra anchos?"
+    answer: "Sí, es una de las marcas más interesantes para pies en abanico o difíciles porque ofrece horma estándar ancha y pedidos personalizados."
+  - question: "¿Cuánto tarda un pedido Jenon Leather?"
+    answer: "Las fichas consultadas indican producción y entrega aproximada de 3-4 semanas o 4-5 semanas en pedidos custom, según modelo."
+  - question: "¿Se pueden devolver zapatos personalizados?"
+    answer: "No conviene asumirlo: las fichas custom advierten que los zapatos hechos a medida no se cambian por talla, así que hay que medir dos veces."
+  - question: "¿Jenon Leather es barefoot puro?"
+    answer: "Puede serlo, pero algunos modelos permiten añadir más grosor o acolchado; elige configuración si quieres 100% barefoot."
 ---
-<p class="has-normal-font-size">por Samantha</p>
-<p><a href="https://www.jenonleather.com/">Jenon Leather</a> es una pequeña marca de Zapatos barefoot de la República Checa a la que le tengo echado el ojo desde hace varios años. Se especializan en zapatos de cuero hechos a mano y personalizados para todas las estaciones. </p>
-<p>Botas de nieve descalzas, sandalias, zapatillas de deporte e incluso un elegante vestido plano se pueden fabricar en tamaños y colores estándar, o personalizar según sus medidas y preferencias. Continúe leyendo para conocer todos los detalles sobre esta marca que es excelente para pies anchos o difíciles de calzar.</p>
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-3cc864f4" data-offset="30" data-scroll="1" style="">
-<div class="uagb-toc__wrap">
-<div class="uagb-toc__title">
-							Tabla de contenidos						</div>
-<div class="uagb-toc__list-wrap">
-<ol class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#meet-jenon-leather">Conoce a Jenon Leather</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#sizing-fit">Sizing &amp;amp; Fit</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#ordering-from-jenon-leather">Realizar pedidos a Jenon Leather</a><ul class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#customizing-your-jenon-leather">Personalizando su cuero Jenon</a></li></ul></li><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#j-joplin-pumps-review">Revisión de bombas J. Joplin</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#j-joplin-custom-production">J. Joplin Producción personalizada</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#snowflake-winter-boots-review">Revisión de botas de invierno con copos de nieve</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#lilly-sandals-review">Revisión de sandalias Lilly</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#conclusion">Conclusión</a></li></li></li></li></li></li></li></ol> </div>
-</div>
-</div>
+Jenon Leather es una marca checa de calzado de cuero hecho a mano que interesa sobre todo a quien no encaja bien en hormas estándar. La reseña original ya la veía como una opción potente para pies extra anchos, pies en abanico, empeines altos y personas que quieren elegir color, suela o incluso forma. En 2026 la idea sigue vigente, pero hay que comprar con más método que en una tienda normal.
 
-<h2 class="wp-block-heading">Conoce a Jenon Leather</h2>
-<p>Jenon Leather está ubicada en la República Checa, un país con una larga historia en la fabricación de calzado y una actitud moderna y positiva hacia los Zapatos barefoot. Su pequeño equipo de dedicados artesanos se esfuerza por garantizar que la tradición continúe fabricando Zapatos barefoot de alta calidad utilizando materiales de origen local. </p>
-<p>La empresa familiar se fundó en 2019 y comenzó solo con calzado personalizado, pero luego desarrolló la forma de suela estándar que ve en esta reseña. Aproximadamente la mitad de su negocio sigue siendo pedidos personalizados, porque a la gente le encanta conseguir un ajuste a medida. </p>
-<p>Jenon Leather es una opción fabulosa si tienes una forma de pie única o una punta extra ancha. Jenon también es una excelente opción para las personas que desean zapatos con forma de pie pero que no buscan la experiencia completa de estar barefoot, porque pueden personalizar el grosor de la suela e incluso agregar un cojín para el talón.</p>
-<p class="has-text-align-center">Usar código <strong>JENON11</strong> para 10% de descuento</p>
-<h2 class="wp-block-heading">Sizing &amp;amp; Fit</h2>
+**Veredicto rápido:** Jenon Leather merece la pena si necesitas personalización real, cuero y una horma amplia. No es la compra más rápida ni la más simple: hay plazos de producción, medidas que enviar, pedidos custom con devolución limitada y comunicación que conviene confirmar antes de pagar.
 
-<p>Jenon Leather ofrece tallas estándar desde EU 36 a 48, o puedes pedir cualquier estilo personalizado según tus medidas. También tienes la opción de personalizar solo el cuero y los materiales de la suela. Los zapatos con forma estándar de Jenon tienen el siguiente tipo de ajuste:</p>
-<ul>
-<li>Puntera extra ancha</li>
-<li>Puntera inclinada</li>
-<li>En forma de abanico</li>
-<li>Amplio espacio vertical para los dedos</li>
-</ul>
-<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">¡Obtenga más información sobre los diferentes tipos de pies aquí!</a></p>
-<h2 class="wp-block-heading">Realizar pedidos a Jenon Leather</h2>
-<p>Jenon Leather realiza envíos a países dentro de la UE por 6-15 €, y a un puñado de países fuera de la UE por 25 €. Para los que estamos en USA el envío es de 30€. Puedes obtener un 10% de descuento con el código <strong>JENON11</strong>.</p>
-<p>Si tienes la suerte de vivir en la República Checa cerca del <a href="https://www.jenonleather.com/CONTACT-a2_0.htm">Tienda de cuero Jenon</a>, puedes visitarlo en persona para buscar productos, ver muestras de cuero o medirte los pies para comprar zapatos personalizados.</p>
-<p>Se aceptan devoluciones de zapatos estándar dentro de los 14 días para artículos no usados (el comprador paga el envío de devolución). Los pedidos personalizados no son elegibles para devolución.</p>
-<h3 class="wp-block-heading">Personalizando su cuero Jenon </h3>
-<p>Nuestro amigo Stine ha elaborado un <a href="https://sagaifarver.dk/2022/12/jenon-leather-customs-ordering-guide.html">Guía para personalizar tus zapatos Jenon Leather</a>. Compruébalo para explorar posibilidades y obtener consejos sobre cómo medir y describir tus pies para obtener los mejores resultados.  Personalizar la combinación de colores cuesta 20€, mientras que una forma personalizada comienza en 30€ y aumenta dependiendo del tipo de cambios que se necesiten. Después de realizar su pedido personalizado, envíe un correo electrónico a Jenon con sus ideas para comenzar el proceso.</p>
-<p>También puedes dirigirte al <a href="https://www.instagram.com/jenon_leather/">Jenon cuero Instagram</a> página para inspirarse en combinaciones de colores: comparten fotos de todos sus proyectos personalizados en historias y puedes explorarlas en las burbujas destacadas en la parte superior.</p>
-<h2 class="wp-block-heading">Revisión de bombas J. Joplin</h2>
+<p class="affiliate-disclosure">Transparencia: este artículo conserva experiencia histórica de Samantha e Isabel con J.Joplin, Snowflake y Lilly, y actualiza precios/plazos visibles con fuentes oficiales consultadas el 8 de septiembre de 2026. No se inventan pruebas nuevas ni disponibilidad exacta de todos los colores.</p>
 
-<p class="has-text-align-center">105€ | Cuero | Suela exterior de 4 mm + plantilla de 3,5 mm | Tallas UE 36-48</p>
+## Jenon Leather opiniones: por qué destaca
+
+Jenon Leather fabrica en la República Checa y vende zapatos de cuero para vestir, botas, bailarinas, sandalias y opciones custom. La reseña de Anya's Reviews destacaba que la marca sirve tanto para quienes quieren una horma estándar muy amplia como para quienes necesitan modificar forma, color o grosor de suela.
+
+En fuentes oficiales consultadas, Jenon muestra modelos con producción bajo pedido: Yeans Custom con plazo de 3-4 semanas en la ficha visible y aviso de que los zapatos custom no se cambian por tallas más pequeñas o grandes; la misma ficha indica que el par estará listo en 4-5 semanas. En la categoría de flats aparecen J.Joplin y Villet con precios visibles entre 129 y 145 EUR y producción de 3-4 semanas. Estos datos son una foto de consulta, no una promesa permanente.
+
+<figure>
+  <img src="/assets/generated/featured/posts/jenon-leather-review-barefoot-shoes-for-any-foot-type.jpg" alt="Collage de zapatos Jenon Leather barefoot de cuero y producción artesanal" width="1200" height="675" loading="lazy">
+  <figcaption>Imagen destacada del artículo importado; muestra modelos revisados y opciones de cuero Jenon Leather.</figcaption>
+</figure>
+
+## Tabla de decisión de Jenon Leather
+
+<div class="table-scroll" role="region" aria-label="Tabla de decisión Jenon Leather" tabindex="0">
+
+| Necesidad | Modelo o línea | Por qué encaja | Precaución |
+|---|---|---|---|
+| Bailarina con cordones | J.Joplin | sujeción mejor que flat abierta, estilo especial | puede requerir custom si tienes empeine alto |
+| Flat sencilla | Villet | cuero, ligereza, estética discreta | revisar volumen y ajuste de talón |
+| Bota diaria | Yeans | cuero, 6 mm Vibram, opción custom | producción bajo pedido |
+| Sandalia elegante | Lilly | tiras ajustables y colores | tira frontal puede limitar pies gruesos |
+| Pie muy difícil | Custom-made | forma y color adaptables | medir mal sale caro |
 
 </div>
-<p>Estos son unos zapatos HERMOSOS. Los amo muchísimo y felizmente tendría una colección completa de ellos en todos los colores y patrones posibles. El cuero floral grabado (<a href="https://www.jenonleather.com/leathercolours">opción personalizada</a>) es impresionante. </p>
-<p>El estilo de bailarinas altas con cordones lleva el nombre de la leyenda del rock Janis Joplin y agregan un elemento divertido a cualquier atuendo informal, pero también funcionan a la perfección como un zapato de vestir femenino. Los cordones elásticos en la parte superior hacen que sean realmente fáciles de poner y también más seguros que una bailarina abierta. Me preocupaba que el elástico hiciera que el Joplin pareciera demasiado informal, pero no es así (los ojales de metal ayudan). Los he utilizado cada vez que necesito vestirme elegante, e incluso en días informales.</p>
-<p><strong>Sizing &amp;gt; Fit:</strong></p>
-<ul>
-<li>Fiel al tamaño</li>
-<li>Volumen medio a alto</li>
-</ul>
-<p>Elegí mi talla 38 habitual para zapatos cerrados y el largo es perfecto (mis pies miden 24 cm de largo). <a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/#measuring-your-feet">de un rastreo</a>). Tengo pies extra anchos que también tienen mucho volumen. Si bien la forma estándar se adapta sorprendentemente bien, sé que un ajuste personalizado sería mejor para mis arcos altos porque tuve que quitarme la plantilla para lograr un buen ajuste. </p>
-<p>Si bien no creo que estén destinados a usarse sin plantilla, no ha causado ningún problema. En realidad, la plantilla está hecha para ser extraíble y reemplazable.</p>
-<p>La parte del tobillo estaba bastante rígida al principio, pero después de pasar la mayor parte de un viaje de una hora (¡como pasajero!) masajeando y trabajando el cuero en esa área con mis manos, se adaptaron maravillosamente y continuaron volviéndose más suaves con el uso. Rápidamente se han convertido en uno de mis pares de zapatos favoritos.</p>
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+## Ajuste y tallas
 
-<h2 class="wp-block-heading">J. Joplin Producción personalizada</h2>
+La horma estándar de Jenon Leather es amplia, inclinada y con mucho espacio vertical para dedos según la reseña original. Eso la hace especialmente útil para pies en abanico, dedos que necesitan altura y personas que suelen sacar el pie por los laterales de otras marcas.
 
-<p class="has-text-align-center"> 105€ + | Cuero | Suela exterior de 4 mm + plantilla de 3,5 mm | Tallas UE 36-48 </p>
-<p>Para este par de J. Joplins personalizados (¿no son deslumbrantes?), el equipo de Jenon agregó altura a la horma del zapato para que no tuviera que quitarles la plantilla para que encajaran, ¡sí! Si bien parece algo muy sencillo de hacer, en realidad requiere muchos pasos y horas de trabajo extra. No sólo es necesario modificar la horma con una capa de corcho adherida a la parte inferior, sino que también es necesario ajustar el patrón de los materiales superiores. </p>
-<p>Los zapatos personalizados son un trabajo de amor, pero cuando están bien hechos siempre valen la pena si tienes pies no tan estándar. ¡Muchas gracias a Jan de Jenon Leather por enviar fotos del proceso de estos Joplins florales!</p>
+En J.Joplin, Samantha usó talla 38 para pies de 24 cm y extra anchos, pero retiró la plantilla para ganar volumen. Después, el par custom añadió altura en la horma para no necesitar ese apaño. Esa diferencia resume el valor de Jenon: si el problema es leve, la horma estándar puede bastar; si el problema es concreto, el custom evita compromisos.
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+Para Snowflake, Isabel recomendaba subir talla por el forro de piel de oveja. Para Lilly, el largo fue justo entre tallas y la tira del antepié podía limitar pies de mucho volumen. No juntaría esas experiencias en una regla única. En Jenon, cada modelo debe leerse por separado.
 
-<h2 class="wp-block-heading">Revisión de botas de invierno con copos de nieve</h2>
-<p class="has-small-font-size">por Isabel</p>
+Si estás eligiendo por anchura, compara también con la guía de [zapatos barefoot para pies anchos](/zapatos-barefoot-para-pies-anchos-guia-completa/) y la lista de [marcas barefoot en España](/mejores-marcas-barefoot-espana/). Jenon es fuerte cuando las tallas estándar no bastan.
 
-<p class="has-text-align-center">157€ | Cuero y piel de oveja | Suela exterior de 6 mm + plantilla con cubierta de piel de oveja | Tallas UE 36-48</p>
+## Pedidos personalizados: cómo evitar errores
 
-</div>
-<p>Aquí Isabel, he estado probando las botas Snowflake durante las últimas semanas una vez que el clima se volvió frío. ¡Tengo que decir que superaron mis expectativas! Son cálidos, acogedores y se adaptan muy bien a mi pie en forma de abanico.</p>
-<p>El forro de piel de oveja es grueso y lleno, mientras que el cuero exterior se siente fino y un poco pegajoso. Pero parece duradero y muy flexible. Ya los he raspado varias veces y tienen algunas marcas, pero el cuero en sí no está rayado. </p>
-<p>La suela más gruesa ayuda a protegerse del frío, pero sigue siendo moderadamente flexible. En mis inviernos extremos realmente aprecio un poco más entre el suelo y yo.</p>
-<p>En general, si tuviera que conformarme con un solo par de botas de invierno descalzas, estas serían una excelente opción para mi tipo de pie. </p>
-<p><strong>Sizing &amp;gt; Fit:</strong></p>
-<ul>
-<li>Es pequeño</li>
-<li>Volumen medio a bajo</li>
-</ul>
-<p>Para este modelo recomendaría una talla más grande debido al forro de piel de oveja afelpada. Se ajustan a un volumen medio a bajo sobre los dedos y el arco, pero los cordones se pueden aflojar por completo. Sin embargo, debido a que la lengüeta no tiene fuelle, si tienes un arco alto o un tobillo grueso, es posible que la lengüeta no sea lo suficientemente ancha.</p>
-<p>Mis pies miden 23,3 cm de largo y elegí una talla 38. Al principio me sentían un poco cómodos y me preocupaba que fueran incómodos, pero no tuve problemas con el ajuste una vez que comencé a usarlos. La puntera es bastante ancha para mi pie y no me rozan el tobillo ni el talón en absoluto. ¡Son como un cálido abrazo en mis pies!</p>
+La ficha oficial de Yeans Custom insiste en medir bien porque los zapatos hechos a medida no se cambian por otra talla. Esto cambia la decisión: no compras solo un producto, compras un pequeño proceso de producción. Antes de pedir, prepararía largo, ancho, volumen, forma de dedos, empeine, talón y fotos de pies sobre papel, además de explicar dónde suelen fallar tus zapatos.
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+También separaría personalización estética de personalización funcional. Elegir color o cuero es sencillo. Cambiar horma, altura o grosor afecta al ajuste; ahí conviene escribir a la marca y esperar confirmación. Si necesitas devolución fácil, empieza por un modelo estándar o compra solo si aceptas el riesgo.
 
-<h2 class="wp-block-heading">Revisión de sandalias Lilly</h2>
-<p class="has-small-font-size">por Isabel</p>
+## Materiales, suelas y configuración barefoot
 
-<p class="has-text-align-center">87€ | Cuero | Suela exterior de 4 mm + plantilla de cuero de 2 mm | Tallas UE 35-48 </p>
+Jenon usa cuero de calidad y trabaja sin cup soles en varias fichas, lo que permite ligereza y flexibilidad. En Yeans Custom aparece una suela Vibram de 6 mm; en Business Blueline la ficha habla de suela de goma de 4 mm y plantilla de 3,5 mm; en Lilly Goldstrap se indica suela de goma de 4 mm más entresuela de cuero de 2 mm. Son configuraciones distintas.
 
-</div>
-<p>Elegí las sandalias Lilly Gold porque me encantan las sandalias bonitas que se pueden usar con cualquier cosa. Están muy bien confeccionados y tienen una suela fina y flexible. Además podrás personalizar este modelo con todo tipo de colores, grosores de suela e incluso un <a href="https://www.jenonleather.com/how-to-measure">Forma personalizada hecha a tus medidas.</a> </p>
-<p>Los míos son de tamaño estándar, que funcionarán bien para un pie promedio, pero me encantaría probar un par personalizado algún día. Son unas sandalias realmente bonitas, estoy bastante impresionada con ellas. Al igual que Snowflake, si solo pudiera tener un par de sandalias de verano para usar con todo, ya sea formal o informal, estas serían perfectas.</p>
-<p><strong>Sizing &amp;gt; Fit:</strong></p>
-<ul>
-<li>Fiel al tamaño</li>
-<li>Volumen bajo</li>
-</ul>
-<p>A menudo uso sandalias descalzas entre 36 y 37. Elegí el 36 y son un poco pequeños para mí. Realmente estoy justo entre los dos, pero aun así los llamaría fieles al tamaño. </p>
-<p>Las correas se ajustan a un volumen reducido sobre el pie, lo cual es fantástico para mí. A menudo tengo que usar sandalias con el ajuste más ajustado y luego todavía quieren dejarse caer. Pero la correa sobre la punta del pie puede resultar restrictiva en puntera amplia y pies gruesos. Estirar esa correa debería ser suficiente, pero consideraría una sandalia hecha a medida si tienes pies de volumen extra alto. </p>
+Además, Jenon permite elegir entre más comodidad bajo el talón y experiencia 100% barefoot en algunos modelos. Si tu objetivo es drop cero estricto, selecciona la opción correspondiente y confirma que no añades acolchado de talón. Si vienes de calzado convencional o tienes sensibilidad, más grosor puede ser útil, pero no lo llames barefoot puro sin matizar.
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
+## Pros y contras
 
-<h2 class="wp-block-heading">Conclusión</h2>
-<p><a href="https://www.jenonleather.com/">Jenon Leather </a>es una excelente opción para Zapatos barefoot de moda que se pueden adaptar a sus gustos. Llevan un poco de todo y lo hacen bien. Estoy deseando crear algunas sandalias personalizadas el próximo año y tal vez otro par de zapatos de tacón J Joplin.</p>
+**Pros:** horma muy amplia, opciones custom reales, cuero, producción artesanal europea, modelos de vestir difíciles de encontrar, tallas amplias, posibilidad de resolver pies de alto volumen o forma poco habitual.
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:30% auto"><div class="wp-block-media-text__content">
-<p>Samantha es escritora e investigadora de Barefoot Opiniones y ama de casa con 5 pequeños. Además de comprar calzado para su familia en línea, dedica su tiempo a estudiar en casa, leer, tejer y realizar proyectos de mejoras para el hogar con su esposo.</p>
-</div></div>
+**Contras:** plazos de 3-5 semanas según ficha/modelo, pedido custom con devolución limitada, más decisiones antes de comprar, precio superior a calzado masivo, necesidad de medir con precisión.
 
+## Vídeo sobre Jenon Leather
+
+No he añadido vídeo porque la decisión depende más de medición, configuración y plazos que de un vídeo genérico. Si la marca publica un tutorial oficial actualizado de medición o pedido custom, sí sería útil incrustarlo.
+
+## Para quién tiene sentido
+
+Recomendaría Jenon Leather a quien ya sabe qué falla en sus zapatos: puntera insuficiente, empeine alto, talón estrecho, necesidad de cuero o deseo de un zapato de vestir barefoot hecho a medida. También a personas que valoran producción artesanal y están dispuestas a esperar.
+
+La descartaría para una primera compra barefoot impulsiva, para quien necesita devolución sencilla o para quienes no quieren medir. En ese caso miraría antes [Groundies Palermo](/opinion-groundies-palermo-zapato-vestir/), [Carets](/opinion-carets-barefoot-elegantes-hombres/) o [Shapen](/opinion-shapen-mejores-zapatos-vestir-barefoot/) según estilo.
+
+## Preguntas frecuentes
+
+### ¿Jenon Leather sirve para pies extra anchos?
+
+Sí, es una de sus grandes fortalezas. Aun así, si tienes pies muy difíciles, el pedido personalizado es más lógico que asumir que la horma estándar bastará.
+
+### ¿Cuánto tarda un pedido?
+
+Las fichas consultadas indican producción y entrega aproximada de 3-4 semanas o 4-5 semanas en pedidos custom, según modelo.
+
+### ¿Se pueden devolver zapatos personalizados?
+
+No conviene asumirlo. Las fichas custom advierten que los zapatos hechos a medida no se cambian por tallas más pequeñas o grandes.
+
+### ¿Es barefoot puro?
+
+Puede serlo si eliges configuración plana y flexible, pero algunos modelos permiten añadir más grosor o acolchado. Revisa la ficha antes de pedir.

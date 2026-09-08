@@ -2,110 +2,114 @@
 layout: layouts/imported.njk
 templateEngineOverride: md
 title: "Mi opinión sobre Groundies Performance: zapatillas barefoot de estilo retro"
-description: Las zapatillas Groundies Performance tienen la apariencia de un tacón
-  de cuña para que puedas obtener ese aire de zapatillas retro y seguir estando alineados
-  y cómodos. Con la ayuda de mis amigos, probé y revisé los 3 modelos nuevos.
+description: "Reseña actualizada de Groundies Performance: Flow, Balance, Relax, suela GP1, ajuste, usos reales, límites de entrenamiento y alternativas."
 date: '2022-03-11T08:39:00'
 permalink: /groundies-performance-review-retro-barefoot-sneakers/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 20137
 sourceSlug: groundies-performance-review-retro-barefoot-sneakers
-sourceModified: '2026-06-13T00:16:47'
+sourceModified: '2026-09-08T18:35:11'
 image: "/assets/generated/featured/posts/groundies-performance-review-retro-barefoot-sneakers.jpg"
-imageAlt: "Imagen destacada de 'Revisión del rendimiento de Groundies: zapatillas de deporte descalzas con"
+imageAlt: "Zapatillas Groundies Performance de estilo retro con suela plana"
 tags:
 - traducido
+- groundies
+- zapatillas
+- retro
 language: es
 translatedFrom: en
+faqItems:
+  - question: "¿Groundies Performance son zapatillas deportivas?"
+    answer: "Son zapatillas barefoot de diario con estética retro; Balance puede servir para gimnasio suave, pero Flow y Relax tienen más sentido como casual."
+  - question: "¿La suela Performance tiene drop?"
+    answer: "No. La gracia de la suela Performance/GP1 es aparentar cuña retro manteniendo una base plana."
+  - question: "¿Qué modelo elegir entre Flow, Balance y Relax?"
+    answer: "Flow si quieres cuero y pie bajo-medio; Balance si quieres vegan mesh y más ventilación; Relax si priorizas lana y entretiempo."
+  - question: "¿Groundies Performance sirve para pies extra anchos?"
+    answer: "No sería mi primera opción para pies extra anchos; encaja mejor en pies medios, estrechos o anchos moderados."
 ---
-<p style="font-size:14px">Esta publicación fue patrocinada por Groundies, pero mantengo el control editorial total del contenido.</p>
+Las Groundies Performance nacieron para resolver una tensión frecuente: quieres una sneaker retro que parezca convencional, pero no quieres talón elevado ni puntera estrecha. En 2026 la familia sigue siendo útil como referencia, aunque Groundies ha ido renombrando y ampliando sus suelas; Anya's Reviews ya habla de GP1 para la suela que mantiene apariencia de cuña, más amortiguación que GO1 y una sensación más cercana a una sneaker de diario.
 
-<p> Las zapatillas deportivas de alto rendimiento tienen la apariencia de un tacón de cuña, pero en realidad son totalmente planas, delgadas y anchas en la puntera, ¡para que puedas obtener ese aire de zapatillas retro y seguir estando alineados y cómodos! Con la ayuda de mis amigos, probé y revisé los 3 modelos de zapatillas Groundies Performance y estoy aquí para contarte toda la información. ¡Mira mi revisión en profundidad a continuación!</p>
-<p class="has-text-align-center"></p>
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-3d36701d" data-offset="30" data-scroll="1" style="">
-<div class="uagb-toc__wrap">
-<div class="uagb-toc__title">
-							Tabla de contenidos						</div>
-<div class="uagb-toc__list-wrap">
-<ol class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#getting-to-know-groundies">Conociendo a los Groundies</a><ul class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#sizing-fit">Sizing &amp;amp; Fit</a><li class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#the-4-groundies-outsoles">Las 4 suelas Groundies</a></li></li></li></ul></li><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#groundies-performance-sneaker-review">Revisión de las zapatillas de deporte Groundies Performance</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#groundies-flow">Flujo de tierra</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#groundies-balance">Equilibrio de tierra</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#groundies-relax">Relájate</a><ul class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#are-they-athletic-sneakers">¿Son zapatillas deportivas?</a></li></ul></li></li><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#conclusion">Conclusión</a></li></li></li></ol> </div>
-</div>
-</div>
+**Veredicto rápido:** Groundies Performance tiene sentido si buscas una zapatilla barefoot de ciudad, con estética Nike/Adidas retro, pie medio y uso casual. No la compraría como zapatilla principal para calor intenso, running o entrenamiento duro. Para gimnasio serio miraría modelos específicos de entrenamiento; para máxima anchura, otras hormas.
 
-<h2 class="wp-block-heading">Conociendo a los Groundies</h2>
+<p class="affiliate-disclosure">Transparencia: la reseña original fue patrocinada por Groundies, con control editorial declarado por Anya's Reviews. Esta actualización conserva esa experiencia y la separa de los datos consultados el 8 de septiembre de 2026.</p>
 
-<p>Groundies barefootwear es una marca alemana de calzado barefoot que se centra en zapatos saludables con un estilo convencional. De hecho, según mi experiencia, los zapatos Groundies son uno de los más populares”<a href="/preguntas/como-escojo-mi-primer-par-de-zapatos-barefoot/">Primeros Zapatos barefoot</a>”para novatos. Estoy bastante seguro de que esto se debe a que están arrasando en el juego del estilo: ¡los Zapatos barefoot no tienen por qué ser feos!</p>
-<p>Aquí hay algunas cosas más que me encantan de Groundies.</p>
-<ul>
-<li>Todos los zapatos Groundies son zero drop, flexibles y delgados (incluso si la suela no lo parece)</li>
-<li>Tienen toneladas de estilos que son MUCHO mejores para ti que la mayoría del calzado tradicional.</li>
-<li>Son climáticamente neutros</li>
-<li>Realizan envíos a todo el mundo de forma gratuita (pero son lentos, por lo que es posible que desees optar por DHL Express, que cuesta $10 a EE. UU.)</li>
-<li>Tienen 3 años de garantía contra el desgaste de las suelas.</li>
-<li>Puedes devolver los zapatos dentro de los 14 días posteriores a la recepción. <em>incluso si se usa afuera</em>.</li>
-</ul>
-<p class="has-text-align-center"><a href="/marca/groundies/">Puedes leer mis reseñas anteriores de Groundies barefootwear aquí.</a></p>
-<p>En Groundies también puedes encontrar muchos modelos que vienen en barefoot Light con una forma más puntiaguda, pero todos los demás tienen una forma de pie más anatómica. Personalmente, recomiendo optar por la forma descalza: es mejor para tus pies.</p>
-<figure class="wp-block-image aligncenter size-full is-resized"><figcaption class="wp-element-caption">Usar todo mi rango de movimiento con zapatos que dejen mis pies libres no es gran cosa.</figcaption></figure>
-<h3 class="wp-block-heading">Sizing &amp;amp; Fit</h3>
-<p><strong>Tamaño de los terrenos:</strong> Afortunadamente, el tamaño es el mismo en los zapatos Groundies y, por lo general, es consistente en todos los modelos, por lo que casi nunca tengo problemas para encontrar mi tamaño correcto. La única excepción para mí hasta ahora son los pisos Bella, puedes leer mi <a href="/revision-de-groundies-bella-una-mirada-en-profundidad/">Bella revisión</a> para esos detalles de tallas. </p>
-<p>Los zapatos para hombre y mujer son idénticos, pero están separados en listados diferentes (¿por qué?) y vienen en tallas EU 36-47.</p>
-<p><strong>Tipo de ajuste Groundies</strong>: Groundies tiene un <a href="/preguntas/cual-es-mi-tipo-de-pie/">forma de montaña</a> en un ancho promedio y funciona bien para personas que son nuevas en el uso de Zapatos barefoot o que no tienen pies extra anchos. el <a href="/preguntas/que-es-el-volumen-del-pie/">volumen del pie</a> El número de Groundies varía según el modelo.</p>
-<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/">Puedes leer más sobre el tipo de pie y los zapatos que combinan con él aquí.</a></p>
-<h3 class="wp-block-heading">Las 4 suelas Groundies</h3>
+## Groundies Performance opiniones: Flow, Balance y Relax
 
-<ul>
-<li><strong>GO1:</strong> Suela original de Groundies (anteriormente llamada TrueSense) que es extremadamente sensible, con agarre, flexible y suave. Me encanta esta suela.</li>
-<li><strong>GS1:</strong> Esto da la apariencia de una suela tradicional gruesa, pero en realidad es bastante delgada. Su construcción es un poco menos flexible que la del GO1.</li>
-<li><strong>GX1:</strong> Este es más grueso que el TrueSense para ser más resistente para el senderismo y el frío, pero sigue siendo flexible.</li>
-<li><strong>Rendimiento:</strong> Diseñado para sentirse como el TrueSense GO1 pero con una suela ligeramente más acolchada y la apariencia de un tacón de cuña. También tiene una puntera ligeramente alargada para darle una apariencia más tradicional (pero no es más estrecha que otros zapatos Groundies).</li>
-</ul>
-<p>En mi opinión, la puntera de los Groundies podría inclinarse más en el dedo gordo, para permitir una mayor separación de los dedos; esto es algo que siento más en los zapatos Groundies GS1 porque la suela amurallada sube más y se sienten los bordes más claramente. Tengo una puntera ancha y los zapatos GS1 de Groundies son los únicos con los que no me siento cómodo. Por supuesto, si no tienes una puntera ancha probablemente no lo notarás, y todavía adoro mis otros zapatos Groundies.</p>
-<p>Ahora pasemos al plato principal: ¡las zapatillas Performance!</p>
-<h2 class="wp-block-heading">Revisión de las zapatillas de deporte Groundies Performance</h2>
+La reseña original comparaba tres versiones: Flow, Balance y Relax. Todas compartían la misma idea de suela plana con aspecto de cuña, pero cambiaban por material, ventilación y volumen. Flow era cuero y se sentía más clásica; Balance era malla vegana y más aireada; Relax usaba lana y encajaba mejor en entretiempo que en ejercicio intenso.
 
-<p>Actualmente la suela Performance está disponible en <a href="https://www.groundies.com/performance/#performance_shop-now">3 zapatillas diferentes</a> con diferentes materiales superiores: Flow (119 €), Balance (109 €) y Relax (119 €). Recluté a dos de mis amigas, Shay y Megan, para que me ayudaran a revisar los 3 en diferentes tipos de pies y tallas de zapatos. </p>
-<h2 class="wp-block-heading">Flujo de tierra</h2>
+Ese reparto sigue siendo la manera más útil de leer el artículo. La propia tienda de Groundies USA mantiene una categoría de Performance Shoes y el sitio europeo aún muestra Balance como zapatilla vegana ligera con upper transpirable y suela de rendimiento. La disponibilidad exacta de Flow o Relax puede cambiar por país y temporada, así que conviene no comprar desde una reseña antigua sin revisar la ficha vigente.
 
-<p class="has-text-align-center"><strong>Cuero | Fiel al tamaño | 119€</strong><br/>Lo mejor para pies de ancho medio y volumen bajo a medio</p>
-<p>Para mí elegí <a href="https://www.groundies.com/groundies-flow/">la zapatilla Flow</a> en talla EU 37 (la talla que uso en todas mis zapatillas Groundies). El Flow está hecho de cuero y realmente me gustaba el aspecto clásico. Me recuerdan a las Nike o Adidas retro. </p>
-<p>Sin embargo, debo admitir que era escéptico sobre la forma de la puntera. Tiene forma de almendra tanto en fotos como en persona. Dado mi historial de dolor, es importante para mí no tener presionado el dedo gordo del pie. Pero de alguna manera hay mucho más espacio de lo que parece y en realidad se ajustan a mi ancho. Por supuesto que estaba emocionado, porque son muy lindos. Llevo las zapatillas Flow barefoot, tanto por tener más espacio para los dedos como porque así es como lo hago.</p>
-<p>Otra pregunta que tuve sobre la suela de alto rendimiento fue si la base ancha del talón me restringiría los tobillos. Desde que usé estas zapatillas Flow de manera informal (haciendo recados y caminando por mi ciudad), nunca me molestó ni una sola vez.</p>
+<figure>
+  <img src="/assets/images/models/groundies__performance.png" alt="Zapatilla Groundies Performance con estética retro y puntera barefoot" width="900" height="900" loading="lazy">
+  <figcaption>Imagen de repositorio de Groundies Performance; referencia visual del concepto de suela retro plana.</figcaption>
+</figure>
 
-<p>La parte superior de cuero es suave y no se rozó ni se rompió con el tiempo. Es moderadamente transpirable, pero todavía un poco sudoroso en un clima más cálido (de alguna manera hacía más de 60 grados y hacía sol durante unos días mientras los probaba).</p>
-<p>Este modelo también se adapta muy bien a mi volumen. Tengo pies poco profundos y a menudo tengo que añadir un pie extra. <a href="/las-mejores-plantillas-para-usar-con-zapatos-barefoot/">plantilla descalza</a> a zapatillas, pero las Flow me quedan muy cómodas con los cordones un poco apretados. Si bien no me importa agregar plantillas a mis zapatos, es realmente agradable no tener que hacer ningún ajuste. Creo que funcionarían fácilmente para pies de volumen medio, pero este modelo en particular podría ser exagerado para pies de volumen alto. Si realmente quisieras probarlos en pies de gran volumen, consideraría una talla más grande.</p>
+## Tabla: qué Groundies Performance elegir
 
-<p>Mi única queja sobre las Flow es que los cordones son muy largos. No durarán tanto en un pie de mayor volumen con los cordones flojos, pero a mí me arrastraban por el suelo y se ensuciaban. Por lo demás, estoy muy satisfecho con esta zapatilla.</p>
+<div class="table-scroll" role="region" aria-label="Comparativa Groundies Performance Flow Balance Relax" tabindex="0">
 
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
-
-<h2 class="wp-block-heading">Equilibrio de tierra</h2>
-
-<p class="has-text-align-center"><strong>Malla (vegana) | Fiel al tamaño | 109€</strong><br/>Lo mejor para pies de ancho medio y volumen medio</p>
-<p><a href="https://www.groundies.com/performance/groundies-balance-vegan-women-schwarz.html">El equilibrio de los terrenos</a> Es una zapatilla de malla vegana que es más aireada que las otras opciones de la línea Performance. La parte superior está hecha de una combinación de bambú y materiales reciclados, y la puntera tiene un refuerzo ligero para que no parezca holgada. Shay está muy contenta con estas zapatillas, las ha estado usando en largas caminatas al mediodía empujando un cochecito y ni una sola vez ha tenido irritación o molestia.</p>
-<p>Shay tiene un pie talla 40 más estrecho (entre estrecho y promedio) y tiene mucho espacio en la puntera de estas zapatillas Balance. Parecen quedar un poco más estrechos que el Flow analizado anteriormente, pero la malla tiene el potencial de estirarse en los lados. </p>
-
-<p>El Balance se adapta muy bien a los pies de poco volumen y tacones estrechos de Shay, pero notó que cuando apretó los cordones el material se amontonaba. Este modelo será un poco más adecuado para pies de mayor volumen que el Flow, pero probablemente aún sea mejor para pies de volumen medio o bajo (nuevamente, un tamaño más grande es una opción para arcos extra altos).</p>
-<h2 class="wp-block-heading">Relájate</h2>
-
-<p class="has-text-align-center"><strong>Parte superior de lana, forro de microfibra | Fiel al tamaño | 119€</strong><br/>Lo mejor para pies de ancho medio y volumen medio</p>
-<p><a href="https://www.groundies.com/groundies-relax-oxid-1/">Los Groundies se relajan</a> Está confeccionado en lana de Burel y forrado con suave microfibra. Me recuerdan a Allbirds, que solía tener y amar. ¡Lo que habría dado entonces por una alternativa totalmente plana! Megan los probó por nosotros y los encontró extremadamente cómodos y perfectos para el clima de transición. Se sentían un poco calientes en un clima cálido (más que el Flow) y ella no querría hacer ejercicio con ellos por ese motivo. Pero como zapatillas informales y de uso diario eran perfectas.</p>
-<p>Megan tiene un pie ancho y de gran volumen. Decidimos optar por una talla 38 para ella, aunque a veces puede usar una talla 37. Las 38 le quedan bien y se puede ver que no se ata los cordones muy apretados en el pie (abajo, izquierda). También me probé la talla 38 (abajo, derecha) y, por el contrario, tuve que apretar los cordones sobre mis arcos poco profundos, lo que provocó que el material se doblara un poco. Aun así, los 38 me quedan bastante bien y fácilmente podría haber conseguido este tamaño; puedo agradecer la zona del talón ajustada por eso.</p>
-
-<hr class="wp-block-separator has-text-color has-ast-global-color-8-color has-css-opacity has-ast-global-color-8-background-color has-background is-style-wide"/>
-
-<h3 class="wp-block-heading">¿Son zapatillas deportivas?</h3>
-<p>Dado el nombre "Performance", me pregunté si se trataba de zapatillas deportivas. Después de nuestras pruebas, determinamos colectivamente que Flow and Relax probablemente se sentiría caliente e incómodo durante el ejercicio, pero Balance podría funcionar muy fácilmente como entrenador. La suela tiene agarre, es flexible y funciona bien en pavimentos y gimnasios interiores.</p>
-<h2 class="wp-block-heading">Conclusión</h2>
-<p>Aquí tienes un resumen de nuestra experiencia con las zapatillas Groundies Performance:</p>
-<ul>
-<li>Son más adecuados para pies de ancho medio o estrecho, pero son posibles para algunos pies anchos (¡como el mío!). </li>
-<li>Se adaptan a pies de volumen medio y bajo, siendo el Flow el mejor para pies de volumen bajo y los modelos Relax y Balance mejores para pies de volumen medio (y algunos altos). </li>
-<li>Relax y Balance son muy suaves y no presionan los dedos de los pies.</li>
-<li>Todos encajaban de forma segura y cómoda alrededor de la pata trasera; nuestros pies no chapoteaban en absoluto.</li>
-<li> No hubo puntos de presión, ampollas ni roturas en el tiempo.</li>
-</ul>
-<p>Al final, todos tuvimos éxito con las zapatillas Groundies Performance y las encontramos muy cómodas y elegantes.</p>
+| Modelo | Upper | Mejor para | Límite principal |
+|---|---|---|---|
+| Flow | cuero | estilo retro limpio, oficina casual, pie bajo-medio | puede dar calor en verano |
+| Balance | malla vegana | paseos, gimnasio suave, más ventilación | ajuste algo más estrecho según reseña |
+| Relax | lana y forro de microfibra | entretiempo, diario cómodo | no ideal para entrenar ni calor |
+| Nova GO1 | cuero/nubuck según versión | más sensación barefoot clásica | menos apariencia de cuña |
+| Universe | sneaker mainstream | primera barefoot casual | revisar suela y horma actual |
 
 </div>
 
+## Ajuste y tipo de pie
+
+Groundies suele funcionar bien en pies de ancho medio, forma de montaña y volumen bajo a medio. En Performance, la reseña original fue clara: todas las versiones sujetaban bien el retropié y no dejaron el pie bailando, pero no eran la elección obvia para pies extra anchos.
+
+Flow favorecía pies de bajo a medio volumen. Balance se sentía más transpirable y un poco más estrecha, aunque la malla podía adaptarse en laterales. Relax funcionó en un pie ancho y de más volumen al subir talla, pero con un ajuste más casual que deportivo. Si tienes empeine alto, valora cordones y lengüeta; si tienes talón estrecho, el buen ajuste trasero de la línea es una ventaja.
+
+Para elegir con más seguridad, compara con [Groundies Nova GS1 vs Nova GO1](/groundies-nova-gs1-vs-nova-go1/) y con la guía de [tipo de pie y calzado barefoot](/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/). La suela cambia mucho la percepción: GO1 se siente más flexible; GS1 puede sentirse más contenida por paredes laterales; Performance/GP1 intenta dar estética retro sin estrechar tanto como parece.
+
+## ¿Sirven para entrenar?
+
+Depende del entrenamiento. La reseña original concluía que Balance podía servir como trainer de gimnasio interior o pavimento, mientras Flow y Relax eran demasiado cálidas o casuales para ejercicio intenso. Esa sigue siendo una recomendación prudente.
+
+No compraría Groundies Performance para correr, HIIT agresivo o levantamientos donde buscas contacto muy estable y upper técnico. Sí pueden funcionar para caminar mucho, recados, viajes urbanos, trabajo informal y gimnasio suave si el pie queda bien sujeto. Si tu prioridad real es entrenar, compara con una zapatilla más específica como [Freet Vibe](/opinion-freet-vibe-pies-libres-buenas/), [Vivobarefoot Motus](/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/) o [Xero Forza Trainer](/xero-shoes-guia-tallas-modelos/).
+
+## Disponibilidad 2026 y compra
+
+La búsqueda actual muestra que Groundies mantiene Performance como categoría en USA y Balance/Balance 2.0 en Europa, pero no todos los modelos históricos aparecen siempre juntos. Por eso esta página debe leerse como guía de familia, no como promesa de stock de cada color.
+
+Antes de comprar, revisaría tres cosas: país de entrega, política de devolución y ficha concreta. Groundies USA comunica envío gratuito a partir de 120 USD, devolución gratuita dentro de EE. UU. y una garantía de satisfacción visible en la tienda; Groundies EU comunica devolución de 30 días y envío gratuito en Alemania a partir de 79 EUR. Esos datos varían por región, así que no mezcles condiciones de USA y Europa.
+
+## Pros y contras
+
+**Pros:** estética retro real, suela plana pese a parecer cuña, opciones veganas, buen ajuste de talón en la reseña original, más fácil de integrar en ropa normal que muchas barefoot técnicas.
+
+**Contras:** no es la opción más ancha, Flow y Relax pueden dar calor, disponibilidad cambiante, nombre Performance puede inducir a pensar en deporte serio, precio superior a zapatillas económicas.
+
+## Vídeo sobre Groundies Performance
+
+No he añadido vídeo porque no encontré un YouTube exacto, vigente y embeddable centrado en Flow/Balance/Relax que aportara más que la reseña escrita. Para un artículo de decisión, una tabla honesta y enlaces a fuentes actuales son más útiles que un vídeo genérico.
+
+## Para quién tiene sentido
+
+Las recomendaría a quien quiere una sneaker barefoot bonita para ciudad, tiene pie medio o ancho moderado y necesita algo que combine con vaqueros, pantalones rectos o ropa casual de oficina. También pueden ser buena transición si las barefoot ultrafinas te parecen demasiado “raras” visualmente.
+
+Las descartaría para pies extra anchos, verano muy caluroso si eliges cuero o lana, deporte intenso y compradores que necesitan disponibilidad estable de un modelo exacto. En ese caso usaría la guía de [mejores marcas barefoot en España](/mejores-marcas-barefoot-espana/) para comparar marcas, o la página de [Groundies](/marca/groundies/) para quedarme dentro de la marca.
+
+## Preguntas frecuentes
+
+### ¿Groundies Performance son zapatillas deportivas?
+
+Son más bien zapatillas barefoot de diario con estética deportiva retro. Balance puede servir para gimnasio suave, pero no las compraría como zapatilla técnica principal.
+
+### ¿La suela Performance tiene drop?
+
+No. La suela busca parecer una cuña tradicional, pero mantiene una base plana y alineada.
+
+### ¿Qué modelo elegir entre Flow, Balance y Relax?
+
+Flow si quieres cuero; Balance si quieres una opción vegana más ventilada; Relax si priorizas lana y comodidad de entretiempo.
+
+### ¿Sirven para pies extra anchos?
+
+No serían mi primera opción. Funcionan mejor en pies medios, estrechos o anchos moderados.
