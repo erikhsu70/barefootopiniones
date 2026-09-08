@@ -1,6 +1,6 @@
 # Inventario de contenido de BarefootOpiniones
 
-Generado desde la web estática publicada. Total: **347 artículos únicos**.
+Generado desde la web estática publicada. Total: **348 artículos únicos**.
 
 El CSV `CONTENT_INVENTORY.csv` incluye título, URL canónica, temáticas, formato, fechas, número de palabras y descripción.
 
@@ -19,7 +19,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 | Sandalias y verano | 8 | 41 |
 | Deporte y movimiento | 5 | 29 |
 | Puntera ancha | 7 | 25 |
-| Sin clasificar | 48 | 48 |
+| Sin clasificar | 49 | 49 |
 
 ## Resumen por formato
 
@@ -27,7 +27,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 |---|---:|
 | Opinión | 181 |
 | Artículo | 91 |
-| Lista o comparativa | 59 |
+| Lista o comparativa | 60 |
 | Guía | 16 |
 
 ## Contenido por temática principal
@@ -105,7 +105,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 
 - [8 mejores alternativas a Lems Shoes en 2026](https://barefootopiniones.com/mejores-alternativas-lems-shoes/) (2673 palabras)
 - [8 mejores alternativas a Vivobarefoot en 2026](https://barefootopiniones.com/mejores-alternativas-vivobarefoot/) (2588 palabras)
-- [8 mejores alternativas a Xero Shoes en 2026](https://barefootopiniones.com/mejores-alternativas-xero-shoes/) (2545 palabras)
+- [8 mejores alternativas a Xero Shoes en 2026](https://barefootopiniones.com/mejores-alternativas-xero-shoes/) (2546 palabras)
 - [Altra Escalante 4 opiniones: mi experiencia después de correr y caminar con ellas](https://barefootopiniones.com/altra-escalante-4-opiniones/) (4831 palabras)
 - [Altra Lone Peak 5 opiniones en 2026: ajuste, tallas y sucesora actual](https://barefootopiniones.com/opinion-altra-lone-peak-5-zapatillas/) (3039 palabras)
 - [Altra Torin 9: mi opinión honesta tras 27 km](https://barefootopiniones.com/altra-torin-9-opinion-honesta/) (3487 palabras)
@@ -166,13 +166,13 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mi opinión sobre el calzado infantil Ten Little](https://barefootopiniones.com/opinion-calzado-infantil-ten-little/) (1482 palabras)
 - [Mi opinión sobre Etsy de sandalias griegas](https://barefootopiniones.com/opinion-etsy-sandalias-griegas/) (1491 palabras)
 - [Mi opinión sobre Feelgrounds Droptop: geniales zapatos barefoot](https://barefootopiniones.com/opinion-feelgrounds-droptop-geniales-barefoot/) (1448 palabras)
-- [Mi opinión sobre Feelgrounds Highrise](https://barefootopiniones.com/opinion-feelgrounds-highrise/) (1486 palabras)
+- [Mi opinión sobre Feelgrounds Highrise](https://barefootopiniones.com/opinion-feelgrounds-highrise/) (1487 palabras)
 - [Mi opinión sobre Groundies Palermo: zapato de vestir barefoot para hombre](https://barefootopiniones.com/opinion-groundies-palermo-zapato-vestir/) (1852 palabras)
 - [Mi opinión sobre Groundies Performance: zapatillas barefoot de estilo retro](https://barefootopiniones.com/opinion-groundies-performance-zapatillas/) (1892 palabras)
 - [Mi opinión sobre Jenon Leather: zapatos barefoot personalizables para cualquier tipo de pie](https://barefootopiniones.com/opinion-jenon-leather-barefoot-personalizables/) (1746 palabras)
 - [Mi opinión sobre la colección de invierno 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-invierno-2022-xero/) (1857 palabras)
 - [Mi opinión sobre la colección de otoño 2024 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-otono-2024-xero/) (1731 palabras)
-- [Mi opinión sobre la colección de primavera 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/) (2323 palabras)
+- [Mi opinión sobre la colección de primavera 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/) (2324 palabras)
 - [Mi opinión sobre la colección de primavera 2026 de Xero Shoes](https://barefootopiniones.com/opinion-xero-primavera-2026/) (1591 palabras)
 - [Mi opinión sobre la colección Wildling Shoes Otoño 2022](https://barefootopiniones.com/opinion-coleccion-wildling-otono-2022/) (1540 palabras)
 - [Mi opinión sobre la tabla Mobo: no es la tabla de equilibrio promedio](https://barefootopiniones.com/opinion-tabla-mobo-no-es-tabla-equilibrio/) (1498 palabras)
@@ -205,9 +205,9 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mi opinión sobre Posh Panda: mocasines barefoot hechos a mano](https://barefootopiniones.com/opinion-posh-panda-mocasines-barefoot-hechos/) (1468 palabras)
 - [Mi opinión sobre Realfoot: mis dedos de los pies nunca han estado más libres](https://barefootopiniones.com/opinion-realfoot-dedos-pies-nunca-han-estado/) (1909 palabras)
 - [Mi opinión sobre sandalias Crupon](https://barefootopiniones.com/opinion-sandalias-crupon/) (1421 palabras)
-- [Mi opinión sobre sandalias personalizadas de Deliberate Life Designs](https://barefootopiniones.com/opinion-sandalias-personalizadas-deliberate/) (1496 palabras)
+- [Mi opinión sobre sandalias personalizadas de Deliberate Life Designs](https://barefootopiniones.com/opinion-sandalias-personalizadas-deliberate/) (1497 palabras)
 - [Mi opinión sobre sandalias Toetem: innovadoras sandalias de aventura barefoot](https://barefootopiniones.com/opinion-sandalias-toetem-innovadoras-sandalias/) (1656 palabras)
-- [Mi opinión sobre sandalias Unshoes Uinta y Keota](https://barefootopiniones.com/opinion-sandalias-unshoes-uinta-keota/) (1470 palabras)
+- [Mi opinión sobre sandalias Unshoes Uinta y Keota](https://barefootopiniones.com/opinion-sandalias-unshoes-uinta-keota/) (1471 palabras)
 - [Mi opinión sobre Sawyer de zapatos Softstar](https://barefootopiniones.com/opinion-sawyer-zapatos-softstar/) (1456 palabras)
 - [Mi opinión sobre seis marcas de sandalias barefoot](https://barefootopiniones.com/opinion-seis-marcas-sandalias-barefoot/) (1719 palabras)
 - [Mi opinión sobre Shamma TrailStars Mini](https://barefootopiniones.com/opinion-shamma-trailstars-mini/) (1483 palabras)
@@ -220,12 +220,12 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mi opinión sobre Tikki Shoes Moon Graffiti](https://barefootopiniones.com/opinion-tikki-moon-graffiti/) (1495 palabras)
 - [Mi opinión sobre Tolos: la marca de zapatos barefoot más nueva del mercado](https://barefootopiniones.com/opinion-tolos-marca-barefoot-mas-mercado/) (1445 palabras)
 - [Mi opinión sobre Unshoes Saffron y SORTEO](https://barefootopiniones.com/opinion-unshoes-saffron-sorteo/) (2012 palabras)
-- [Mi opinión sobre Unshoes Terra Vida: zapatos barefoot informales para todos los días](https://barefootopiniones.com/opinion-unshoes-terra-vida-barefoot-informales/) (1413 palabras)
+- [Mi opinión sobre Unshoes Terra Vida: zapatos barefoot informales para todos los días](https://barefootopiniones.com/opinion-unshoes-terra-vida-barefoot-informales/) (1414 palabras)
 - [Mi opinión sobre Unshoes Traverse](https://barefootopiniones.com/opinion-unshoes-traverse/) (1418 palabras)
 - [Mi opinión sobre Vivobarefoot Addis -Sostenible, amplio, con clase](https://barefootopiniones.com/opinion-vivobarefoot-addis-sostenible-amplio/) (1853 palabras)
 - [Mi opinión sobre Vivobarefoot Fulham: una bota Chelsea barefoot](https://barefootopiniones.com/opinion-vivobarefoot-fulham-bota-chelsea/) (2035 palabras)
 - [Mi opinión sobre Vivobarefoot Geo Court: la zapatilla de cuero perfecta](https://barefootopiniones.com/opinion-vivobarefoot-geo-court-zapatilla-cuero/) (1984 palabras)
-- [Mi opinión sobre Vivobarefoot Gobi Hi: bota icónica de invierno barefoot](https://barefootopiniones.com/opinion-vivobarefoot-gobi-hi-bota-iconica/) (1970 palabras)
+- [Mi opinión sobre Vivobarefoot Gobi Hi: bota icónica de invierno barefoot](https://barefootopiniones.com/opinion-vivobarefoot-gobi-hi-bota-iconica/) (1971 palabras)
 - [Mi opinión sobre Vivobarefoot Gobi III](https://barefootopiniones.com/opinion-vivobarefoot-gobi-iii/) (1447 palabras)
 - [Mi opinión sobre Vivobarefoot Motus Flex para entrenar](https://barefootopiniones.com/opinion-vivobarefoot-motus-flex-entrenar/) (2063 palabras)
 - [Mi opinión sobre Vivobarefoot Opanka: un zapato barefoot suave y flexible](https://barefootopiniones.com/opinion-vivobarefoot-opanka-zapato-barefoot/) (1886 palabras)
@@ -250,7 +250,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mocasines barefoot que nunca querrás quitarte de Magical Shoes](https://barefootopiniones.com/mocasines-barefoot-nunca-querras-quitarte/) (1914 palabras)
 - [Nuevas botas barefoot Shapen para el otoño de 2023](https://barefootopiniones.com/botas-barefoot-shapen-otono-2023/) (1836 palabras)
 - [Nuevos zapatos Oxford Softstar: Zapatos elegantes y minimalistas en dos anchos](https://barefootopiniones.com/zapatos-oxford-softstar-zapatos-elegantes/) (1974 palabras)
-- [Nuevos zapatos Xero para la primavera de 2024](https://barefootopiniones.com/zapatos-xero-primavera-2024/) (1979 palabras)
+- [Nuevos zapatos Xero para la primavera de 2024](https://barefootopiniones.com/zapatos-xero-primavera-2024/) (1980 palabras)
 - [Plantillas para pies descalzos NorthSole y barefoot a tu manera](https://barefootopiniones.com/plantillas-barefoot-northsole-barefoot-manera/) (1561 palabras)
 - [Por qué me encantan las zapatillas deportivas Be Lenka Elevate, aireadas y elegantes](https://barefootopiniones.com/me-encantan-zapatillas-deportivas-be-lenka/) (1919 palabras)
 - [Presentamos Tari II: una bota Chelsea barefoot elevada](https://barefootopiniones.com/presentamos-tari-ii-bota-chelsea-barefoot/) (1471 palabras)
@@ -260,7 +260,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Softstar Camino: sandalias cómodas para quienes usan calzado barefoot](https://barefootopiniones.com/softstar-camino-sandalias-comodas-quienes-usan/) (1820 palabras)
 - [Sorteo de zapatos Softstar](https://barefootopiniones.com/sorteo-zapatos-softstar/) (1742 palabras)
 - [Splay: la clásica zapatilla americana pero con más espacio para los dedos](https://barefootopiniones.com/splay-clasica-zapatilla-americana-pero-con-mas/) (2096 palabras)
-- [Vea los nuevos zapatos Xero para el otoño de 2023 aquí](https://barefootopiniones.com/vea-zapatos-xero-otono-2023/) (1535 palabras)
+- [Vea los nuevos zapatos Xero para el otoño de 2023 aquí](https://barefootopiniones.com/vea-zapatos-xero-otono-2023/) (1536 palabras)
 - [Vista previa de la primavera: Lo que estoy más emocionado por 2025](https://barefootopiniones.com/vista-previa-primavera-estoy-mas-emocionado/) (1873 palabras)
 - [Vivobarefoot opiniones: ¿merecen la pena?](https://barefootopiniones.com/vivobarefoot-opiniones/) (2995 palabras)
 - [Vivobarefoot Primus Lite IV vs Motus Strength II: gimnasio o fuerza](https://barefootopiniones.com/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/) (1471 palabras)
@@ -358,15 +358,15 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Use esto, no aquello: el look de Timberland sin juanetes](https://barefootopiniones.com/use-esto-no-aquello-look-timberland-sin/) (2036 palabras)
 - [Zapatos náuticos con puntera ancha](https://barefootopiniones.com/zapatos-nauticos-puntera-ancha/) (1398 palabras)
 
-### Sin clasificar (48)
+### Sin clasificar (49)
 
 - [¿Por qué son tan caros los zapatos barefoot?](https://barefootopiniones.com/son-tan-caros-barefoot/) (1755 palabras)
 - [13 zapatos barefoot aprobados por preadolescentes y adolescentes](https://barefootopiniones.com/barefoot-aprobados-preadolescentes/) (1405 palabras)
 - [15 zapatillas barefoot con estilo que no parecen deportivas](https://barefootopiniones.com/zapatillas-barefoot-con-estilo/) (1822 palabras)
 - [15 zapatillas barefoot con más espacio que unas Vans](https://barefootopiniones.com/zapatillas-barefoot-alternativas-vans/) (4082 palabras)
 - [5 ejercicios de pies para pasar a barefoot](https://barefootopiniones.com/ejercicios-pies-transicion-barefoot/) (1758 palabras)
-- [8 mejores alternativas a Vibram FiveFingers](https://barefootopiniones.com/mejores-alternativas-vibram-fivefingers/) (2684 palabras)
-- [8 mejores zapatillas barefoot para la salud del pie](https://barefootopiniones.com/mejores-zapatillas-barefoot-salud-pie/) (3355 palabras)
+- [8 mejores alternativas a Vibram FiveFingers](https://barefootopiniones.com/mejores-alternativas-vibram-fivefingers/) (2685 palabras)
+- [8 mejores zapatillas barefoot para la salud del pie](https://barefootopiniones.com/mejores-zapatillas-barefoot-salud-pie/) (3356 palabras)
 - [Alternativas barefoot a varias marcas de calzado populares](https://barefootopiniones.com/alternativas-barefoot-varias-marcas-calzado/) (1874 palabras)
 - [Alternativas barefoot cómodas a cinco zapatos populares](https://barefootopiniones.com/alternativas-barefoot-comodas-cinco-zapatos/) (1990 palabras)
 - [Barebound opiniones 2026: zuecos Vulcan, tallas y ajuste](https://barefootopiniones.com/opinion-barebound-zuecos-barefoot/) (1656 palabras)
@@ -389,6 +389,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Los mejores zapatos de puntera ancha que no son barefoot](https://barefootopiniones.com/zapatos-puntera-ancha-no-barefoot/) (1811 palabras)
 - [Los regalos que quiere cualquier amante del barefoot en 2025](https://barefootopiniones.com/regalos-amantes-barefoot-2025/) (1787 palabras)
 - [Marcas barefoot por región del mundo](https://barefootopiniones.com/marcas-barefoot-por-region/) (1990 palabras)
+- [Mejores deportivas barefoot para niños en 2026](https://barefootopiniones.com/mejores-deportivas-barefoot-ninos/) (2046 palabras)
 - [Mi nueva marca de zapatos barefoot favorita para 2025: Lang.S](https://barefootopiniones.com/marca-barefoot-favorita-2025-lang-s/) (1515 palabras)
 - [Mi opinión honesta sobre Origo Shoes: tallas, ventajas y mejores modelos](https://barefootopiniones.com/origo-opinion-tallas/) (3192 palabras)
 - [Mocasines personalizados FaeMoon Wolf: el zapato barefoot original](https://barefootopiniones.com/mocasines-personalizados-faemoon-wolf-zapato/) (2033 palabras)
@@ -401,11 +402,11 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Por qué las Uggs no son buenas para los pies y qué ponerse en su lugar](https://barefootopiniones.com/uggs-no-son-buenas-pies-ponerse-lugar/) (2029 palabras)
 - [Recursos fundamentales para comprender el movimiento barefoot](https://barefootopiniones.com/recursos-fundamentales-comprender-movimiento/) (1976 palabras)
 - [Saguaro barefoot Free I vs Luck: diferencias, tallas y usos](https://barefootopiniones.com/saguaro-free-i-vs-luck/) (1497 palabras)
-- [Saguaro barefoot para niños: Smart I, Vigor y alternativas](https://barefootopiniones.com/saguaro-ninos-smart-vigor-alternativas/) (2419 palabras)
+- [Saguaro barefoot para niños: Smart I, Vigor y alternativas](https://barefootopiniones.com/saguaro-ninos-smart-vigor-alternativas/) (2415 palabras)
 - [Saguaro vs Whitin: qué barefoot barato elegir](https://barefootopiniones.com/saguaro-vs-whitin-barefoot-barato/) (1472 palabras)
 - [Vibram FiveFingers opiniones: ¿merecen la pena?](https://barefootopiniones.com/vibram-fivefingers-opiniones/) (3530 palabras)
 - [Vibram V-Trail 2.0 vs V-Run: montaña o asfalto](https://barefootopiniones.com/vibram-v-trail-2-vs-v-run-montana-asfalto/) (1342 palabras)
 - [Zapatillas de ciclismo con forma de pie](https://barefootopiniones.com/zapatillas-ciclismo-forma-pie/) (1899 palabras)
 - [Zapatillas Tus pies amarán](https://barefootopiniones.com/zapatillas-pies-amaran/) (1724 palabras)
-- [Zapatos barefoot para niños en cada temporada](https://barefootopiniones.com/zapatos-barefoot-ninos-temporada-presupuesto/) (1740 palabras)
+- [Zapatos barefoot para niños en cada temporada](https://barefootopiniones.com/zapatos-barefoot-ninos-temporada-presupuesto/) (1738 palabras)
 
