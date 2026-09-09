@@ -11,7 +11,7 @@ image: "/assets/images/home/route-kids.webp"
 imageAlt: "Niña corriendo descalza sobre césped, imagen editorial sobre movimiento infantil"
 faqItems:
   - question: "¿Cuáles son las mejores deportivas barefoot para niños?"
-    answer: "Vivobarefoot Primus Sport III Kids es la opción más completa para patio y movimiento diario. Saguaro Smart I destaca por precio, Xero Prio Kids por su ajuste deportivo, Reima Astelu para interior y Be Lenka Energise Kids por su cierre y suela para uso cotidiano."
+    answer: "Vivobarefoot Primus Sport III Kids es la opción más completa para patio y movimiento diario. Saguaro Smart I destaca por precio, Xero Prio Kids por su ajuste deportivo, Reima Astelu para interior, Lejan One Kids por estilo y Be Lenka Energise Kids por su cierre y suela cotidiana."
   - question: "¿Sirven las zapatillas barefoot para educación física?"
     answer: "Pueden servir para educación física general si el colegio las acepta, ajustan bien y su agarre corresponde a la superficie. Para fútbol, pista, competición u otra actividad reglada puede ser necesario calzado específico."
   - question: "¿Cómo elegir la talla barefoot de un niño?"
@@ -20,11 +20,11 @@ faqItems:
     answer: "Esta guía no sustituye una valoración clínica. Si hay dolor, una alteración diagnosticada o dudas sobre la marcha, consulta con pediatría, podología o fisioterapia infantil antes de cambiar el calzado."
 ---
 
-Las mejores deportivas barefoot para niños no son las que tienen la suela más fina, sino las que combinan **forma del pie, buen cierre y agarre adecuado al lugar donde van a usarse**. Para patio, educación física y juego diario, mi primera opción es **Vivobarefoot Primus Sport III Kids**. Si manda el presupuesto, elegiría **Saguaro Smart I**; para un ajuste más deportivo, **Xero Prio Kids**.
+Las mejores deportivas barefoot para niños no son las que tienen la suela más fina, sino las que combinan **forma del pie, buen cierre y agarre adecuado al lugar donde van a usarse**. Para patio, educación física y juego diario, mi primera opción es **Vivobarefoot Primus Sport III Kids**. Si manda el presupuesto, elegiría **Saguaro Smart I**; para un ajuste más deportivo, **Xero Prio Kids**; y para una zapatilla bonita de colegio y patio, **Lejan One Kids**.
 
 Esta selección compara zapatillas cerradas disponibles en Europa y evita mezclar sandalias, botas o zapatos de vestir. Tampoco convierte una deportiva de uso general en calzado técnico: fútbol, atletismo de competición y deportes de pista pueden exigir tacos, protección o una suela específica.
 
-<p class="affiliate-disclosure">Transparencia: la comparativa se basa en fichas oficiales y documentación consultadas el 8 de septiembre de 2026. No afirmo haber probado personalmente todos los modelos. Precios, colores y stock cambian; por eso priorizo construcción, ajuste y uso previsto. La imagen principal es editorial y no representa ninguno de los modelos del ranking.</p>
+<p class="affiliate-disclosure">Transparencia: la comparativa se basa en fichas oficiales y documentación revisadas el 9 de septiembre de 2026. No afirmo haber probado personalmente todos los modelos. Precios, colores y stock cambian; por eso priorizo construcción, ajuste y uso previsto. La imagen principal es editorial y no representa ninguno de los modelos del ranking.</p>
 
 ## Comparativa rápida
 
@@ -34,6 +34,7 @@ Esta selección compara zapatillas cerradas disponibles en Europa y evita mezcla
 | Presupuesto ajustado | **Saguaro Smart I** | Cordón elástico y ajuste rápido | Puntera espaciosa, zero drop y plantilla extraíble de 4 mm | La talla debe revisarse por modelo |
 | Running y gimnasio escolar | **Xero Prio Kids** | Cordón y correa de mediopié | Puntera amplia, zero drop y plantilla extraíble de 3 mm | La página europea aparece como liquidación |
 | Interior y pie de anchura media | **Reima Astelu** | Elástico | Suela de 4 mm y anchura media declarada | No es la primera opción para pie muy ancho |
+| Estilo y compra en España | **Lejan One Kids** | Velcro y cordones elásticos | Puntera anatómica, zero drop y suela flexible | No publica grosor ni agarre técnico de la suela |
 | Colegio y juego diario | **Be Lenka Energise Kids** | Dos velcros | Suela de 4 o 5 mm según rango de talla | Más estructurada que las opciones ultraligeras |
 
 ## Cómo he elegido las mejores
@@ -87,7 +88,19 @@ No trasladaría automáticamente su buen uso interior a cemento abrasivo o terre
 
 **La elegiría si:** el colegio pide una zapatilla limpia para interior y el pie no necesita una horma especialmente ancha.
 
-## 5. Be Lenka Energise Kids: la mejor para colegio y juego diario
+## 5. Lejan One Kids: la más bonita para colegio y patio
+
+Lejan One Kids entra como la opción más cuidada estéticamente. La [colección oficial Lejan One Kids](https://lejanbrand.com/collections/lejan-one-kids) muestra modelos de la talla 21 a la 35 y presenta una construcción ligera, flexible y de puntera amplia para correr, saltar y jugar. Dentro de la familia, **One Kids Mesh** añade una parte superior de malla más ventilada.
+
+La [ficha de Lejan One Kids Mesh](https://lejanbrand.com/products/lejan-one-kids-mesh-yellow) confirma puntera anatómica, drop cero, suela flexible y regulación mediante velcro con cordones elásticos. Es una combinación práctica para que el niño se la ponga solo y para quien quiere una sneaker infantil reconocible, no una zapatilla con aspecto acuático.
+
+La situaría en colegio, patio seco, paseo y educación física general. No la pondría por delante de Primus Sport III o Xero Prio para rendimiento: Lejan no publica en estas fichas el grosor de la suela ni una especificación de agarre por superficie, y algunos colores pueden quedarse sin stock. Su ventaja es unir formato barefoot, compra española y estilo cotidiano.
+
+Puedes conocer mejor su propuesta en nuestra guía de [las mejores marcas barefoot en España](/mejores-marcas-barefoot-espana/).
+
+**La elegiría si:** la estética condiciona que el niño quiera usarla y buscas un cierre autónomo para colegio y juego, no una zapatilla técnica.
+
+## 6. Be Lenka Energise Kids: la mejor para colegio y juego diario
 
 Energise Kids combina dos velcros, upper de piel y material sintético y una suela cosida. La [ficha oficial de Be Lenka Energise Kids](https://www.belenka.com/kids-barefoot-sneakers-be-lenka-energise-kids-all-black/) indica puntera con forma de pie, zero drop, plantilla extraíble y dibujo antideslizante.
 
@@ -99,7 +112,7 @@ Be Lenka publica largo y ancho interior por talla y recomienda añadir aproximad
 
 ## Qué deportiva elegir según el pie
 
-La silueta vista desde arriba importa más que la talla impresa. Para un pie de anchura media, Reima Astelu ofrece una referencia clara. Si los dedos se abren mucho, compararía la plantilla de Be Lenka con las medidas reales y probaría Primus Sport III o Saguaro Smart I sin subir talla por sistema.
+La silueta vista desde arriba importa más que la talla impresa. Para un pie de anchura media, Reima Astelu ofrece una referencia clara. Si los dedos se abren mucho, compararía la plantilla de Be Lenka con las medidas reales y probaría Primus Sport III, Saguaro Smart I o Lejan One Kids sin subir talla por sistema.
 
 En un empeine bajo, el cierre envolvente de Xero Prio puede controlar mejor el volumen. En un empeine alto, revisaría que velcros y lengüeta cierren sin dejar marcas. Ninguna puntera amplia compensa un mediopié que baila o un talón que se escapa.
 
@@ -123,14 +136,14 @@ Por eso no presento estas zapatillas como tratamiento ni como garantía de pies 
 
 ## Veredicto
 
-**Vivobarefoot Primus Sport III Kids es mi mejor deportiva barefoot infantil para patio y uso activo** por su cierre autónomo, peso bajo y suela urbana flexible. **Saguaro Smart I** es la compra económica; **Xero Prio Kids**, la opción con ajuste más deportivo; **Reima Astelu**, la más clara para interior y pie medio; y **Be Lenka Energise Kids**, la alternativa de velcro para colegio y juego diario.
+**Vivobarefoot Primus Sport III Kids es mi mejor deportiva barefoot infantil para patio y uso activo** por su cierre autónomo, peso bajo y suela urbana flexible. **Saguaro Smart I** es la compra económica; **Xero Prio Kids**, la opción con ajuste más deportivo; **Reima Astelu**, la más clara para interior y pie medio; **Lejan One Kids**, la más bonita para colegio y patio; y **Be Lenka Energise Kids**, la alternativa más estructurada de velcro para el día a día.
 
 La decisión final no debería salir solo del ranking. Mide el pie, comprueba la tabla del modelo y adapta la suela a la superficie. Para fútbol, pista o competición, pregunta al colegio o al club qué calzado exige la actividad.
 
 ## Preguntas frecuentes
 
 <div class="article-faq-accordion">
-  <details><summary>¿Cuáles son las mejores deportivas barefoot para niños?</summary><div><p>Vivobarefoot Primus Sport III Kids es la opción más completa para patio y movimiento diario. Saguaro Smart I destaca por precio, Xero Prio Kids por su ajuste deportivo, Reima Astelu para interior y Be Lenka Energise Kids por su cierre y suela para uso cotidiano.</p></div></details>
+  <details><summary>¿Cuáles son las mejores deportivas barefoot para niños?</summary><div><p>Vivobarefoot Primus Sport III Kids es la opción más completa para patio y movimiento diario. Saguaro Smart I destaca por precio, Xero Prio Kids por su ajuste deportivo, Reima Astelu para interior, Lejan One Kids por estilo y Be Lenka Energise Kids por su cierre y suela cotidiana.</p></div></details>
   <details><summary>¿Sirven las zapatillas barefoot para educación física?</summary><div><p>Pueden servir para educación física general si el colegio las acepta, ajustan bien y su agarre corresponde a la superficie. Para fútbol, pista, competición u otra actividad reglada puede ser necesario calzado específico.</p></div></details>
   <details><summary>¿Cómo elegir la talla barefoot de un niño?</summary><div><p>Mide ambos pies de pie, usa el más largo y compara largo y ancho con la tabla del modelo concreto. No compres una talla grande solo para que dure: debe quedar margen delante sin que el talón se levante ni el pie se deslice.</p></div></details>
   <details><summary>¿Son recomendables para niños con pie plano o dolor?</summary><div><p>Esta guía no sustituye una valoración clínica. Si hay dolor, una alteración diagnosticada o dudas sobre la marcha, consulta con pediatría, podología o fisioterapia infantil antes de cambiar el calzado.</p></div></details>

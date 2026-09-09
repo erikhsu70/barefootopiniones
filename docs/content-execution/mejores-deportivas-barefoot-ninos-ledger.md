@@ -4,7 +4,7 @@
 
 - Tipo: artículo comparativo nuevo.
 - URL: `/mejores-deportivas-barefoot-ninos/`.
-- Fecha editorial: 2026-09-08 (Europe/Madrid).
+- Fecha editorial: 2026-09-08; actualización Lejan verificada el 2026-09-09 (Europe/Madrid).
 - Mercado: España, con compra europea disponible.
 - Intención principal: elegir una deportiva barefoot infantil para educación física general, patio, parque o diario.
 
@@ -35,6 +35,8 @@
 | https://xeroshoes.eu/es/products/prio-ninos-liquidacion | 2026-09-08 | Horma infantil, cierre de mediopié, plantilla, flexibilidad y cuidado. |
 | https://www.reima.com/en/products/kids-barefoot-shoes-astelu | 2026-09-08 | Suela de 4 mm, anchura media, tallas y uso interior. |
 | https://www.belenka.com/kids-barefoot-sneakers-be-lenka-energise-kids-all-black/ | 2026-09-08 | Materiales, cierres, grosores, medidas interiores y recomendación de talla del modelo. |
+| https://lejanbrand.com/collections/lejan-one-kids | 2026-09-09 | Familia One Kids, tallas mostradas y posicionamiento para correr, saltar y jugar. |
+| https://lejanbrand.com/products/lejan-one-kids-mesh-yellow | 2026-09-09 | Puntera, drop, flexibilidad, malla y sistema de cierre de One Kids Mesh. |
 | https://pubmed.ncbi.nlm.nih.gov/39062211/ | 2026-09-08 | Revisión sobre criterios del calzado respetuoso infantil y límites de generalización. |
 | https://pubmed.ncbi.nlm.nih.gov/21244647/ | 2026-09-08 | Revisión sobre efectos del calzado en la marcha infantil y evidencia a largo plazo. |
 
@@ -44,6 +46,7 @@
 - Económica: Saguaro Smart I.
 - Ajuste deportivo: Xero Prio Kids.
 - Interior y anchura media: Reima Astelu.
+- Estilo y compra en España: Lejan One Kids/One Kids Mesh.
 - Colegio y juego diario: Be Lenka Energise Kids.
 - Imagen: reutilización de `/assets/images/home/route-kids.webp`; es una imagen editorial conceptual, no una foto de los modelos.
 - Generación de portada nueva: intentada con la herramienta integrada; falló por error de red y no se sustituyó por una imagen comercial engañosa.
