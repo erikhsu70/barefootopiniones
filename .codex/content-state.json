@@ -1570,9 +1570,9 @@
       "url": "https://barefootopiniones.com/mejores-deportivas-barefoot-ninos/",
       "slug": "mejores-deportivas-barefoot-ninos",
       "status": "Published",
-      "commit": "a200887",
+      "commit": "9d4a7be",
       "type": "new",
-      "lastChecked": "2026-09-09T10:23:40+02:00",
+      "lastChecked": "2026-09-09T13:17:18+02:00",
       "verification": {
         "localBuild": "npm run build passed from a clean clone of origin/main",
         "checks": "featured, affiliates, models, originality, schema, site, titles and urls passed",
@@ -1585,8 +1585,8 @@
         "sitemapEntry": true,
         "schema": "BlogPosting, BreadcrumbList and FAQPage",
         "render": "clean desktop and mobile; table contained and no document-level horizontal overflow",
-        "deployment": "https://ec6fb3de.barefootopiniones-com.pages.dev",
-        "note": "Lejan One Kids added from current official sources; the updated comparison, dedicated section and outbound links were verified live on the deployment and custom domain."
+        "deployment": "https://78bb4b69.barefootopiniones-com.pages.dev",
+        "note": "Lejan One Kids moved to second place throughout the article and the requested sole-pattern criterion removed; verified live on the deployment and custom domain."
       }
     }
   ],
