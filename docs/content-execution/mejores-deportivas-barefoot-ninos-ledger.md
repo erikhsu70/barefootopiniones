@@ -43,10 +43,10 @@
 ## Resultado editorial
 
 - Ganadora general: Vivobarefoot Primus Sport III Kids.
+- Segundo puesto editorial: Lejan One Kids/One Kids Mesh por estilo, cierre autónomo y uso cotidiano.
 - Económica: Saguaro Smart I.
 - Ajuste deportivo: Xero Prio Kids.
 - Interior y anchura media: Reima Astelu.
-- Estilo y compra en España: Lejan One Kids/One Kids Mesh.
 - Colegio y juego diario: Be Lenka Energise Kids.
 - Imagen: reutilización de `/assets/images/home/route-kids.webp`; es una imagen editorial conceptual, no una foto de los modelos.
 - Generación de portada nueva: intentada con la herramienta integrada; falló por error de red y no se sustituyó por una imagen comercial engañosa.
