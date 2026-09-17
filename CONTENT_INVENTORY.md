@@ -15,7 +15,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 | Opiniones de marcas | 168 | 179 |
 | Mujer y estilo | 40 | 74 |
 | Niños | 3 | 23 |
-| Botas e invierno | 5 | 47 |
+| Botas e invierno | 5 | 48 |
 | Sandalias y verano | 8 | 41 |
 | Deporte y movimiento | 5 | 29 |
 | Puntera ancha | 7 | 25 |
@@ -170,12 +170,10 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mi opinión sobre Feelgrounds Droptop: geniales zapatos barefoot](https://barefootopiniones.com/opinion-feelgrounds-droptop-geniales-barefoot/) (1452 palabras)
 - [Mi opinión sobre Feelgrounds Highrise](https://barefootopiniones.com/opinion-feelgrounds-highrise/) (1491 palabras)
 - [Mi opinión sobre Groundies Performance: zapatillas barefoot de estilo retro](https://barefootopiniones.com/opinion-groundies-performance-zapatillas/) (1089 palabras)
-- [Mi opinión sobre la colección de invierno 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-invierno-2022-xero/) (1861 palabras)
-- [Mi opinión sobre la colección de otoño 2024 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-otono-2024-xero/) (1735 palabras)
-- [Mi opinión sobre la colección de primavera 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/) (2328 palabras)
+- [Mi opinión sobre la colección de invierno 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-invierno-2022-xero/) (1400 palabras)
+- [Mi opinión sobre la colección de otoño 2024 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-otono-2024-xero/) (905 palabras)
+- [Mi opinión sobre la colección de primavera 2022 de Xero Shoes](https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/) (1232 palabras)
 - [Mi opinión sobre la colección de primavera 2026 de Xero Shoes](https://barefootopiniones.com/opinion-xero-primavera-2026/) (1595 palabras)
-- [Mi opinión sobre la colección Wildling Shoes Otoño 2022](https://barefootopiniones.com/opinion-coleccion-wildling-otono-2022/) (1544 palabras)
-- [Mi opinión sobre la tabla Mobo: no es la tabla de equilibrio promedio](https://barefootopiniones.com/opinion-tabla-mobo-no-es-tabla-equilibrio/) (1502 palabras)
 - [Mi opinión sobre la versión Vivobarefoot Fulham 2019](https://barefootopiniones.com/opinion-version-vivobarefoot-fulham-2019/) (1474 palabras)
 - [Mi opinión sobre las bailarinas barefoot de Magical Shoes](https://barefootopiniones.com/opinion-bailarinas-barefoot-magical/) (2026 palabras)
 - [Mi opinión sobre las bailarinas Cinderollies](https://barefootopiniones.com/opinion-bailarinas-cinderollies/) (1461 palabras)
@@ -247,6 +245,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Mi opinión sobre Zeazoo infantil: la bota Dingo](https://barefootopiniones.com/opinion-zeazoo-infantil-bota-dingo/) (1983 palabras)
 - [Mi opinión sobre Zuna Shoes: zapatillas de deporte barefoot para niños grandes](https://barefootopiniones.com/opinion-zuna-zapatillas-deporte-barefoot-ninos/) (1530 palabras)
 - [Mi opinión sobre Zuzii Oxfords](https://barefootopiniones.com/opinion-zuzii-oxfords/) (1509 palabras)
+- [Mobo Board opiniones: tabla de equilibrio para entrenar pie y estabilidad](https://barefootopiniones.com/opinion-tabla-mobo-no-es-tabla-equilibrio/) (1205 palabras)
 - [Mocasines barefoot que nunca querrás quitarte de Magical Shoes](https://barefootopiniones.com/mocasines-barefoot-nunca-querras-quitarte/) (1918 palabras)
 - [Nuevas botas barefoot Shapen para el otoño de 2023](https://barefootopiniones.com/botas-barefoot-shapen-otono-2023/) (1840 palabras)
 - [Nuevos zapatos Oxford Softstar: Zapatos elegantes y minimalistas en dos anchos](https://barefootopiniones.com/zapatos-oxford-softstar-zapatos-elegantes/) (1978 palabras)
@@ -266,6 +265,7 @@ La columna de cobertura cuenta también los artículos que encajan en varias tem
 - [Vivobarefoot Primus Lite IV vs Motus Strength II: gimnasio o fuerza](https://barefootopiniones.com/vivobarefoot-primus-lite-iv-vs-motus-strength-ii/) (1471 palabras)
 - [Vivobarefoot Primus Lite vs Primus Trail: gimnasio, asfalto o montaña](https://barefootopiniones.com/vivobarefoot-primus-lite-vs-primus-trail/) (1412 palabras)
 - [Vivobarefoot Scott opiniones 2026: talla y alternativas actuales](https://barefootopiniones.com/opinion-botas-vivobarefoot-scott/) (2127 palabras)
+- [Wildling otono 2022 opiniones: Yew, Chestnut, Chokeberry y Pine en 2026](https://barefootopiniones.com/opinion-coleccion-wildling-otono-2022/) (1112 palabras)
 - [Xero Prio opiniones: mi experiencia entrenando con la versión Lunar](https://barefootopiniones.com/xero-prio-opiniones/) (2670 palabras)
 - [Xero Prio vs HFS II vs Prio Neo: correr, gimnasio o diario](https://barefootopiniones.com/xero-prio-vs-hfs-ii-vs-prio-neo/) (1386 palabras)
 - [Xero Shoes opiniones: lo bueno y lo mejorable](https://barefootopiniones.com/xero-shoes-opiniones/) (3260 palabras)

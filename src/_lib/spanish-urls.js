@@ -113,6 +113,12 @@ const postSlugOverrides = {
   "barefoot-minimalist-kids-boots": "mejores-botas-barefoot-ninos",
   "the-foot-shaped-woven-ballerina": "bailarinas-tejidas-puntera-ancha",
   "saguaro-barefoot-shoes-review-affordable-sneakers-whole-family": "opinion-barefoot-saguaro-zapatillas-deportivas"
+  ,
+  "xero-shoes-winter-2022-all-new-models-reviewed-here": "opinion-coleccion-invierno-2022-xero",
+  "xero-shoes-fall-2024-review": "opinion-coleccion-otono-2024-xero",
+  "xero-shoes-spring-2022-review": "opinion-coleccion-primavera-2022-xero",
+  "wildling-shoes-fall-2022-collection-review": "opinion-coleccion-wildling-otono-2022",
+  "mobo-board-review-not-your-average-balance-board": "opinion-tabla-mobo-no-es-tabla-equilibrio"
 };
 
 const segmentTranslations = {

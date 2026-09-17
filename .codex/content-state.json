@@ -1673,6 +1673,121 @@
         "visualReview": "passed desktop and mobile localhost",
         "note": "Build, full scripted checks, focused HTML assertions and local browser review passed on 2026-09-08 before publication."
       }
+    },
+    {
+      "topic": "Xero Shoes invierno 2022",
+      "title": "Mi opinión sobre la colección de invierno 2022 de Xero Shoes",
+      "url": "https://barefootopiniones.com/opinion-coleccion-invierno-2022-xero/",
+      "slug": "opinion-coleccion-invierno-2022-xero",
+      "status": "QA",
+      "commit": "daily-batch-2026-09-17",
+      "type": "update",
+      "lastChecked": "2026-09-17T18:35:01+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "httpStatus": 200,
+        "canonical": "https://barefootopiniones.com/opinion-coleccion-invierno-2022-xero/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "local browser verification clean on desktop and mobile; no horizontal overflow or broken images",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Xero Shoes otoño 2024",
+      "title": "Mi opinión sobre la colección de otoño 2024 de Xero Shoes",
+      "url": "https://barefootopiniones.com/opinion-coleccion-otono-2024-xero/",
+      "slug": "opinion-coleccion-otono-2024-xero",
+      "status": "QA",
+      "commit": "daily-batch-2026-09-17",
+      "type": "update",
+      "lastChecked": "2026-09-17T18:35:01+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "httpStatus": 200,
+        "canonical": "https://barefootopiniones.com/opinion-coleccion-otono-2024-xero/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "local browser verification clean on desktop and mobile; no horizontal overflow or broken images",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Xero Shoes primavera 2022",
+      "title": "Mi opinión sobre la colección de primavera 2022 de Xero Shoes",
+      "url": "https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/",
+      "slug": "opinion-coleccion-primavera-2022-xero",
+      "status": "QA",
+      "commit": "daily-batch-2026-09-17",
+      "type": "update",
+      "lastChecked": "2026-09-17T18:35:01+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "httpStatus": 200,
+        "canonical": "https://barefootopiniones.com/opinion-coleccion-primavera-2022-xero/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "local browser verification clean on desktop and mobile; no horizontal overflow or broken images",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Wildling otoño 2022",
+      "title": "Wildling otono 2022 opiniones: Yew, Chestnut, Chokeberry y Pine en 2026",
+      "url": "https://barefootopiniones.com/opinion-coleccion-wildling-otono-2022/",
+      "slug": "opinion-coleccion-wildling-otono-2022",
+      "status": "QA",
+      "commit": "daily-batch-2026-09-17",
+      "type": "update",
+      "lastChecked": "2026-09-17T18:35:01+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "httpStatus": 200,
+        "canonical": "https://barefootopiniones.com/opinion-coleccion-wildling-otono-2022/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "local browser verification clean on desktop and mobile; no horizontal overflow or broken images",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Mobo Board",
+      "title": "Mobo Board opiniones: tabla de equilibrio para entrenar pie y estabilidad",
+      "url": "https://barefootopiniones.com/opinion-tabla-mobo-no-es-tabla-equilibrio/",
+      "slug": "opinion-tabla-mobo-no-es-tabla-equilibrio",
+      "status": "QA",
+      "commit": "daily-batch-2026-09-17",
+      "type": "update",
+      "lastChecked": "2026-09-17T18:35:01+02:00",
+      "verification": {
+        "localBuild": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "httpStatus": 200,
+        "canonical": "https://barefootopiniones.com/opinion-tabla-mobo-no-es-tabla-equilibrio/",
+        "imageStatus": 200,
+        "indexEntry": true,
+        "sitemapEntry": true,
+        "schema": "BlogPosting, Breadcrumb and FAQ",
+        "render": "local browser verification clean on desktop and mobile; no horizontal overflow or broken images",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
     }
   ],
   "extraCampaigns": [
