@@ -1371,97 +1371,182 @@
     {
       "url": "https://barefootopiniones.com/opinion-version-vivobarefoot-fulham-2019/",
       "slug": "opinion-version-vivobarefoot-fulham-2019",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Vivobarefoot Fulham 2019 opiniones",
+      "brand": "Vivobarefoot",
+      "model": "Fulham 2019",
+      "category": "botas-chelsea",
+      "availability": "historical",
+      "wordTarget": 1050,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.vivobarefoot.com/uk/collections/everyday-boots",
+        "https://www.vivobarefoot.com/uk/size-guide",
+        "https://support.vivobarefoot.com/hc/en-us/articles/24566218428829-How-do-I-return-my-items"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/vivobarefoot-fulham-2019-version/",
+          "editorialWords": 1700
+        },
+        {
+          "url": "https://www.zappos.com/product/review/9081207",
+          "editorialWords": 700
+        },
+        {
+          "url": "https://barefootshoesreviews.wordpress.com/2020/12/30/vivobarefoot-fulham/",
+          "editorialWords": 500
+        }
+      ],
+      "researchDate": "2026-09-18",
+      "handsOnEvidence": "historical_imported_review_plus_official_2026_sources",
+      "sourceFile": "src/imported/posts/vivobarefoot-fulham-2019-version.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: reseña historica, tallas, contexto de Fulham y alternativas actuales sin afirmar stock vigente."
     },
     {
       "url": "https://barefootopiniones.com/opinion-bailarinas-barefoot-magical/",
       "slug": "opinion-bailarinas-barefoot-magical",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "bailarinas barefoot Magical Shoes opiniones",
+      "brand": "Magical Shoes",
+      "model": "Anna / Emma",
+      "category": "bailarinas-barefoot",
+      "availability": "current",
+      "wordTarget": 1050,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://test2.magicalshoes24.com/en/women-s/barefoot-shoes/ballerinas-flats/anna-black.html",
+        "https://magicalshoes24.com/en/size-fit.html",
+        "https://magicalshoes24.com/en/returns-exchanges-and-complaints.html?SubmitCurrency=1&id_currency=2"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/magical-shoes-ballerina-review/",
+          "editorialWords": 1400
+        },
+        {
+          "url": "https://anyasreviews.com/barefoot-ballet-flats-women/",
+          "editorialWords": 6500
+        },
+        {
+          "url": "https://barefootuniverse.com/barefoot-ballet-flats/",
+          "editorialWords": 1200
+        }
+      ],
+      "researchDate": "2026-09-18",
+      "handsOnEvidence": "historical_imported_review_plus_official_2026_sources",
+      "sourceFile": "src/imported/posts/magical-shoes-ballerina-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: Anna vigente, tallas oficiales, devoluciones y limites de ajuste para pies estrechos."
     },
     {
       "url": "https://barefootopiniones.com/opinion-bailarinas-cinderollies/",
       "slug": "opinion-bailarinas-cinderollies",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "bailarinas Cinderollies opiniones",
+      "brand": "Cinderollies",
+      "model": "Foldable ballet flats",
+      "category": "bailarinas-evento",
+      "availability": "current",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.cinderollies.com/",
+        "https://www.cinderollies.com/shop/foldable-flats-pearl/",
+        "https://www.cinderollies.com/shop/"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/cinderollies-ballet-flats-review/",
+          "editorialWords": 900
+        },
+        {
+          "url": "https://www.weddingwire.com/reviews/cinderollies-bridal-party-ballet-flats/cedd5b80a998bbc0.html",
+          "editorialWords": 700
+        },
+        {
+          "url": "https://www.theknot.com/marketplace/cinderollies-new-york-ny-1027426",
+          "editorialWords": 500
+        }
+      ],
+      "researchDate": "2026-09-18",
+      "handsOnEvidence": "historical_imported_review_plus_official_2026_sources",
+      "sourceFile": "src/imported/posts/cinderollies-ballet-flats-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: posiciona Cinderollies como flat plegable de evento, no como recomendacion barefoot diaria."
     },
     {
       "url": "https://barefootopiniones.com/opinion-bailarinas-terciopelo-tadeevo-zapato/",
       "slug": "opinion-bailarinas-terciopelo-tadeevo-zapato",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Tadeevo bailarinas terciopelo opiniones",
+      "brand": "Tadeevo",
+      "model": "Velvet Ballet Pump",
+      "category": "bailarinas-barefoot",
+      "availability": "current",
+      "wordTarget": 1050,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://tadeevo.com/en_GB/index",
+        "https://tadeevo.com/en_GB/i/Shoes-Guide/61",
+        "https://tadeevo.com/en_GB/i/FAQ/58"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe/",
+          "editorialWords": 2100
+        },
+        {
+          "url": "https://anyasreviews.com/barefoot-ballet-flats-women/",
+          "editorialWords": 6500
+        },
+        {
+          "url": "https://barefootreview.com/brands-barefoot/tadeevo-reviews",
+          "editorialWords": 2000
+        }
+      ],
+      "researchDate": "2026-09-18",
+      "handsOnEvidence": "historical_imported_review_plus_official_2026_sources",
+      "sourceFile": "src/imported/posts/tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: ajuste para pie ancho/volumen, compra UE y cautela por devoluciones internacionales."
     },
     {
       "url": "https://barefootopiniones.com/opinion-bailarinas-gea-soles-yrsa/",
       "slug": "opinion-bailarinas-gea-soles-yrsa",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Gea Soles Yrsa opiniones",
+      "brand": "Gea Soles",
+      "model": "Yrsa",
+      "category": "bailarinas-artesanales",
+      "availability": "closed_brand",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://anyasreviews.com/gea-soles-yrsa-flat-review/",
+        "https://www.geasoles.com/",
+        "https://www.youtube.com/watch?v=aFWJxDtBvgQ"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/gea-soles-yrsa-flat-review/",
+          "editorialWords": 1500
+        },
+        {
+          "url": "https://anyasreviews.com/barefoot-ballet-flats-women/",
+          "editorialWords": 6500
+        },
+        {
+          "url": "https://barefootuniverse.com/barefoot-ballet-flats/",
+          "editorialWords": 1200
+        }
+      ],
+      "researchDate": "2026-09-18",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/gea-soles-yrsa-flat-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: marca cerrada, valor historico, riesgos de segunda mano y alternativas activas."
     },
     {
       "url": "https://barefootopiniones.com/opinion-botas-montar-vera-cuero-drifter/",

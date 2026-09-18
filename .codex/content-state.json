@@ -1788,6 +1788,91 @@
         "deployment": "pending push and Cloudflare Pages deployment",
         "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
       }
+    },
+    {
+      "topic": "Vivobarefoot Fulham 2019 opiniones",
+      "title": "Vivobarefoot Fulham 2019 opiniones: bota Chelsea barefoot histórica",
+      "url": "https://barefootopiniones.com/opinion-version-vivobarefoot-fulham-2019/",
+      "slug": "opinion-version-vivobarefoot-fulham-2019",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-09-18T18:54:16+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "build": "npm run build passed",
+        "checks": "check:featured, check:affiliates, check:models, check:schema, check:site, check:urls, check:titles, check:originality, check:seo-campaign and git diff --check passed",
+        "html": "H1, canonical, visible Actualizado, dateModified, images, FAQ schema, TOC and current-sitemap verified locally for all five URLs",
+        "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
+        "note": "Awaiting commit, push, Cloudflare deployment and live verification."
+      }
+    },
+    {
+      "topic": "Magical Shoes bailarinas barefoot opiniones",
+      "title": "Mi opinión sobre las bailarinas barefoot de Magical Shoes",
+      "url": "https://barefootopiniones.com/opinion-bailarinas-barefoot-magical/",
+      "slug": "opinion-bailarinas-barefoot-magical",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-09-18T18:54:16+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "build": "npm run build passed",
+        "checks": "check:featured, check:affiliates, check:models, check:schema, check:site, check:urls, check:titles, check:originality, check:seo-campaign and git diff --check passed",
+        "html": "H1, canonical, visible Actualizado, dateModified, images, FAQ schema, TOC and current-sitemap verified locally for all five URLs",
+        "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
+        "note": "Awaiting commit, push, Cloudflare deployment and live verification."
+      }
+    },
+    {
+      "topic": "Cinderollies bailarinas opiniones",
+      "title": "Bailarinas Cinderollies opiniones: plegables para eventos, no barefoot diario",
+      "url": "https://barefootopiniones.com/opinion-bailarinas-cinderollies/",
+      "slug": "opinion-bailarinas-cinderollies",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-09-18T18:54:16+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "build": "npm run build passed",
+        "checks": "check:featured, check:affiliates, check:models, check:schema, check:site, check:urls, check:titles, check:originality, check:seo-campaign and git diff --check passed",
+        "html": "H1, canonical, visible Actualizado, dateModified, images, FAQ schema, TOC and current-sitemap verified locally for all five URLs",
+        "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
+        "note": "Awaiting commit, push, Cloudflare deployment and live verification."
+      }
+    },
+    {
+      "topic": "Tadeevo bailarinas terciopelo opiniones",
+      "title": "Tadeevo bailarinas terciopelo opiniones: anchas, veganas y de vestir",
+      "url": "https://barefootopiniones.com/opinion-bailarinas-terciopelo-tadeevo-zapato/",
+      "slug": "opinion-bailarinas-terciopelo-tadeevo-zapato",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-09-18T18:54:16+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "build": "npm run build passed",
+        "checks": "check:featured, check:affiliates, check:models, check:schema, check:site, check:urls, check:titles, check:originality, check:seo-campaign and git diff --check passed",
+        "html": "H1, canonical, visible Actualizado, dateModified, images, FAQ schema, TOC and current-sitemap verified locally for all five URLs",
+        "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
+        "note": "Awaiting commit, push, Cloudflare deployment and live verification."
+      }
+    },
+    {
+      "topic": "Gea Soles Yrsa opiniones",
+      "title": "Gea Soles Yrsa opiniones: Mary Jane barefoot artesanal ya cerrada",
+      "url": "https://barefootopiniones.com/opinion-bailarinas-gea-soles-yrsa/",
+      "slug": "opinion-bailarinas-gea-soles-yrsa",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-09-18T18:54:16+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "build": "npm run build passed",
+        "checks": "check:featured, check:affiliates, check:models, check:schema, check:site, check:urls, check:titles, check:originality, check:seo-campaign and git diff --check passed",
+        "html": "H1, canonical, visible Actualizado, dateModified, images, FAQ schema, TOC and current-sitemap verified locally for all five URLs",
+        "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
+        "note": "Awaiting commit, push, Cloudflare deployment and live verification."
+      }
     }
   ],
   "extraCampaigns": [

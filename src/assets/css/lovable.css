@@ -894,12 +894,15 @@ h4,
 }
 
 .lov-article-heading {
+  width: min(100%, 768px);
   max-width: 768px;
   margin-inline: auto;
+  min-width: 0;
 }
 
 .lov-article-kicker {
   color: var(--lov-green);
+  overflow-wrap: anywhere;
 }
 
 .lov-article-heading h1 {
@@ -908,6 +911,7 @@ h4,
   color: var(--lov-ink);
   font-size: clamp(2rem, 4vw, 3rem);
   line-height: 1.15;
+  overflow-wrap: anywhere;
 }
 
 .lov-article-heading > p:not(.lov-article-kicker) {
@@ -915,6 +919,7 @@ h4,
   margin: 1.25rem auto 0;
   color: rgba(31, 36, 33, 0.74);
   font-size: 1.125rem;
+  overflow-wrap: anywhere;
 }
 
 .article-author--compact {
@@ -1479,7 +1484,7 @@ img[src*="/assets/images/brands/"] {
   }
 
   .lov-article-heading h1 {
-    font-size: 2rem;
+    font-size: clamp(1.75rem, 8.5vw, 2rem);
   }
 
   .imported-content {
@@ -1532,10 +1537,22 @@ img[src*="/assets/images/brands/"] {
 
 .article-breadcrumb li[aria-current="page"] {
   display: inline-block;
-  max-width: 38ch;
+  max-width: min(38ch, 100%);
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+
+@media (max-width: 560px) {
+  .article-breadcrumb ol {
+    align-items: flex-start;
+  }
+
+  .article-breadcrumb li[aria-current="page"] {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
 }
 
 /* Artículos relacionados al final de artículos y FAQs */

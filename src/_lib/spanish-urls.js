@@ -118,7 +118,12 @@ const postSlugOverrides = {
   "xero-shoes-fall-2024-review": "opinion-coleccion-otono-2024-xero",
   "xero-shoes-spring-2022-review": "opinion-coleccion-primavera-2022-xero",
   "wildling-shoes-fall-2022-collection-review": "opinion-coleccion-wildling-otono-2022",
-  "mobo-board-review-not-your-average-balance-board": "opinion-tabla-mobo-no-es-tabla-equilibrio"
+  "mobo-board-review-not-your-average-balance-board": "opinion-tabla-mobo-no-es-tabla-equilibrio",
+  "vivobarefoot-fulham-2019-version": "opinion-version-vivobarefoot-fulham-2019",
+  "magical-shoes-ballerina-review": "opinion-bailarinas-barefoot-magical",
+  "cinderollies-ballet-flats-review": "opinion-bailarinas-cinderollies",
+  "tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe": "opinion-bailarinas-terciopelo-tadeevo-zapato",
+  "gea-soles-yrsa-flat-review": "opinion-bailarinas-gea-soles-yrsa"
 };
 
 const segmentTranslations = {
