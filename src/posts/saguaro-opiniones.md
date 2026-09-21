@@ -72,11 +72,6 @@ En cambio, no daban la misma sensación de precisión que una zapatilla desarrol
 
 La gama actual conserva esa idea en modelos como [Smart I](https://es.saguaro.com/products/mujer-smart-1) y [Free I](https://es.saguaro.com/products/mujer-free-1): tejido flexible, construcción ligera y una estética deportiva sencilla. No trasladaría automáticamente nuestra experiencia antigua a cada versión actual, pero el enfoque general sigue siendo reconocible.
 
-<figure>
-  <img src="/assets/images/brands/saguaro.webp" alt="Zapatillas Saguaro barefoot flexibles de adulto" width="1280" height="720" loading="lazy">
-  <figcaption>Las Saguaro de tejido flexible representan bien el punto fuerte de la marca: libertad y precio accesible antes que acabados premium.</figcaption>
-</figure>
-
 Lo que más disfruté fue no sentir la zapatilla como un objeto que había que aguantar. Lo que menos, esa impresión de que varias referencias son variaciones muy cercanas y cuesta saber qué cambia de verdad aparte del color o algún refuerzo.
 
 ## Lo que pasó con las Saguaro de los niños

@@ -7,8 +7,8 @@ category: "Opiniones"
 tags: ["opiniones", "resenas", "softstar-shoes", "pies-extra-anchos", "barefoot"]
 contentType: "Artículo"
 permalink: /softstar-shoes-opiniones/
-image: "/assets/images/models/softstar__sawyer.png"
-imageAlt: "Softstar Sawyer de cuero flexible y puntera extraancha"
+image: "/assets/images/models/softstar__primal-merry-jane.png"
+imageAlt: "Softstar Primal Merry Jane de piel y puntera extraancha"
 faqItems:
   - question: "¿Softstar Shoes merece la pena?"
     answer: "Puede merecer mucho la pena para pies anchos que siguen comprimidos en otras marcas barefoot y para quien valora cuero blando y fabricación artesanal. Es menos atractiva si buscas precio bajo o devoluciones sencillas desde España."

@@ -7,8 +7,8 @@ category: "Opiniones"
 tags: ["opiniones", "resenas", "unshoes", "sandalias-barefoot", "huaraches"]
 contentType: "Artículo"
 permalink: /unshoes-opiniones/
-image: "/assets/generated/featured/posts/unshoes-uinta-keota-sandals-review.jpg"
-imageAlt: "Sandalias minimalistas Unshoes Uinta y Keota"
+image: "/assets/images/reviews/unshoes-opiniones-sandalias-campo.png"
+imageAlt: "Sandalias minimalistas negras sobre un camino junto a un campo"
 faqItems:
   - question: "¿Unshoes es una buena marca de sandalias barefoot?"
     answer: "Sí, especialmente si valoras suelas planas, correas ajustables y opciones para distintos tipos de pie. El resultado depende mucho de que el sistema de tiras sea compatible con tu volumen."
@@ -68,11 +68,6 @@ Podía apretar más, aunque entonces otro soporte rozaba la articulación. Lleg�
 No concluyo que Uinta sea un mal producto. La [Uinta actual](https://www.unshoesusa.com/products/uinta) mantiene una suela de 8 mm, drop cero y el bucle regulable. En un pie de más volumen, las correas pueden asentarse de otra manera. En el mío, no funcionaron.
 
 Esa experiencia negativa es una de las razones por las que no confío en reviews que solo enumeran características. El sistema era inteligente y el producto estaba bien planteado. Aun así, no era para mi anatomía.
-
-<figure>
-  <img src="/assets/generated/featured/posts/unshoes-uinta-keota-sandals-review.jpg" alt="Comparación de sandalias Unshoes Uinta y Keota" loading="lazy">
-  <figcaption>Uinta parecía más completa, pero Keota terminó adaptándose mejor a un pie fino y al uso cotidiano.</figcaption>
-</figure>
 
 ## Keota: menos sofisticada y más fácil de usar
 
