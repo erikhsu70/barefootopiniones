@@ -197,3 +197,30 @@ No es perfecta. Es cara, algo pesada, poco ventilada para calor extremo y puede 
 Pero si llevas tiempo buscando **zapatillas de ciclismo con puntera ancha y forma de pie**, es una de las pocas opciones que no sacrifica la plataforma rígida ni la compatibilidad con pedales habituales. Yo la pondría muy arriba en la lista para larga distancia, rodillo y ciclistas que ya han dejado atrás las zapatillas puntiagudas en el resto de su vida.
 
 ## Preguntas frecuentes
+
+<div class="faq-accordion">
+  <details>
+    <summary>¿Las Strong Feet Athletics Leviathan son barefoot?</summary>
+    <p>Tienen puntera anatómica y plataforma plana, pero no ofrecen la flexibilidad ni la sensación del suelo de una zapatilla barefoot para caminar. Su suela de carbono es rígida porque está diseñada para pedalear con calas.</p>
+  </details>
+  <details>
+    <summary>¿Qué talla elegir en Strong Feet Athletics?</summary>
+    <p>Conviene medir los dos pies en milímetros y seguir la tabla oficial, en vez de copiar la talla de otra marca. En nuestra prueba, una 37 ajustó mejor que una 38 a un pie que normalmente usa una 36 de calle.</p>
+  </details>
+  <details>
+    <summary>¿Funcionan con calas SPD y SPD-SL?</summary>
+    <p>Sí. La Leviathan 1.1 admite sistemas de dos tornillos como SPD y sistemas de tres tornillos como SPD-SL, Look y Delta. Hay que comprobar la instalación y la posición de la cala antes de una salida larga.</p>
+  </details>
+  <details>
+    <summary>¿Sirven para carretera, gravel y bicicleta estática?</summary>
+    <p>La compatibilidad de calas permite usarlas en carretera, gravel y muchas bicicletas de interior. Para rutas con tramos largos a pie, su volumen y suela rígida pueden resultar menos prácticos que una zapatilla específica de MTB.</p>
+  </details>
+  <details>
+    <summary>¿Son adecuadas para pies estrechos?</summary>
+    <p>La puntera es muy amplia y el ajuste general generoso. Los dos diales permiten sujetar mediopié y empeine, pero un pie estrecho o de poco volumen puede necesitar más ajuste y debería probarlas en casa antes de estrenarlas.</p>
+  </details>
+  <details>
+    <summary>¿Merecen la pena las Strong Feet Athletics Leviathan?</summary>
+    <p>Sí para quien sufre compresión de dedos o compra zapatillas de ciclismo más largas para ganar anchura. No son la opción más ligera ni barata, y tienen menos sentido si tu calzado actual ya te ajusta bien y priorizas competir con el mínimo peso.</p>
+  </details>
+</div>
