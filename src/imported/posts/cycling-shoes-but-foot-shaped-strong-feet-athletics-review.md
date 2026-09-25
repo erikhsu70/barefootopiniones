@@ -86,7 +86,13 @@ Si vienes del barefoot, la suela puede chocarte. En una zapatilla para caminar s
 
 Por eso yo no las llamaría barefoot sin explicar nada más. Comparten la puntera anatómica y la plataforma plana, pero no son flexibles ni están hechas para sentir el terreno al caminar. En la guía sobre [qué es realmente una zapatilla barefoot](/what-is-a-barefoot-minimalist-shoe/) explicamos mejor esa diferencia.
 
-En la [prueba de Path Less Pedaled](https://youtu.be/8wCg2BCss5E?t=330), Russ Roca se las pone, enseña la forma desde arriba y habla del ajuste. También merece la pena ver la [conversación de Colby Pearce sobre las Leviathan](https://youtu.be/45EXmQv5ogU), porque entra en más detalle sobre el diseño y la posición del pie. Son dos usuarios reales enseñando la zapatilla, no vídeos promocionales grabados solo sobre fondo blanco.
+Russ Roca, de Path Less Pedaled, también se las pone, enseña la forma desde arriba y cuenta cómo nota el ajuste. Me gusta porque se ve la zapatilla en un pie real y no solo sobre un fondo blanco.
+
+<div class="video-embed"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/8wCg2BCss5E?start=330" title="Russ Roca prueba las Strong Feet Athletics Leviathan" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+Colby Pearce tiene otra conversación larga sobre las Leviathan. Entra más en el diseño, la forma y la posición del pie, así que la dejaría para quien quiera entender por qué esta zapatilla es tan diferente de una horma ciclista habitual.
+
+<div class="video-embed"><iframe class="editorial-video-frame" src="https://www.youtube-nocookie.com/embed/45EXmQv5ogU" title="Colby Pearce analiza las Strong Feet Athletics Leviathan" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ## Lo que Heather notó al pedalear
 
