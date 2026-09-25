@@ -1,5 +1,5 @@
 module.exports = {
-  "/mejores-zapatillas-pista-puntera-ancha/": "Mejores zapatillas con puntera ancha para pista",
+  "/mejores-zapatillas-pista-puntera-ancha/": "7 mejores zapatillas de pista con puntera ancha",
   "/tienes-pies-extra-anchos-reemplaza-botas/": "Botas de invierno para pies extraanchos",
   "/aintap-feelbarefoot-barefoot-asequibles-hechos/": "Aintap Feelbarefoot: mi opinión",
   "/barefoot-no-es-toda-solucion-segun-katy-bowman/": "Por qué el calzado barefoot no lo soluciona todo",
