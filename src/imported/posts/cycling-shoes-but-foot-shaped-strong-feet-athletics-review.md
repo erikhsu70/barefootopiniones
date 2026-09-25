@@ -29,27 +29,35 @@ faqItems:
   - question: "¿Merecen la pena las Strong Feet Athletics Leviathan?"
     answer: "Sí para quien sufre compresión de dedos o compra zapatillas de ciclismo más largas para ganar anchura. No son la opción más ligera ni barata, y tienen menos sentido si tu calzado actual ya te ajusta bien y priorizas competir con el mínimo peso."
 ---
-## Mi opinión resumida
+¡Por fin, unas zapatillas de ciclismo que no te aplastan los dedos!
 
-Las Strong Feet Athletics Leviathan solucionan un problema muy concreto: **tener una zapatilla de ciclismo seria sin encerrar los dedos en una punta afilada**. No son unas zapatillas barefoot convencionales con agujeros para calas. Son rígidas, específicas y claramente ciclistas, pero la parte delantera respeta mucho mejor la forma del pie.
+Eso fue lo primero que pensé al ver las **Strong Feet Athletics Leviathan**. Si usas zapatos con puntera ancha a diario, volver a meter el pie en una zapatilla de ciclismo estrecha se hace muy raro. Puedes comprar una talla más, aflojar el cierre o probar una versión “wide”, pero muchas veces los dedos siguen juntos y sobra longitud delante.
 
-La experiencia central de esta reseña es la de Heather, triatleta, profesora y madre de tres hijos. Entrenó durante meses con las Leviathan y completó con ellas un Ironman. Eso permite hablar de sudor, presión, transiciones y horas de pedaleo, no solo de cómo se sienten al probarlas cinco minutos.
+Para saber si las Leviathan eran algo más que una buena idea, Heather las usó durante meses mientras preparaba un Ironman. Hizo rodillo, salidas largas y terminó compitiendo con ellas. Esta es su experiencia, con lo que le gustó, lo que cambiaría y los detalles que conviene comprobar antes de pedirlas.
 
-Mi conclusión es bastante sencilla: **las elegiría si tus dedos se duermen, aparecen puntos calientes o siempre acabas comprando una talla demasiado larga para conseguir anchura**. Si tus zapatillas actuales te van bien y buscas el conjunto más ligero posible para competir, el cambio resulta bastante menos evidente.
+## Lo que pienso después de probarlas de verdad
 
-También conviene ajustar las expectativas. La Leviathan 1.1 cuesta actualmente 299 dólares en su [ficha oficial](https://www.strongfeetathletics.com/store/p/leviathan), puede generar impuestos y gastos de importación fuera de Estados Unidos y pesa más que algunas opciones de competición. La comodidad tiene aquí un precio económico y otro en gramos.
+Las Leviathan solucionan un problema muy concreto: **tener una zapatilla de ciclismo de verdad sin encerrar los dedos en una punta afilada**. No son unas barefoot blanditas a las que les han hecho agujeros para las calas. Son rígidas y se sienten como material ciclista, pero delante tienen forma de pie.
 
-<p class="affiliate-disclosure">Transparencia: la experiencia de uso pertenece a Heather y procede de una prueba prolongada durante su preparación para un Ironman. Los datos de la versión 1.1, el precio y las compatibilidades se han contrastado con la ficha oficial actual. No atribuyo a la zapatilla mejoras de rendimiento ni efectos médicos que esta experiencia no pueda demostrar.</p>
+Para Heather, la diferencia no fue una sensación espectacular el primer día. Fue dejar de pensar en los pies a mitad de una sesión larga. Antes tenía que elegir entre dedos apretados o una zapatilla demasiado larga. Con estas encontró espacio delante sin que todo el pie quedara bailando.
 
-## La experiencia que cambió esta review
+Mi conclusión es simple: **las tendría muy en cuenta si tus dedos se duermen, aparecen puntos calientes o siempre compras una talla demasiado grande para ganar anchura**. Si tus zapatillas actuales ya te quedan cómodas y buscas ahorrar cada gramo, probablemente no las necesitas.
 
-Heather llevaba años queriendo terminar un Ironman. Cuando finalmente lo consiguió, siguió entrenando y completó después el Ironman Wisconsin. Su problema no era falta de experiencia ni desconocer cómo debe sentirse el material ciclista. Era que, tras tantas horas sobre la bicicleta, sus pies seguían pagando el precio.
+La Leviathan 1.1 aparece a **299 dólares** en la [tienda oficial de Strong Feet Athletics](https://www.strongfeetathletics.com/store/p/leviathan). La marca envía fuera de Estados Unidos, pero avisa de que los impuestos o aranceles del país de destino corren por cuenta del comprador. Desde España, lo miraría antes de pagar.
+
+<p class="affiliate-disclosure">Nota: la experiencia que contamos es la de Heather durante su preparación para un Ironman. El precio y las características actuales están comprobados en la web oficial. Que a ella le fueran bien no significa que curen lesiones ni que hagan pedalear más rápido.</p>
+
+## El problema que Heather quería solucionar
+
+Heather llevaba años queriendo terminar un Ironman. Cuando lo consiguió, siguió entrenando y completó después el Ironman Wisconsin. Ya sabía perfectamente cómo se siente una zapatilla de ciclismo y qué material merece ocupar un sitio en una preparación tan larga.
 
 Como ya utilizaba calzado con forma de pie en otras partes de su vida, empezó a mirar sus zapatillas de ciclismo con otros ojos. Para ganar espacio delante solía comprar **dos tallas más de la que usa en calzado diario**. Así evitaba parte de la compresión, pero introducía otro problema: sobraba longitud y el pie podía moverse dentro.
 
-Ese apaño funcionaba hasta cierto punto. En sesiones largas aparecían zonas de presión en el borde exterior, sensación de calor y, algunas veces, entumecimiento o calambres. No hace falta afirmar que una puntera estrecha explica cualquier molestia del ciclista, porque la posición de las calas, la altura del sillín, los calcetines y el volumen de entrenamiento también importan.
+Ese apaño funcionaba a medias. Ganaba hueco para los dedos, pero el pie se movía y aparecían puntos calientes en la parte exterior. Algunas veces también tenía entumecimiento o calambres.
 
-Lo que sí tenía sentido era probar una variable distinta: **una zapatilla construida ancha donde el pie es ancho, sin alargarla artificialmente**.
+No todo eso tiene que venir de la puntera. Las calas, el sillín, los calcetines y la propia posición sobre la bici también influyen. Pero después de usar zapatos con forma de pie fuera de la bicicleta, tenía sentido probar una opción que no empezara comprimiendo justo la zona que le molestaba.
+
+La idea era sencilla: **más anchura donde el pie es ancho, sin comprar centímetros de más**.
 
 Heather empezó con las Leviathan en diciembre de 2025, durante sesiones de bicicleta estática cuatro días por semana. Al principio utilizó una talla 38 porque era la más pequeña disponible. Le gustó la sensación delantera, aunque la zapatilla le quedaba más larga y voluminosa de lo ideal.
 
@@ -57,9 +65,9 @@ Cuando pudo pasar a una 37, el ajuste mejoró. Esa parte de la experiencia me pa
 
 Después llegaron cientos de kilómetros, sesiones de rodillo y una preparación completa. El examen final fue el Ironman de Jacksonville, con natación, 180 kilómetros de bicicleta y una maratón. Heather terminó quinta en su grupo de edad y marcó su recorrido de ciclismo más rápido hasta ese momento.
 
-Eso **no prueba que las zapatillas la hicieran más rápida**. El entrenamiento, la estrategia, el recorrido y el estado de forma pesan muchísimo más. Lo relevante para esta opinión es otra cosa: pudo llevarlas durante toda la prueba sin que el ajuste se convirtiera en una distracción constante y bajó de la bicicleta con buenas sensaciones para correr.
+Eso no demuestra que las zapatillas la hicieran más rápida. Lo importante para esta review es que pudo llevarlas toda la prueba sin estar pendiente de sus pies y se bajó de la bici con buenas sensaciones para correr.
 
-## Qué cambia en la Leviathan 1.1
+## Cómo es la Leviathan 1.1
 
 La versión actual es la **Leviathan 1.1**, no la 1.0 descrita en la publicación antigua. Strong Feet Athletics mantiene la idea original, pero ha añadido tallas 36 y 37, dos colores llamados Ghost y Obsidian, un material de lengüeta más fácil de limpiar y retoques en las almohadillas para caminar y el acolchado del talón.
 
@@ -74,13 +82,13 @@ Estas son las características confirmadas que realmente cambian la experiencia:
 - Refuerzo antideslizante en el talón.
 - Tallas europeas desde la 36 hasta la 48.
 
-La combinación puede parecer contradictoria si vienes del barefoot. En el día a día suelo buscar una suela flexible, pero **sobre una bicicleta la rigidez cumple otra función**: crea una plataforma estable para transmitir fuerza al pedal y evita que la cala se note como un punto pequeño bajo el pie.
+Si vienes del barefoot, la suela puede chocarte. En una zapatilla para caminar suelo buscar flexibilidad, pero aquí la rigidez tiene sentido: crea una base estable sobre el pedal y reparte el apoyo de la cala.
 
-Por eso no las llamaría barefoot sin matices. Comparten la puntera anatómica y la plataforma plana con el calzado minimalista, pero no pretenden doblarse ni dejarte sentir cada piedra. Nuestra guía sobre [qué es realmente una zapatilla barefoot](/what-is-a-barefoot-minimalist-shoe/) explica por qué la categoría depende de más cosas que una punta ancha.
+Por eso yo no las llamaría barefoot sin explicar nada más. Comparten la puntera anatómica y la plataforma plana, pero no son flexibles ni están hechas para sentir el terreno al caminar. En la guía sobre [qué es realmente una zapatilla barefoot](/what-is-a-barefoot-minimalist-shoe/) explicamos mejor esa diferencia.
 
-El vídeo de [Path Less Pedaled sobre las Leviathan](https://youtu.be/8wCg2BCss5E?t=330) también ayuda porque enseña el volumen real, la suela y el cierre en movimiento. Es más útil ver la zapatilla desde arriba que limitarse a leer la palabra “wide”.
+En la [prueba de Path Less Pedaled](https://youtu.be/8wCg2BCss5E?t=330), Russ Roca se las pone, enseña la forma desde arriba y habla del ajuste. También merece la pena ver la [conversación de Colby Pearce sobre las Leviathan](https://youtu.be/45EXmQv5ogU), porque entra en más detalle sobre el diseño y la posición del pie. Son dos usuarios reales enseñando la zapatilla, no vídeos promocionales grabados solo sobre fondo blanco.
 
-## Cómo se siente durante una salida larga
+## Lo que Heather notó al pedalear
 
 La primera sorpresa para Heather fue que no necesitó un periodo para “domarlas”. La carcasa es rígida debajo, pero el espacio delantero evita que esa estructura se sienta como un molde estrecho alrededor de los metatarsos.
 
@@ -88,11 +96,11 @@ Durante el pedaleo, los dedos no tienen que permanecer pegados entre sí. Esa li
 
 En sus zapatillas anteriores, Heather reconocía el momento en que empezaba a pensar en los pies. Aparecía un punto caliente, aflojaba el cierre y más tarde volvía a apretarlo porque el talón perdía seguridad. Con las Leviathan ese diálogo constante disminuyó.
 
-La frase que mejor resume su experiencia es que “desaparecen” mientras pedalea. No porque sean ligerísimas ni blandas, sino porque dejan de reclamar atención. Para una salida de seis horas, eso vale más que una impresión espectacular al sacarlas de la caja.
+La frase que mejor resume su experiencia es que “desaparecen” mientras pedalea. No porque sean ligerísimas, sino porque dejan de molestar. En una salida de seis horas, eso vale mucho más que una primera impresión bonita.
 
 Los dos diales son importantes. Permiten sujetar la zona media sin cerrar la puntera como un torniquete y se pueden accionar sobre la bicicleta. En una transición de triatlón también resultan más rápidos que unos cordones convencionales.
 
-Hay un matiz: el sistema probado liberaba la tensión de golpe, en vez de permitir aflojarla en pequeños pasos. Heather podía apretar con precisión, pero si necesitaba ganar un poco de volumen tenía que abrir y reajustar. No arruina la zapatilla, aunque se nota en un producto de este precio.
+Hay un detalle mejorable. En el par de Heather, al soltar el dial la tensión se liberaba de golpe. Para aflojar solo un poco tenía que abrir y volver a ajustar. No es grave, pero en una zapatilla de 299 dólares me gustaría un ajuste más fino en las dos direcciones.
 
 ## Puntera, suela y ajuste
 
@@ -102,13 +110,13 @@ Muchas zapatillas “wide” añaden volumen en toda la horma pero mantienen una
 
 Eso no garantiza que funcione para cualquier pie ancho. Una persona puede necesitar amplitud en mediopié o talón, no solo delante. La forma del empeine también decide cuánto tienes que cerrar los diales.
 
-Para ubicar conceptos, esta guía sobre [zapatillas de ciclismo con forma de pie](/zapatillas-ciclismo-forma-pie/) compara la forma delantera, el uso y el tipo de pedal. Es un complemento más útil que escoger únicamente por la etiqueta “barefoot”.
+En nuestra guía de [zapatillas de ciclismo con forma de pie](/zapatillas-ciclismo-forma-pie/) puedes ver mejor qué cambia frente a una horma convencional. También respondemos aparte a la pregunta de si [existen zapatillas barefoot para ciclismo](/preguntas/are-there-barefoot-cycling-shoes/), porque “puntera ancha” y “barefoot” no significan exactamente lo mismo.
 
 ### La suela es plana, pero muy rígida
 
-Strong Feet Athletics declara una suela de carbono unidireccional y cero drop. El pie no queda inclinado por una cuña de talón, pero sigue apoyado sobre una base de competición, no sobre una suela para caminar.
+La web oficial indica una suela de carbono unidireccional y una forma plana, sin drop. El pie no queda sobre una cuña de talón, pero sigue apoyado en una base dura pensada para pedalear, no para pasear.
 
-Heather no notó pérdida de transferencia al pedal. Tampoco sería prudente convertir esa percepción en una cifra de vatios o una promesa de rendimiento. Lo que podemos decir es que la rigidez fue suficiente para entrenar y competir en larga distancia sin que la zapatilla pareciera una adaptación casera.
+Heather no sintió que perdiera firmeza al pedalear. No tenemos una medición de vatios y no tendría sentido inventarla. Lo que sí sabemos es que entrenó y compitió con ellas sin echar de menos una suela ciclista más rígida.
 
 La posición de la cala merece atención. Cambiar de zapatillas y mantener exactamente la misma referencia visual puede alterar dónde queda el eje respecto al pie. Si aparecen molestias nuevas en rodilla, tobillo o fascia, revisaría antes el montaje y el bike fit que culparía automáticamente a la anchura.
 
@@ -122,7 +130,7 @@ Heather notó la base algo resbaladiza al principio. La sensación mejoró con e
 
 ## Talla y volumen interior
 
-Aquí no recomiendo comprar “la misma talla de siempre”. La propia marca insiste en medir el pie porque no existe una equivalencia perfecta entre numeraciones de fabricantes. Su [guía oficial de talla](https://www.strongfeetathletics.com/sizing-guide) parte de la longitud real, no del número impreso en tus otras zapatillas.
+Aquí no compraría “mi talla de siempre” sin medir. La propia marca dice que puede haber diferencias importantes entre el mismo número de distintas marcas. Su [guía oficial de talla](https://www.strongfeetathletics.com/sizing-guide) pide medir los dos pies y usar el más largo.
 
 Mi proceso sería este:
 
@@ -134,13 +142,15 @@ Mi proceso sería este:
 6. Simula la posición de pedaleo antes de valorar el talón.
 7. No instales ni marques la suela hasta estar seguro de la talla.
 
+Si nunca has medido tus pies así, esta guía sobre [cómo medir el pie para elegir talla](/preguntas/how-do-i-measure-my-feet-to-pick-a-size/) te ayuda a hacerlo sin depender de la talla de tus zapatillas actuales.
+
 En el caso de Heather, la 38 servía pero sobraba. La 37 sujetó mejor sin recuperar la compresión de sus zapatillas antiguas. Si Strong Feet hubiera tenido entonces la 36 actual, le habría gustado compararla, aunque no sabemos si habría conservado suficiente longitud delante.
 
 Su pie es de volumen relativamente bajo. Para dejar el talón seguro tenía que cerrar bastante los diales y, en salidas largas, alguna vez aparecía presión sobre el empeine. Es el recordatorio de que **puntera ancha y ajuste perfecto no son sinónimos**.
 
 Si tienes talón estrecho, aprieta primero el dial más cercano al tobillo y después regula el delantero. Si tienes empeine alto, comprueba que la lengüeta reparta la tensión y no intentes inmovilizar el pie cerrando ambos diales al máximo.
 
-## Lo mejor y lo peor
+## Lo que más le gustó y lo que cambiaría
 
 ### Lo que más me convence
 
@@ -162,9 +172,9 @@ Si tienes talón estrecho, aprieta primero el dial más cercano al tobillo y des
 
 **Hay pocas opciones estéticas.** La versión 1.1 se vende en blanco Ghost y negro Obsidian. Son colores fáciles de combinar, pero no hay la variedad habitual de algunas gamas de carretera.
 
-**Comprar desde España requiere hacer números.** La marca envía internacionalmente, pero avisa de que el destinatario asume aranceles e impuestos. Sumaria esos costes y la posible devolución antes de comparar el precio con una zapatilla disponible en Europa.
+**Comprar desde España requiere hacer números.** La marca envía internacionalmente, pero avisa de que el destinatario paga los posibles aranceles e impuestos. Yo sumaría esos costes y una posible devolución antes de decidir.
 
-## Para quién la compraría
+## A quién se las recomendaría
 
 La compraría si:
 
@@ -186,15 +196,15 @@ No sería mi primera opción si:
 
 Tampoco la compraría como tratamiento para fascitis, neuromas, juanetes o dolor de rodilla sin evaluar primero la causa. Una puntera que no comprime puede mejorar el confort, pero no corrige por sí sola la colocación de la cala, una posición inadecuada sobre la bicicleta ni una lesión.
 
-## Mi veredicto
+## Mi opinión final sobre Strong Feet Athletics
 
-Mi opinión sobre Strong Feet Athletics es positiva porque la Leviathan resuelve una incoherencia que llevaba años normalizada: pedir al pie que produzca fuerza durante horas mientras sus dedos están apretados dentro de una punta estrecha.
+Mi opinión sobre Strong Feet Athletics es positiva. La Leviathan hace algo que parece bastante obvio cuando la ves: deja espacio a los dedos sin renunciar a una suela rígida, cierres de dial y compatibilidad con las calas habituales.
 
-La experiencia de Heather muestra lo que más me interesa de esta zapatilla. No ganó su sitio por una cifra espectacular, sino porque dejó de pensar en sus pies durante el entrenamiento y pudo competir con el mismo par. Para material de resistencia, esa ausencia de molestias es una ventaja muy real.
+Lo que más me convence es la historia de Heather. No habla de una mejora milagrosa ni de un récord provocado por las zapatillas. Simplemente dejó de pensar tanto en los pies, pudo hacer su preparación y terminó un Ironman con ellas.
 
 No es perfecta. Es cara, algo pesada, poco ventilada para calor extremo y puede sobrarle volumen a un pie fino. También exige medir con cuidado y revisar la posición de las calas.
 
-Pero si llevas tiempo buscando **zapatillas de ciclismo con puntera ancha y forma de pie**, es una de las pocas opciones que no sacrifica la plataforma rígida ni la compatibilidad con pedales habituales. Yo la pondría muy arriba en la lista para larga distancia, rodillo y ciclistas que ya han dejado atrás las zapatillas puntiagudas en el resto de su vida.
+Pero si llevas tiempo buscando **zapatillas de ciclismo con puntera ancha y forma de pie**, esta es una de las opciones más claras que he encontrado. Yo las miraría sobre todo para larga distancia, rodillo y para quien ya no soporta volver a una puntera estrecha cada vez que se sube a la bici.
 
 ## Preguntas frecuentes
 
