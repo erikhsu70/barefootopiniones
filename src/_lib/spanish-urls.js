@@ -123,7 +123,12 @@ const postSlugOverrides = {
   "magical-shoes-ballerina-review": "opinion-bailarinas-barefoot-magical",
   "cinderollies-ballet-flats-review": "opinion-bailarinas-cinderollies",
   "tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe": "opinion-bailarinas-terciopelo-tadeevo-zapato",
-  "gea-soles-yrsa-flat-review": "opinion-bailarinas-gea-soles-yrsa"
+  "gea-soles-yrsa-flat-review": "opinion-bailarinas-gea-soles-yrsa",
+  "drifter-leather-vera-review": "opinion-botas-montar-vera-cuero-drifter",
+  "groundies-liverprool-gx1-boots-a-mini-review": "opinion-botas-groundies-liverpool-gx1",
+  "vivobarefoot-kids-ababa-sandals-review": "opinion-sandalias-infantiles-vivobarefoot",
+  "unshoes-childrens-keota-sandals-review": "opinion-sandalias-keota-ninos-unshoes-mejores",
+  "drifter-leather-safita-sandals-review": "opinion-sandalias-safita-cuero-drifter"
 };
 
 const segmentTranslations = {

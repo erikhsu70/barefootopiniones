@@ -2,97 +2,123 @@
 layout: layouts/imported.njk
 templateEngineOverride: md
 title: "Mi opinión sobre las botas Groundies Liverpool GX1"
-description: El Groundies Liverpool es una alternativa elegante a la bota de Timberlands.
-  Desde entonces, Groundies Urban barefootwear ha actualizado el Liverpool para ser
-  aún más práctico con una suela más resistente!
+description: "Groundies Liverpool GX1 opiniones actualizadas: ajuste, suela GX1, disponibilidad, alternativas Groundies actuales y limites para pies anchos."
 date: '2022-01-28T18:59:05'
 permalink: /groundies-liverprool-gx1-boots-a-mini-review/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 19302
 sourceSlug: groundies-liverprool-gx1-boots-a-mini-review
-sourceModified: '2026-05-28T13:03:14'
+sourceModified: '2026-10-02T12:08:50+02:00'
 image: "/assets/generated/featured/posts/groundies-liverprool-gx1-boots-a-mini-review.jpg"
-imageAlt: "Imagen destacada de Botas Liverprool GX1 – Una mini revisión"
+imageAlt: "Botas Groundies Liverpool GX1 beige con suela barefoot"
+autoToc: true
+faqItems:
+  - question: "¿Groundies Liverpool GX1 sigue a la venta?"
+    answer: "No aparece como bota principal en el catálogo Groundies revisado en octubre de 2026, así que conviene tratarla como referencia histórica o segunda mano."
+  - question: "¿Era una bota para pies muy anchos?"
+    answer: "No. La experiencia original y la reseña externa de Anya la sitúan en anchura media, no como opción para pies extraanchos."
+  - question: "¿Qué mirar en Groundies hoy?"
+    answer: "Revisaría botas actuales de Groundies, filtrando por barefoot/anatomic fit y comprobando la suela TrueSense o GX vigente del modelo."
+  - question: "¿Servía para nieve?"
+    answer: "La reseña original documentó buen agarre en nieve ligera, pero no era una bota técnica ni especialmente cálida."
 tags:
 - traducido
 language: es
 translatedFrom: en
 ---
-<p>Los Groundies Liverpool fueron el tema de mi primera <a href="/use-esto-no-aquello-el-look-de-timberland-sin-juanetes/">Use esto, no aquello</a> artículo: son una alternativa elegante y más saludable a las torpes botas Timberlands. Desde entonces, Groundies barefootwear ha actualizado el Liverpool para que sea aún más práctico con una suela más resistente. Aquí está mi mini reseña de la nueva versión.</p>
-<p class="has-text-align-center"></p>
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-90f09a47" data-offset="30" data-scroll="1" style="">
-<div class="uagb-toc__wrap">
-<div class="uagb-toc__title">
-							Tabla de contenidos						</div>
-<div class="uagb-toc__list-wrap">
-<ol class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#groundies-barefootwear">Calzados descalzos Groundies</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#the-new-gx1-sole">La nueva suela GX1</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#liverpool-gx1-review">Revisión del Liverpool GX1</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#sizing-fit-type">Sizing &amp;amp; Fit Type</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#styling">Estilo</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#conclusion">Conclusión</a></li></li></li></li></li></li></ol> </div>
-</div>
-</div>
+Groundies Liverpool GX1 opiniones: esta actualización conserva la mini reseña original y la sitúa en 2026. La Liverpool GX1 fue una bota barefoot urbana con estética tipo Timberland, suela más práctica que la Liverpool original y anchura media. Hoy la trataría como referencia histórica o compra de segunda mano, no como recomendación directa sin comprobar stock.
 
-<h2 class="wp-block-heading">Calzados descalzos Groundies</h2>
+<img src="/assets/generated/featured/posts/groundies-liverprool-gx1-boots-a-mini-review.jpg" alt="Botas Groundies Liverpool GX1 revisadas en Barefoot Opiniones" loading="lazy" width="1200" height="675">
 
-<p>Groundies barefootwear es una marca alemana de calzado barefoot que se especializa en zapatos elegantes y de apariencia convencional. Son el primer zapato barefoot popular entre mis lectores porque parecen muy “normales” y se pueden encontrar fácilmente en Amazonas.</p>
+**Escrito por Isabel y actualizado editorialmente el 2 de octubre de 2026.**
 
-</div>
-<p>Puedes encontrar mi otro<a href="/marca/groundies/"> Reseñas de Groundies aquí.</a></p>
-<p class="has-text-align-center"><em>¿Eres nuevo en el mundo de los Zapatos barefoot? aquí está mi <a href="/preguntas/como-escojo-mi-primer-par-de-zapatos-barefoot/">Guía para elegir tu primer par</a>.</em></p>
-<h2 class="wp-block-heading">La nueva suela GX1</h2>
+## Groundies Liverpool GX1 opiniones: veredicto rápido
 
-<p>Groundies tiene algunos tipos de suelas diferentes, todas las cuales son delgadas y de zero drop. La suela exterior GX1 es antideslizante y está pensada para ser más práctica para uso en exteriores y, por lo tanto, no es tan delgada y flexible como la suela TrueSense original (la altura de la pila Gx1 es de 8,5 mm, TrueSense es de 6,3 mm). También es importante tener en cuenta que Groundies también ofrece lo que ellos llaman zapatos de "ajuste regular" que tienen una puntera más puntiaguda como los zapatos convencionales, pero que aún tienen zero drop y son flexibles. Puede filtrar para mostrar solo "Ajuste anatómico", que es como se refieren a sus estilos con una puntera ancha.</p>
-<p>La nueva suela también se envuelve un poco más alrededor de la suela y, al principio, esto los hizo sentir más estrechos que mis otros zapatos Groundies. A pesar de ser más gruesa y duradera, la nueva suela GX1 me pareció muy flexible y cómoda.</p>
-<h2 class="wp-block-heading">Revisión del Liverpool GX1</h2>
+La Liverpool GX1 tenía una propuesta muy clara: parecer una bota urbana convencional, pero con suela plana, puntera más respetuosa y flexibilidad barefoot. En la experiencia original, Isabel eligió una talla más que en otras Groundies, notó la suela inicialmente más estrecha y después la sintió más cómoda tras varios paseos.
 
-<p>El nuevo Liverpool GX1 viene en varios colores de Groundies en tallas EU 36-47 (no hay diferencia entre tallas de hombre y mujer).</p>
-<p>Elegí Beige, tienen un color más apagado y un tobillo más alto que el original. En mi opinión, ambos cambios son una mejora: ahora son más elegantes y versátiles.</p>
-<p>La parte superior está forrada con microfibra, pero no es gruesa. puse un plantilla de lana en la mía para poder usarlas cómodamente en los paseos invernales, pero en general estas botas no abrigan mucho.</p>
-<p>Debería haber rociado inmediatamente mis botas del Liverpool con Carbon Pro, ya que el color es claro, pero no lo hice y ¡me rayaron de color marrón en 5 minutos! ¡Doh! Sin embargo, me alegró descubrir que la suela antideslizante me funcionaba muy bien en nieve y hielo.</p>
+En 2026, el catálogo visible de Groundies prioriza otros modelos de botas, como Portland en la tienda estadounidense y distintas líneas con suela TrueSense en la tienda europea. Por eso no diría "compra Liverpool GX1" sin matiz. Diría: usa esta reseña para entender cómo encajan las botas Groundies de suela más robusta y revisa modelos actuales en [Groundies botas USA](https://us.groundies.com/collections/boots) o [Groundies todos los modelos](https://groundies.com/en/collections/barefoot-shoes-all-models).
 
-<h2 class="wp-block-heading">Sizing &amp;amp; Fit Type</h2>
-<p>Mis pies se han ido ensanchando y alargando lentamente a lo largo de los años (consulte la <a href="/preguntas/mis-pies-cambiaran-si-uso-zapatos-barefoot/">“¿Cambiarán mis pies?” Preguntas frecuentes</a> para obtener más información sobre esto), así que esta vez decidí aumentar una talla y obtener una EU 38 en Liverpool. Cuando abrí la caja por primera vez, me di cuenta de inmediato que parecían más estrechos que los Liverpool originales y me preocupaba que fueran incómodos. Pero las suelas de goma se relajaron y se extendieron después de unos cuantos kilómetros de caminata y ahora me quedan comparables en ancho y largo a mis otros zapatos Groundies. </p>
-<p>Aún así, el Groundies Liverpool GX1 tiene una <strong>ancho promedio</strong> y no los recomendaría para pies muy anchos. el <strong>El tamaño es fiel al tamaño.</strong>.</p>
-<p class="has-text-align-center"><a href="/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/"><em>¡Lea esto para explorar las diferentes marcas de Zapatos barefoot y cómo quedan!</em></a></p>
-<h2 class="wp-block-heading">Estilo</h2>
-<p>Groundies barefootwear es mi marca favorita para los imitadores de estilo. El Liverpool GX1 luce moderno y tiene un diseño versátil y elegante, y puedes usarlos con casi cualquier cosa. Mira mis ideas de estilo en el <a href="/use-esto-no-aquello-el-look-de-timberland-sin-juanetes/">reseña original del Liverpool</a>.</p>
-<h2 class="wp-block-heading">Conclusión</h2>
-<p><a href="https://www.groundies.com/liverpool/">Los Groundies Liverpool GX1</a> Es una excelente bota para pies descalzos. Si bien no lo llamaría exactamente "resistente", es un zapato cómodo y cotidiano que deberías usar durante muchos años.</p>
+## Cómo se hizo esta opinión
 
+Esta actualización separa cuatro tipos de evidencia. La experiencia personal documentada procede de la reseña original de Isabel sobre la Liverpool GX1. Los hechos vigentes se revisaron el 2 de octubre de 2026 en el catálogo de Groundies, la colección de botas, fichas actuales y páginas de modelos: [botas Groundies USA](https://us.groundies.com/collections/boots), [todos los modelos Groundies](https://groundies.com/en/collections/barefoot-shoes-all-models), la colección [outdoor Groundies](https://www.groundies.com/us/women/outdoor/) y fichas con suela GX como [Odessa GX1](https://www.groundies.com/uk/barefoot-shoes-women/groundies-odessa-gx1-women-black.html). Las observaciones externas proceden de [Anya's Reviews](https://anyasreviews.com/groundies-liverprool-gx1-boots-a-mini-review/), de conversaciones como [Good Barefoot Boots](https://www.reddit.com/r/barefootshoestalk/comments/ypqzlg/good_barefoot_boots/) y de notas de usuarios sobre [pares Groundies antiguos](https://www.reddit.com/r/barefootshoestalk/comments/1mmuxxz/my_barefoot_shoes/). El análisis editorial no añade usos nuevos, impermeabilidad nueva ni tallas probadas fuera de la experiencia original.
 
-<p><strong>Disponibilidad en 2026:</strong> Liverpool GX1 puede no representar las botas actuales de la marca. Revisa la familia, la suela TrueSense y la tabla vigente en el <a href="https://groundies.com/">catálogo oficial de Groundies</a>.</p>
+## Groundies Liverpool GX1 opiniones: talla y tipo de pie
 
-<!-- editorial-expansion:v1 -->
+La reseña original es útil porque no idealiza la anchura. La Liverpool GX1 no era extra ancha. La suela envolvente y la construcción más robusta podían sentirse más estrechas al principio, aunque el material cedió lo suficiente para Isabel.
 
-Para valorar bien "Botas Liverprool GX1 – Una mini revisión" no me quedo solo con la foto bonita. En botas y calzado de exterior importan mucho el ajuste, la flexibilidad, el agarre y como se comportan despues de varias horas de uso.
+| Tipo de pie | Lectura de la Liverpool GX1 | Recomendación 2026 |
+| --- | --- | --- |
+| Pie medio | Probablemente el mejor caso | Empezar por talla habitual y comprobar devolución |
+| Pie algo ancho | Puede funcionar con margen | Revisar ancho real y no comprar sin retorno |
+| Pie extra ancho | Riesgo alto de presión | Mirar Groundies Barefoot+ u otras marcas |
+| Bajo volumen | Buena sujeción posible | Probar con calcetín de invierno real |
+| Empeine alto | Puede sentirse limitado | Preferir cordones ajustables o horma más alta |
 
+Si quieres comparar con más contexto, mira nuestra guía de [Groundies opiniones](/opinion-groundies-mejor-marca-barefoot-amantes/), la revisión de [Groundies Bella](/opinion-groundies-bella-mirada-profundidad/) y los recursos de [marcas por tipo de pie](/las-mejores-marcas-de-zapatos-de-pie-para-su-tipo-de-pie/).
 
-## Como miro el ajuste antes de recomendarlo
+## Suela GX1, agarre y abrigo
 
-Antes de valorar Botas Liverprool GX1 – Una mini revisión, siempre pienso en tres zonas: dedos, empeine y talon. La puntera tiene que dejar que los dedos descansen sin montarse unos encima de otros. El empeine no deberia obligarte a apretar cordones como si estuvieras cerrando una maleta. Y el talon tiene que quedar estable, sin rozar ni salirse a cada paso.
+La GX1 fue la parte diferencial. La reseña externa de Anya describía una suela más resistente que la TrueSense original y una bota que funcionó bien en nieve y hielo ligero, aunque no especialmente cálida. Esa distinción sigue siendo importante: tracción no equivale a abrigo.
 
-Un zapato barefoot no tiene que sentirse suelto. Tiene que sentirse libre, que no es lo mismo. Si el pie baila dentro, vas a compensar con los dedos o con la forma de caminar. Si aprieta, por muy flexible que sea la suela, deja de ser una opcion amable para el pie.
+| Elemento | Qué aportaba | Límite |
+| --- | --- | --- |
+| Suela GX1 | Más dibujo y sensación outdoor | Menos minimalista que suelas más finas |
+| Upper | Estética urbana y versátil | No era bota técnica pesada |
+| Forro | Microfibra, no muy grueso | Necesitaba plantilla/calcetín para frío |
+| Color beige | Más estilizado | Se marcaba con facilidad |
+| Cordones | Ajuste mejor que una Chelsea | No resuelve puntera estrecha |
 
-Mi truco favorito es probarlo al final del dia, cuando el pie esta un poco mas expandido. Si ahi sigue comodo, hay muchas mas probabilidades de que funcione en la vida real.
+Para invierno serio, miraría [botas barefoot cálidas](/botas-barefoot-invierno-nieve/) o [calzado barefoot impermeable](/mejor-calzado-barefoot-impermeable/). Para una bota urbana más actual, empezaría por las botas vigentes de Groundies y alternativas en [botas barefoot de mujer y hombre](/barefoot-minimalist-womens-boots-full-list/).
 
-## Criterios que uso para separar una buena opcion de una regular
+## 5 señales para decidir si te encaja
 
-No todo lo que se vende como barefoot merece el mismo entusiasmo. Yo miro si la suela es plana, si se flexiona sin pelearse contigo, si la puntera respeta la forma del pie y si el material acompana el movimiento. Tambien miro el peso, porque un zapato muy pesado puede sentirse torpe aunque tenga buena forma.
+1. Te gusta la estética tipo bota de trabajo, pero quieres menos tacón.
+2. Tu pie es medio o moderadamente ancho, no extra ancho.
+3. No necesitas una bota térmica de montaña.
+4. Puedes comprar con devolución o probar segunda mano con fotos claras.
+5. Prefieres una suela con más agarre aunque sea menos sensorial.
 
-Despues viene la parte practica: disponibilidad, tallas, cambios, facilidad para limpiar y si el modelo combina con la ropa que ya tienes. Un zapato perfecto sobre el papel sirve de poco si al final se queda en el armario porque no sabes con que ponertelo.
+Esa lista evita el error típico: comprarla como si fuera una bota barefoot universal. La Liverpool GX1 era buena para una intención concreta, no para todos los pies.
 
-Para mi, una buena compra barefoot es la que usas mucho sin pensar demasiado. Si necesitas justificarla cada mañana, probablemente no era tan buena compra.
+## Qué conservo de la reseña original de Isabel
 
-## Para que tipo de pie puede funcionar mejor
+Conservo la observación de que el modelo se sentía más estrecho al sacarlo de la caja y mejor después de caminar. También conservo el aviso de que no era una bota muy cálida y que el color claro exigía protección. Esos detalles son más útiles que repetir que "parece normal".
 
-La anchura es solo una parte de la historia. Dos personas pueden tener la misma talla y necesitar zapatos muy distintos. Hay pies anchos en la zona de los dedos, pies estrechos de talon, pies con mucho volumen, pies planos, empeines altos y dedos especialmente largos.
+La parte de estilo también sigue vigente: Groundies suele hacer barefoot discreto. Si tu barrera con el barefoot es estética, esta reseña explica por qué muchas personas miran Groundies antes que marcas más deportivas. Para zapatillas actuales, la comparativa [Groundies Nova GS1 vs Nova GO1](/groundies-nova-gs1-vs-nova-go1/) ayuda a entender suelas y enfoque.
 
-Si tienes pie ancho, mira la plantilla desde arriba y no te fies solo de la palabra "wide". Si tienes bajo volumen, busca buen ajuste con cordones o velcros. Si tu empeine es alto, evita modelos con lengueta corta o materiales rigidos. Y si estas entre tallas, prioriza que los dedos tengan espacio delante sin que el talon pierda estabilidad.
+## Alternativas actuales a Groundies Liverpool GX1
 
-La mejor senal es simple: puedes mover los dedos, el pie no se desplaza dentro y no tienes que "domar" el zapato durante semanas.
+| Necesidad | Alternativa razonable | Por qué |
+| --- | --- | --- |
+| Bota urbana Groundies | Portland u otras botas actuales Groundies | Fichas vigentes y disponibilidad real |
+| Más abrigo | Botas de invierno barefoot | Mejor para frío prolongado |
+| Más anchura | Be Lenka, Lems o Barefoot+ si disponible | Más margen en antepié |
+| Más vestir | [Zapatos barefoot de vestir](/zapatos-barefoot-de-vestir/) | Menos estética outdoor |
+| Segunda mano Liverpool | Solo con suela y upper claros | El desgaste cambia ajuste y agarre |
 
-## Errores que intentaria evitar
+## Groundies Liverpool GX1 opiniones: canibalización y URL
 
-El primer error es comprar una talla mas grande para ganar anchura. A veces funciona, pero muchas veces solo consigues un zapato largo, inestable y con el punto de flexion donde no toca. El segundo error es quedarse con un modelo que roza desde el primer dia pensando que cedera mucho. Algunos materiales ceden, si, pero no hacen milagros.
+Conservo esta URL porque responde a "Groundies Liverpool GX1 opiniones", no a una guía general de Groundies. La intención es histórica y comparativa: ayudar a quien la busca por nombre, evitar una compra desactualizada y conducir a modelos vigentes.
 
-Tambien evitaria elegir solo por estetica. Lo bonito importa, claro que importa, pero en calzado barefoot la forma manda. Si la puntera es estrecha, si la suela es rigida o si el talon te obliga a caminar raro, no compensa.
+## Preguntas frecuentes
 
-Y el ultimo error: cambiar todo tu armario de golpe. Mejor probar un par, usarlo de verdad y aprender que necesita tu pie antes de comprar tres mas.
+### ¿Groundies Liverpool GX1 sigue a la venta?
+
+No la he visto como modelo principal vigente en el catálogo revisado el 2 de octubre de 2026. Puede aparecer en segunda mano o restos de stock, pero no debe tratarse como disponibilidad estable.
+
+### ¿Era más ancha que la Liverpool original?
+
+No necesariamente. La experiencia original la sintió más estrecha al principio por la suela y construcción, aunque cedió con uso.
+
+### ¿Sirve para pies extraanchos?
+
+No sería mi primera opción. La pondría en anchura media y buscaría alternativas más amplias si tus dedos necesitan mucho abanico.
+
+### ¿Es una bota de nieve?
+
+No. Puede tener agarre decente para ciudad y nieve ligera, pero no es una bota técnica ni especialmente cálida.
+
+### ¿Qué modelo Groundies miraría hoy?
+
+Miraría la colección actual de botas y filtraría por barefoot/anatomic fit, suela, material y devolución en tu región antes de elegir.

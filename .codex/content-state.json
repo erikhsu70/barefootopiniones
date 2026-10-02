@@ -1873,6 +1873,101 @@
         "render": "Chrome CDP local render clean at 390x844 mobile and 1366x900 desktop; no horizontal overflow or broken images",
         "note": "Awaiting commit, push, Cloudflare deployment and live verification."
       }
+    },
+    {
+      "topic": "Drifter Vera opiniones",
+      "title": "Drifter Vera opiniones 2026: bota de montar barefoot a medida",
+      "url": "https://barefootopiniones.com/opinion-botas-montar-vera-cuero-drifter/",
+      "slug": "opinion-botas-montar-vera-cuero-drifter",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-10-02T12:08:50+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "research": "Official sources rechecked on 2026-10-02; firsthand evidence limited to documented imported review.",
+        "build": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "html": "Focused generated HTML and current-sitemap checks passed for H1, canonical, visible Actualizado, dateModified, images, FAQ/schema, TOC and tables.",
+        "render": "Chrome headless CDP review passed at 1366x900 desktop and 390x844 mobile; no horizontal overflow, broken images or console errors.",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Groundies Liverpool GX1 opiniones",
+      "title": "Mi opinión sobre las botas Groundies Liverpool GX1",
+      "url": "https://barefootopiniones.com/opinion-botas-groundies-liverpool-gx1/",
+      "slug": "opinion-botas-groundies-liverpool-gx1",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-10-02T12:08:50+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "research": "Official sources rechecked on 2026-10-02; firsthand evidence limited to documented imported review.",
+        "build": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "html": "Focused generated HTML and current-sitemap checks passed for H1, canonical, visible Actualizado, dateModified, images, FAQ/schema, TOC and tables.",
+        "render": "Chrome headless CDP review passed at 1366x900 desktop and 390x844 mobile; no horizontal overflow, broken images or console errors.",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Vivobarefoot Ababa Kids opiniones",
+      "title": "Vivobarefoot Ababa Kids opiniones 2026: sandalia Soul of Africa",
+      "url": "https://barefootopiniones.com/opinion-sandalias-infantiles-vivobarefoot/",
+      "slug": "opinion-sandalias-infantiles-vivobarefoot",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-10-02T12:08:50+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "research": "Official sources rechecked on 2026-10-02; firsthand evidence limited to documented imported review.",
+        "build": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "html": "Focused generated HTML and current-sitemap checks passed for H1, canonical, visible Actualizado, dateModified, images, FAQ/schema, TOC and tables.",
+        "render": "Chrome headless CDP review passed at 1366x900 desktop and 390x844 mobile; no horizontal overflow, broken images or console errors.",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Unshoes Keota niños opiniones",
+      "title": "Unshoes Keota niños opiniones 2026: sandalias barefoot ajustables",
+      "url": "https://barefootopiniones.com/opinion-sandalias-keota-ninos-unshoes-mejores/",
+      "slug": "opinion-sandalias-keota-ninos-unshoes-mejores",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-10-02T12:08:50+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "research": "Official sources rechecked on 2026-10-02; firsthand evidence limited to documented imported review.",
+        "build": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "html": "Focused generated HTML and current-sitemap checks passed for H1, canonical, visible Actualizado, dateModified, images, FAQ/schema, TOC and tables.",
+        "render": "Chrome headless CDP review passed at 1366x900 desktop and 390x844 mobile; no horizontal overflow, broken images or console errors.",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
+    },
+    {
+      "topic": "Drifter Safita opiniones",
+      "title": "Drifter Safita opiniones 2026: sandalia barefoot de cuero a medida",
+      "url": "https://barefootopiniones.com/opinion-sandalias-safita-cuero-drifter/",
+      "slug": "opinion-sandalias-safita-cuero-drifter",
+      "status": "QA",
+      "type": "update",
+      "lastChecked": "2026-10-02T12:08:50+02:00",
+      "verification": {
+        "status": "QA local passed",
+        "research": "Official sources rechecked on 2026-10-02; firsthand evidence limited to documented imported review.",
+        "build": "npm run build passed from clean isolated clone",
+        "checks": "export:content, featured, affiliates, models, schema, site, urls, titles, originality, seo-campaign and git diff --check passed",
+        "html": "Focused generated HTML and current-sitemap checks passed for H1, canonical, visible Actualizado, dateModified, images, FAQ/schema, TOC and tables.",
+        "render": "Chrome headless CDP review passed at 1366x900 desktop and 390x844 mobile; no horizontal overflow, broken images or console errors.",
+        "deployment": "pending push and Cloudflare Pages deployment",
+        "note": "Substantial 2026 refresh of an existing article; original publication date preserved and sourceModified set to the execution timestamp."
+      }
     }
   ],
   "extraCampaigns": [

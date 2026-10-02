@@ -1551,97 +1551,181 @@
     {
       "url": "https://barefootopiniones.com/opinion-botas-montar-vera-cuero-drifter/",
       "slug": "opinion-botas-montar-vera-cuero-drifter",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Drifter Vera opiniones",
+      "brand": "The Drifter Leather",
+      "model": "Vera",
+      "category": "Botas barefoot de vestir",
+      "availability": "active_made_to_order",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.thedrifterleather.com/product/riding-boots-vera",
+        "https://www.thedrifterleather.com/faq",
+        "https://www.thedrifterleather.com/policies"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/drifter-leather-vera-review/",
+          "editorialWords": 1200
+        },
+        {
+          "url": "https://www.barefootwear.org/drifter-leather/",
+          "editorialWords": 900
+        },
+        {
+          "url": "https://www.reddit.com/r/barefootshoestalk/comments/1svcmxy/the_drifter_leather_sizing/",
+          "editorialWords": 300
+        }
+      ],
+      "researchDate": "2026-10-02",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/drifter-leather-vera-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: Vera sigue como made-to-order; se separa experiencia historica, custom fit, devoluciones y alternativas."
     },
     {
       "url": "https://barefootopiniones.com/opinion-botas-groundies-liverpool-gx1/",
       "slug": "opinion-botas-groundies-liverpool-gx1",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Groundies Liverpool GX1 opiniones",
+      "brand": "Groundies",
+      "model": "Liverpool GX1",
+      "category": "Botas barefoot urbanas",
+      "availability": "historical_or_residual",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://us.groundies.com/collections/boots",
+        "https://groundies.com/en/collections/barefoot-shoes-all-models"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/groundies-liverprool-gx1-boots-a-mini-review/",
+          "editorialWords": 1200
+        },
+        {
+          "url": "https://www.reddit.com/r/barefootshoestalk/comments/ypqzlg/good_barefoot_boots/",
+          "editorialWords": 500
+        },
+        {
+          "url": "https://www.reddit.com/r/barefootshoestalk/comments/1mmuxxz/my_barefoot_shoes/",
+          "editorialWords": 300
+        }
+      ],
+      "researchDate": "2026-10-02",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/groundies-liverprool-gx1-boots-a-mini-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: modelo tratado como historico/residual; se contextualizan botas Groundies actuales y ajuste medio."
     },
     {
       "url": "https://barefootopiniones.com/opinion-sandalias-infantiles-vivobarefoot/",
       "slug": "opinion-sandalias-infantiles-vivobarefoot",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Vivobarefoot Ababa Kids opiniones",
+      "brand": "Vivobarefoot",
+      "model": "Ababa Leather Sandal Kids",
+      "category": "Sandalias barefoot infantiles",
+      "availability": "out_of_stock_or_residual",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.vivobarefoot.com/ca/ababa-leather-sandal-kids",
+        "https://www.vivobarefoot.com/us/blog/ababa",
+        "https://www.vivobarefoot.com/us/blog/the-ababa-sustainable-story"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/vivobarefoot-kids-ababa-sandals-review/",
+          "editorialWords": 1200
+        },
+        {
+          "url": "https://www.reddit.com/r/vivobarefoot/comments/1qx89iw/was_this_ababa_made_only_for_kids/",
+          "editorialWords": 300
+        },
+        {
+          "url": "https://anyasreviews.com/the-best-barefoot-sandals-for-kids/",
+          "editorialWords": 2000
+        }
+      ],
+      "researchDate": "2026-10-02",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/vivobarefoot-kids-ababa-sandals-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: ficha CA out of stock; se preserva valor historico Soul of Africa y ajuste infantil."
     },
     {
       "url": "https://barefootopiniones.com/opinion-sandalias-keota-ninos-unshoes-mejores/",
       "slug": "opinion-sandalias-keota-ninos-unshoes-mejores",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Unshoes Keota niños opiniones",
+      "brand": "Unshoes",
+      "model": "Children's Keota",
+      "category": "Sandalias barefoot infantiles",
+      "availability": "out_of_stock_or_custom",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.unshoesusa.com/products/kids-keota",
+        "https://www.unshoesusa.com/pages/faq",
+        "https://www.unshoesusa.com/pages/childrens-sizing-templates"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/unshoes-childrens-keota-sandals-review/",
+          "editorialWords": 1200
+        },
+        {
+          "url": "https://anyasreviews.com/the-best-barefoot-sandals-for-kids/",
+          "editorialWords": 2000
+        },
+        {
+          "url": "https://unshoes.wordpress.com/2015/10/28/introducing-the-keota-sandal/",
+          "editorialWords": 700
+        }
+      ],
+      "researchDate": "2026-10-02",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/unshoes-childrens-keota-sandals-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: ficha activa pero sold out; se corrige stock, tallas, stack height, agua y ajuste Tri-Glide."
     },
     {
       "url": "https://barefootopiniones.com/opinion-sandalias-safita-cuero-drifter/",
       "slug": "opinion-sandalias-safita-cuero-drifter",
-      "keywordPrimary": "",
-      "brand": "",
-      "model": "",
-      "category": "",
-      "availability": "uncertain",
-      "wordTarget": null,
-      "imageTarget": null,
-      "videoRequired": true,
-      "officialSources": [],
-      "competitors": [],
-      "researchDate": null,
-      "handsOnEvidence": "unknown",
-      "sourceFile": "",
-      "status": "Pending",
-      "notes": ""
+      "keywordPrimary": "Drifter Safita opiniones",
+      "brand": "The Drifter Leather",
+      "model": "Safita",
+      "category": "Sandalias barefoot de cuero",
+      "availability": "uncertain_historical",
+      "wordTarget": 1000,
+      "imageTarget": 1,
+      "videoRequired": false,
+      "officialSources": [
+        "https://www.thedrifterleather.com/products",
+        "https://www.thedrifterleather.com/faq",
+        "https://www.thedrifterleather.com/policies"
+      ],
+      "competitors": [
+        {
+          "url": "https://anyasreviews.com/drifter-leather-safita-sandals-review/",
+          "editorialWords": 1200
+        },
+        {
+          "url": "https://www.barefootwear.org/drifter-leather/",
+          "editorialWords": 900
+        },
+        {
+          "url": "https://www.reddit.com/r/barefootshoestalk/comments/1t55ryl/drifter_leather_review/",
+          "editorialWords": 500
+        }
+      ],
+      "researchDate": "2026-10-02",
+      "handsOnEvidence": "historical_imported_review_plus_external_2026_sources",
+      "sourceFile": "src/imported/posts/drifter-leather-safita-sandals-review.md",
+      "status": "QA",
+      "notes": "Actualizacion 2026: Safita no visible en catalogo principal; se marca disponibilidad incierta y se explican custom fit/devoluciones."
     },
     {
       "url": "https://barefootopiniones.com/opinion-sandalias-shamma-correr/",
