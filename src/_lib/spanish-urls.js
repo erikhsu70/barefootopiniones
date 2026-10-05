@@ -91,6 +91,7 @@ const postSlugOverrides = {
   "groundies-felicia-review-classic-flats-made-with-feet-in-mind": "opinion-groundies-felicia-zapatos-planos",
   "groundies-palermo-review-mens-barefoot-dress-shoe": "opinion-groundies-palermo-zapato-vestir",
   "groundies-performance-review-retro-barefoot-sneakers": "opinion-groundies-performance-zapatillas",
+  "hoss-handmade-oxfords-review": "zapatos-oxford-hechos-mano-hoss",
   "icarus-ascent-review-a-barefoot-shoe-that-transitions-with-you": "opinion-icarus-ascent-zapato-barefoot-adapta",
   "jan-jul-affordable-healthy-kids-shoe-review": "opinion-jan-jul-calzado-infantil-asequible",
   "jenon-leather-review-barefoot-shoes-for-any-foot-type": "opinion-jenon-leather-barefoot-personalizables",
