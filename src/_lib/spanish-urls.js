@@ -127,6 +127,7 @@ const postSlugOverrides = {
   "magical-shoes-ballerina-review": "opinion-bailarinas-barefoot-magical",
   "cinderollies-ballet-flats-review": "opinion-bailarinas-cinderollies",
   "tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe": "opinion-bailarinas-terciopelo-tadeevo-zapato",
+  "tadeevo-minimalist-review": "opinion-zapatos-minimalistas-tadeevo",
   "gea-soles-yrsa-flat-review": "opinion-bailarinas-gea-soles-yrsa",
   "drifter-leather-vera-review": "opinion-botas-montar-vera-cuero-drifter",
   "drifter-leather-custom-review": "como-encargar-zapatos-personalizados-the",
