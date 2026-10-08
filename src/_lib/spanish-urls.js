@@ -56,6 +56,7 @@ const retiredPageDestinations = {
 };
 
 const postSlugOverrides = {
+  "barefoot-resources": "recursos-fundamentales-comprender-movimiento",
   "affordable-barefoot-minimalist-shoes": "lista-completa-barefoot-minimalista-asequible",
   "barefoot-minimalist-shoe-brands-free-shipping": "amazon-finds-barefoot-con-devoluciones",
   "be-lenka-barefoot-review-2022": "opinion-be-lenka-barefoot-modelos-2022",
