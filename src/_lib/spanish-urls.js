@@ -127,6 +127,7 @@ const postSlugOverrides = {
   "tadeevo-velvet-ballet-pump-review-barefoot-dress-shoe": "opinion-bailarinas-terciopelo-tadeevo-zapato",
   "gea-soles-yrsa-flat-review": "opinion-bailarinas-gea-soles-yrsa",
   "drifter-leather-vera-review": "opinion-botas-montar-vera-cuero-drifter",
+  "drifter-leather-custom-review": "como-encargar-zapatos-personalizados-the",
   "groundies-liverprool-gx1-boots-a-mini-review": "opinion-botas-groundies-liverpool-gx1",
   "vivobarefoot-kids-ababa-sandals-review": "opinion-sandalias-infantiles-vivobarefoot",
   "unshoes-childrens-keota-sandals-review": "opinion-sandalias-keota-ninos-unshoes-mejores",
