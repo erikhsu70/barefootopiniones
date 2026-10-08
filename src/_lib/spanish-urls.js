@@ -56,6 +56,7 @@ const retiredPageDestinations = {
 };
 
 const postSlugOverrides = {
+  "affordable-barefoot-minimalist-shoes": "lista-completa-barefoot-minimalista-asequible",
   "barefoot-minimalist-shoe-brands-free-shipping": "amazon-finds-barefoot-con-devoluciones",
   "be-lenka-barefoot-review-2022": "opinion-be-lenka-barefoot-modelos-2022",
   "boat-shoes-but-with-a-wide-toe-box": "zapatos-nauticos-puntera-ancha",

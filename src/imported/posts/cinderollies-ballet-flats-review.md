@@ -95,7 +95,7 @@ Para comparar de forma honesta, pondría Cinderollies junto a la [reseña origin
 
 ## Lecturas relacionadas antes de elegir
 
-Si quieres una bailarina para uso frecuente, empieza por la guía de [bailarinas barefoot y Mary Jane](/barefoot-ballet-flats-women/). Para algo más formal, revisa [zapatos barefoot de vestir para mujer](/barefoot-minimalist-dress-shoes-women/) y [Shapen](/opinion-shapen-mejores-zapatos-vestir-barefoot/). Si el presupuesto manda, compara con [zapatos barefoot asequibles](/affordable-barefoot-minimalist-shoes/). Y si el problema viene de tacones, la guía de [alternativas barefoot a tacones](/alternativas-barefoot-tacones-altos/) da mejor contexto que comprar un par plegable al azar.
+Si quieres una bailarina para uso frecuente, empieza por la guía de [bailarinas barefoot y Mary Jane](/barefoot-ballet-flats-women/). Para algo más formal, revisa [zapatos barefoot de vestir para mujer](/barefoot-minimalist-dress-shoes-women/) y [Shapen](/opinion-shapen-mejores-zapatos-vestir-barefoot/). Si el presupuesto manda, compara con [zapatos barefoot asequibles](/lista-completa-barefoot-minimalista-asequible/). Y si el problema viene de tacones, la guía de [alternativas barefoot a tacones](/alternativas-barefoot-tacones-altos/) da mejor contexto que comprar un par plegable al azar.
 
 Mi regla práctica: si el par va a vivir en un bolso para una boda, Cinderollies puede cumplir. Si va a vivir en tus pies varias horas por semana, buscaría otra cosa.
 
