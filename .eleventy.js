@@ -338,7 +338,9 @@ function cleanImportedHtml(html, removeAmazonLinks = false) {
     "jeuj1CaXcso",
     "FZDakqX3ffg",
     "6L33VA63qY0",
-    "oYFoXrDP8sE"
+    "oYFoXrDP8sE",
+    "nSuqDiW4pYQ",
+    "zkZa45-uW2k"
   ]);
   const protectedHtml = String(html)
     .replace(
