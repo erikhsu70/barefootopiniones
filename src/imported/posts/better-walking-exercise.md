@@ -1,97 +1,197 @@
 ---
 layout: layouts/imported.njk
 templateEngineOverride: md
-title: "Mejora tu forma de caminar con un ejercicio sencillo"
-description: ¿Estás caminando de la manera que es mejor para tu cuerpo? Caminar mejor
-  es la forma más poderosa de maximizar los increíbles beneficios de los zapatos minimalistas.
-  Hoy Petra nos va a mostrar cómo lograr caminar mejor.
+title: Mejora tu forma de caminar con un ejercicio sencillo
+description: Cómo usar una bisagra de cadera para explorar el apoyo, la extensión de cadera y el impulso al caminar sin forzar una técnica artificial.
 date: '2020-12-01T18:25:06'
 permalink: /better-walking-exercise/
 sourceType: Artículo
 contentType: Artículo
 sourceId: 10273
 sourceSlug: better-walking-exercise
-sourceModified: '2023-05-19T21:39:12'
+sourceModified: '2026-10-26T00:00:00'
 image: "/assets/generated/featured/posts/better-walking-exercise.jpg"
-imageAlt: "Imagen destacada de Mejore su caminata con 1 ejercicio simple, 3 formas"
+imageAlt: "Ejercicio de bisagra de cadera para caminar mejor"
 tags:
 - traducido
 language: es
 translatedFrom: en
 ---
-<p>Por Petra Fisher</p>
-<p>¿Estás caminando de la manera que es mejor para tu cuerpo? Caminar mejor es la forma más poderosa de maximizar la <a href="/son-zapatos-barefoot-la-solucion-a-su-dolor-de-pie/">increíbles beneficios de los Zapatos barefoot</a>. </p>
-<p>Aunque los zapatos minimalistas <em>naturalmente</em> Para permitir que nuestros pies se vuelvan más fuertes y saludables, en realidad hay mucho más que podemos hacer para aprovechar al máximo nuestras opciones de calzado barefoot. Porque esta es la cuestión: después de tantos años de usar zapatos normales (y sentarnos mucho en sillas), nuestros cuerpos se han adaptado. Estas adaptaciones de zapatos y sillas tienen un gran impacto en nuestra forma de caminar. Y eso significa que la forma en que caminamos puede causar problemas a nuestros pies y cuerpo a largo plazo. </p>
-<p class="has-text-align-center"><strong>Hoy repasaré los conceptos básicos para caminar mejor.</strong> Compartiré un ejercicio sencillo que puedes utilizar para mejorar tu marcha y la función de tu pie al mismo tiempo.<strong><em> Saldrá con pies más felices, herramientas poderosas para caminar mejor y es posible que descubra que sus tobillos, rodillas y caderas también están más felices. </em></strong></p>
-<div class="wp-block-uagb-table-of-contents uagb-toc__align-left uagb-toc__columns-1 uagb-block-52f1db75" data-offset="30" data-scroll="1" style="">
-<div class="uagb-toc__wrap">
-<div class="uagb-toc__title">
-							Tabla de contenidos						</div>
-<div class="uagb-toc__list-wrap">
-<ol class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-basics">Mejores conceptos básicos para caminar</a><ul class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#walking-can-be-controlled-falling">Caminar se puede controlar Caer</a><li class="uagb-toc__list"><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#walking-can-be-like-paddling">Caminar puede ser como remar</a></li></li></li></ul></li><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#benefits-of-better-walking">Beneficios de caminar mejor</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-begins-with-the-hip-hinge">Caminar mejor comienza con la bisagra de la cadera</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-fix-1-feet-straight">Mejor solución para caminar n.° 1: pies rectos</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-fix-2-engage-your-hamstrings">Mejor solución para caminar n.° 2: involucrar los isquiotibiales</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-fix-3-closed-chain-hip-cars">Mejor solución para caminar n.° 3: automóviles de cadera con cadena cerrada</a><li class="uagb-toc__list"><a class="uagb-toc-link__trigger" href="#better-walking-next-steps">Mejor caminar Próximos pasos</a></li></li></li></li></li></li></ol> </div>
+Caminar parece automático hasta que intentas cambiar algo. En cuanto piensas en el pie, la pelvis y los brazos a la vez, un paseo normal puede sentirse bastante raro.
+
+El ejercicio que mejor resume la idea de este artículo es la **bisagra de cadera**. No pretende enseñarte una forma perfecta de caminar, sino ayudarte a notar cómo se mueve la cadera y cómo participa la pierna que queda atrás.
+
+La versión original de este artículo fue escrita por Petra Fisher. He conservado su propuesta práctica, pero he quitado reglas demasiado absolutas sobre alineación y beneficios que no se pueden atribuir a un solo ejercicio.
+
+## Antes de cambiar tu forma de caminar
+
+La marcha es un patrón complejo y personal. Depende de velocidad, terreno, proporciones corporales, movilidad, fuerza, dolor previo y calzado.
+
+Por eso no intentaría copiar una postura congelada de una foto. Caminar es movimiento, y una posición que parece simétrica durante 1 segundo no explica lo que ocurre durante todo el paso.
+
+Tampoco asumiría que cada pie debe apuntar exactamente hacia delante. Una ligera apertura puede ser normal. Forzar ambos pies a una posición que no toleran puede trasladar tensión hacia rodilla o cadera.
+
+Lo que sí puedo observar es si siempre doy pasos demasiado largos, si apenas dejo que la pierna pase detrás del cuerpo o si avanzo tirando del cuerpo hacia delante sin sentir el apoyo posterior.
+
+Los zapatos también influyen. Un tacón elevado modifica la posición inicial del tobillo, mientras una suela muy rígida limita la flexión del antepié.
+
+Eso no significa que cambiar a barefoot arregle automáticamente la marcha. Un zapato con [puntera anatómica, base plana y suela flexible](/es-exactamente-zapato-barefoot-o-minimalista/) deja más posibilidades de movimiento, pero el cuerpo decide cómo utilizarlas.
+
+## La idea del impulso posterior
+
+Durante la marcha, una pierna recibe el cuerpo y la otra termina el apoyo detrás. El avance no procede de un único músculo ni de un gesto aislado.
+
+Tobillo, rodilla, cadera, pelvis y tronco coordinan fuerzas durante una secuencia muy rápida. Hablar de “empujar el suelo hacia atrás” es una imagen útil, no una descripción completa de toda la biomecánica.
+
+Me gusta porque cambia la atención. En lugar de pensar solo en dónde aterriza el pie delantero, te invita a notar qué ocurre con la pierna que termina el paso.
+
+Si esa pierna nunca llega detrás con comodidad, puede haber muchas razones: pasos rápidos, poca extensión de cadera, rigidez de tobillo, dolor o simplemente un hábito.
+
+La revisión reciente sobre calzado minimalista y carga de rodilla durante la marcha encontró evidencia muy limitada y poco comparable. Es un buen recordatorio de que no deberíamos prometer que una técnica o un zapato previene problemas articulares por sí solo. Puedes consultar el [resumen de la revisión](https://pubmed.ncbi.nlm.nih.gov/42783666/).
+
+## El ejercicio: una bisagra de cadera sencilla
+
+Busca una superficie estable y colócate cerca de una pared o una mesa. La ayuda no es hacer trampa; permite explorar el movimiento sin convertirlo en una prueba de equilibrio.
+
+Separa los pies aproximadamente al ancho de tus caderas. Mantén las rodillas desbloqueadas y reparte el peso entre talón, base del dedo gordo y base del meñique.
+
+Ahora lleva la pelvis hacia atrás como si quisieras cerrar una puerta con los glúteos. El tronco se inclina porque gira sobre las caderas, no porque redondeas la espalda para llegar más abajo.
+
+Detente cuando notes tensión suave detrás de los muslos o cuando pierdas la posición cómoda del tronco. No necesitas tocar el suelo.
+
+Vuelve a subir presionando los pies contra el suelo. Haz entre 5 y 8 repeticiones lentas y deja de hacerlo si aparece dolor, mareo o una sensación de bloqueo.
+
+Este vídeo de Petra Fisher muestra los [fundamentos de la bisagra de cadera](https://www.youtube.com/watch?v=Om0YpCZMT6Y) y los errores más habituales.
+
+<div class="ast-oembed-container editorial-video"><iframe src="https://www.youtube.com/embed/Om0YpCZMT6Y" title="Fundamentos de la bisagra de cadera" loading="lazy" allowfullscreen></iframe></div>
+
+## Qué deberías sentir
+
+La sensación principal suele aparecer en la parte posterior del muslo. Puede haber trabajo en glúteos y pies, pero no buscaría una contracción máxima.
+
+La espalda no tiene que quedar rígida como una tabla. Solo quiero evitar que todo el movimiento salga de doblar la zona lumbar mientras la pelvis apenas se desplaza.
+
+Los pies deberían permanecer apoyados. Si los dedos se agarran al suelo o los talones se levantan, reduce la profundidad y utiliza más apoyo externo.
+
+No persigo simetría perfecta. Me interesa notar si un lado se siente claramente distinto y si esa diferencia cambia al repetir con menos amplitud.
+
+Una sensación de estiramiento moderado no equivale a “alargar” permanentemente un músculo en una sesión. Es información sobre la posición que toleras hoy.
+
+## 3 formas de llevarlo a la marcha
+
+### 1. Antes de salir
+
+Haz 5 repeticiones lentas y después camina 1 minuto sin intentar corregir nada. Observa si notas con más claridad la parte posterior de la pierna.
+
+La comparación es útil porque no te obliga a mantener una consigna durante todo el paseo. Solo crea un antes y un después.
+
+Si no notas diferencia, no significa que el ejercicio haya fallado. Puede que la bisagra no sea la limitación relevante para ti.
+
+### 2. En una pendiente suave
+
+Una subida ligera suele hacer más evidente el trabajo de la pierna que impulsa. Utiliza una pendiente cómoda y pasos cortos.
+
+No te inclines desde la cintura para “hacerlo mejor”. Deja que el cuerpo se adapte a la pendiente y observa el apoyo.
+
+Camina 30 o 60 segundos y vuelve a terreno plano. Si aparecen gemelos muy cargados, reduce la inclinación o el tiempo.
+
+### 3. En tareas cotidianas
+
+Puedes practicar la bisagra al acercarte a un cajón bajo, recoger una bolsa ligera o vaciar el lavavajillas.
+
+La idea no es convertir cada movimiento doméstico en entrenamiento. Es repetir el patrón en situaciones donde realmente necesitas inclinarte.
+
+Usar menos amplitud y más control suele ser más útil que hacer una gran sesión y olvidarte el resto de la semana.
+
+## Errores que hacen el ejercicio menos útil
+
+El primero es bajar demasiado. Cuando el objetivo se convierte en llegar al suelo, es fácil compensar con espalda, rodillas o puntas de los pies.
+
+El segundo es bloquear las rodillas. Una ligera flexión permite que la pelvis se mueva sin convertir el ejercicio en un estiramiento agresivo.
+
+El tercero es levantar los dedos para mantener el peso atrás. Quiero contacto del antepié, no quedarme colgada de los talones.
+
+El cuarto es empujar el pecho hacia arriba y crear tensión en el cuello. Mira al suelo unos pasos delante y deja que la cabeza acompañe al tronco.
+
+El quinto es practicar con dolor. Una bisagra puede ser adecuada para muchas personas, pero no es una prueba diagnóstica ni una solución universal.
+
+## ¿Hay que caminar con los pies rectos?
+
+No usaría “rectos” como una orden. Observaría si cada pie se abre mucho, si ambos hacen lo mismo y si intentar reducir ligeramente esa apertura resulta cómodo.
+
+La posición visible del pie puede estar relacionada con cadera, tibia, tobillo o estructura ósea. Girar solo el pie sin considerar el resto no siempre mejora nada.
+
+Si quieres explorar, hazlo parado primero. Reduce unos grados la apertura y comprueba si rodilla y cadera siguen una trayectoria cómoda al flexionarse.
+
+Después prueba unos pocos pasos. Si necesitas torcer la rodilla hacia dentro o sientes presión nueva, vuelve a tu posición habitual.
+
+Una desviación sin dolor no exige necesariamente corrección. Si hay dolor persistente, tropiezos frecuentes o una diferencia reciente entre lados, buscaría una valoración individual.
+
+## Paso, ritmo y aterrizaje
+
+No intentaría aterrizar voluntariamente con una parte concreta del pie durante una caminata normal. El contacto cambia con velocidad, pendiente y calzado.
+
+Sí evitaría alargar el paso hasta colocar el pie muy lejos delante del cuerpo. Un paso algo más corto puede sentirse más silencioso y controlado.
+
+El sonido es una pista, no una medición clínica. Si cada paso golpea con fuerza, reduce velocidad y longitud antes de intentar cambiar toda la técnica.
+
+Los brazos deberían moverse con naturalidad. No hace falta exagerar el balanceo ni mantenerlos pegados al cuerpo.
+
+Una consigna por paseo es suficiente. Pensar simultáneamente en pies, rodillas, pelvis, costillas y cabeza suele producir una marcha rígida.
+
+## Cómo encaja el calzado barefoot
+
+Una puntera amplia permite que los dedos ocupen su espacio, pero no obliga a que se separen. El cierre debe sujetar el mediopié para que no agarres el zapato con los dedos.
+
+Una base plana evita introducir una cuña bajo el talón. Si vienes de mucho drop, pantorrilla y tobillo pueden necesitar una transición gradual.
+
+Una suela flexible permite doblar el antepié, aunque una suela ultrafina no es imprescindible para practicar esta bisagra.
+
+De hecho, si caminar sobre asfalto te fatiga, una plantilla plana o un modelo con algo más de grosor puede ayudarte a aumentar tiempo sin renunciar a forma y drop.
+
+Los [ejercicios para la transición barefoot](/sencillos-ejercicios-pie-transicion-barefoot/) ofrecen otras formas de trabajar pies y pantorrillas, pero no los añadiría todos la misma semana.
+
+## Una práctica de 10 minutos
+
+Empieza con 1 minuto de caminata normal. No corrijas nada; solo observa ritmo y comodidad.
+
+Haz 6 bisagras lentas con apoyo cercano. Descansa unos segundos y repite otras 6 con menos amplitud.
+
+Camina 3 minutos pensando únicamente en dejar que la pierna termine el paso detrás, sin empujar con fuerza.
+
+Haz 30 segundos en una pendiente suave si la tienes disponible. Vuelve a llano y camina otros 2 minutos sin consignas.
+
+Al terminar, anota una sola cosa: más cómodo, igual o menos cómodo. Esa respuesta es más útil que intentar decidir si tu técnica fue “correcta”.
+
+Repite 2 o 3 días antes de añadir dificultad. La adaptación necesita exposición, no perfección.
+
+## Cuándo parar y pedir ayuda
+
+Para si aparece dolor agudo, inestabilidad, hormigueo o una molestia que aumenta en cada repetición.
+
+Si tienes una lesión reciente, cirugía, pérdida de sensibilidad o una condición que afecta al equilibrio, consulta antes de experimentar sin supervisión.
+
+Un profesional puede observar la marcha completa y relacionarla con tu historia, no solo con la dirección visible del pie.
+
+Los [recursos para entender el movimiento barefoot](/recursos-fundamentales-comprender-movimiento/) explican la diferencia entre una clase general y una consulta individual.
+
+## Mi conclusión
+
+La bisagra de cadera me parece útil porque reduce una idea compleja a una exploración sencilla. Te permite notar el apoyo, la parte posterior de la pierna y el movimiento de la pelvis.
+
+No corrige por sí sola la marcha ni demuestra que tu cuerpo esté funcionando mal. Tampoco tienes que pensar en ella durante cada paso.
+
+La usaría como calentamiento breve, después caminaría con normalidad y observaría si el movimiento se siente más fácil.
+
+Caminar mejor no consiste en parecerse a un modelo perfecto. Consiste en tener suficientes opciones para adaptar el paso al terreno, la velocidad y lo que tu cuerpo necesita hoy.
+
+## Preguntas Frecuentes (FAQs)
+
+<div class="article-faq-accordion">
+  <details><summary>¿Cuántas repeticiones debo hacer?</summary><div><p>Empieza con 5 u 8 repeticiones lentas. La calidad y la comodidad importan más que acumular muchas. Puedes realizar 2 series si la primera se siente bien.</p></div></details>
+  <details><summary>¿Tengo que sentir los isquiotibiales?</summary><div><p>Es habitual notar tensión o trabajo detrás del muslo, pero no es obligatorio. Reduce la amplitud si aparece tirantez intensa, calambre o dolor.</p></div></details>
+  <details><summary>¿Debo caminar con los pies totalmente rectos?</summary><div><p>No como regla universal. La orientación depende de tu estructura y movimiento. Puedes explorar cambios pequeños siempre que rodilla y cadera sigan cómodas.</p></div></details>
+  <details><summary>¿Puedo practicar con zapatillas amortiguadas?</summary><div><p>Sí. El ejercicio no exige una suela ultrafina. Utiliza un calzado estable y cómodo que te permita apoyar bien el pie.</p></div></details>
+  <details><summary>¿Este ejercicio elimina el dolor al caminar?</summary><div><p>No se puede prometer. Puede ayudarte a explorar un patrón, pero el dolor tiene muchas causas. Si persiste o empeora, busca una valoración adecuada.</p></div></details>
+  <details><summary>¿Cuándo notaré cambios?</summary><div><p>No hay un plazo universal. Algunas personas notan una sensación distinta al momento y otras no. Valora comodidad y tolerancia durante varios días, no una única sesión.</p></div></details>
 </div>
-</div>
-
-<h2 class="wp-block-heading">Mejores conceptos básicos para caminar</h2>
-<p>Entonces caminar es bastante complejo. ¡Esa es una de las razones por las que a los bebés les lleva tanto tiempo aprender a hacerlo! Pero cuando resumimos las cosas, hay una cosa realmente fundamental que debes saber al respecto llamada "<strong>empuje posterior</strong>’. </p>
-<p>Cuando caminamos, hay dos formas principales en que podemos mover nuestro cuerpo hacia adelante en el espacio. La mayor parte de la caminata es una combinación de ambos métodos de propulsión.</p>
-<h3 class="wp-block-heading">Caminar se puede controlar Caer</h3>
-<p>Una forma de impulsarnos es inclinándonos hacia adelante, dejando que la gravedad empuje nuestro cuerpo hacia adelante en el espacio y luego atrapándonos con la pierna delantera. Esto es esencialmente caer (porque inclinarse no requiere mucho músculo) y luego atrapar. Si alguna vez buscas en Google “técnica de caminar”, verás que mucha gente considera que caminar es un tipo de caída controlada, y este es el motivo.</p>
-<h3 class="wp-block-heading">Caminar puede ser como remar</h3>
-<p>La otra forma de impulsar nuestros cuerpos hacia adelante se llama "<strong>empuje posterior</strong>'. Es muy parecido a lo que sucede cuando estás remando en una canoa o en una tabla de Stand Up Paddle (SUP): la pierna de apoyo empuja hacia atrás y empuja nuestro cuerpo hacia adelante. </p>
-<p>Es difícil de ver en un humano, pero aquí hay un enlace a un <a href="https://www.youtube.com/watch?v=2FbndQ7CAkw&amp;ab_channel=RedPaddleCo">Vídeo de SUP</a> para que veas de lo que estoy hablando. ¿Ves cómo estos SUPpers empujan sus remos hacia atrás para que el SUP se deslice hacia adelante?</p>
-<p>Esta técnica de impulso posterior utiliza mucho más músculo que la técnica de caída. Nuestros isquiotibiales y glúteos se involucran mucho en nuestra pierna de trabajo. Y debido a que la pierna que trabaja va detrás de nosotros, exige movilidad del tobillo y también extensión de la cadera. </p>
-<h2 class="wp-block-heading">Beneficios de caminar mejor</h2>
-<p>La mayoría de los humanos modernos utilizamos aproximadamente un 90% de caídas y un 10% de impulso posterior al caminar. Esto es lamentable, porque provoca muchos daños a largo plazo en nuestros cuerpos. </p>
-<p>Nuestras rodillas sufren, porque son las que nos atrapan. Y nuestras caderas sufren porque no reciben las cargas que soportan las rodillas. Nuestra columna, cuello y hombros también se sobrecargan porque cada caída provoca una especie de efecto de minilatigazo. Y nos perdemos los beneficios de caminar mejor, como un suelo pélvico súper saludable y músculos fuertes de pies y piernas.</p>
-<p>Para caminar mejor, es útil comprender estos conceptos básicos. Pero lo que realmente necesitamos es mejorar nuestra capacidad física para que podamos caminar mejor.</p>
-<p class="has-text-align-center"><strong>Porque la razón por la que todos estamos cayendo es nuestra<em> las pantorrillas son cortas</em>. y nuestro <em>Los flexores de la cadera, los isquiotibiales y los glúteos están débiles.</em>. y nuestro <em>La movilidad de la cadera y el tobillo es limitada. </em>Todo gracias a los zapatos (especialmente los tacones altos) y a los años de estar sentado en una silla. </strong></p>
-<p>Entonces, echemos un vistazo a un ejercicio poderoso que lo ayudará a emprender el camino hacia un mayor impulso posterior.  </p>
-<h2 class="wp-block-heading">Caminar mejor comienza con la bisagra de la cadera</h2>
-<p>La bisagra de la cadera, también conocida como estiramiento doble de la pantorrilla, es un ejercicio de caminata increíble porque nos ayuda <strong>alargar</strong> y <strong>fortalecer</strong> la parte posterior de nuestras piernas. También nos ayuda a ser más conscientes de nuestros isquiotibiales para que podamos empezar a utilizarlos cuando caminamos. Y nos ayuda a desconectar la cadera de la zona lumbar. ¡Así que es uno de mis ejercicios clave para caminar mejor!</p>
-<p>Aquí tienes un vídeo sobre cómo hacer una bisagra de cadera básica y los errores más comunes que se deben evitar. </p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Om0YpCZMT6Y?feature=oembed&amp;enablejsapi=1" title="Fundamentos de la bisagra de cadera" width="500"></iframe></div>
-</div></figure>
-<p>Esos son los conceptos básicos de la bisagra de cadera. Esperemos que a tus isquiotibiales ya les guste: ¡es un estiramiento fantástico! </p>
-<p>Consejo profesional: intenta usar esta técnica de bisagra cuando te agaches en la vida real para cosas como vaciar el lavavajillas. ¡Será una excelente manera de obtener más longitud y fuerza en los isquiotibiales!</p>
-<p>Ahora agreguemos. </p>
-<h2 class="wp-block-heading">Mejor solución para caminar n.° 1: pies rectos</h2>
-<p>Ahora aquí tienes una capa simple, pero no siempre fácil, que puedes agregar a tu estiramiento de doble pantorrilla Y a tu caminata que ayudará a que tus pies estén más saludables.</p>
-<p>Es esto: necesitas que tus pies apunten hacia adelante en lugar de hacia un lado. Y cuando digo heterosexual, quiero decir muy heterosexual. </p>
-<p>Cuando nuestros pies apuntan hacia afuera, se crea instantáneamente un juanete. Nos hace empujar desde la articulación del dedo gordo del pie en lugar del dedo gordo del pie (creando material de juanete), además impide que el dedo gordo del pie funcione correctamente durante nuestro ciclo de marcha. También significa rotaciones torpes hasta las caderas, lo que no es bueno para los arcos de los pies (ni tampoco para las caderas y el suelo pélvico). </p>
-<p>Esto es lo que buscamos:</p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6B1q2vhU0n0?feature=oembed&amp;enablejsapi=1" title="Mejor solución para caminar n.° 1: pies rectos" width="500"></iframe></div>
-</div></figure>
-<p>Comience practicando con los pies rectos sobre su estera de yoga. Luego agrégalo a tu estiramiento de doble pantorrilla. Luego trabaja en ello en tu vida real, ¡especialmente cuando estás caminando! Pero una advertencia: esto parece un pequeño cambio, pero puede ser mucho para tu cuerpo si no estás acostumbrado. Si siente que le duele, retroceda y trabaje lentamente para enderezar los pies poco a poco.</p>
-<h2 class="wp-block-heading">Mejor solución para caminar n.° 2: involucrar los isquiotibiales</h2>
-<p>Entonces, el estiramiento doble de pantorrilla es un gran estiramiento (y para tu información, en realidad se trata de usar los isquiotibiales en un isométrico excéntrico alargado, que es una de las mejores formas de decirle a tu cuerpo que quieres que se alarguen).</p>
-<p>Pero también podemos usar este movimiento para ayudarnos a aprender cómo se supone que deben SENTIR nuestros isquiotibiales cuando hacemos ese empujón posterior. </p>
-<p>Aprender a involucrar los isquiotibiales de esta manera lo ayudará a conectarse para obtener más cosas buenas cuando camine. Así es como me gusta hacerlo:</p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/OgvgcfGfK_w?feature=oembed&amp;enablejsapi=1" title="Mejor solución para caminar n.° 2: involucrar los isquiotibiales" width="500"></iframe></div>
-</div></figure>
-<p>Conectarse con la línea de la espalda es más fácil como ejercicio que cuando caminamos. Intente hacer algunos de estos levantamientos unilaterales antes de salir a caminar para ayudar a lograrlo. </p>
-<p>Y aquí está tu arma secreta: necesitas encontrar una colina suave por la que caminar. ¡Esto ayudará a aumentar el trabajo que deben hacer los isquiotibiales, lo que hará que sean mucho más fáciles de sentir! Y, por supuesto, necesitarás unos buenos zapatos mínimos para esto, no funcionará con un tacón elevado. </p>
-<h2 class="wp-block-heading">Mejor solución para caminar n.° 3: automóviles de cadera con cadena cerrada</h2>
-<p>La movilidad de la cadera va con unos pies felices como la mantequilla de maní con la mermelada: necesitas ambas cosas para obtener mejores resultados. ¡Y caminar mejor requiere movilidad de la cadera! </p>
-<p>Así que ahora vamos a tomar la bisagra de tu cadera y mejorarla para que puedas trabajar en la movilidad de tu cadera en todas las direcciones. </p>
-<p>Esta próxima versión se llama rotación articular controlada (CAR) de cadera con cadena cerrada y es un ejercicio de movilidad fundamental. Le ayudará a mantener felices los tejidos de su cadera, mejorar la conexión de su cerebro con sus caderas, mantener sus rangos de movimiento y acceder a más elementos de su cadera cuando camina. ¡Ah, y también se siente genial!</p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/YbmWMMfkv6U?feature=oembed&amp;enablejsapi=1" title="Mejor solución para caminar n.° 3: automóviles de cadera con cadena cerrada" width="500"></iframe></div>
-</div></figure>
-<p>Yo usaría este como calentamiento antes de caminar; te ayudará a optimizar el movimiento de tu cadera. ¡Y también es un gran descanso durante una caminata! </p>
-<h2 class="wp-block-heading">Mejor caminar Próximos pasos</h2>
-<p>¡Esta sencilla bisagra de cadera (de 3 formas) es una poderosa herramienta que le ayudará a desarrollar su capacidad para caminar! Pero definitivamente hay mucho más que aprender y explorar: caminar es un patrón de movimiento increíblemente complejo. </p>
-<p>Creo que hay 3 pasos principales para caminar mejor:</p>
-<ul><li>Use zapatos que permitan que sus pies caminen naturalmente; es por eso que estamos aquí en el sitio de Isabel, ¿verdad?</li><li>Aprenda los conceptos básicos de cómo debemos caminar, como el impulso posterior y la alineación del cuerpo, pero trate de no pensar demasiado en las cosas cuando realmente esté caminando.</li><li>Desarrolla tu capacidad corporal para que tengas la capacidad física de caminar con una mejor técnica: ¡eso es lo que hicimos hoy! </li></ul>
-<p>Si crees que esto es útil, también debes trabajar en las otras claves para un impulso posterior: la inclinación pélvica, la extensión de la cadera y la movilidad general de la cadera. Estos son requisitos físicos adicionales que le ayudarán a caminar mejor.</p>
-<ul><li><a href="https://vimeo.com/251331916/4e366a369b">Aprenda a hacer la lista pélvica</a></li><li><a href="https://youtu.be/kbrNtK9gXaQ">Mejora tu extensión de cadera</a></li><li><a href="https://youtu.be/7oi_m0WkImc">Comprender la movilidad de la cadera y caminar</a></li></ul>
-<p>¡Esto debería mantenerte ocupado durante mucho tiempo! ¡Disfruta y feliz caminando con esos adorables zapatos minimalistas!</p>
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:17% auto"><div class="wp-block-media-text__content">
-<p>Acerca de Petra</p>
-<p class="has-normal-font-size">Después de años de problemas corporales inexplicables, Petra descubrió el mundo del movimiento. Dejó su carrera como abogada corporativa para convertirse en coach de movimientos y viajera mundial. El movimiento natural transformó su salud y ahora su objetivo con Petra Fisher Movement es ayudar a otros a construir un futuro en el que puedan hacer lo que aman, para siempre. Puedes comenzar a desarrollar un mejor cuerpo ahora mismo registrándote gratis. <a href="https://petrafishermovement.lpages.co/fix-your-feet-website/">Campamento de entrenamiento por correo electrónico de cinco días Fix Your Feet.</a></p>
-</div></div>
-

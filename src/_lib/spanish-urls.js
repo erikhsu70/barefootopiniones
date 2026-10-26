@@ -56,6 +56,7 @@ const retiredPageDestinations = {
 };
 
 const postSlugOverrides = {
+  "barefoot-insoles-review": "mejores-plantillas-usar-con-barefoot",
   "barefoot-resources": "recursos-fundamentales-comprender-movimiento",
   "affordable-barefoot-minimalist-shoes": "lista-completa-barefoot-minimalista-asequible",
   "barefoot-minimalist-shoe-brands-free-shipping": "amazon-finds-barefoot-con-devoluciones",
@@ -64,6 +65,7 @@ const postSlugOverrides = {
   "cycling-shoes-but-foot-shaped-strong-feet-athletics-review": "opinion-strong-feet-athletics",
   "the-best-wide-toe-box-court-shoes": "mejores-zapatillas-pista-puntera-ancha",
   "the-best-barefoot-sandals-for-kids": "mejores-sandalias-barefoot-ninos",
+  "why-i-dont-worry-about-cushion-in-barefoot-shoes": "no-me-preocupo-amortiguacion-barefoot",
   "spring-2026-favorites-but-make-it-barefoot-shoes": "favoritos-barefoot-primavera-2026",
   "xero-shoes-spring-2026-collection-review": "opinion-xero-primavera-2026",
   "feelgrounds-barefoot-sneakers-review-complete-guide": "feelgrounds-barefoot-opinion-guia-tallas",
